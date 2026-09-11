@@ -32,11 +32,11 @@ async function main() {
   log(`  ${geo.municipis.size} municipis · ${geo.comarques.size} comarques`);
 
   log('· BDNS: òrgans de Catalunya');
-  const organs = await bdns.organsCatalunya();
-  log(`  ${organs.length} òrgans`);
+  const grups = await bdns.organsCatalunya();
+  for (const g of grups) log(`  idAdmon=${g.idAdmon}: ${g.ids.length} òrgans`);
 
   log('· BDNS: llistat');
-  const llista = await bdns.llistaConvocatories(organs, finestra);
+  const llista = await bdns.llistaConvocatories(grups, finestra);
   log(`  ${llista.length} convocatòries`);
 
   log('· BDNS: detall');
@@ -108,6 +108,9 @@ async function main() {
       confianca_alta: n((c) => c.confianca_termini === 'alta'),
       locals,
       locals_amb_comarca: n((c) => c.ambit === 'local' && c.comarca !== null),
+      // Un ente local que no se identifica contra el registro catalán suele significar que
+      // no es catalán: así se detectó que la lista de órganos arrastraba Ibiza y Santander.
+      locals_no_identificats: n((c) => c.ambit === 'local' && c.nivell_local === null),
       amb_import: n((c) => c.import_total !== null),
       amb_seu: n((c) => c.seu_electronica !== null),
       comarques: Object.keys(grup((c) => c.comarca)).filter((k) => k !== '—').length,
