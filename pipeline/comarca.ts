@@ -67,8 +67,12 @@ export function normalitzaNom(raw: string | null | undefined): string {
 }
 
 export type GeoIndex = {
-  municipis: Map<string, { municipi: string; comarca: string }>;
-  comarques: Map<string, string>;
+  // `nom_oficial` es el nombre completo del ente tal como lo publica el registro
+  // ("Ajuntament de la Bisbal d'Empordà"), ya con el artículo y la preposición contraída.
+  // El campo `municipi` viene sin artículo ("Bisbal d'Empordà"), así que reconstruirlo a mano
+  // sería reinventar peor una gramática que el propio registro ya ha resuelto.
+  ens: Map<string, { municipi: string | null; comarca: string; nom_oficial: string; nivell: NivellLocal }>;
+  comarques: Map<string, { comarca: string; nom_oficial: string }>;
 };
 
 export async function carregaGeoIndex(): Promise<GeoIndex> {
@@ -78,7 +82,7 @@ export async function carregaGeoIndex(): Promise<GeoIndex> {
     `&$where=${encodeURIComponent(`nomtipus IN (${tipus})`)}&$limit=5000`;
   const rows = await fetchJson<EnsRow[]>(url);
 
-  const index: GeoIndex = { municipis: new Map(), comarques: new Map() };
+  const index: GeoIndex = { ens: new Map(), comarques: new Map() };
 
   for (const r of rows) {
     // Las 4 provincias comparten nombre normalizado con su capital ("girona" es provincia
@@ -89,27 +93,49 @@ export async function carregaGeoIndex(): Promise<GeoIndex> {
     if (r.nomtipus === 'Comarques') {
       // Las filas de comarca traen el nombre limpio en `comarca`; `nom_complert` es
       // "Consell Comarcal del ...". Indexamos los dos.
-      if (!r.comarca) continue;
+      if (!r.comarca || !r.nom_complert) continue;
+      const valor = { comarca: r.comarca, nom_oficial: r.nom_complert };
       for (const k of [normalitzaNom(r.nom_complert), normalitzaNom(r.comarca)]) {
-        if (k && !index.comarques.has(k)) index.comarques.set(k, r.comarca);
+        if (k && !index.comarques.has(k)) index.comarques.set(k, valor);
       }
       continue;
     }
 
-    if (!r.comarca || !r.municipi) continue;
-    for (const k of [normalitzaNom(r.nom_complert), normalitzaNom(r.municipi)]) {
-      if (k && !index.municipis.has(k)) {
-        index.municipis.set(k, { municipi: r.municipi, comarca: r.comarca });
-      }
+    if (!r.comarca || !r.nom_complert) continue;
+
+    // Una mancomunitat, una EMD o l'Àrea Metropolitana porten al camp `municipi` el municipi
+    // on tenen la seu. Indexar-les per aquest topònim segrestava el creuament de l'ajuntament:
+    // "Ajuntament de Barcelona" resolia a "Àrea Metropolitana de Barcelona" i "Ajuntament de
+    // Calaf" a "Mancomunitat de l'Alta Segarra". Només els municipis s'indexen pel topònim;
+    // la resta, exclusivament pel seu nom complet.
+    const esMunicipi = r.nomtipus === 'Municipis';
+    const valor = {
+      municipi: esMunicipi ? (r.municipi ?? null) : null,
+      comarca: r.comarca,
+      nom_oficial: r.nom_complert,
+      nivell: (esMunicipi ? 'municipi' : 'altre') as NivellLocal,
+    };
+
+    const claus = esMunicipi
+      ? [normalitzaNom(r.nom_complert), normalitzaNom(r.municipi)]
+      : [normalitzaNom(r.nom_complert)];
+
+    for (const k of claus) {
+      if (k && !index.ens.has(k)) index.ens.set(k, valor);
     }
   }
 
   return index;
 }
 
-export type Geo = { nivell_local: NivellLocal | null; comarca: string | null; municipi: string | null };
+export type Geo = {
+  nivell_local: NivellLocal | null;
+  comarca: string | null;
+  municipi: string | null;
+  nom_oficial: string | null;
+};
 
-const BUIT: Geo = { nivell_local: null, comarca: null, municipi: null };
+const BUIT: Geo = { nivell_local: null, comarca: null, municipi: null, nom_oficial: null };
 
 /**
  * Resuelve nivel administrativo y comarca a partir de los nombres del órgano convocante.
@@ -125,14 +151,24 @@ export function resolGeo(index: GeoIndex, ...candidats: (string | null | undefin
     if (!clau) continue;
 
     if (/diputaci|provincial/i.test(candidat)) {
-      return { nivell_local: 'provincia', comarca: null, municipi: null };
+      return { nivell_local: 'provincia', comarca: null, municipi: null, nom_oficial: null };
     }
 
-    const comarca = index.comarques.get(clau);
-    if (comarca) return { nivell_local: 'comarca', comarca, municipi: null };
+    const com = index.comarques.get(clau);
+    if (com) {
+      return {
+        nivell_local: 'comarca', comarca: com.comarca, municipi: null,
+        nom_oficial: com.nom_oficial,
+      };
+    }
 
-    const muni = index.municipis.get(clau);
-    if (muni) return { nivell_local: 'municipi', comarca: muni.comarca, municipi: muni.municipi };
+    const ens = index.ens.get(clau);
+    if (ens) {
+      return {
+        nivell_local: ens.nivell, comarca: ens.comarca, municipi: ens.municipi,
+        nom_oficial: ens.nom_oficial,
+      };
+    }
   }
 
   return BUIT;

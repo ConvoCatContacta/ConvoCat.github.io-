@@ -36,11 +36,34 @@ describe('normalitzaNom', () => {
 });
 
 const index: GeoIndex = {
-  municipis: new Map([
-    ['girona', { municipi: 'Girona', comarca: 'Gironès' }],
-    ['bisbal d emporda', { municipi: "la Bisbal d'Empordà", comarca: 'Baix Empordà' }],
+  ens: new Map([
+    [
+      'girona',
+      { municipi: 'Girona', comarca: 'Gironès', nom_oficial: 'Ajuntament de Girona', nivell: 'municipi' as const },
+    ],
+    [
+      'bisbal d emporda',
+      {
+        municipi: "Bisbal d'Empordà",
+        comarca: 'Baix Empordà',
+        nom_oficial: "Ajuntament de la Bisbal d'Empordà",
+        nivell: 'municipi' as const,
+      },
+    ],
+    [
+      'area metropolitana de barcelona',
+      {
+        municipi: null, comarca: 'Barcelonès',
+        nom_oficial: 'Àrea Metropolitana de Barcelona', nivell: 'altre' as const,
+      },
+    ],
   ]),
-  comarques: new Map([['pla de l estany', "Pla de l'Estany"]]),
+  comarques: new Map([
+    [
+      'pla de l estany',
+      { comarca: "Pla de l'Estany", nom_oficial: "Consell Comarcal del Pla de l'Estany" },
+    ],
+  ]),
 };
 
 describe('resolGeo', () => {
@@ -49,6 +72,7 @@ describe('resolGeo', () => {
       nivell_local: 'municipi',
       comarca: 'Gironès',
       municipi: 'Girona',
+      nom_oficial: 'Ajuntament de Girona',
     });
   });
 
@@ -57,6 +81,7 @@ describe('resolGeo', () => {
       nivell_local: 'comarca',
       comarca: "Pla de l'Estany",
       municipi: null,
+      nom_oficial: "Consell Comarcal del Pla de l'Estany",
     });
   });
 
@@ -65,6 +90,7 @@ describe('resolGeo', () => {
       nivell_local: 'provincia',
       comarca: null,
       municipi: null,
+      nom_oficial: null,
     });
     expect(resolGeo(index, 'SALUT PÚBLICA DE LA DIPUTACIÓ DE GIRONA (DIPSALUT)').nivell_local).toBe(
       'provincia'
@@ -84,11 +110,26 @@ describe('resolGeo', () => {
     );
   });
 
+  it('no deja que una entitat supramunicipal segresti el seu municipi seu', () => {
+    // L'Àrea Metropolitana, les mancomunitats i les EMD porten al camp `municipi` el municipi
+    // on tenen la seu. Si s'indexessin per aquest topònim, "Ajuntament de Barcelona" resoldria
+    // a "Àrea Metropolitana de Barcelona".
+    const g = resolGeo(index, 'AYUNTAMIENTO DE GIRONA');
+    expect(g.nom_oficial).toBe('Ajuntament de Girona');
+    expect(g.nivell_local).toBe('municipi');
+
+    const amb = resolGeo(index, 'AREA METROPOLITANA DE BARCELONA');
+    expect(amb.nom_oficial).toBe('Àrea Metropolitana de Barcelona');
+    expect(amb.nivell_local).toBe('altre');
+    expect(amb.municipi).toBeNull();
+  });
+
   it('devuelve vacío cuando no hay nada que cruzar', () => {
     expect(resolGeo(index, null, undefined, 'ENS DESCONEGUT')).toEqual({
       nivell_local: null,
       comarca: null,
       municipi: null,
+      nom_oficial: null,
     });
   });
 });
