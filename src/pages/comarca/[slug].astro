@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import TargetaConvocatoria from '../../components/TargetaConvocatoria.astro';
+import AltaCorreu from '../../components/AltaCorreu.astro';
+import { comarques, fitxes, meta } from '../../lib/dades.ts';
+import { dataLlarga, ruta } from '../../lib/format.ts';
+import { comarcaAmb, comarcaAmbArticle } from '../../../pipeline/comarques.ts';
+
+export function getStaticPaths() {
+  return comarques().map((comarca) => ({
+    params: { slug: comarca.llesca },
+    props: { comarca },
+  }));
+}
+
+interface Props { comarca: { nom: string; llesca: string; total: number } }
+
+const { comarca } = Astro.props;
+const avui = meta().executat.slice(0, 10);
+const llista = fitxes().filter((f) => f.comarca === comarca.nom);
+const aLaComarca = comarcaAmb('a', comarca.nom);
+---
+
+<Base
+  titol={`Ajuts ${aLaComarca}`}
+  seccio="comarques"
+  descripcio={`Convocatòries d'ajuts i subvencions obertes ${aLaComarca}, actualitzades cada dia.`}
+>
+  <div class="embolcall">
+    <section class="hero">
+      <span class="recompte">{llista.length} convocatòries obertes</span>
+      <h1>Ajuts i subvencions {aLaComarca}</h1>
+      <p class="entrada">
+        Convocatòries d'ens locals {comarcaAmb('de', comarca.nom)} que encara admeten
+        sol·licituds. Les
+        convocatòries de la Generalitat s'apliquen a tot Catalunya i les trobaràs al
+        <a href={ruta('/')}>llistat general</a>.
+      </p>
+    </section>
+
+    <ul class="llista">
+      {llista.map((fitxa) => <TargetaConvocatoria fitxa={fitxa} avui={avui} />)}
+    </ul>
+
+    <AltaCorreu />
+
+    <p class="font-data">Dades actualitzades el {dataLlarga(avui)}.</p>
+  </div>
+</Base>

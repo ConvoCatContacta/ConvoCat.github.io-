@@ -1,0 +1,27 @@
+---
+// La llista de correu és l'actiu del projecte, però el formulari només es publica quan hi ha
+// un compte de Buttondown configurat: un formulari que no envia enlloc és pitjor que cap.
+const usuari = import.meta.env.PUBLIC_BUTTONDOWN_USER;
+---
+
+{
+  usuari && (
+    <section class="alta">
+      <h2>Rep les noves convocatòries per correu</h2>
+      <p>
+        Un correu amb les convocatòries que s'obren a Catalunya, en català i explicades en
+        llenguatge planer. Pots donar-te de baixa quan vulguis.
+      </p>
+      <form
+        class="alta__form"
+        action={`https://buttondown.email/api/emails/embed-subscribe/${usuari}`}
+        method="post"
+        target="_blank"
+      >
+        <label class="visually-hidden" for="correu">Adreça electrònica</label>
+        <input id="correu" type="email" name="email" required placeholder="el.teu@correu.cat" />
+        <button type="submit">Vull les alertes</button>
+      </form>
+    </section>
+  )
+}

@@ -1,6 +1,8 @@
 import type { BdnsDetall } from './sources/bdns.ts';
 import { codiBdns, type RaiscRow } from './sources/raisc.ts';
 import { resolGeo, type GeoIndex } from './comarca.ts';
+import { normalitzaBeneficiaris } from './beneficiaris.ts';
+import { nomOrganCatala } from './noms.ts';
 import type { Convocatoria, Estat } from './types.ts';
 
 export type EstatDerivat = { estat: Estat; confianca_termini: 'alta' | 'baixa' };
@@ -68,12 +70,17 @@ export function desDeBdns(d: BdnsDetall, geo: GeoIndex, avui: string): Convocato
     codi_raisc: null,
     titol,
     objecte: net(d.descripcionBasesReguladoras),
-    organ_convocant: net(d.organo?.nivel3) ?? net(d.organo?.nivel2) ?? 'Desconegut',
+    organ_convocant: nomOrganCatala(
+      net(d.organo?.nivel3) ?? net(d.organo?.nivel2) ?? 'Desconegut',
+      g
+    ),
     ambit,
     nivell_local: g?.nivell_local ?? null,
     comarca: g?.comarca ?? null,
     municipi: g?.municipi ?? null,
-    tipus_beneficiari: (d.tiposBeneficiarios ?? []).map((b) => b.descripcion).filter(Boolean),
+    tipus_beneficiari: normalitzaBeneficiaris(
+      (d.tiposBeneficiarios ?? []).map((b) => b.descripcion).filter(Boolean)
+    ),
     concurrencia: /concurrencia/i.test(d.tipoConvocatoria ?? ''),
     import_total: typeof d.presupuestoTotal === 'number' ? d.presupuestoTotal : null,
     data_inici: iso(d.fechaInicioSolicitud),
@@ -114,12 +121,14 @@ export function desDeRaisc(r: RaiscRow, geo: GeoIndex, avui: string): Convocator
     codi_raisc: r.codi_raisc,
     titol,
     objecte: net(r.objecte_de_la_convocat_ria),
-    organ_convocant: net(r.entitat_oo_aa_o_departament_1) ?? 'Desconegut',
+    organ_convocant: nomOrganCatala(net(r.entitat_oo_aa_o_departament_1) ?? 'Desconegut', g),
     ambit: esLocal ? 'local' : 'autonomic',
     nivell_local: g?.nivell_local ?? null,
     comarca: g?.comarca ?? null,
     municipi: g?.municipi ?? null,
-    tipus_beneficiari: r.tipus_de_beneficiaris ? [r.tipus_de_beneficiaris] : [],
+    tipus_beneficiari: normalitzaBeneficiaris(
+      r.tipus_de_beneficiaris ? [r.tipus_de_beneficiaris] : []
+    ),
     concurrencia: r.tipus_de_convocat_ria_codi === 'O',
     import_total: Number.isFinite(importTotal) && importTotal > 0 ? importTotal : null,
     data_inici: null,

@@ -1,0 +1,39 @@
+---
+import { diesFinsA, importLlegible, llescaId, ruta, terminiLlegible, urgencia } from '../lib/format.ts';
+import type { Fitxa } from '../lib/dades.ts';
+
+interface Props {
+  fitxa: Fitxa;
+  avui: string;
+}
+
+const { fitxa, avui } = Astro.props;
+
+const dies = diesFinsA(fitxa.data_fi, avui);
+const AMBITS: Record<string, string> = {
+  local: 'Local', autonomic: 'Catalunya', estatal: 'Estatal',
+};
+const diners = importLlegible(fitxa.import_total);
+---
+
+<li
+  class="targeta"
+  data-comarca={fitxa.comarca ?? ''}
+  data-ambit={fitxa.ambit}
+  data-beneficiaris={fitxa.beneficiaris.join('|')}
+  data-dies={dies ?? ''}
+  data-cerca={`${fitxa.titol} ${fitxa.organ}`.toLowerCase()}
+>
+  <div class="targeta__dalt">
+    <span class={`etiqueta etiqueta--${urgencia(dies)}`}>{terminiLlegible(dies)}</span>
+    <span class="etiqueta etiqueta--ambit">{AMBITS[fitxa.ambit]}</span>
+    {fitxa.comarca && <span class="etiqueta etiqueta--ambit">{fitxa.comarca}</span>}
+  </div>
+
+  <h3><a href={ruta(`/convocatoria/${llescaId(fitxa.id)}`)}>{fitxa.titol}</a></h3>
+
+  <div class="targeta__meta">
+    <span>{fitxa.organ}</span>
+    {diners && <span>Dotació <strong>{diners}</strong></span>}
+  </div>
+</li>

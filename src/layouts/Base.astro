@@ -1,0 +1,59 @@
+---
+import { ruta } from '../lib/format.ts';
+import '../styles/global.css';
+
+interface Props {
+  titol: string;
+  descripcio: string;
+  seccio?: 'inici' | 'comarques' | 'avis';
+}
+
+const { titol, descripcio, seccio } = Astro.props;
+const complet = titol === 'Convocat' ? 'Convocat' : `${titol} · Convocat`;
+---
+
+<!doctype html>
+<html lang="ca">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{complet}</title>
+    <meta name="description" content={descripcio} />
+    <meta property="og:title" content={complet} />
+    <meta property="og:description" content={descripcio} />
+    <meta property="og:locale" content="ca_ES" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site ?? 'https://example.invalid')} />
+  </head>
+  <body>
+    <header class="capcalera">
+      <div class="embolcall capcalera__cos">
+        <a class="marca" href={ruta('/')}>
+          <span class="marca__punt" aria-hidden="true"></span>
+          Convocat
+        </a>
+        <nav class="nav" aria-label="Principal">
+          <a href={ruta('/')} aria-current={seccio === 'inici' ? 'page' : undefined}>Convocatòries</a>
+          <a href={ruta('/comarques')} aria-current={seccio === 'comarques' ? 'page' : undefined}>Comarques</a>
+          <a href={ruta('/avis-legal')} aria-current={seccio === 'avis' ? 'page' : undefined}>Avís legal</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="peu">
+      <div class="embolcall peu__cos">
+        <p style="margin:0; max-width:34rem;">
+          <strong>Convocat</strong> és un projecte independent. No és un web oficial ni té cap
+          vincle amb cap administració pública. Les dades provenen de fonts obertes i cada fitxa
+          enllaça sempre a la convocatòria oficial.
+        </p>
+        <p style="margin:0;">
+          <a href={ruta('/avis-legal')}>Avís legal i fonts</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

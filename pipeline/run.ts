@@ -29,7 +29,7 @@ async function main() {
 
   log('· índex geogràfic (ens locals)');
   const geo = await carregaGeoIndex();
-  log(`  ${geo.municipis.size} municipis · ${geo.comarques.size} comarques`);
+  log(`  ${geo.ens.size} ens locals · ${geo.comarques.size} comarques`);
 
   log('· BDNS: òrgans de Catalunya');
   const grups = await bdns.organsCatalunya();

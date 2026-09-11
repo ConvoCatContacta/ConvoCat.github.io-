@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+import { comarques, meta } from '../lib/dades.ts';
+import { dataLlarga, ruta } from '../lib/format.ts';
+import { comarcaAmbArticle } from '../../pipeline/comarques.ts';
+
+const llista = comarques();
+const avui = meta().executat.slice(0, 10);
+---
+
+<Base
+  titol="Comarques"
+  seccio="comarques"
+  descripcio="Convocatòries d'ajuts obertes per comarca a Catalunya."
+>
+  <div class="embolcall">
+    <section class="hero">
+      <h1>Per comarca</h1>
+      <p class="entrada">
+        Convocatòries d'ajuntaments, consells comarcals i altres ens locals, agrupades per
+        comarca. Només apareixen les comarques amb alguna convocatòria oberta ara mateix.
+      </p>
+    </section>
+
+    <ul class="graella">
+      {
+        llista.map((c) => (
+          <li>
+            <a href={ruta(`/comarca/${c.llesca}`)}>
+              {comarcaAmbArticle(c.nom)}
+              <span>{c.total}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="font-data">Dades actualitzades el {dataLlarga(avui)}.</p>
+  </div>
+</Base>
