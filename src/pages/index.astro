@@ -1,0 +1,132 @@
+---
+import Base from '../layouts/Base.astro';
+import TargetaConvocatoria from '../components/TargetaConvocatoria.astro';
+import AltaCorreu from '../components/AltaCorreu.astro';
+import { beneficiaris, comarques, fitxes, meta } from '../lib/dades.ts';
+import { dataLlarga, ruta } from '../lib/format.ts';
+
+const llista = fitxes();
+const info = meta();
+const avui = info.executat.slice(0, 10);
+const totesComarques = comarques();
+const totsBeneficiaris = beneficiaris();
+---
+
+<Base
+  titol="Convocat"
+  seccio="inici"
+  descripcio="Radar de convocatòries d'ajuts i subvencions obertes a Catalunya, en català i explicades en llenguatge planer."
+>
+  <div class="embolcall">
+    <section class="hero">
+      <span class="recompte">{llista.length} convocatòries obertes ara mateix</span>
+      <h1>Ajuts i subvencions obertes a Catalunya</h1>
+      <p class="entrada">
+        Convocatòries que encara admeten sol·licituds, de la Generalitat, diputacions, consells
+        comarcals i ajuntaments. En català i sense lletra petita: qui convoca, a qui s'adreça,
+        quants diners i fins quan.
+      </p>
+    </section>
+
+    <form class="filtres" id="filtres" role="search">
+      <div class="filtres__fila">
+        <div class="camp" style="flex: 2 1 18rem;">
+          <label for="f-text">Cerca</label>
+          <input id="f-text" type="search" placeholder="Paraula clau o organisme" autocomplete="off" />
+        </div>
+        <div class="camp">
+          <label for="f-comarca">Comarca</label>
+          <select id="f-comarca">
+            <option value="">Totes</option>
+            {totesComarques.map((c) => <option value={c.nom}>{c.nom} ({c.total})</option>)}
+          </select>
+        </div>
+        <div class="camp">
+          <label for="f-ambit">Àmbit</label>
+          <select id="f-ambit">
+            <option value="">Tots</option>
+            <option value="autonomic">Catalunya</option>
+            <option value="local">Local</option>
+          </select>
+        </div>
+        <div class="camp">
+          <label for="f-termini">Termini</label>
+          <select id="f-termini">
+            <option value="">Qualsevol</option>
+            <option value="7">Menys de 7 dies</option>
+            <option value="30">Menys de 30 dies</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="camp">
+        <label for="f-beneficiari">Tipus de beneficiari</label>
+        <select id="f-beneficiari">
+          <option value="">Tots</option>
+          {totsBeneficiaris.map((b) => <option value={b}>{b}</option>)}
+        </select>
+      </div>
+
+      <div class="filtres__peu">
+        <span id="recompte" aria-live="polite">{llista.length} convocatòries</span>
+        <button type="button" class="boto-net" id="neteja">Neteja els filtres</button>
+      </div>
+    </form>
+
+    <ul class="llista" id="llista">
+      {llista.map((fitxa) => <TargetaConvocatoria fitxa={fitxa} avui={avui} />)}
+    </ul>
+
+    <p class="sense-resultats" id="buit" hidden>
+      Cap convocatòria coincideix amb aquests filtres.
+    </p>
+
+    <AltaCorreu />
+
+    <p class="font-data">
+      Dades actualitzades el {dataLlarga(avui)}. Consulta les
+      <a href={ruta('/avis-legal')}>fonts i l'avís legal</a>.
+    </p>
+  </div>
+</Base>
+
+<script>
+  const form = document.getElementById('filtres') as HTMLFormElement;
+  const llista = document.getElementById('llista') as HTMLElement;
+  const recompte = document.getElementById('recompte') as HTMLElement;
+  const buit = document.getElementById('buit') as HTMLElement;
+  const items = Array.from(llista.children) as HTMLElement[];
+
+  const camp = (id: string) => document.getElementById(id) as HTMLInputElement | HTMLSelectElement;
+
+  function filtra() {
+    const text = camp('f-text').value.trim().toLowerCase();
+    const comarca = camp('f-comarca').value;
+    const ambit = camp('f-ambit').value;
+    const termini = camp('f-termini').value;
+    const beneficiari = camp('f-beneficiari').value;
+
+    let visibles = 0;
+    for (const item of items) {
+      const dies = item.dataset.dies === '' ? null : Number(item.dataset.dies);
+      const passa =
+        (!text || (item.dataset.cerca ?? '').includes(text)) &&
+        (!comarca || item.dataset.comarca === comarca) &&
+        (!ambit || item.dataset.ambit === ambit) &&
+        (!beneficiari || (item.dataset.beneficiaris ?? '').split('|').includes(beneficiari)) &&
+        (!termini || (dies !== null && dies <= Number(termini)));
+
+      item.hidden = !passa;
+      if (passa) visibles++;
+    }
+
+    recompte.textContent = `${visibles} ${visibles === 1 ? 'convocatòria' : 'convocatòries'}`;
+    buit.hidden = visibles > 0;
+  }
+
+  form.addEventListener('input', filtra);
+  document.getElementById('neteja')?.addEventListener('click', () => {
+    form.reset();
+    filtra();
+  });
+</script>

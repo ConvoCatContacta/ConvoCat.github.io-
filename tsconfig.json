@@ -5,10 +5,10 @@
     "moduleResolution": "bundler",
     "target": "ES2023",
     "lib": ["ES2023", "DOM"],
-    "types": ["node"],
+    "types": ["node", "astro/client"],
     "noEmit": true,
     "verbatimModuleSyntax": true
   },
-  "include": ["pipeline/**/*.ts", "src/**/*", "*.mjs", "*.ts"],
+  "include": [".astro/types.d.ts", "pipeline/**/*.ts", "src/**/*", "*.mjs", "*.ts"],
   "exclude": ["node_modules", "dist", ".astro"]
 }

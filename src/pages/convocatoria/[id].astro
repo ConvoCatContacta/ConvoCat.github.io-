@@ -1,0 +1,121 @@
+---
+import Base from '../../layouts/Base.astro';
+import Disclaimer from '../../components/Disclaimer.astro';
+import FontIData from '../../components/FontIData.astro';
+import { meta, totes, type Convocatoria } from '../../lib/dades.ts';
+import {
+  dataLlarga, diesFinsA, importLlegible, llescaComarca, llescaId, ruta, terminiLlegible, urgencia,
+} from '../../lib/format.ts';
+
+export function getStaticPaths() {
+  return totes().map((convocatoria) => ({
+    params: { id: llescaId(convocatoria.id) },
+    props: { convocatoria },
+  }));
+}
+
+interface Props { convocatoria: Convocatoria }
+
+const { convocatoria: c } = Astro.props;
+const avui = meta().executat.slice(0, 10);
+const dies = c.estat === 'oberta' ? diesFinsA(c.data_fi, avui) : null;
+
+const AMBITS: Record<string, string> = {
+  local: 'Local', autonomic: 'Catalunya', estatal: 'Estatal',
+};
+const ESTATS: Record<string, string> = {
+  oberta: 'Oberta', propera: 'Encara no oberta', tancada: 'Tancada',
+  indeterminada: 'Termini sense confirmar',
+};
+
+const diners = importLlegible(c.import_total);
+const inici = dataLlarga(c.data_inici);
+const fi = dataLlarga(c.data_fi);
+---
+
+<Base titol={c.titol} descripcio={`${c.organ_convocant}. ${ESTATS[c.estat]}.`}>
+  <div class="estret">
+    <a class="fitxa__tornar" href={ruta('/')}>&larr; Totes les convocatòries</a>
+
+    <div class="fitxa__dalt">
+      {
+        c.estat === 'oberta'
+          ? <span class={`etiqueta etiqueta--${urgencia(dies)}`}>{terminiLlegible(dies)}</span>
+          : <span class="etiqueta etiqueta--sense">{ESTATS[c.estat]}</span>
+      }
+      <span class="etiqueta etiqueta--ambit">{AMBITS[c.ambit]}</span>
+      {
+        c.comarca && (
+          <a class="etiqueta etiqueta--ambit" href={ruta(`/comarca/${llescaComarca(c.comarca)}`)}>
+            {c.comarca}
+          </a>
+        )
+      }
+    </div>
+
+    <h1>{c.titol}</h1>
+
+    <dl class="dades">
+      <div class="dades__fila">
+        <dt>Qui la convoca</dt>
+        <dd>{c.organ_convocant}</dd>
+      </div>
+      <div class="dades__fila">
+        <dt>A qui s'adreça</dt>
+        <dd>{c.tipus_beneficiari.length ? c.tipus_beneficiari.join(', ') : 'No consta a l\'origen'}</dd>
+      </div>
+      <div class="dades__fila">
+        <dt>Dotació total</dt>
+        <dd>{diners ?? "No consta a l'origen"}</dd>
+      </div>
+      <div class="dades__fila">
+        <dt>Termini</dt>
+        <dd>
+          {fi ? <>{inici ? `Del ${inici} al ${fi}` : `Fins al ${fi}`}</> : null}
+          {!fi && c.termini_text ? <>{c.termini_text}</> : null}
+          {!fi && !c.termini_text ? "No consta a l'origen" : null}
+        </dd>
+      </div>
+      {
+        c.municipi && (
+          <div class="dades__fila">
+            <dt>Municipi</dt>
+            <dd>{c.municipi}</dd>
+          </div>
+        )
+      }
+    </dl>
+
+    {
+      c.objecte && (
+        <div class="resum">
+          <h2>Objecte de la convocatòria</h2>
+          <p>{c.objecte}</p>
+        </div>
+      )
+    }
+
+    <div class="accions">
+      <a class="boto" href={c.url_oficial} rel="noopener nofollow" target="_blank">
+        Veure la convocatòria oficial
+      </a>
+      {
+        c.url_bases && (
+          <a class="boto boto--secundari" href={c.url_bases} rel="noopener nofollow" target="_blank">
+            Bases reguladores
+          </a>
+        )
+      }
+      {
+        c.seu_electronica && (
+          <a class="boto boto--secundari" href={c.seu_electronica} rel="noopener nofollow" target="_blank">
+            Seu electrònica
+          </a>
+        )
+      }
+    </div>
+
+    <Disclaimer />
+    <FontIData convocatoria={c} />
+  </div>
+</Base>

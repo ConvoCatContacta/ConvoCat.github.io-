@@ -1,0 +1,181 @@
+/* Paleta deliberadamente lejos del rojo y amarillo institucionales: el sitio no debe
+   poder confundirse con una web oficial de la Generalitat (restricción del proyecto). */
+:root {
+  --fons: #fbfaf8;
+  --fons-alt: #f2efe9;
+  --superficie: #ffffff;
+  --vora: #e2ddd3;
+  --vora-forta: #cfc8bb;
+  --text: #1c211f;
+  --text-suau: #5c655f;
+  --text-tenue: #868d87;
+  --accent: #0d5c4a;
+  --accent-fons: #e6f0ec;
+  --urgent: #9a4a11;
+  --urgent-fons: #fbeee2;
+  --aviat: #6a5510;
+  --aviat-fons: #f6f0dd;
+  --radi: 10px;
+  --ombra: 0 1px 2px rgb(28 33 31 / 6%), 0 4px 12px rgb(28 33 31 / 4%);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fons: #121614;
+    --fons-alt: #1a201d;
+    --superficie: #1a201d;
+    --vora: #2c3531;
+    --vora-forta: #3d4843;
+    --text: #e9ece9;
+    --text-suau: #a8b2ac;
+    --text-tenue: #7e8983;
+    --accent: #62c3a8;
+    --accent-fons: #17302a;
+    --urgent: #e5a06a;
+    --urgent-fons: #32231a;
+    --aviat: #d4be74;
+    --aviat-fons: #2b2719;
+    --ombra: none;
+    color-scheme: dark;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fons);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 { line-height: 1.25; letter-spacing: -0.015em; margin: 0 0 0.5em; }
+h1 { font-size: clamp(1.75rem, 1.2rem + 2.2vw, 2.6rem); }
+h2 { font-size: clamp(1.25rem, 1.05rem + 0.8vw, 1.6rem); }
+h3 { font-size: 1.05rem; }
+p { margin: 0 0 1em; }
+
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+
+.embolcall { width: min(72rem, 100% - 2.5rem); margin-inline: auto; }
+.estret { width: min(46rem, 100% - 2.5rem); margin-inline: auto; }
+
+/* ---------- capçalera ---------- */
+.capcalera {
+  border-bottom: 1px solid var(--vora);
+  background: var(--superficie);
+  position: sticky; top: 0; z-index: 10;
+}
+.capcalera__cos {
+  display: flex; align-items: center; gap: 1.25rem;
+  justify-content: space-between; padding: 0.85rem 0;
+}
+.marca { display: inline-flex; align-items: baseline; gap: 0.5rem; font-weight: 700; font-size: 1.15rem; color: var(--text); text-decoration: none; letter-spacing: -0.02em; }
+.marca__punt { width: 9px; height: 9px; border-radius: 50%; background: var(--accent); }
+.nav { display: flex; gap: 1.25rem; font-size: 0.92rem; }
+.nav a { color: var(--text-suau); text-decoration: none; }
+.nav a:hover, .nav a[aria-current="page"] { color: var(--accent); }
+
+/* ---------- hero ---------- */
+.hero { padding: 3rem 0 1.5rem; }
+.hero p.entrada { font-size: 1.1rem; color: var(--text-suau); max-width: 38rem; }
+.recompte { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; color: var(--text-suau); background: var(--accent-fons); border-radius: 999px; padding: 0.3rem 0.8rem; margin-bottom: 1rem; }
+
+/* ---------- filtres ---------- */
+.filtres { display: grid; gap: 0.85rem; padding: 1.1rem; background: var(--fons-alt); border: 1px solid var(--vora); border-radius: var(--radi); margin-bottom: 1.75rem; }
+.filtres__fila { display: flex; flex-wrap: wrap; gap: 0.7rem; }
+.camp { display: grid; gap: 0.3rem; flex: 1 1 12rem; }
+.camp label { font-size: 0.78rem; font-weight: 600; color: var(--text-suau); text-transform: uppercase; letter-spacing: 0.04em; }
+.camp input, .camp select {
+  font: inherit; font-size: 0.95rem; padding: 0.5rem 0.6rem;
+  border: 1px solid var(--vora-forta); border-radius: 7px;
+  background: var(--superficie); color: var(--text); width: 100%;
+}
+.filtres__peu { display: flex; align-items: center; justify-content: space-between; gap: 1rem; font-size: 0.9rem; color: var(--text-suau); }
+.boto-net { font: inherit; font-size: 0.88rem; background: none; border: 1px solid var(--vora-forta); border-radius: 7px; padding: 0.35rem 0.75rem; color: var(--text-suau); cursor: pointer; }
+.boto-net:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ---------- llista ---------- */
+.llista { display: grid; gap: 0.9rem; list-style: none; padding: 0; margin: 0 0 3rem; }
+.targeta {
+  background: var(--superficie); border: 1px solid var(--vora);
+  border-radius: var(--radi); padding: 1.1rem 1.2rem; box-shadow: var(--ombra);
+}
+.targeta:hover { border-color: var(--vora-forta); }
+.targeta__dalt { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-bottom: 0.55rem; }
+.targeta h3 { margin: 0 0 0.4rem; font-size: 1.05rem; }
+.targeta h3 a { color: var(--text); text-decoration: none; }
+.targeta h3 a:hover { color: var(--accent); text-decoration: underline; }
+.targeta__meta { display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; font-size: 0.88rem; color: var(--text-suau); }
+.targeta__meta strong { color: var(--text); font-weight: 600; }
+
+.etiqueta { font-size: 0.75rem; font-weight: 600; padding: 0.2rem 0.55rem; border-radius: 999px; border: 1px solid transparent; white-space: nowrap; }
+.etiqueta--tranquil { background: var(--accent-fons); color: var(--accent); }
+.etiqueta--aviat { background: var(--aviat-fons); color: var(--aviat); }
+.etiqueta--urgent { background: var(--urgent-fons); color: var(--urgent); }
+.etiqueta--sense { background: var(--fons-alt); color: var(--text-tenue); }
+.etiqueta--ambit { background: var(--fons-alt); color: var(--text-suau); border-color: var(--vora); font-weight: 500; }
+
+.sense-resultats { padding: 2.5rem 1rem; text-align: center; color: var(--text-suau); border: 1px dashed var(--vora-forta); border-radius: var(--radi); }
+
+/* ---------- fitxa ---------- */
+.fitxa__tornar { display: inline-block; font-size: 0.9rem; margin: 1.5rem 0 0.75rem; }
+.fitxa__dalt { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.75rem; }
+.dades { display: grid; gap: 0; margin: 1.5rem 0; border: 1px solid var(--vora); border-radius: var(--radi); overflow: hidden; }
+.dades__fila { display: grid; grid-template-columns: minmax(9rem, 14rem) 1fr; gap: 1rem; padding: 0.8rem 1.1rem; background: var(--superficie); }
+.dades__fila + .dades__fila { border-top: 1px solid var(--vora); }
+.dades__fila dt { font-size: 0.88rem; font-weight: 600; color: var(--text-suau); margin: 0; }
+.dades__fila dd { margin: 0; }
+@media (max-width: 34rem) { .dades__fila { grid-template-columns: 1fr; gap: 0.15rem; } }
+
+.accions { display: flex; flex-wrap: wrap; gap: 0.7rem; margin: 1.5rem 0; }
+.boto {
+  display: inline-block; font-weight: 600; font-size: 0.95rem;
+  padding: 0.6rem 1.1rem; border-radius: 8px; text-decoration: none;
+  background: var(--accent); color: var(--fons); border: 1px solid var(--accent);
+}
+.boto:hover { filter: brightness(1.08); }
+.boto--secundari { background: transparent; color: var(--accent); }
+
+.resum { background: var(--accent-fons); border-radius: var(--radi); padding: 1.1rem 1.2rem; margin: 1.5rem 0; }
+.resum h2 { font-size: 1rem; margin-bottom: 0.4rem; }
+.resum p:last-child { margin-bottom: 0; }
+
+/* ---------- avisos ---------- */
+.avis {
+  font-size: 0.87rem; line-height: 1.55; color: var(--text-suau);
+  border-left: 3px solid var(--vora-forta); padding: 0.1rem 0 0.1rem 0.9rem; margin: 1.5rem 0;
+}
+.avis strong { color: var(--text); }
+.font-data { font-size: 0.82rem; color: var(--text-tenue); margin: 1rem 0 2rem; }
+
+/* ---------- alta correu ---------- */
+.alta { background: var(--fons-alt); border: 1px solid var(--vora); border-radius: var(--radi); padding: 1.5rem; margin: 2.5rem 0; }
+.alta h2 { margin-bottom: 0.3rem; }
+.alta p { color: var(--text-suau); font-size: 0.95rem; max-width: 34rem; }
+.alta__form { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1rem; }
+.alta__form input { flex: 1 1 16rem; font: inherit; padding: 0.6rem 0.7rem; border: 1px solid var(--vora-forta); border-radius: 8px; background: var(--superficie); color: var(--text); }
+.alta__form button { font: inherit; font-weight: 600; padding: 0.6rem 1.2rem; border-radius: 8px; border: 1px solid var(--accent); background: var(--accent); color: var(--fons); cursor: pointer; }
+
+/* ---------- graella comarques ---------- */
+.graella { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 0.6rem; list-style: none; padding: 0; margin: 0 0 3rem; }
+.graella a { display: flex; justify-content: space-between; gap: 0.75rem; align-items: baseline; padding: 0.7rem 0.9rem; background: var(--superficie); border: 1px solid var(--vora); border-radius: 8px; text-decoration: none; color: var(--text); }
+.graella a:hover { border-color: var(--accent); color: var(--accent); }
+.graella span { color: var(--text-tenue); font-size: 0.85rem; font-variant-numeric: tabular-nums; }
+
+/* ---------- peu ---------- */
+.peu { border-top: 1px solid var(--vora); background: var(--fons-alt); padding: 2rem 0; margin-top: 3rem; font-size: 0.87rem; color: var(--text-suau); }
+.peu__cos { display: flex; flex-wrap: wrap; gap: 1rem 2rem; justify-content: space-between; }
+.peu a { color: var(--text-suau); }
+
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}

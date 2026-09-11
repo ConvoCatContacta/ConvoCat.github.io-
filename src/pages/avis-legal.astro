@@ -1,0 +1,76 @@
+---
+import Base from '../layouts/Base.astro';
+import { meta } from '../lib/dades.ts';
+import { dataLlarga } from '../lib/format.ts';
+
+const info = meta();
+const avui = info.executat.slice(0, 10);
+---
+
+<Base
+  titol="Avís legal i fonts"
+  seccio="avis"
+  descripcio="Qui hi ha darrere de Convocat, d'on surten les dades i quines limitacions tenen."
+>
+  <div class="estret" style="padding-block: 2rem 1rem;">
+    <h1>Avís legal i fonts</h1>
+
+    <h2>Què és això</h2>
+    <p>
+      Convocat és un projecte independent que recull convocatòries d'ajuts i subvencions obertes
+      a Catalunya i les resumeix en català. <strong>No és un web oficial</strong>, no depèn de cap
+      administració pública i no hi té cap vincle.
+    </p>
+
+    <h2>D'on surten les dades</h2>
+    <p>
+      De dues fonts públiques i obertes, que es consulten cada dia:
+    </p>
+    <ul>
+      <li>
+        La <strong>Base de Dades Nacional de Subvencions (BDNS)</strong>, el sistema estatal de
+        publicitat de subvencions.
+      </li>
+      <li>
+        El <strong>Registre d'ajuts i subvencions de Catalunya (RAISC)</strong>, publicat com a
+        dades obertes pel portal de transparència de la Generalitat.
+      </li>
+    </ul>
+    <p>
+      La reutilització de les dades de la BDNS està subjecta a les condicions del seu avís legal.
+      La informació és de naturalesa dinàmica: pot ser corregida, modificada o eliminada a
+      l'origen després que nosaltres l'haguem recollit.
+    </p>
+
+    <h2>Limitacions que has de conèixer</h2>
+    <ul>
+      <li>
+        <strong>Els resums són orientatius.</strong> Descriuen el que diuen les dades publicades;
+        no determinen si compleixes els requisits ni substitueixen les bases reguladores.
+      </li>
+      <li>
+        <strong>No hi són totes.</strong> Recollim el que les administracions publiquen a les
+        fonts esmentades. Una convocatòria mal registrada a l'origen no apareixerà aquí.
+      </li>
+      <li>
+        <strong>Alguns terminis no es poden verificar.</strong> Quan l'origen no publica una data
+        estructurada sinó un text lliure, ho indiquem a la fitxa i no el convertim en data.
+      </li>
+      <li>
+        <strong>Les dades poden anar endarrerides.</strong> L'última actualització va ser el
+        {' '}{dataLlarga(avui)}.
+      </li>
+    </ul>
+    <p>
+      Abans de presentar cap sol·licitud, consulta sempre la convocatòria oficial enllaçada a
+      cada fitxa. Si detectes un error, escriu-nos i el corregim.
+    </p>
+
+    <h2>Privadesa</h2>
+    <p>
+      Aquest lloc no fa servir galetes de seguiment ni perfila els visitants. Si et subscrius a
+      les alertes, el teu correu s'utilitza només per enviar-te-les i pots donar-te de baixa des
+      de qualsevol missatge.
+    </p>
+  </div>
+</Base>

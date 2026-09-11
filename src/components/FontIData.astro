@@ -1,0 +1,30 @@
+---
+import { dataLlarga } from '../lib/format.ts';
+import type { Convocatoria } from '../lib/dades.ts';
+
+interface Props {
+  convocatoria: Convocatoria;
+}
+
+const { convocatoria } = Astro.props;
+
+const NOMS: Record<string, string> = {
+  bdns: 'Base de Dades Nacional de Subvencions (BDNS)',
+  raisc: "Registre d'ajuts i subvencions de Catalunya (RAISC)",
+};
+
+const fonts = convocatoria.fonts.map((f) => NOMS[f] ?? f).join(' i ');
+const actualitzat = dataLlarga(convocatoria.actualitzat.slice(0, 10));
+---
+
+<p class="font-data">
+  Font: {fonts}. Dades recollides el {actualitzat}.
+  {
+    convocatoria.confianca_termini === 'baixa' && (
+      <>
+        {' '}El termini d'aquesta convocatòria no consta com a data estructurada a l'origen, només
+        com a text, i per tant no l'hem pogut verificar.
+      </>
+    )
+  }
+</p>
