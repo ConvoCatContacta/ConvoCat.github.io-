@@ -1,0 +1,58 @@
+name: Desplega a GitHub Pages
+
+# El lloc es construeix amb Astro, no amb Jekyll. Perquè això funcioni, a
+# Settings > Pages l'origen ha de ser "GitHub Actions" i no "Deploy from a branch":
+# amb l'origen per branca, Pages executa el Jekyll per defecte sobre l'arrel del repo i falla.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Una publicació a la vegada, i deixem acabar la que ja estigui en curs.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  construeix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Comprova que hi ha dades
+        run: |
+          if [ ! -s data/convocatories.json ]; then
+            echo "::error::data/convocatories.json no existeix o és buit. Executa el flux d'ingesta abans de publicar."
+            exit 1
+          fi
+
+      - run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  publica:
+    needs: construeix
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.desplegament.outputs.page_url }}
+    steps:
+      - id: desplegament
+        uses: actions/deploy-pages@v4
