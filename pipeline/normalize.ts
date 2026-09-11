@@ -92,7 +92,6 @@ export function desDeBdns(d: BdnsDetall, geo: GeoIndex, avui: string): Convocato
     url_bases: net(d.urlBasesReguladoras),
     seu_electronica: net(d.sedeElectronica),
     resum: null,
-    actualitzat: new Date().toISOString(),
   };
 }
 
@@ -143,6 +142,5 @@ export function desDeRaisc(r: RaiscRow, geo: GeoIndex, avui: string): Convocator
     url_bases: net(r.url_catala_bases_reg),
     seu_electronica: net(r.seu_electr_nica),
     resum: null,
-    actualitzat: new Date().toISOString(),
   };
 }

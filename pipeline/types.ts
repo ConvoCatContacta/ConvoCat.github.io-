@@ -44,7 +44,10 @@ export const ConvocatoriaSchema = z.object({
   seu_electronica: z.string().nullable(),
 
   resum: ResumSchema.nullable(),
-  actualitzat: z.string(),
+  // No hi ha cap marca de temps per registre a propòsit. Si cada fila portés la data de
+  // l'última execució, les 3.302 canviarien cada dia i el commit diari seria soroll pur:
+  // el diff contra el commit anterior és justament el que detecta les novetats per al butlletí.
+  // Quan es van recollir les dades ho diu `meta.json`, que és una sola línia.
 });
 
 export type Convocatoria = z.infer<typeof ConvocatoriaSchema>;

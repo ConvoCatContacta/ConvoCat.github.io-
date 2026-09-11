@@ -67,9 +67,15 @@ async function main() {
   const deBdns = norm(detalls.filter((d) => d !== null), (d) => desDeBdns(d!, geo, avui));
   const deRaisc = norm(files, (r) => desDeRaisc(r, geo, avui));
 
+  // Orden totalmente determinista: el `id` desempata. Sin él, el orden de llegada de las
+  // respuestas de la API decidiría el del fichero y el commit diario saldría lleno de
+  // movimientos falsos, que es justo lo que impediría leer el diff.
   const totes = dedupe(deBdns, deRaisc)
     .filter((c) => c.concurrencia)
-    .sort((a, b) => (a.data_fi ?? '9999').localeCompare(b.data_fi ?? '9999'));
+    .sort(
+      (a, b) =>
+        (a.data_fi ?? '9999').localeCompare(b.data_fi ?? '9999') || a.id.localeCompare(b.id)
+    );
 
   const obertes = totes.filter((c) => c.estat === 'oberta');
 
