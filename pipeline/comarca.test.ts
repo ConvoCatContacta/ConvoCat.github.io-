@@ -7,6 +7,15 @@ describe('normalitzaNom', () => {
     expect(normalitzaNom("la Bisbal d'Empordà")).toBe('bisbal d emporda');
   });
 
+  it('resuelve el artículo apostrofado invertido detrás del tipo de ente', () => {
+    // "AYUNTAMIENTO DE ESPLUGA DE FRANCOLÍ, L'" fallaba por dos motivos a la vez: el artículo
+    // invertido se anteponía a todo ("l'ayuntamiento de...") y quitaba el prefijo de vista, y
+    // al pegarlo con espacio ("l' espluga") la limpieza final dejaba una "l" suelta.
+    expect(normalitzaNom("AYUNTAMIENTO DE ESPLUGA DE FRANCOLÍ, L'")).toBe('espluga de francoli');
+    expect(normalitzaNom("ESPLUGA DE FRANCOLÍ, L'")).toBe('espluga de francoli');
+    expect(normalitzaNom("Ajuntament de l'Espluga de Francolí")).toBe('espluga de francoli');
+  });
+
   it('cruza el mismo ente escrito "de" o "del"', () => {
     // BDNS escribe "DE PLA", el registro oficial "del Pla". Si la alternación del regex
     // probara "de" antes que "del" quedaría una "l" suelta y el cruce fallaría.

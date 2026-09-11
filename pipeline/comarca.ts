@@ -50,16 +50,26 @@ export function normalitzaNom(raw: string | null | undefined): string {
     .toLowerCase()
     .trim();
 
-  const invertit = t.match(/^(.*),\s*(els|les|el|la|sa|es|l'|s')$/);
-  if (invertit) t = `${invertit[2]} ${invertit[1]}`;
-
-  // Alternaciones ordenadas de más larga a más corta: en JS gana la primera que encaja,
-  // así que poner "de" antes que "del" dejaría una "l" suelta y rompería el cruce.
+  // Primer el tipus d'ens, i només després l'article: si es fa a l'inrevés, l'article invertit
+  // de "AYUNTAMIENTO DE ESPLUGA DE FRANCOLÍ, L'" queda davant de tot ("l'ayuntamiento de...")
+  // i ja no es reconeix el prefix.
+  //
+  // Alternacions ordenades de més llarga a més curta: en JS guanya la primera que encaixa,
+  // així que posar "de" abans que "del" deixaria una "l" solta i trencaria el creuament.
   t = t.replace(
     /^(ajuntament|ayuntamiento|consell comarcal|consejo comarcal|diputacion provincial|diputacio provincial|diputacion|diputacio|mancomunitat|mancomunidad|consorci|consorcio|entitat municipal descentralitzada|conselh generau)\b/,
     ''
   );
-  t = t.replace(/^\s*(de las|de los|de la|dels|des|del|de|d'|d)\b/, '');
+  t = t.replace(/^\s*(de las|de los|de la|dels|des|del|de|d'|d)\b/, '').trim();
+
+  const invertit = t.match(/^(.*),\s*(els|les|el|la|sa|es|l'|s')$/);
+  // L'article apostrofat s'enganxa al topònim: "l'espluga", no "l' espluga", o la neteja
+  // final el deixaria com una "l" solta.
+  if (invertit) {
+    const article = invertit[2]!;
+    t = article.endsWith("'") ? `${article}${invertit[1]}` : `${article} ${invertit[1]}`;
+  }
+
   t = t.replace(/^\s*(els|les|el|la|l'|sa|es)\b/, '');
 
   t = t.replace(/[^a-z0-9]+/g, ' ').trim();
