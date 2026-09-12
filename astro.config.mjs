@@ -2,12 +2,12 @@ import { defineConfig } from 'astro/config';
 
 import sitemap from '@astrojs/sitemap';
 
-// El repositorio se llama "ConvoCat.github.io-" (con guion final), así que GitHub Pages
-// lo publica como project page bajo esa subruta y no en la raíz del dominio.
-// Cuando haya dominio propio basta con exportar SITE y BASE_PATH="/": por eso ninguna
-// plantilla debe escribir rutas internas a mano, todas pasan por import.meta.env.BASE_URL.
+// El repositori es diu "convocatcontacta.github.io", que és el nom que GitHub tracta com a
+// user page: el lloc es publica a l'arrel del domini i no sota cap subruta.
+// Si algun dia hi ha domini propi, només cal exportar SITE i afegir el CNAME; per això cap
+// plantilla escriu rutes internes a mà, totes passen per import.meta.env.BASE_URL.
 const site = process.env.SITE ?? 'https://convocatcontacta.github.io';
-const base = process.env.BASE_PATH ?? '/ConvoCat.github.io-';
+const base = process.env.BASE_PATH ?? '/';
 
 export default defineConfig({
   site,

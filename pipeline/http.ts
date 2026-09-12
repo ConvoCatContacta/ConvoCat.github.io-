@@ -1,4 +1,4 @@
-const UA = 'convocat-bot/0.1 (+https://github.com/ConvoCatContacta/ConvoCat.github.io-)';
+const UA = 'convocat-bot/0.1 (+https://github.com/ConvoCatContacta/convocatcontacta.github.io)';
 
 export const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
