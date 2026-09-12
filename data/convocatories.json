@@ -751,7 +751,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/919369",
-    "url_bases": "http://sjdespi.net/wca/sites/default/files/annex_num_5_2020_medi ambient.pdf",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -3631,7 +3631,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870375",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1012333",
-    "seu_electronica": "info@fundaciorieragubau.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -3718,7 +3718,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882729",
-    "url_bases": "/aprovacio-de-la-modificacio-de-les-bases-del-programa-de-subvencions-per-a-l-enfortiment-de-l-economia-social-i-solidaria-i-per-a-la-intercooperacio-en-l-estrategia",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -3835,7 +3835,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870377",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1012333",
-    "seu_electronica": "info@fundaciorieragubau.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -3893,7 +3893,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870376",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1012347",
-    "seu_electronica": "info@fundaciorieragubau.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -4794,7 +4794,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862423",
-    "url_bases": "www.sitges.cat",
+    "url_bases": "https://www.sitges.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -5143,7 +5143,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862457",
-    "url_bases": "www.sitges.cat",
+    "url_bases": "https://www.sitges.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -5609,7 +5609,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-20985",
     "url_bases": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-20985",
-    "seu_electronica": "Seu electrònica Ministeri",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -6614,7 +6614,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/857355",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.vilassardedalt.cat/media/repository//noticies/2025/BASES_SiC_25-26_castellano.pdf",
+    "url_bases": "https://www.vilassardedalt.cat/media/repository//noticies/2025/BASES_SiC_25-26_castellano.pdf",
     "seu_electronica": null,
     "resum": null
   },
@@ -6643,7 +6643,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/857422",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.vilassardedalt.cat/media/repository//noticies/2025/Bases_extraescolares_castellano.pdf",
+    "url_bases": "https://www.vilassardedalt.cat/media/repository//noticies/2025/Bases_extraescolares_castellano.pdf",
     "seu_electronica": null,
     "resum": null
   },
@@ -7646,8 +7646,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862283",
-    "url_bases": "www.diputaciodetarragona.cat/ebop/index.php?op=dwn&tipus=i&data=20241227&anyp=2024&num=11802&v=i",
-    "seu_electronica": "www.elvendrell.net",
+    "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=dwn&tipus=i&data=20241227&anyp=2024&num=11802&v=i",
+    "seu_electronica": "https://www.elvendrell.net",
     "resum": null
   },
   {
@@ -9061,7 +9061,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/859788",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -9448,7 +9448,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/860401",
-    "url_bases": "• https://seu.girona.cat/portal/dades/transparencia/subvencions/2025-bases-gentgran-esp.pdf",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -9599,7 +9599,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/861244",
-    "url_bases": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -9749,7 +9749,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/858936",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2025/148/202514807051.pdf",
-    "seu_electronica": "www.santapau.cat",
+    "seu_electronica": "https://www.santapau.cat",
     "resum": null
   },
   {
@@ -9777,7 +9777,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/860137",
-    "url_bases": "https://bop.diba.cat/anunci/3100722/aprovacio-definitiva-de-les-bases-per-a-sol-licitar-i-atorgarsubvencions- destinades-a-les-ampa-afa-per-al-suport-de-vetlladors-es-en-el-servei-de-menjadorescolar- de-les-escoles-publiques-per-a-alumnes-amb-necessitats-",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -10254,7 +10254,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/859973",
     "url_bases": "https://mieres.cat/lajuntament/pressupostos-i-subvencions/",
-    "seu_electronica": "www.mieres.cat",
+    "seu_electronica": "https://www.mieres.cat",
     "resum": null
   },
   {
@@ -10521,7 +10521,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/856366",
     "url_bases": "https://www.seu-e.cat/ca/web/llanca/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts",
-    "seu_electronica": "www.llanca.cat",
+    "seu_electronica": "https://www.llanca.cat",
     "resum": null
   },
   {
@@ -10608,7 +10608,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/857117",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/160/202416007300.pdf",
-    "seu_electronica": "www.cassa.cat",
+    "seu_electronica": "https://www.cassa.cat",
     "resum": null
   },
   {
@@ -11103,7 +11103,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/861416",
-    "url_bases": "www.arenysdemar.cat",
+    "url_bases": "https://www.arenysdemar.cat",
     "seu_electronica": "https://arenysdemar.eadministracio.cat/",
     "resum": null
   },
@@ -11162,7 +11162,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/861746",
     "url_bases": "https://www.boe.es/eli/es/l/2003/11/17/38/con",
-    "seu_electronica": "www.savall.cat",
+    "seu_electronica": "https://www.savall.cat",
     "resum": null
   },
   {
@@ -11369,7 +11369,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/857278",
-    "url_bases": "http://bop.diba.cat/anunci/3253426/aprovacio-inicial-de-les-bases-reguladores-per-a-latorgament- de-beques-amb-l-objecte-de-fomentar-els-projectes-d-investigacio-inedits-sobrela- vila-i-terme-municipal-ajuntament-de-castellbisbal",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -11928,7 +11928,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/863126",
-    "url_bases": "www.cunit.cat",
+    "url_bases": "https://www.cunit.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -12341,7 +12341,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/863512",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2019/20/2019200447.pdf",
-    "seu_electronica": "www.cassa.cat",
+    "seu_electronica": "https://www.cassa.cat",
     "resum": null
   },
   {
@@ -12399,7 +12399,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/865622",
     "url_bases": "https://cido.diba.cat/subvencions/18809378/ajuts-socials-eurodelta-2025-ajuntament-de-deltebre",
-    "seu_electronica": "AYUNTAMIENTO DE DELTEBRE",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -12486,8 +12486,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862658",
-    "url_bases": "www.fogarsdemontclus.cat",
-    "seu_electronica": "www.fogarsdemontclus.cat",
+    "url_bases": "https://www.fogarsdemontclus.cat",
+    "seu_electronica": "https://www.fogarsdemontclus.cat",
     "resum": null
   },
   {
@@ -12925,7 +12925,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862994",
     "url_bases": "https://mieres.cat/lajuntament/pressupostos-i-subvencions/",
-    "seu_electronica": "www.mieres.cat",
+    "seu_electronica": "https://www.mieres.cat",
     "resum": null
   },
   {
@@ -12954,7 +12954,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/863000",
     "url_bases": "https://mieres.cat/lajuntament/pressupostos-i-subvencions/",
-    "seu_electronica": "www.mieres.cat",
+    "seu_electronica": "https://www.mieres.cat",
     "resum": null
   },
   {
@@ -13040,7 +13040,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/863718",
-    "url_bases": "www.camos.cat",
+    "url_bases": "https://www.camos.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -13540,7 +13540,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1007288",
     "url_bases": "https://dogc.gencat.cat/ca/document-del-dogc/index.html?documentId=919646",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -13570,7 +13570,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/864611",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/?documentId=1027331",
-    "seu_electronica": "Portal tràmits",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -13658,7 +13658,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/867367",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1028597",
-    "seu_electronica": "www.consorcihabitatgebcn.cat i www.habitatge.barcelona.",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -13744,8 +13744,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/858626",
-    "url_bases": "www.alcoletge.cat",
-    "seu_electronica": "www.alcoletge.cat",
+    "url_bases": "https://www.alcoletge.cat",
+    "seu_electronica": "https://www.alcoletge.cat",
     "resum": null
   },
   {
@@ -13919,7 +13919,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/863790",
-    "url_bases": "www.cunit.cat",
+    "url_bases": "https://www.cunit.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -14123,8 +14123,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/888116",
-    "url_bases": "Bases reguladoras específicas de convocatoria de subvenciones a las personas desempleadas que se establezcan como autónomas, para la puesta en marcha de una actividad económica y a las empresas que creen empleo.",
-    "seu_electronica": "www.rodadeter.cat",
+    "url_bases": null,
+    "seu_electronica": "https://www.rodadeter.cat",
     "resum": null
   },
   {
@@ -14540,7 +14540,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870580",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/276059/bases-reguladores-del-premi-de-contes-domingo-riba-i-del-premi-de-poesia-lluis-de-montsia-text-integre-aprovacio-definitiva-ajuntament-rapita-la",
-    "seu_electronica": "larapita.cat",
+    "seu_electronica": "https://larapita.cat",
     "resum": null
   },
   {
@@ -14808,7 +14808,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870586",
     "url_bases": "https://bop.diba.cat/anunci/3270073/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-de-l-ambit-de-desenvolupament-economic-ajuntament-de-ripollet",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -14926,7 +14926,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/867514",
-    "url_bases": "https://www.seu-e.cat/documents/2759917/15570599/20230614+ BASES+PARTICULARS+PROMOCIO+ACTIVITATS+ENTITATS+VE%C3%8FNALS+I+ PARTICIPACIO+CIUTADANA.pdf/4fd9f10a-24ad-4c7e-8f65-a487a851b699",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -14984,8 +14984,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/872160",
-    "url_bases": "www.campllong.cat",
-    "seu_electronica": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
+    "seu_electronica": "https://www.campllong.cat",
     "resum": null
   },
   {
@@ -15072,7 +15072,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/874397",
     "url_bases": "https://eacat.aoc.cat/etauler/detall/592149",
-    "seu_electronica": "www.santquirzevalles.cat",
+    "seu_electronica": "https://www.santquirzevalles.cat",
     "resum": null
   },
   {
@@ -15334,8 +15334,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/868637",
-    "url_bases": "www.campllong.cat",
-    "seu_electronica": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
+    "seu_electronica": "https://www.campllong.cat",
     "resum": null
   },
   {
@@ -15691,7 +15691,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/918282",
-    "url_bases": "Bases específiques i convocatòria per al atorgament de subvencions en l’àmbit Àrea de Serveis a les Persones i Medi Ambient, ANNEX Núm.: 2.3 PROGRAMA DE SUPORT A LES ACTIVITATS PUNTUALS ANY: 2026",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -15953,7 +15953,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/874153",
     "url_bases": "http://bop.diba.cat/anuncio/3597445/aprovacio-inicial-de-les-bases-reguladores-dels-premis-concursos-i-o-sortejos-promoguts-per-l-ajuntament-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www.sabarca.cat",
+    "seu_electronica": "https://www.sabarca.cat",
     "resum": null
   },
   {
@@ -17240,7 +17240,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1006372",
     "url_bases": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-16233",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -17300,7 +17300,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1007339",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/?documentId=979726",
-    "seu_electronica": "https://habitatge.barcelona/cat i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -17330,7 +17330,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1007325",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/?documentId=979685",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -17417,7 +17417,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1014405",
     "url_bases": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=979719",
-    "seu_electronica": "https://habitatge.barcelona/cat i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -18125,7 +18125,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/873573",
-    "url_bases": "Pendent publicació",
+    "url_bases": null,
     "seu_electronica": "https://www.icf.cat/ca/inici/",
     "resum": null
   },
@@ -18956,7 +18956,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/868823",
     "url_bases": "https://bop.diba.cat/anuncio/969323/aprovacio-definitiva-de-l-ordenanca-general-de-subvencions-de-sant-cugat-del-valles-ajuntament-de-sant-cugat-del-valles",
-    "seu_electronica": "www.santcugat.cat/seu/Procedimientos.aspx",
+    "seu_electronica": "https://www.santcugat.cat/seu/Procedimientos.aspx",
     "resum": null
   },
   {
@@ -19675,7 +19675,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882261",
-    "url_bases": "RUA DE CARNAVAL L'ARBOÇ 2026",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -19948,7 +19948,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/881145",
     "url_bases": "https://cido.diba.cat/normativa_local/20666960/pressupost-i-plantilla-per-a-lany-2026-ajuntament-del-vendrell",
-    "seu_electronica": "www.elvendrell.net",
+    "seu_electronica": "https://www.elvendrell.net",
     "resum": null
   },
   {
@@ -20846,7 +20846,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/881782",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/355204/pressupost-general-per-a-l-exercici-2026-i-plantilla-aprovacio-definitiva-ajuntament-vendrell-el",
-    "seu_electronica": "www.elvendrell.net",
+    "seu_electronica": "https://www.elvendrell.net",
     "resum": null
   },
   {
@@ -21796,7 +21796,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/885554",
     "url_bases": "http://bop.diba.cat/anuncio/3597445/aprovacio-inicial-de-les-bases-reguladores-dels-premis-concursos-i-o-sortejos-promoguts-per-l-ajuntament-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www.sabarca.cat",
+    "seu_electronica": "https://www.sabarca.cat",
     "resum": null
   },
   {
@@ -21886,7 +21886,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883241",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/355204/pressupost-general-per-a-l-exercici-2026-i-plantilla-aprovacio-definitiva-ajuntament-vendrell-el",
-    "seu_electronica": "www.elvendrell.net",
+    "seu_electronica": "https://www.elvendrell.net",
     "resum": null
   },
   {
@@ -22356,7 +22356,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/880252",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2025/206/202520609512.pdf",
-    "seu_electronica": "figueres.cat",
+    "seu_electronica": "https://figueres.cat",
     "resum": null
   },
   {
@@ -22385,7 +22385,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883036",
     "url_bases": "https://www.girones.cat/arees/ensenyament-cultura-turisme-catala-joventut-i-esports/ensenyament/ajuts-de-desplacament/",
-    "seu_electronica": "www.girones.cat",
+    "seu_electronica": "https://www.girones.cat",
     "resum": null
   },
   {
@@ -23007,7 +23007,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/885009",
     "url_bases": "https://www.aiguaviva.cat/media/sites/238/Aprovacion-de-las-bases-de-los-premios-del-carnaval.pdf",
-    "seu_electronica": "www.aiguaviva.cat",
+    "seu_electronica": "https://www.aiguaviva.cat",
     "resum": null
   },
   {
@@ -23280,7 +23280,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/875519",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1032098",
-    "seu_electronica": "Oficina Virtual de Tràmits",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -23559,7 +23559,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/875964",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1032077",
-    "seu_electronica": "Portal Tràmits",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -23704,7 +23704,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1019760",
-    "url_bases": "No aplica",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -23793,7 +23793,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883349",
     "url_bases": "https://tauler.seu-e.cat/inici?idEns=1703660009",
-    "seu_electronica": "www.campdevanol.cat",
+    "seu_electronica": "https://www.campdevanol.cat",
     "resum": null
   },
   {
@@ -23909,7 +23909,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886574",
     "url_bases": "https://www.juneda.cat",
-    "seu_electronica": "https//juneda.eadministracio.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -24661,7 +24661,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882136",
-    "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=a nunci&id=11153&ebop_any=2023",
+    "url_bases": null,
     "seu_electronica": "https://perafort.administracio.cat",
     "resum": null
   },
@@ -24841,7 +24841,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882185",
     "url_bases": "https://www.boe.es/eli/es/l/2003/11/17/38/con",
-    "seu_electronica": "www.savall.cat",
+    "seu_electronica": "https://www.savall.cat",
     "resum": null
   },
   {
@@ -24927,8 +24927,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/885884",
-    "url_bases": "https://bop.diba.cat/anunci/3182798/bases-generals-per-ala- concessio-de-premis-com-a-resultat-de-concursosexposicions- i-participacio-en-actes-festius-ludics-culturals-iesportius- ajuntament-de-castellbell-i-el-vilar",
-    "seu_electronica": "www.castellbellielvilar.cat",
+    "url_bases": null,
+    "seu_electronica": "https://www.castellbellielvilar.cat",
     "resum": null
   },
   {
@@ -25488,8 +25488,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1020237",
-    "url_bases": "No aplica",
-    "seu_electronica": "Portal tràmits",
+    "url_bases": null,
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -25672,7 +25672,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883606",
     "url_bases": "https://seu.vilafranca.cat/",
-    "seu_electronica": "siad@vilafranca.org",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -25854,7 +25854,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882613",
     "url_bases": "https://bop.diba.cat/anunci/3270495/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-per-a-projectes-i-activitats-de-l-ambit-de-desenvolupament-comunitari-ajuntament-de-ripollet",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -25883,7 +25883,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882614",
     "url_bases": "http://bop.diba.cat/anunci/3270495/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-per-a-projectes-i-activitats-de-l-ambit-de-desenvolupament-comunitari-ajuntament-de-ripollet",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -25912,7 +25912,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882615",
     "url_bases": "https://bop.diba.cat/anunci/3270073/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-de-l-ambit-de-desenvolupament-economic-ajuntament-de-ripollet",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -25941,7 +25941,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882616",
     "url_bases": "https://www.ripollet.cat/ajuntament/normatives-i-reglaments-municipals/aprovada/bases_concurrencia_competitiva_ds_sc",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -26087,7 +26087,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/888355",
     "url_bases": "https://sils.cat/lajuntament/bases-subvencions/",
-    "seu_electronica": "www.sils.cat",
+    "seu_electronica": "https://www.sils.cat",
     "resum": null
   },
   {
@@ -26583,7 +26583,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/884825",
     "url_bases": "https://seu.mataro.cat/opencms/opencms/sede#",
-    "seu_electronica": "www.mataro.cat",
+    "seu_electronica": "https://www.mataro.cat",
     "resum": null
   },
   {
@@ -27000,8 +27000,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886572",
-    "url_bases": "https://www.girones.cat/2026/02/10/edicte-de-convocatoria-i-bases-del-concurs-talent-girones- 2026/",
-    "seu_electronica": "www.girones.cat",
+    "url_bases": null,
+    "seu_electronica": "https://www.girones.cat",
     "resum": null
   },
   {
@@ -27031,7 +27031,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/887492",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1037223",
-    "seu_electronica": "https://habitatge.barcelona/cat i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -27060,7 +27060,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/888463",
     "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2023/1/BOP-728229929.pdf",
-    "seu_electronica": "www.segria.cat",
+    "seu_electronica": "https://www.segria.cat",
     "resum": null
   },
   {
@@ -27089,7 +27089,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/894010",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/355204/pressupost-general-per-a-l-exercici-2026-i-plantilla-aprovacio-definitiva-ajuntament-vendrell-el",
-    "seu_electronica": "www.elvendrell.net",
+    "seu_electronica": "https://www.elvendrell.net",
     "resum": null
   },
   {
@@ -27926,7 +27926,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886904",
     "url_bases": "http://bop.diba.cat/anunci/3747414/aprovacio-definitiva-de-les-bases-reguladores-especifiques-per-al-concurs-del-cartell-de-festa-major-i-la-concessio-d-un-premi-a-la-persona-guanyadora-del-concurs-ajuntament-de-ripollet",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -27955,7 +27955,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/889386",
     "url_bases": "https://www.ripollet.cat/ajuntament/normatives-i-reglaments-municipals/aprovada/bases_concurrencia_competitiva_ds_sc",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -28219,7 +28219,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883726",
     "url_bases": "https://mieres.cat/lajuntament/pressupostos-i-subvencions/",
-    "seu_electronica": "www.mieres.cat",
+    "seu_electronica": "https://www.mieres.cat",
     "resum": null
   },
   {
@@ -28248,7 +28248,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883741",
     "url_bases": "https://mieres.cat/lajuntament/pressupostos-i-subvencions/",
-    "seu_electronica": "www.mieres.cat",
+    "seu_electronica": "https://www.mieres.cat",
     "resum": null
   },
   {
@@ -28277,7 +28277,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883759",
     "url_bases": "https://mieres.cat/lajuntament/pressupostos-i-subvencions/",
-    "seu_electronica": "www.mieres.cat",
+    "seu_electronica": "https://www.mieres.cat",
     "resum": null
   },
   {
@@ -28305,7 +28305,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883928",
-    "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=a nunci&id=5350&ebop_any=2020",
+    "url_bases": null,
     "seu_electronica": "https://perafort.administracio.cat",
     "resum": null
   },
@@ -28514,7 +28514,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890374",
     "url_bases": "https://www.celra.cat/wp/blog/2026/02/18/beques2026/#gsc.tab=0",
-    "seu_electronica": "www.celra.cat",
+    "seu_electronica": "https://www.celra.cat",
     "resum": null
   },
   {
@@ -28543,7 +28543,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890378",
     "url_bases": "https://www.celra.cat/wp/blog/2026/02/18/beques2026/#gsc.tab=0",
-    "seu_electronica": "www.celra.cat",
+    "seu_electronica": "https://www.celra.cat",
     "resum": null
   },
   {
@@ -28691,7 +28691,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/887506",
     "url_bases": "https://www.boe.es/eli/es/l/2003/11/17/38/con",
-    "seu_electronica": "www.savall.cat",
+    "seu_electronica": "https://www.savall.cat",
     "resum": null
   },
   {
@@ -28752,7 +28752,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/892149",
-    "url_bases": "www.arenysdemar.cat",
+    "url_bases": "https://www.arenysdemar.cat",
     "seu_electronica": "https://arenysdemar.eadministracio.cat/info",
     "resum": null
   },
@@ -28898,7 +28898,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/892934",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/55/20245502007.pdf",
-    "seu_electronica": "figueres.cat",
+    "seu_electronica": "https://figueres.cat",
     "resum": null
   },
   {
@@ -29602,7 +29602,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/884544",
-    "url_bases": "http://cido.diba.cat/subvencions/10260684/premis-literaris-vila-de-vallirana- 2020-ajuntament-de-vallirana",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -29631,7 +29631,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/884545",
-    "url_bases": "http://cido.diba.cat/subvencions/10260684/premis-literaris-vila-de-vallirana- 2020-ajuntament-de-vallirana",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -30401,7 +30401,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/893669",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2020/47/20204701611.pdf",
-    "seu_electronica": "figueres.cat",
+    "seu_electronica": "https://figueres.cat",
     "resum": null
   },
   {
@@ -31952,7 +31952,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/903877",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1041827",
-    "seu_electronica": "info@fundaciorieragubau.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -32128,7 +32128,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/894172",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -32673,7 +32673,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/881014",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -33140,7 +33140,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/893535",
     "url_bases": "https://ventallo.cat/media/sites/228/BASES-SUBVENCIONS-COMERC.pdf",
-    "seu_electronica": "www.ventallo.cat",
+    "seu_electronica": "https://www.ventallo.cat",
     "resum": null
   },
   {
@@ -33226,7 +33226,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/894395",
-    "url_bases": "Convocatòria per a la sol·licitud d’ajuts econòmics per a l’adquisició de llibres escolars, material curricular i altres despeses obligatòries per al curs 2026-2027.",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -33285,7 +33285,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/894938",
     "url_bases": "https://www.elcatllar.cat/es/",
-    "seu_electronica": "AYUNTAMIENTO EL CATLLAR",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -33904,8 +33904,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/891307",
-    "url_bases": "www.scf.cat",
-    "seu_electronica": "www.scf.cat",
+    "url_bases": "https://www.scf.cat",
+    "seu_electronica": "https://www.scf.cat",
     "resum": null
   },
   {
@@ -34470,7 +34470,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/899325",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -34738,7 +34738,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/897868",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -36320,7 +36320,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902166",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/355204/pressupost-general-per-a-l-exercici-2026-i-plantilla-aprovacio-definitiva-ajuntament-vendrell-el",
-    "seu_electronica": "www.elvendrell.net",
+    "seu_electronica": "https://www.elvendrell.net",
     "resum": null
   },
   {
@@ -36377,8 +36377,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/921673",
-    "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2025/247/2025247012052.p df",
-    "seu_electronica": "www.pals.cat",
+    "url_bases": null,
+    "seu_electronica": "https://www.pals.cat",
     "resum": null
   },
   {
@@ -36407,7 +36407,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/926354",
     "url_bases": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1047046",
-    "seu_electronica": "www.pals.cat",
+    "seu_electronica": "https://www.pals.cat",
     "resum": null
   },
   {
@@ -36494,7 +36494,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901335",
     "url_bases": "https://www.girones.cat/arees/ensenyament-cultura-turisme-catala-joventut-i-esports/ensenyament/ajuts-de-menjador/",
-    "seu_electronica": "www.girones.cat",
+    "seu_electronica": "https://www.girones.cat",
     "resum": null
   },
   {
@@ -36703,7 +36703,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/889297",
-    "url_bases": "http://bop.diba.cat/anunci/3614983/aprovacio-definitiva-de-les-bases-reguladores-de subvencions-de-suport-a-l-escolaritat-i-altres-activitats-complementaries-de-suport-a-la-infancia-i-adolescencia-versio-en-catala-i-castella-ajuntament-de-viladecavalls",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -37032,7 +37032,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/903879",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1041827",
-    "seu_electronica": "info@fundaciorieragubau.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -37062,7 +37062,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/903880",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1012347",
-    "seu_electronica": "info@fundaciorieragubau.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -37296,8 +37296,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905509",
-    "url_bases": "www.campllong.cat",
-    "seu_electronica": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
+    "seu_electronica": "https://www.campllong.cat",
     "resum": null
   },
   {
@@ -37325,8 +37325,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902193",
-    "url_bases": "WWW.SCF.CAT",
-    "seu_electronica": "www.scf.cat",
+    "url_bases": "https://WWW.SCF.CAT",
+    "seu_electronica": "https://www.scf.cat",
     "resum": null
   },
   {
@@ -37354,7 +37354,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904100",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.vilassardedalt.cat/media/repository/ajuntament/documentacio/Bases/2026/BASES_Castellano_-_copia.pdf",
+    "url_bases": "https://www.vilassardedalt.cat/media/repository/ajuntament/documentacio/Bases/2026/BASES_Castellano_-_copia.pdf",
     "seu_electronica": null,
     "resum": null
   },
@@ -37476,7 +37476,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/903275",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2017/157/201715707188.pdf",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -37623,7 +37623,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871242",
-    "url_bases": "www.cunit.cat",
+    "url_bases": "https://www.cunit.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -38004,7 +38004,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901012",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2026/75/20267502975.pdf",
+    "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2026/75/20267502975.pdf",
     "seu_electronica": "https://ccnoguera.eadministracio.cat/",
     "resum": null
   },
@@ -38358,7 +38358,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/896840",
-    "url_bases": "Ajuntament de Cambrils - Seu Electrònica",
+    "url_bases": null,
     "seu_electronica": "https://www.cambrils.cat/ca/serveis/esport/subvencions/sol_programa_a_-entitats_2026-1.pdf",
     "resum": null
   },
@@ -38476,7 +38476,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/884868",
-    "url_bases": "http://www.ddgi.cat/basescast/2022/BasesEuropaLocal 2023.pdf",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -38711,7 +38711,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901610",
     "url_bases": "https://ripolles.cat/wp-content/uploads/2026/04/ensenyament-bases-menjador-26-27-cast.pdf",
-    "seu_electronica": "www.ripolles.cat",
+    "seu_electronica": "https://www.ripolles.cat",
     "resum": null
   },
   {
@@ -38740,7 +38740,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901651",
     "url_bases": "https://ripolles.cat/wp-content/uploads/2026/04/ensenyament-bases-transport-26-27-cast.pdf",
-    "seu_electronica": "www.ripolles.cat",
+    "seu_electronica": "https://www.ripolles.cat",
     "resum": null
   },
   {
@@ -39218,7 +39218,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/907772",
     "url_bases": "https://www.juneda.cat",
-    "seu_electronica": "https//juneda.eadministracio.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -39362,7 +39362,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904345",
-    "url_bases": "www.cunit.cat",
+    "url_bases": "https://www.cunit.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -39873,7 +39873,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906453",
     "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2026/73/20267302916.pdf",
-    "seu_electronica": "www.segria.cat",
+    "seu_electronica": "https://www.segria.cat",
     "resum": null
   },
   {
@@ -39901,7 +39901,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904890",
-    "url_bases": "http://bop.diba.cat/anuncio/1365925/aprovacio-definitivadeles- bases-reguladores-per-a-la-concessio-d-ajuts-per-alesdespeses- de-casal-d-estiu-per-a-infants-i-adolescentsambdiscapacitat- ajuntament-de-vallgorguina",
+    "url_bases": null,
     "seu_electronica": "https://vallgorguina.eadministracio.cat/info.0",
     "resum": null
   },
@@ -39991,7 +39991,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906337",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -40284,7 +40284,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/903861",
-    "url_bases": "www.ddgi.cat",
+    "url_bases": "https://www.ddgi.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -40641,8 +40641,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/884921",
-    "url_bases": "https://bop.diba.cat/anunci/3182798/bases-generals-per-ala- concessio-de-premis-com-a-resultat-de-concursosexposicions- i-participacio-en-actes-festius-ludics-culturals-iesportius- ajuntament-de-castellbell-i-el-vilar",
-    "seu_electronica": "www.castellbellielvilar.cat",
+    "url_bases": null,
+    "seu_electronica": "https://www.castellbellielvilar.cat",
     "resum": null
   },
   {
@@ -40963,7 +40963,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/911267",
     "url_bases": "https://www.torrefarrera.cat/",
-    "seu_electronica": "www.torrefarrera.cat",
+    "seu_electronica": "https://www.torrefarrera.cat",
     "resum": null
   },
   {
@@ -40991,7 +40991,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906458",
-    "url_bases": "https://bop.diba.cat/anunci/1218800/modificacio-de-lesbases- reguladores-de-l-atorgament-de-subvencionsajuntament- de-calders",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -41020,7 +41020,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908263",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ssl4.ddgi.cat/bopV1/pdf/2026/41/20264101504.pdf",
+    "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2026/41/20264101504.pdf",
     "seu_electronica": null,
     "resum": null
   },
@@ -41344,7 +41344,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906309",
     "url_bases": "https://www.aiguaviva.cat/media/sites/238/Bases-Sant-Joan-2026-Castella.pdf",
-    "seu_electronica": "www.aiguaviva.cat",
+    "seu_electronica": "https://www.aiguaviva.cat",
     "resum": null
   },
   {
@@ -41553,7 +41553,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906344",
-    "url_bases": "https://www.ccmoianes.cat/el-consell/actes-i-anuncis/anuncis-/generals/convocatoriade- la-concessio-de-subvencions-a-associacions-o-entitats-sense-anim-de-lucre-per-ala- realitzacio-promocio-i-difusio-de-projectes-io-activtiats-a-la-comarca-del-moianes- 2026.html",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -42067,7 +42067,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906334",
-    "url_bases": ".BASES PARA LA CONCESIÓN DE SUBVENCIONES A ENTITADES DEPORTIVAS MUNICIPALES PARA EL AÑO 2026.",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -42155,7 +42155,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/866907",
     "url_bases": "https://www.boe.es/eli/es/l/2003/11/17/38/con",
-    "seu_electronica": "www.savall.cat",
+    "seu_electronica": "https://www.savall.cat",
     "resum": null
   },
   {
@@ -42242,7 +42242,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/903886",
     "url_bases": "https://seu-e.cat/ca/web/santjuliadellloribonmati/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/tauler-d-edictes-i-anuncis",
-    "seu_electronica": "www.stjuliabonmati.cat",
+    "seu_electronica": "https://www.stjuliabonmati.cat",
     "resum": null
   },
   {
@@ -42271,7 +42271,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904310",
     "url_bases": "https://www.ripollet.cat/ajuntament/normatives-i-reglaments-municipals/aprovada/bases_concurrencia_competitiva_ds_sc",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -42388,7 +42388,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906223",
     "url_bases": "https://larapita.cat/concursos-i-premis/concurs-cartell-festes-majors/#",
-    "seu_electronica": "larapita.cat",
+    "seu_electronica": "https://larapita.cat",
     "resum": null
   },
   {
@@ -42504,7 +42504,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/921377",
-    "url_bases": "https://www.dipta.cat/bopt/web/anuncio/68490/ordenancareguladora- de-les-bases-generals-per-a-la-concessio-d-ajutsa- l-escolaritzacio-obligatoria-per-a-families-text-integreaprovacio- definitiva-ajuntament-santa-oliva",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -42859,7 +42859,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908436",
-    "url_bases": "https://www.ddgi.cat/municipis/SantMartiVell/BASES%20RE GULADORES%20SUBVENCI%C3%93%20CASAL%202024.pdf",
+    "url_bases": null,
     "seu_electronica": "https://seu-e.cat/ca/web/santmartivell/tramits-i-gestions/-/tramits/tramit/21172806?p_auth=1cQMKQxR",
     "resum": null
   },
@@ -42950,7 +42950,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/911538",
     "url_bases": "https://ajuntamentdelspallaresos.eadministracio.cat/preview-document/016d64ee-41fd-4eb5-9c40-8aed28941e11/",
-    "seu_electronica": "Ayuntamiento dels Pallaresos",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -43096,7 +43096,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1024067",
     "url_bases": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1021487",
-    "seu_electronica": "OVT",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -43549,7 +43549,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=932395",
     "url_bases": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-16233",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -43579,7 +43579,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=932428",
     "url_bases": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-16233",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -43609,7 +43609,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=932350",
     "url_bases": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-16233",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -43639,7 +43639,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=932333",
     "url_bases": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-16233",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -43669,7 +43669,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=990319",
     "url_bases": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-16233",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -44555,7 +44555,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/895259",
     "url_bases": "https://bop.diba.cat/anunci/3751266",
-    "seu_electronica": "ccosona.cat",
+    "seu_electronica": "https://ccosona.cat",
     "resum": null
   },
   {
@@ -44643,7 +44643,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/899233",
     "url_bases": "https://www.girones.cat/2026/04/10/convocatoria-per-a-latorgament-de-subvencions-adrecades-a-ajuntaments-per-al-foment-del-control-sanitari-i-de-les-poblacions-de-les-colonies-de-gats-de-carrer-5/",
-    "seu_electronica": "www.girones.cat",
+    "seu_electronica": "https://www.girones.cat",
     "resum": null
   },
   {
@@ -44672,7 +44672,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/899753",
     "url_bases": "https://www.elcatllar.cat/es/",
-    "seu_electronica": "AYUNTAMIENTO EL CATLLAR",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -46148,7 +46148,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/913397",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1047111",
-    "seu_electronica": "Portal tràmits gencat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -46836,7 +46836,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/915049",
     "url_bases": "http://bop.diba.cat/anunci/3926629/aprovacio-definitiva-de-la-modificacio-de-les-bases-reguladores-dels-premis-concursos-i-o-sortejos-promoguts-per-l-ajuntament-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www.sabarca.cat",
+    "seu_electronica": "https://www.sabarca.cat",
     "resum": null
   },
   {
@@ -47013,7 +47013,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/912190",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2021/91/20219103824.pdf",
-    "seu_electronica": "figueres.cat",
+    "seu_electronica": "https://figueres.cat",
     "resum": null
   },
   {
@@ -47162,7 +47162,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/913467",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -47494,12 +47494,13 @@
   {
     "id": "912889",
     "fonts": [
+      "bdns",
       "raisc"
     ],
     "codi_bdns": "912889",
     "codi_raisc": "6760-26-071",
-    "titol": "Resolucio de convocatoria per a la concessio dajuts a festivals o cicles musicals, en regim de concurrencia competitiva, en les modalitats daportacions reintegrables i subvencions",
-    "objecte": "Resolució de convocatòria per a la concessió d'ajuts a festivals o cicles musicals, en règim de concurrència competitiva, en les modalitats d'aportacions reintegrables i subvencions",
+    "titol": "Resolució de convocatòria per a la concessió d'ajuts a festivals o cicles musicals, en règim de concurrència competitiva, en les modalitats d'aportacions reintegrables i subvencions",
+    "objecte": "bases específicas que regirán la concesión de ayudas, en las modalidades de aportaciones reintegrables y subvenciones, a festivales o ciclos musicales",
     "organ_convocant": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
     "ambit": "autonomic",
     "nivell_local": null,
@@ -47511,13 +47512,13 @@
     ],
     "concurrencia": true,
     "import_total": 1000000,
-    "data_inici": null,
+    "data_inici": "2026-06-25",
     "data_fi": "2026-07-15",
     "termini_text": null,
     "estat": "tancada",
     "confianca_termini": "alta",
-    "url_oficial": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1047867",
-    "url_bases": "https://portaldogc.gencat.cat/utilsEADOP/PDF/8890/1967598.pdf",
+    "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/912889",
+    "url_bases": "https://portaldogc.gencat.cat/utilsEADOP/PDF/8890/1967599.pdf",
     "seu_electronica": null,
     "resum": null
   },
@@ -47911,7 +47912,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/907723",
     "url_bases": "https://larapita.cat/concursos-i-premis/premi-de-poesia-lluis-de-montsia/",
-    "seu_electronica": "larapita.cat",
+    "seu_electronica": "https://larapita.cat",
     "resum": null
   },
   {
@@ -47998,7 +47999,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/915935",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -48471,7 +48472,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/912982",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1046564",
-    "seu_electronica": "Portal Tràmits",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -48978,7 +48979,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/914972",
     "url_bases": "https://bop.diba.cat/anunci/3933494",
-    "seu_electronica": "Tràmits/Tramita amb nosaltres/Ajuts i subvencions",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -49663,7 +49664,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/915276",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1047799",
-    "seu_electronica": "Oficina Virtual de Tràmits",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -49901,7 +49902,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/917327",
     "url_bases": "http://bop.diba.cat/anunci/3943439/aprovacio-definitiva-de-les-bases-per-a-la-concessio-de-subvencions-de-recerca-en-prevencio-de-residus-per-als-anys-2026-2030-versio-en-catala-i-castella-area-metropolitana-de-barcelona",
-    "seu_electronica": "www.amb.cat",
+    "seu_electronica": "https://www.amb.cat",
     "resum": null
   },
   {
@@ -50319,7 +50320,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908024",
     "url_bases": "https://www.torrefarrera.cat/",
-    "seu_electronica": "www.torrefarrera.cat",
+    "seu_electronica": "https://www.torrefarrera.cat",
     "resum": null
   },
   {
@@ -50348,7 +50349,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/910215",
     "url_bases": "https://www.torrefarrera.cat/",
-    "seu_electronica": "www.torrefarrera.cat",
+    "seu_electronica": "https://www.torrefarrera.cat",
     "resum": null
   },
   {
@@ -50787,8 +50788,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/918142",
-    "url_bases": "www.scf.cat",
-    "seu_electronica": "www.scf.cat",
+    "url_bases": "https://www.scf.cat",
+    "seu_electronica": "https://www.scf.cat",
     "resum": null
   },
   {
@@ -50881,6 +50882,36 @@
     "resum": null
   },
   {
+    "id": "886896",
+    "fonts": [
+      "bdns"
+    ],
+    "codi_bdns": "886896",
+    "codi_raisc": null,
+    "titol": "ACORD DE LA JUNTA DE GOVERN LOCAL, DE DATA 11 DE FEBRER DE 2026, PEL QUAL S'APROVA LA CONVOCATÒRIA DEL CONCURS DE DISCJÒQUEIS, DELTEBRE JOVE 2026",
+    "objecte": "Bases reguladoras del concurso de disc-jockey de las fiestas mayores.",
+    "organ_convocant": "Ajuntament de Deltebre",
+    "ambit": "local",
+    "nivell_local": "municipi",
+    "comarca": "Baix Ebre",
+    "municipi": "Deltebre",
+    "tipus_beneficiari": [
+      "Persones físiques sense activitat econòmica",
+      "Pimes i autònoms"
+    ],
+    "concurrencia": true,
+    "import_total": 2400,
+    "data_inici": null,
+    "data_fi": "2026-08-01",
+    "termini_text": null,
+    "estat": "tancada",
+    "confianca_termini": "alta",
+    "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886896",
+    "url_bases": "https://www.dipta.cat/bopt/web/anuncio/284053/bases-reguladores-del-concurs-de-discjoquei-de-les-festes-majors-aprovacio-definitiva-ajuntament-deltebre",
+    "seu_electronica": null,
+    "resum": null
+  },
+  {
     "id": "890423",
     "fonts": [
       "bdns"
@@ -50963,8 +50994,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/920115",
-    "url_bases": "www.campllong.cat",
-    "seu_electronica": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
+    "seu_electronica": "https://www.campllong.cat",
     "resum": null
   },
   {
@@ -51943,7 +51974,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/912522",
     "url_bases": "https://www.girones.cat/2026/06/08/convocatoria-per-a-latorgament-de-subvencions-a-empreses-deducacio-ambiental-que-participen-en-el-programa-deducacio-per-al-desenvolupament-sostenible-3/",
-    "seu_electronica": "www.girones.cat",
+    "seu_electronica": "https://www.girones.cat",
     "resum": null
   },
   {
@@ -52537,7 +52568,7 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/859394",
-    "url_bases": "https://www.seu-e.cat/es/web/vilaseca/govern-obert-itransparencia/ contractes-convenis-i-subvencions/convenis-isubvencions/ pla-estrategic-de-subvencions-188",
+    "url_bases": null,
     "seu_electronica": "https://vila-seca.eadministracio.cat/info.0",
     "resum": null
   },
@@ -53819,8 +53850,8 @@
     "estat": "tancada",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/913083",
-    "url_bases": "www.labisbal.cat",
-    "seu_electronica": "www.labisbal.cat",
+    "url_bases": "https://www.labisbal.cat",
+    "seu_electronica": "https://www.labisbal.cat",
     "resum": null
   },
   {
@@ -54782,7 +54813,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/925963",
-    "url_bases": "ttps://www.diputaciodetarragona.cat/ebop/index.php?op=anunci&id=8393&ebop_any=2021",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -54812,7 +54843,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901607",
     "url_bases": "https://www.girones.cat/2026/04/24/convocatoria-per-a-latorgament-de-subvencions-per-lorganitzacio-de-festivals-i-fires-2/",
-    "seu_electronica": "www.girones.cat",
+    "seu_electronica": "https://www.girones.cat",
     "resum": null
   },
   {
@@ -55596,7 +55627,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/921795",
     "url_bases": "https://ajuntamentdelspallaresos.eadministracio.cat/?x=fgryNRHaWtEuzkZnmLjVZg",
-    "seu_electronica": "Ayuntamiento dels Pallaresos",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -55712,7 +55743,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/923443",
     "url_bases": "https://ajuntamentdelspallaresos.eadministracio.cat/preview-document/f6fe7192-df52-4ff8-ad9f-c2874747850e/",
-    "seu_electronica": "Ayuntamiento dels Pallaresos",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -55986,7 +56017,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928134",
     "url_bases": "https://www.cercs.cat/ajuntament/tauler-danuncis",
-    "seu_electronica": "www.cercs.cat",
+    "seu_electronica": "https://www.cercs.cat",
     "resum": null
   },
   {
@@ -57410,7 +57441,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906123",
-    "url_bases": "www.ddgi.cat",
+    "url_bases": "https://www.ddgi.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -57439,7 +57470,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906205",
-    "url_bases": "www.ddgi.cat",
+    "url_bases": "https://www.ddgi.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -57738,7 +57769,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/913760",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -58179,7 +58210,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/920509",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2023/101/BOP-907283205.pdf",
+    "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2023/101/BOP-907283205.pdf",
     "seu_electronica": "https://seu.tarrega.cat/emiservicio/catala/VisorITs/C2FFC14F6BA849C28517F9729353E7D8.asp?procedencia=Consulta",
     "resum": null
   },
@@ -58630,7 +58661,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/924846",
     "url_bases": "https://www.cbs.cat/convocatoria-dajuts-destinats-al-financament-dels-serveis-de-transport-adaptat-2026-al-girones/",
-    "seu_electronica": "www.cbs.cat",
+    "seu_electronica": "https://www.cbs.cat",
     "resum": null
   },
   {
@@ -59131,8 +59162,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928014",
-    "url_bases": "www.vila-sacra.cat",
-    "seu_electronica": "www.vila-sacra.cat",
+    "url_bases": "https://www.vila-sacra.cat",
+    "seu_electronica": "https://www.vila-sacra.cat",
     "resum": null
   },
   {
@@ -59366,7 +59397,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/922527",
-    "url_bases": "www.cambrils.cat/ca/serveis/cultura/contingut-migrat/fitxers/documents/Biennal-d-art/bases-biennal-d-art",
+    "url_bases": "https://www.cambrils.cat/ca/serveis/cultura/contingut-migrat/fitxers/documents/Biennal-d-art/bases-biennal-d-art",
     "seu_electronica": "https://seu.cambrils.cat/",
     "resum": null
   },
@@ -59425,7 +59456,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/927834",
-    "url_bases": "http://bop.diba.cat/anunci/1460503/aprovaciodefinitivadeles- bases-de-subvencions-per-prevenir-el-riscdexclusiosocial- a-traves-de-l-esport-ajuntamentdevallgorguina",
+    "url_bases": null,
     "seu_electronica": "https://vallgorguina.eadministracio.cat/info.0",
     "resum": null
   },
@@ -59483,7 +59514,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909476",
-    "url_bases": "https://bop.diba.cat/anunci/3926071/aprovacio-inicial-de-les-bases-reguladores-specifiques-per-a-l-atorgament-d-ajuts-en-forma-de-beques-individuals-en-regim-de-concurrencia competitiva-pel-servei-de-menjador-de-la-llar-d-infants-municipal-rojas-feliu-per",
+    "url_bases": null,
     "seu_electronica": "https://srvmux.santacolomadecervello.cat:6969/CarpetaCiutadana/ZonaPublica/Tramits/Tramits.aspx?idAccio=1&idMenu=216",
     "resum": null
   },
@@ -59782,7 +59813,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928122",
-    "url_bases": "op.diba.cat/anunci/3967712/aprovacio-de-les-bases-reguladores-especifiques-per-a-la-concessio-de-subvencions-de-concurrencia-competitiva-per-a-entitats-locals-de-l-ambit-cultural-sense-anim-de-lucre-que-siguin-titulars-en-propietat-i-gestionin-immobles-de",
+    "url_bases": "https://op.diba.cat/anunci/3967712/aprovacio-de-les-bases-reguladores-especifiques-per-a-la-concessio-de-subvencions-de-concurrencia-competitiva-per-a-entitats-locals-de-l-ambit-cultural-sense-anim-de-lucre-que-siguin-titulars-en-propietat-i-gestionin-immobles-de",
     "seu_electronica": null,
     "resum": null
   },
@@ -59843,8 +59874,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/922569",
-    "url_bases": "www.fogarsdemontclus.cat",
-    "seu_electronica": "www.fogarsdemontclus.cat",
+    "url_bases": "https://www.fogarsdemontclus.cat",
+    "seu_electronica": "https://www.fogarsdemontclus.cat",
     "resum": null
   },
   {
@@ -59901,7 +59932,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/927702",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -60107,7 +60138,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928628",
-    "url_bases": "www.imet.cat",
+    "url_bases": "https://www.imet.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -60165,7 +60196,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928723",
-    "url_bases": "www.imet.cat",
+    "url_bases": "https://www.imet.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -60194,7 +60225,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928732",
-    "url_bases": "www.imet.cat",
+    "url_bases": "https://www.imet.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -60223,7 +60254,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928740",
-    "url_bases": "www.imet.cat",
+    "url_bases": "https://www.imet.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -60456,7 +60487,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928759",
-    "url_bases": "www.imet.cat",
+    "url_bases": "https://www.imet.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -60782,7 +60813,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/920849",
     "url_bases": "https://santmartivell.cat/bases-reguladores-subvencions/",
-    "seu_electronica": "www.santmartivell.cat",
+    "seu_electronica": "https://www.santmartivell.cat",
     "resum": null
   },
   {
@@ -61108,7 +61139,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/923775",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=979719",
-    "seu_electronica": "https://habitatge.barcelona/cat i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -61810,7 +61841,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886201",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/?documentId=1036174",
-    "seu_electronica": "https://habitatge.barcelona/cat i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -61868,7 +61899,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/897647",
-    "url_bases": "https://www.dipta.cat/bopt/web/anunci/350261/basesreguladores- per-a-la-concessio-de-subvencions-per-a-obresd- arranjament-d-habitatges-buits-per-destinar-los-al-lloguerdins- la-borsa-d-habitatges-de-l-oficina-municipal-aprovaciodefinitiva- ajuntament-vil",
+    "url_bases": null,
     "seu_electronica": "https://vila-seca.eadministracio.cat/info.0",
     "resum": null
   },
@@ -61898,7 +61929,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/897815",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/202/202420208900.pdf",
-    "seu_electronica": "www.cassa.cat",
+    "seu_electronica": "https://www.cassa.cat",
     "resum": null
   },
   {
@@ -61927,7 +61958,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/898046",
-    "url_bases": "https://www.dipta.cat/bopt/web/anunci/350261/basesregula dores- per-a-la-concessio-de-subvencions-per-a-obresdarranjament- d-habitatges-buits-per-destinar-los-allloguerdins- la-borsa-d-habitatges-de-l-oficina-municipalaprovaciodefinitiva- ajuntament-vil",
+    "url_bases": null,
     "seu_electronica": "https://vila-seca.eadministracio.cat/info.0",
     "resum": null
   },
@@ -62046,8 +62077,8 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/920036",
-    "url_bases": "No aplica",
-    "seu_electronica": "Portal tràmits",
+    "url_bases": null,
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -62077,7 +62108,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/921364",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=900131",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -62194,7 +62225,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/887187",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -62312,7 +62343,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/900211",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -62340,8 +62371,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904862",
-    "url_bases": "www.tavernoles.cat",
-    "seu_electronica": "www.tavernoles.cat",
+    "url_bases": "https://www.tavernoles.cat",
+    "seu_electronica": "https://www.tavernoles.cat",
     "resum": null
   },
   {
@@ -62369,8 +62400,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904863",
-    "url_bases": "www.tavernoles.cat",
-    "seu_electronica": "www.tavernoles.cat",
+    "url_bases": "https://www.tavernoles.cat",
+    "seu_electronica": "https://www.tavernoles.cat",
     "resum": null
   },
   {
@@ -62398,8 +62429,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904864",
-    "url_bases": "www.tavernoles.cat",
-    "seu_electronica": "www.tavernoles.cat",
+    "url_bases": "https://www.tavernoles.cat",
+    "seu_electronica": "https://www.tavernoles.cat",
     "resum": null
   },
   {
@@ -62427,8 +62458,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904865",
-    "url_bases": "www.tavernoles.cat",
-    "seu_electronica": "www.tavernoles.cat",
+    "url_bases": "https://www.tavernoles.cat",
+    "seu_electronica": "https://www.tavernoles.cat",
     "resum": null
   },
   {
@@ -62638,7 +62669,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/920525",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2024/197/202419708069.pdf",
+    "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2024/197/202419708069.pdf",
     "seu_electronica": "https://seu.tarrega.cat/emiservicio/catala/VisorITs/C2FFC14F6BA849C28517F9729353E7D8.asp?procedencia=Consulta",
     "resum": null
   },
@@ -63139,7 +63170,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/927975",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2022/64/20226402405.pdf",
-    "seu_electronica": "AYUNTAMIENTO DE AMER",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -64185,7 +64216,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908888",
-    "url_bases": "(https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/908888)",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -64214,7 +64245,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909255",
-    "url_bases": "www.cunit.cat",
+    "url_bases": "https://www.cunit.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -64302,7 +64333,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/920506",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -64418,7 +64449,7 @@
     "estat": "propera",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/927264",
-    "url_bases": "Ajuntament de Cambrils - Seu Electrònica",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -64629,7 +64660,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886202",
     "url_bases": "https://dogc.gencat.cat/es/document-del-dogc/?documentId=1036206",
-    "seu_electronica": "https://habitatge.barcelona/ca i http://www.bcn.cat/consorcihabitatge/ca/home.html",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -64747,7 +64778,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/887345",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -65008,8 +65039,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883738",
-    "url_bases": "www.campllong.cat",
-    "seu_electronica": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
+    "seu_electronica": "https://www.campllong.cat",
     "resum": null
   },
   {
@@ -65066,7 +65097,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886626",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2025/86/20258603611.pdf",
+    "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2025/86/20258603611.pdf",
     "seu_electronica": "https://ccnoguera.eadministracio.cat/",
     "resum": null
   },
@@ -65153,8 +65184,8 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905488",
-    "url_bases": "www.campllong.cat",
-    "seu_electronica": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
+    "seu_electronica": "https://www.campllong.cat",
     "resum": null
   },
   {
@@ -65390,7 +65421,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882474",
     "url_bases": "https://seu-e.cat/ca/web/ripollet/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/ordenances-reguladores-i-reglaments",
-    "seu_electronica": "www.ripollet.cat",
+    "seu_electronica": "https://www.ripollet.cat",
     "resum": null
   },
   {
@@ -66211,7 +66242,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/879170",
-    "url_bases": "www.banyeresdelpenedes.cat",
+    "url_bases": "https://www.banyeresdelpenedes.cat",
     "seu_electronica": "https://banyeresdelpenedes.eadministracio.cat/info.0",
     "resum": null
   },
@@ -67310,7 +67341,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883439",
-    "url_bases": "BOE-A-2003-15896 Ley 18/2003, de 4 de julio, de Apoyo a las Familias.",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -68403,7 +68434,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/887360",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -68432,7 +68463,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/887367",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -68880,7 +68911,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890709",
-    "url_bases": "https://www.dipta.cat/ebop/index.php?op=dwn&tipus=i&dat a=20200521&anyp=2020&num=02694&v=i",
+    "url_bases": null,
     "seu_electronica": "https://perafort.administracio.cat",
     "resum": null
   },
@@ -68974,7 +69005,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/893068",
     "url_bases": "https://seu.palafrugell.cat/informacio-municipal/normativa-municipal/ordenances-i-reglaments/bases-generals-reguladores-de-la-concessio-i-justificacio-de-subvencions-municipals-2026",
-    "seu_electronica": "Sede electrónica del Ayuntamiento de Palafrugell",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -69003,7 +69034,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/894122",
     "url_bases": "https://bop.diba.cat/anunci/3919711/aprovacio-definitiva-de-l-ordenanca-reguladora-de-la-concessio-de-prestacions-socials-de-caracter-economic-mancomunitat-intermunicipal-voluntaria-la-plana",
-    "seu_electronica": "www.mancoplana.cat",
+    "seu_electronica": "https://www.mancoplana.cat",
     "resum": null
   },
   {
@@ -69413,7 +69444,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/897856",
     "url_bases": "https://tauler.seu-e.cat/detall?idEns=8103470005&idEdicte=621234",
-    "seu_electronica": "www.educacio.selva.cat",
+    "seu_electronica": "https://www.educacio.selva.cat",
     "resum": null
   },
   {
@@ -69470,7 +69501,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/898063",
-    "url_bases": "www.cunit.cat",
+    "url_bases": "https://www.cunit.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -69885,7 +69916,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908914",
-    "url_bases": "(https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/908914)",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -70065,7 +70096,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/914473",
-    "url_bases": "pendent publicació",
+    "url_bases": null,
     "seu_electronica": "https://www.icf.cat/ca/inici/",
     "resum": null
   },
@@ -70482,7 +70513,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/914829",
-    "url_bases": "www.vilanova.cat",
+    "url_bases": "https://www.vilanova.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -70570,7 +70601,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/917685",
-    "url_bases": "No aplica",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -70893,7 +70924,7 @@
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/895329",
     "url_bases": "https://tauler.seu-e.cat/detall?idEns=8103470005&idEdicte=619163",
-    "seu_electronica": "www.educacio.selva.cat",
+    "seu_electronica": "https://www.educacio.selva.cat",
     "resum": null
   },
   {
@@ -70921,7 +70952,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902506",
-    "url_bases": "www.manresa.cat",
+    "url_bases": "https://www.manresa.cat",
     "seu_electronica": "https://www.manresa.cat/seu/menu/fitxa/901?nocache=1",
     "resum": null
   },
@@ -71160,7 +71191,7 @@
     "estat": "oberta",
     "confianca_termini": "alta",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906266",
-    "url_bases": "https://www.ccmoianes.cat/el-consell/actes-i-anuncis/anuncis-/convocatoria-per-alatorgament- dajuts-de-menjador-escolar-adrecats-a-alumnat-densenyaments-obligatoris-ideducacio- infantil-curs-2026-2027",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -72278,7 +72309,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/856617",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/160/202416007420.pdf",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -72336,7 +72367,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/856628",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/160/202416007276.pdf",
-    "seu_electronica": "www.pals.cat",
+    "seu_electronica": "https://www.pals.cat",
     "resum": null
   },
   {
@@ -72538,7 +72569,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/857534",
-    "url_bases": "https://bop.diba.cat/anunci/3654360/aprovacio-definitivade- la-modificacio-de-les-bases-reguladores-de-l-atorgamentde- subvencions-per-al-foment-de-la-creacio-de-llocs-detreball- per-part-d-empreses-per-a-la-creacio-de-novesactivitats- economiques-i-per-a",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -72597,7 +72628,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/857564",
-    "url_bases": "https://bop.diba.cat/anunci/1128199/aprovaciodefinitivadelamodificacio- de-les-bases-reguladores-delessubvencionspera- la-millora-de-l-ocupabilitat-i-curricularenllenguaanglesaajuntament- de-vilanova-del-cami",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -72684,7 +72715,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/858058",
-    "url_bases": "https://bop.diba.cat/anunci/514914/basesespecifiquesregula dores- de-la-convocatoria-de-subvencionsper- alesactuacions- que-presentin-les-entitats-i-collectiusculturalsdel- municipi-ajuntament-de-vilanova-delcami",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -72945,7 +72976,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/858629",
-    "url_bases": "Convocatoria ayudas individuales estudiantes del municipio - Curso 2025/2026",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -72974,7 +73005,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/858889",
-    "url_bases": "Convocatoria ayudas individuales estudiantes del municipio - Curso 2025/2026",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -73033,7 +73064,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/859211",
     "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2024/198/202419808265.pdf",
-    "seu_electronica": "www.segria.cat",
+    "seu_electronica": "https://www.segria.cat",
     "resum": null
   },
   {
@@ -73236,7 +73267,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/859953",
     "url_bases": "https://cido.diba.cat/subvencions/19941646/subvencions-a-entitats-que-realitzen-accions-de-caire-social-al-municipi-exercici-2025-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -73324,7 +73355,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/860295",
-    "url_bases": "BASES REGULADORES DELS AJUTS A CONCEDIR PER L'AJUNTAMENT DELS PALLARESOS PER A L'ADQUISICIÓ DE VACUNES NO COBERTES PEL SISTEMA DE SALUT PÚBLICA",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -73469,8 +73500,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/860673",
-    "url_bases": "https://bop.diba.cat/anunci/3680012/aprovacio-inicial-deles- bases-reguladores-per-a-la-sol-licitud-i-atorgament-desubvencions- a-les-entitats-participants-en-la-cavalcada-dereis- ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "url_bases": null,
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -73703,7 +73734,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/861341",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/71124/bases-de-subvencions-a-les-ampes-dels-centres-publics-i-municipals-d-educacio-infantil-primaria-i-secundaria-escola-de-musica-i-llars-d-infants-text-integre-aprovacio-definitiva-ajuntament-altafulla",
-    "seu_electronica": "www.altafulla.cat",
+    "seu_electronica": "https://www.altafulla.cat",
     "resum": null
   },
   {
@@ -73761,7 +73792,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/861355",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/71100/bases-de-subvencions-a-entitats-esportives-municipals-any-2020-i-seguents-text-integre-aprovacio-definitiva-ajuntament-altafulla",
-    "seu_electronica": "www.altafulla.cat",
+    "seu_electronica": "https://www.altafulla.cat",
     "resum": null
   },
   {
@@ -74079,7 +74110,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862071",
-    "url_bases": "https://bop.diba.cat/anunci/938239/aprovacio-inicial-del-reglament-per-a-la-concessio-d-ajuts-economics-a-infants-per-a-la practica-d-esports-a-entitats-esportives-privades-de-montmelo-ajuntament-de-montmelo",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -74197,7 +74228,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862495",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2015/56/20155602982.pdf",
-    "seu_electronica": "benestarsocial@plaestany.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -74343,7 +74374,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/862857",
     "url_bases": "https://cido.diba.cat/subvencions/20030944/ajuts-per-a-families-amb-vulnerabilitat-economica-per-a-la-realitzacio-dactivitats-extraescolars-organitzades-per-lafa-de-lescola-pedralta-curs-2025-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -74430,7 +74461,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/863038",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/276059/bases-reguladores-del-premi-de-contes-domingo-riba-i-del-premi-de-poesia-lluis-de-montsia-text-integre-aprovacio-definitiva-ajuntament-rapita-la",
-    "seu_electronica": "larapita.cat",
+    "seu_electronica": "https://larapita.cat",
     "resum": null
   },
   {
@@ -74783,7 +74814,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/864703",
-    "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=rc erca&vw=0&ebop_any=2023&dini=&mini=&dfi=&mfi=&index 1=156&index2=210&index3=365&index4=&qua1=2023- 1&qua2=&n_exp=&num_bop=&cod_af=&order=0&n_rege=& neteja=0&ok=submit",
+    "url_bases": null,
     "seu_electronica": "https://rodadebera.eadministracio.cat/info.0",
     "resum": null
   },
@@ -74841,7 +74872,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/864751",
-    "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=a nunci&id=2059&ebop_any=2023",
+    "url_bases": null,
     "seu_electronica": "https://rodadebera.eadministracio.cat/info.0",
     "resum": null
   },
@@ -74870,7 +74901,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/864818",
-    "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=rc erca&vw=0&ebop_any=2018&dini=&mini=&dfi=&mfi=&index 1=286&index2=336&index3=495&index4=&qua1=2018- 1&qua2=&n_exp=&num_bop=&cod_af=&order=0&n_rege=& neteja=0&ok=submit",
+    "url_bases": null,
     "seu_electronica": "https://rodadebera.eadministracio.cat/info.0",
     "resum": null
   },
@@ -74929,7 +74960,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/865057",
     "url_bases": "https://gimenellsielpladelafont.eadministracio.cat/preview-document/841b9ba0-83bd-4828-bb03-6e3cc61ae0ce/",
-    "seu_electronica": "Ajuntament de Gimenells i el Pla de la Font",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -75190,8 +75221,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/865855",
-    "url_bases": "www.montgat.cat",
-    "seu_electronica": "www.montgat.cat",
+    "url_bases": "https://www.montgat.cat",
+    "seu_electronica": "https://www.montgat.cat",
     "resum": null
   },
   {
@@ -75365,7 +75396,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/867064",
     "url_bases": "https://tauler.seu-e.cat/detall?idEns=2511090004&idEdicte=594753",
-    "seu_electronica": "WWW.GUISSONA.CAT",
+    "seu_electronica": "https://WWW.GUISSONA.CAT",
     "resum": null
   },
   {
@@ -75596,7 +75627,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/867449",
-    "url_bases": "Convocatorias 2026 - Ayuntamiento de Cornellà",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -75625,7 +75656,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/867463",
-    "url_bases": "Convocatorias 2026 - Ayuntamiento de Cornellà",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -75654,7 +75685,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/867474",
-    "url_bases": "Convocatorias 2026 - Ayuntamiento de Cornellà",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -75683,7 +75714,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/867482",
-    "url_bases": "Convocatorias 2026 - Ayuntamiento de Cornellà",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -76004,7 +76035,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/868274",
     "url_bases": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977",
-    "seu_electronica": "https://www.seu-e.cat/ca/web/santjaumedellierca/govern-obert-i- transparencia",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -76264,7 +76295,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/869773",
-    "url_bases": "https://seua.sabadell.cat/seuelectronica/p/detallSubv_cat.asp?Subtipus=MB&cod=20 23BSMB00001&NomXML=Subvencions2025.xml",
+    "url_bases": null,
     "seu_electronica": "https://seu.sabadell.cat/opensiac/action/main?method=enter",
     "resum": null
   },
@@ -76293,7 +76324,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/869776",
-    "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/convocat orias/738937",
+    "url_bases": null,
     "seu_electronica": "https://seu-e.cat/ca/web/aiguamurcia/seu-electronica",
     "resum": null
   },
@@ -76382,7 +76413,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870260",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2021/175/202117507700.pdf",
-    "seu_electronica": "www.lacelleradeter.cat",
+    "seu_electronica": "https://www.lacelleradeter.cat",
     "resum": null
   },
   {
@@ -76411,7 +76442,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870282",
     "url_bases": "https://bop.diba.cat/anteriors/2024-01-22?bopb_dia%5BparaulaClau%5D=Castellbell+i+el+Vilar&bopb_dia%5BtipologiaAnunciant%5D=&bopb_dia%5BtipusAnunci%5D=",
-    "seu_electronica": "www.castellbellielvilar.cat",
+    "seu_electronica": "https://www.castellbellielvilar.cat",
     "resum": null
   },
   {
@@ -76439,7 +76470,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870313",
-    "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=d wn&tipus=i&data=20210407&anyp=2021&num=02680&v=i",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -76498,7 +76529,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/870428",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2023/72/20237202762.pdf",
-    "seu_electronica": "das@das.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -76587,7 +76618,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871027",
     "url_bases": "https://bop.diba.cat/anuncio/969323/aprovacio-definitiva-de-l-ordenanca-general-de-subvencions-de-sant-cugat-del-valles-ajuntament-de-sant-cugat-del-valles",
-    "seu_electronica": "www.santcugat.cat/seu/Procedimientos.aspx",
+    "seu_electronica": "https://www.santcugat.cat/seu/Procedimientos.aspx",
     "resum": null
   },
   {
@@ -76617,7 +76648,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871061",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/133931/bases-i-convocatoria-subvencions-per-a-activitats-esportives-per-a-l-any-2014-termini-presentacio-sol-licituds-ajuntament-tivissa",
-    "seu_electronica": "www.tivissa.cat",
+    "seu_electronica": "https://www.tivissa.cat",
     "resum": null
   },
   {
@@ -76647,7 +76678,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871076",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/133929/bases-i-convocatoria-subvencions-per-a-activitats-de-caracter-cultural-recreatiu-i-de-lleure-per-a-l-any-2014-termini-presentacio-sol-licituds-ajuntament-tivissa",
-    "seu_electronica": "www.tivissa.cat",
+    "seu_electronica": "https://www.tivissa.cat",
     "resum": null
   },
   {
@@ -76676,7 +76707,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871086",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/133965/bases-i-convocatoria-subvencions-per-a-les-empreses-i-empresaris-individuals-per-promocionar-l-ocupacio-per-a-l-any-2014-termini-presentacio-sol-licituds-ajuntament-tivissa",
-    "seu_electronica": "www.tivissa.cat",
+    "seu_electronica": "https://www.tivissa.cat",
     "resum": null
   },
   {
@@ -76705,7 +76736,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871092",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/133940/bases-i-convocatoria-subvencions-per-a-les-families-per-adquirir-els-llibres-escolars-d-ensenyament-obligatori-primaria-i-eso-per-a-l-any-2014-termini-presentacio-sol-licituds-ajuntament-tivissa",
-    "seu_electronica": "www.tivissa.cat",
+    "seu_electronica": "https://www.tivissa.cat",
     "resum": null
   },
   {
@@ -76734,7 +76765,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871098",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/105115/bases-d-ajuts-economics-a-les-families-amb-infants-de-0-a-3-anys-per-a-afavorir-la-conciliacio-familiar-versio-castella-ajuntament-tivissa",
-    "seu_electronica": "www.tivissa.cat",
+    "seu_electronica": "https://www.tivissa.cat",
     "resum": null
   },
   {
@@ -76763,7 +76794,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871116",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/259973/ordenanca-reguladora-de-l-ajut-per-a-les-families-del-nucli-de-darmos-amb-fills-i-filles-que-estiguin-cursant-estudis-de-batxillerat-o-cicles-formatius-en-l-institut-public-de-referencia-per-a-sufragar-part-del",
-    "seu_electronica": "www.tivissa.cat",
+    "seu_electronica": "https://www.tivissa.cat",
     "resum": null
   },
   {
@@ -76850,7 +76881,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/871548",
     "url_bases": "http://bop.diba.cat/anunci/3156039/aprovacio-definitiva-de-la-modificacio-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-de-l-area-metropolitana-de-barcelona-a-les-organitzacions-sindicals-amb-representacio-dins-l-ambit-territorial-de-l-amb-ve",
-    "seu_electronica": "www.amb.cat",
+    "seu_electronica": "https://www.amb.cat",
     "resum": null
   },
   {
@@ -77317,7 +77348,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/873568",
-    "url_bases": "Pendiente de publicación",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -77376,7 +77407,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/874356",
     "url_bases": "https://www.ddgi.cat/bop/mostra-bop/2016-11-03/2016/210",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -77696,7 +77727,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/874862",
-    "url_bases": "url:https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2016&04/022016005569.pdf&1",
+    "url_bases": null,
     "seu_electronica": "https://seu.castelldefels.org/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269000937209214607192",
     "resum": null
   },
@@ -77813,7 +77844,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/876038",
     "url_bases": "https://cido.diba.cat/subvencions/20591966/concurs-del-cartell-del-carnaval-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -77842,7 +77873,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/876075",
     "url_bases": "https://cido.diba.cat/subvencions/20591906/premi-de-la-colla-carnestoltes-del-carnaval-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -77961,7 +77992,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/878207",
     "url_bases": "https://www.taradell.cat/documents_no_index/bases-reguladoras-y-convocatoria-para-la-concesion-de-subvenciones-en-regimen-de-concurrencia-competitiva-para-entidades-2025-26062025-121555.pdf",
-    "seu_electronica": "www.taradell.cat",
+    "seu_electronica": "https://www.taradell.cat",
     "resum": null
   },
   {
@@ -78054,7 +78085,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/879058",
     "url_bases": "https://cido.diba.cat/subvencions/20591869/premis-a-la-participacio-i-a-les-millors-carrosses-i-comparses-inscrites-a-la-rua-del-carnaval-de-lamistat-del-dia-15-de-febrer-de-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -78260,7 +78291,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/880638",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/168380/bases-reguladores-del-concurs-de-decoracio-nadalenca-aprovacio-definitiva-ajuntament-deltebre",
-    "seu_electronica": "AYUNTAMIENTO DE DELTEBRE",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -78289,7 +78320,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/881686",
     "url_bases": "https://cido.diba.cat/subvencions/20729533/subvencions-de-transport-per-als-desplacaments-al-centre-de-dia-de-gent-gran-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -78318,7 +78349,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/881769",
     "url_bases": "https://cido.diba.cat/subvencions/18535396/concessio-de-targetes-moneder-per-a-ladquisicio-daliments-de-primera-necessitat-i-productes-dhigiene-personal-domestica-i-farmacia-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -78579,7 +78610,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/882525",
-    "url_bases": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fseu-e.cat%2Fdocuments%2F674390%2F18712108%2FACTIVITATS%2BINCLUSI%25C3%2593%2BCAS%2F45a1c452-a710-4e9d-aa97-36c200e751c6&tabId=26231212&clen=262708",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -78901,7 +78932,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883442",
     "url_bases": "https://sils.cat/media/sites/23/BasesIncentiusEmprenedorsCASTELLA.pdf",
-    "seu_electronica": "www.sils.cat",
+    "seu_electronica": "https://www.sils.cat",
     "resum": null
   },
   {
@@ -78959,7 +78990,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883468",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2018/84/20188403680.pdf",
-    "seu_electronica": "www.cassa.cat",
+    "seu_electronica": "https://www.cassa.cat",
     "resum": null
   },
   {
@@ -78988,7 +79019,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883585",
     "url_bases": "https://sils.cat/media/sites/23/Bases-castella-1.pdf",
-    "seu_electronica": "www.sils.cat",
+    "seu_electronica": "https://www.sils.cat",
     "resum": null
   },
   {
@@ -79017,7 +79048,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/883628",
     "url_bases": "https://sils.cat/media/sites/23/BasesRecAcadCastella.pdf",
-    "seu_electronica": "www.sils.cat",
+    "seu_electronica": "https://www.sils.cat",
     "resum": null
   },
   {
@@ -79483,7 +79514,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/884781",
     "url_bases": "https://cido.diba.cat/subvencions/20729546/subvencions-a-entitats-esportives-any-2025-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -80822,7 +80853,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/886250",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/194/202419408569.pdf",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -81404,7 +81435,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/887378",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -81842,7 +81873,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/888333",
-    "url_bases": "https://bop.diba.cat/anunci/612496/bases-per-a-laconcessiod- ajuts-per-a-les-families-del-municipi-ambpersonesafectades- per-la-malaltia-celiaca-intolerancia-o-allergia- algluten- ajuntament-de-vilanova-del-cami",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -82722,7 +82753,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890328",
-    "url_bases": "https://bop.diba.cat/anteriors/2021-03- 09?bopb_dia%5BtipologiaAnunciant%5D=org-720",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -82925,7 +82956,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890661",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -82983,7 +83014,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890932",
-    "url_bases": "https://www.santgregori.cat/ca/subvencions-ibonificacions/ subvencions-a-persones-amb-discapacitat-i-omobilitat- reduida/",
+    "url_bases": null,
     "seu_electronica": "https://www.seu-e.cat/ca/web/santgregori/seu-electronica",
     "resum": null
   },
@@ -83041,7 +83072,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890954",
-    "url_bases": "https://santgregori.emunicipis.ddgi.cat/OAC/download/50e60 edd-c9e3-4996-80d9-840a723797ba",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -83070,7 +83101,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890961",
-    "url_bases": "https://santgregori.emunicipis.ddgi.cat/OAC/download/5f080 0ef-0688-4a1d-ac45-05d49e9a0cee",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -83099,7 +83130,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/890984",
-    "url_bases": "https://www.santgregori.cat/ca/subvencions-ibonificacions/ subvencions-a-esportistes-d-esportsindividuals- de-sant-gregori/",
+    "url_bases": null,
     "seu_electronica": "https://www.seu-e.cat/ca/web/santgregori/seu-electronica",
     "resum": null
   },
@@ -83157,7 +83188,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/891343",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -83245,7 +83276,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/891570",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/194/202419408569.pdf",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -83420,7 +83451,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/892173",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2017/157/201715707187.pdf",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -83449,7 +83480,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/892201",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2017/190/201719008156.pdf",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -83682,7 +83713,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/892972",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/142888/bases-de-subvencio-del-premi-maria-baldo-de-recerca-de-batxillerat-aprovacio-definitiva-ajuntament-altafulla",
-    "seu_electronica": "www.altafulla.cat",
+    "seu_electronica": "https://www.altafulla.cat",
     "resum": null
   },
   {
@@ -84329,7 +84360,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/894415",
-    "url_bases": "https://bop.diba.cat/anunci/706395/basesreguladoresdesubvencions- en-especie-per-arranjaments-dhabitatgesdela- gent-gran-persones-amb-dificultats-demobilitat- oambrisc- d-exclusio-social-ajuntament-devilanova- del-cami",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -84533,7 +84564,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/895270",
-    "url_bases": "Ayudas sociales para colaborar en los gastos para vivienda habitual - Ayuntamiento de Cornellà",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -84593,7 +84624,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/895340",
-    "url_bases": "www.castellvidelamarca.cat",
+    "url_bases": "https://www.castellvidelamarca.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -84680,7 +84711,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/895429",
-    "url_bases": "http://bop.diba.cat/anunci/496704/aprovacio-de-lesbasesde- subvencions-per-concurrencia-competitiva-peraactivitats- esportives-ajuntament-de-vallgorguina",
+    "url_bases": null,
     "seu_electronica": "https://vallgorguina.eadministracio.cat/info.0",
     "resum": null
   },
@@ -84709,8 +84740,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/895466",
-    "url_bases": "www.castellvidelamarca.cat",
-    "seu_electronica": "www.castellvidelamarca.cat",
+    "url_bases": "https://www.castellvidelamarca.cat",
+    "seu_electronica": "https://www.castellvidelamarca.cat",
     "resum": null
   },
   {
@@ -84738,7 +84769,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/895481",
-    "url_bases": "http://bop.diba.cat/anunci/654682/bases-reguladores-perala- concessio-de-subvencions-en-regim-deconcurrenciacompetitiva- per-a-activitats-culturalsajuntament- devallgorguina",
+    "url_bases": null,
     "seu_electronica": "https://vallgorguina.eadministracio.cat/info.0",
     "resum": null
   },
@@ -84885,7 +84916,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/896350",
     "url_bases": "http://bop.diba.cat/anunci/3652261/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-per-a-l-impuls-del-govern-obert-als-ajuntaments-metropolitans-versio-en-catala-i-castella-area-metropolitana-de-barcelona",
-    "seu_electronica": "www.amb.cat",
+    "seu_electronica": "https://www.amb.cat",
     "resum": null
   },
   {
@@ -84943,7 +84974,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/896575",
     "url_bases": "https://www.girones.cat/2026/03/26/bases-especifiques-reguladores-per-a-latorgament-de-subvencions-adrecades-a-la-programacio-descenaris-2026/",
-    "seu_electronica": "www.girones.cat",
+    "seu_electronica": "https://www.girones.cat",
     "resum": null
   },
   {
@@ -85764,7 +85795,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/898167",
-    "url_bases": "https://www.cambrils.cat/ca/serveis/cultura/premis-ibiennal- dart/premi-de-narrativa/premi-de-narrativa-bases",
+    "url_bases": null,
     "seu_electronica": "https://seu.cambrils.cat/",
     "resum": null
   },
@@ -86667,7 +86698,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/900384",
-    "url_bases": "file:///C:/Users/aalfageme/Downloads/I_20160711_2016_05422.pdf",
+    "url_bases": null,
     "seu_electronica": "https://seu-e.cat/ca/web/esplugadefrancoli",
     "resum": null
   },
@@ -86783,7 +86814,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/900549",
-    "url_bases": "Subvenciones a la instalación de ascensores 2026 - Ayuntamiento de Cornellà",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -86842,7 +86873,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/900740",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2026/46/20264601737.pdf",
-    "seu_electronica": "web ripoll.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -86870,8 +86901,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/900833",
-    "url_bases": "www.ddgi.cat",
-    "seu_electronica": "www.labisbal.cat",
+    "url_bases": "https://www.ddgi.cat",
+    "seu_electronica": "https://www.labisbal.cat",
     "resum": null
   },
   {
@@ -87103,7 +87134,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901586",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87132,7 +87163,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901587",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87161,7 +87192,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901588",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87190,7 +87221,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901589",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87219,7 +87250,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901590",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87248,7 +87279,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901591",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87277,7 +87308,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901592",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87306,7 +87337,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901593",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87335,7 +87366,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901594",
     "url_bases": "https://bop.diba.cat/anunci/3893119/aprovacio-definitiva-de-la-modificacio-de-les-bases-especifiques-reguladores-per-a-l-atorgament-de-subvencions-i-de-la-seva-refosa-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -87422,7 +87453,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901781",
-    "url_bases": "https://bop.diba.cat/anunci/3079812/aprovacio-de-lesbases- especifiques-per-a-la-concessio-d-ajuts-per-amaterial- i-llibres-escolars-i-casals-d-estiu-ajuntament-daiguafreda",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -87481,7 +87512,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/901858",
     "url_bases": "https://www.svmontalt.cat/ARXIUS/2016/ORDENANCES2017/ordenanA_a_38_subvencions.pdf",
-    "seu_electronica": "www.svmontalt.cat",
+    "seu_electronica": "https://www.svmontalt.cat",
     "resum": null
   },
   {
@@ -87625,7 +87656,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902044",
-    "url_bases": "https://www.cambrils.cat/ca/serveis/cultura/premis-ibiennal- dart/premi-de-poesia/bases-del-premi-de-poesiavila- de-cambrils",
+    "url_bases": null,
     "seu_electronica": "https://seu.cambrils.cat/",
     "resum": null
   },
@@ -87772,8 +87803,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902477",
-    "url_bases": "www.ccgarraf.cat",
-    "seu_electronica": "www.ccgarraf.cat",
+    "url_bases": "https://www.ccgarraf.cat",
+    "seu_electronica": "https://www.ccgarraf.cat",
     "resum": null
   },
   {
@@ -87801,7 +87832,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902529",
-    "url_bases": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+    "url_bases": null,
     "seu_electronica": "https://www.seu-e.cat/web/hostalric/seu-electronica",
     "resum": null
   },
@@ -87830,7 +87861,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902546",
-    "url_bases": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+    "url_bases": null,
     "seu_electronica": "https://www.seu-e.cat/web/hostalric/seu-electronica",
     "resum": null
   },
@@ -87890,7 +87921,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902567",
-    "url_bases": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -88040,7 +88071,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/902845",
     "url_bases": "https://larapita.cat/ajuts-i-subvencions/ajuts-dineraris-directes-a-persones-o-families-per-fer-front-a-situacions-de-risc-economic-i-o-socials/",
-    "seu_electronica": "larapita.cat",
+    "seu_electronica": "https://larapita.cat",
     "resum": null
   },
   {
@@ -88420,7 +88451,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904089",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -88450,7 +88481,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904195",
     "url_bases": "https://www.boe.es/eli/es/l/2003/11/17/38/con",
-    "seu_electronica": "www.savall.cat",
+    "seu_electronica": "https://www.savall.cat",
     "resum": null
   },
   {
@@ -88508,7 +88539,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/904398",
     "url_bases": "https://cido.diba.cat/subvencions/20592015/concurs-del-cartell-de-la-festa-major-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -88741,7 +88772,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905107",
     "url_bases": "https://www.svmontalt.cat/ARXIUS/2016/ORDENANCES2017/ordenanA_a_38_subvencions.pdf",
-    "seu_electronica": "www.svmontalt.cat",
+    "seu_electronica": "https://www.svmontalt.cat",
     "resum": null
   },
   {
@@ -88770,7 +88801,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905142",
     "url_bases": "https://www.svmontalt.cat/ARXIUS/2016/ORDENANCES2017/ordenanA_a_38_subvencions.pdf",
-    "seu_electronica": "www.svmontalt.cat",
+    "seu_electronica": "https://www.svmontalt.cat",
     "resum": null
   },
   {
@@ -88799,7 +88830,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905145",
     "url_bases": "https://www.ddgi.cat/bop/mostra-bop/2026-02-17/2026/32",
-    "seu_electronica": "www.vilablareix.cat",
+    "seu_electronica": "https://www.vilablareix.cat",
     "resum": null
   },
   {
@@ -88827,7 +88858,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905162",
-    "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers /pdf/2016/89/BOP-250364510.pdf",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -88886,7 +88917,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905386",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2024/158/202415807308.pdf",
-    "seu_electronica": "web ripoll.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -88917,7 +88948,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905396",
-    "url_bases": "Bases reguladoras de la concesión de subvenciones destinadas a la rehabilitación y mejora de los edificios de la ciudad de Figueres",
+    "url_bases": null,
     "seu_electronica": "https://www.figueres.cat/tramits/convocatories",
     "resum": null
   },
@@ -89036,7 +89067,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905423",
-    "url_bases": "Bases reguladoras de la concesión de subvenciones destinadas a la rehabilitación y mejora de los edificios de la ciudad de Figueres",
+    "url_bases": null,
     "seu_electronica": "https://www.figueres.cat/tramits/convocatories",
     "resum": null
   },
@@ -89094,7 +89125,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/905500",
-    "url_bases": "www.labisbal.cat",
+    "url_bases": "https://www.labisbal.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -89181,8 +89212,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906064",
-    "url_bases": "www.labisbal.cat",
-    "seu_electronica": "www.labisbal.cat",
+    "url_bases": "https://www.labisbal.cat",
+    "seu_electronica": "https://www.labisbal.cat",
     "resum": null
   },
   {
@@ -89269,7 +89300,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906385",
     "url_bases": "http://bop.diba.cat/anunci/3082258/bases-reguladores-especifiques-de-les-subvencions-destinades-al-consum-de-l-aigua-corresponents-a-l-habitatge-habitual-de-persones-de-65-anys-d-edat-o-mes-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -89299,7 +89330,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906481",
-    "url_bases": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers /pdf/2024/139/202413905984.pdf",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -89418,7 +89449,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/906650",
     "url_bases": "http://bop.diba.cat/anunci/3597429/aprovacio-inicial-de-les-bases-reguladores-per-a-sol-licitud-i-atorgament-de-subvencions-per-a-la-igualtat-d-oportunitats-de-la-infancia-en-l-entorn-educatiu-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -89943,7 +89974,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/907688",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -89972,8 +90003,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/907846",
-    "url_bases": "www.torroella-estartit.cat",
-    "seu_electronica": "www.torroella-estartit.cat",
+    "url_bases": "https://www.torroella-estartit.cat",
+    "seu_electronica": "https://www.torroella-estartit.cat",
     "resum": null
   },
   {
@@ -90001,7 +90032,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908041",
-    "url_bases": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -90030,7 +90061,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908054",
-    "url_bases": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -90263,7 +90294,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908726",
     "url_bases": "https://cido.diba.cat/subvencions/21414469/subvencions-a-esportistes-individuals-per-a-activitats-fisiques-i-esportives-any-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -90321,7 +90352,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908746",
     "url_bases": "https://cido.diba.cat/subvencions/21414456/ajuts-per-a-families-amb-vulnerabilitat-economica-per-a-la-realitzacio-dactivitats-extraescolars-en-materia-desports-curs-2025-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -90407,7 +90438,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/908860",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -90494,7 +90525,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909009",
-    "url_bases": "www.montgat.cat",
+    "url_bases": "https://www.montgat.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -90698,7 +90729,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909488",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -90727,7 +90758,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909489",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91046,7 +91077,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909785",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91075,7 +91106,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909786",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91104,7 +91135,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909788",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91133,7 +91164,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909789",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91162,7 +91193,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909791",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91191,7 +91222,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909792",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91220,7 +91251,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909794",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91249,7 +91280,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909795",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91278,7 +91309,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909797",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91307,7 +91338,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909799",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91336,7 +91367,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909801",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91365,7 +91396,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909806",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-lgtbiq-serveis-socials-gent-gran-convivencia-salut-i-comerc-per-a-l-any-2026-ajuntament-de-badalona",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91423,7 +91454,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/909866",
     "url_bases": "https://bop.diba.cat/anunci/3929665/bases-especifiques-reguladores-de-la-convocatoria-de-subvencions-destinades-a-entitats-que-realitzin-activitats-o-programes-referits-a-l-educacio-participacio-cultura-esports-joventut-politiques-d-igualtat-feminismes-i-",
-    "seu_electronica": "https:// seu.badalona.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -91481,7 +91512,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/910204",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/265095/bases-del-premi-de-narrativa-sebastia-j-arbo-text-aprovacio-definitiva-ajuntament-rapita-la",
-    "seu_electronica": "larapita.cat",
+    "seu_electronica": "https://larapita.cat",
     "resum": null
   },
   {
@@ -91510,7 +91541,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/910217",
     "url_bases": "https://www.dipta.cat/bopt/web/anunci/265091/bases-del-concurs-d-escultura-agusti-vizcarro-la-pin-text-aprovacio-definitiva-ajuntament-rapita-la",
-    "seu_electronica": "larapita.cat",
+    "seu_electronica": "https://larapita.cat",
     "resum": null
   },
   {
@@ -91656,8 +91687,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/910379",
-    "url_bases": "www.campllong.cat",
-    "seu_electronica": "www.campllong.cat",
+    "url_bases": "https://www.campllong.cat",
+    "seu_electronica": "https://www.campllong.cat",
     "resum": null
   },
   {
@@ -91918,7 +91949,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/911095",
-    "url_bases": "https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2017&06/0 22017011785.pdf&1",
+    "url_bases": null,
     "seu_electronica": "https://vallgorguina.eadministracio.cat/info.0",
     "resum": null
   },
@@ -91976,7 +92007,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/911255",
-    "url_bases": "http://bop.diba.cat/anunci/1502942/aprovacio-deles- bases-especifiques-que-regularan-la-concessio-de-premis-joves-de-castelldefelsajuntament- de-castelldefels",
+    "url_bases": null,
     "seu_electronica": "https://seu.castelldefels.org/sta/CarpetaPublic/?APP_CODE=STA&PAGE_CODE=PTS2_HOME",
     "resum": null
   },
@@ -92063,8 +92094,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/911748",
-    "url_bases": "www.torroella-estartit.cat",
-    "seu_electronica": "www.torroella-estartit.cat",
+    "url_bases": "https://www.torroella-estartit.cat",
+    "seu_electronica": "https://www.torroella-estartit.cat",
     "resum": null
   },
   {
@@ -92209,7 +92240,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/912208",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2021/143/202114306483.pdf",
-    "seu_electronica": "wwww.figueres.cat",
+    "seu_electronica": "https://wwww.figueres.cat",
     "resum": null
   },
   {
@@ -92444,7 +92475,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/912944",
     "url_bases": "http://bop.diba.cat/anunci/3954938/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-sol-licitud-i-atorgament-de-subvencions-per-la-igualtat-d-oportunitats-de-la-infancia-en-l-entorn-educatiu-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -92473,7 +92504,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/913166",
     "url_bases": "http://bop.diba.cat/anunci/3954938/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-sol-licitud-i-atorgament-de-subvencions-per-la-igualtat-d-oportunitats-de-la-infancia-en-l-entorn-educatiu-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -92591,7 +92622,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/913752",
-    "url_bases": "www.santjuliaderamis.cat",
+    "url_bases": "https://www.santjuliaderamis.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -92620,7 +92651,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/913779",
-    "url_bases": "www.santjuliaderamis.cat",
+    "url_bases": "https://www.santjuliaderamis.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -92862,7 +92893,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/914125",
-    "url_bases": "www.santjuliaderamis.cat",
+    "url_bases": "https://www.santjuliaderamis.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -92922,8 +92953,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/914546",
-    "url_bases": "https://seu2.santboi.cat/govern-obert/tramits-dinformacio-publica/junta-de- govern-aprovacio-inicial-bases-reguladores-programa-futur-n666-2024-000006",
-    "seu_electronica": "https://omap.santboi.cat/llibres.nsf/ca- IntranetTemesperID/FE5D8CFE682DF35CC1257A8D0036C00F?OpenDocument &amp;Clau=Tr%E0mits&amp;Idioma=ca&amp;unid=605CFEBE74ED0169C1257D7200309848&amp; ViaRecepcio=Presencial&amp;Seu=N",
+    "url_bases": null,
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -93068,7 +93099,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/915447",
     "url_bases": "https://www.diputaciodetarragona.cat/ebop/index.php?op=dwn&tipus=i&data=20150411&anyp=2015&num=03662&v=i",
-    "seu_electronica": "www.tarragona.cat",
+    "seu_electronica": "https://www.tarragona.cat",
     "resum": null
   },
   {
@@ -93097,7 +93128,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/915559",
-    "url_bases": "https://web.paeria.cat/paeria/pressupostos/2026/annex_sub vencions_nominatives_2026_cas.pdf",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -93127,7 +93158,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/915571",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2015/56/20155602982.pdf",
-    "seu_electronica": "benestarsocial@plaestany.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -93657,7 +93688,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/917259",
     "url_bases": "https://www.celra.cat/wp/blog/2026/06/17/subvencions-esports-2025-2026/",
-    "seu_electronica": "www.celra.cat",
+    "seu_electronica": "https://www.celra.cat",
     "resum": null
   },
   {
@@ -94127,7 +94158,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/917906",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2026/92/20269204043.pdf",
-    "seu_electronica": "www.lacelleradeter.cat",
+    "seu_electronica": "https://www.lacelleradeter.cat",
     "resum": null
   },
   {
@@ -94302,7 +94333,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/919178",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -94332,7 +94363,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/919184",
     "url_bases": "https://vila-sacra.eadministracio.cat",
-    "seu_electronica": "www.vila-sacra.cat",
+    "seu_electronica": "https://www.vila-sacra.cat",
     "resum": null
   },
   {
@@ -94655,7 +94686,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/919507",
-    "url_bases": "www.santjuliaderamis.cat",
+    "url_bases": "https://www.santjuliaderamis.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -94800,8 +94831,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/919832",
-    "url_bases": "http://bop.diba.cat/anunci/3597445/aprovacio-inicial-de-lesbases- reguladores-dels-premis-concursos-i-o-sortejospromoguts- per-l-ajuntament-ajuntament-de-sant-andreu-dela- barca",
-    "seu_electronica": "www. sabarca.cat",
+    "url_bases": null,
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -94830,7 +94861,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/919864",
     "url_bases": "https://cido.diba.cat/subvencions/21674775/subvencions-per-a-activitats-festives-dassociacions-de-veins-de-nuclis-descentralitzats-no-eucs-estiu-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -94858,7 +94889,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/919972",
-    "url_bases": "www.amposta.cat",
+    "url_bases": "https://www.amposta.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -95006,7 +95037,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/920460",
-    "url_bases": "https://www.dipta.cat/bopt/web/anunci/350260/basesreguladores- per-a-la-concessio-de-subvencions-en-regim-deconcurrencia- no-competitiva-per-a-la-creacio-i-l-establimentde- noves-empreses-al-municipi-aprovacio-definitivaajuntament- vila-seca",
+    "url_bases": null,
     "seu_electronica": "https://vila-seca.eadministracio.cat/info.0",
     "resum": null
   },
@@ -95326,7 +95357,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/921399",
     "url_bases": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
-    "seu_electronica": "www.lacanonja.cat",
+    "seu_electronica": "https://www.lacanonja.cat",
     "resum": null
   },
   {
@@ -95499,7 +95530,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/921713",
-    "url_bases": "https://www.seu-e.cat/es/web/vilaseca/govern-obert-itransparencia/ contractes-convenis-i-subvencions/convenis-isubvencions/ procediment-per-a-la-sol-licitud-desubvencions- 186",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -95732,8 +95763,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/923171",
-    "url_bases": "www.montgat.cat",
-    "seu_electronica": "www.montgat.cat",
+    "url_bases": "https://www.montgat.cat",
+    "seu_electronica": "https://www.montgat.cat",
     "resum": null
   },
   {
@@ -95762,7 +95793,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/923173",
     "url_bases": "http://bop.diba.cat/anunci/3954938/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-sol-licitud-i-atorgament-de-subvencions-per-la-igualtat-d-oportunitats-de-la-infancia-en-l-entorn-educatiu-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -95791,7 +95822,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/923180",
     "url_bases": "http://bop.diba.cat/anunci/3954938/aprovacio-definitiva-de-les-bases-reguladores-per-a-la-sol-licitud-i-atorgament-de-subvencions-per-la-igualtat-d-oportunitats-de-la-infancia-en-l-entorn-educatiu-ajuntament-de-sant-andreu-de-la-barca",
-    "seu_electronica": "www. sabarca.cat",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -96111,7 +96142,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/924660",
     "url_bases": "https://seu.paeria.cat/documentPublic/download/46610",
-    "seu_electronica": "Carpeta Ciutadana - La Paeria :: Ajuntament de Lleida Subvencions de concurrència",
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -96691,7 +96722,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/926484",
-    "url_bases": "www.cunit.cat",
+    "url_bases": "https://www.cunit.cat",
     "seu_electronica": null,
     "resum": null
   },
@@ -96720,8 +96751,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/926641",
-    "url_bases": "Ajuts per a Centres educatius i AMPA/AFA | Ajuntament de Calafell",
-    "seu_electronica": "Ajuts per a Centres educatius i AMPA/AFA | Ajuntament de Calafell",
+    "url_bases": null,
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -96749,8 +96780,8 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/926642",
-    "url_bases": "Ajuts per a Centres educatius i AMPA/AFA | Ajuntament de Calafell",
-    "seu_electronica": "Ajuts per a Centres educatius i AMPA/AFA | Ajuntament de Calafell",
+    "url_bases": null,
+    "seu_electronica": null,
     "resum": null
   },
   {
@@ -97186,7 +97217,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/927678",
-    "url_bases": "https://bop.diba.cat/anunci/3654360/aprovacio-definitivade- la-modificacio-de-les-bases-reguladores-de-l-atorgamentde- subvencions-per-al-foment-de-la-creacio-de-llocs-detreball- per-part-d-empreses-per-a-la-creacio-de-novesactivitats- economiques-i-per-a",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -97215,7 +97246,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/927696",
-    "url_bases": "https://bop.diba.cat/anunci/1128199/aprovaciodefinitivadela modificacio- de-les-bases-reguladores-delessubvencionsperala- millora-de-l-ocupabilitat-icurricularenllenguaanglesaajuntament- de-vilanova-del-cami",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -97302,7 +97333,7 @@
     "estat": "indeterminada",
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/927824",
-    "url_bases": "https://bop.diba.cat/anunci/3092388/aprovacio-definitivadela- modificacio-de-les-bases-especifiques-reguladores-delatorgament- d-ajuts-economics-a-estudiants-quecursinestudis- universitaris-estudis-de-formacio-professionaldegrau- superior-i-de-grau-mi",
+    "url_bases": null,
     "seu_electronica": null,
     "resum": null
   },
@@ -97479,7 +97510,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928318",
     "url_bases": "https://ssl4.ddgi.cat/bopV1/pdf/2026/147/202614706726.pdf",
-    "seu_electronica": "www.santapau.cat",
+    "seu_electronica": "https://www.santapau.cat",
     "resum": null
   },
   {
@@ -97625,7 +97656,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928461",
     "url_bases": "https://cido.diba.cat/subvencions/22031838/subvencions-a-entitats-que-realitzen-accions-de-caire-social-al-municipi-exercici-2026-ajuntament-de-santa-cristina-daro",
-    "seu_electronica": "www.santacristina.cat",
+    "seu_electronica": "https://www.santacristina.cat",
     "resum": null
   },
   {
@@ -97771,7 +97802,7 @@
     "confianca_termini": "baixa",
     "url_oficial": "https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/928737",
     "url_bases": "https://tauler.seu-e.cat/detall?idEns=1718050006&idEdicte=639929",
-    "seu_electronica": "www.scf.cat",
+    "seu_electronica": "https://www.scf.cat",
     "resum": null
   }
 ]

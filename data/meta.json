@@ -1,9 +1,9 @@
 {
-  "executat": "2026-09-12T12:11:00.360Z",
+  "executat": "2026-09-12T13:17:02.530Z",
   "fonts": {
     "bdns": {
-      "recuperats": 11591,
-      "errors": 2,
+      "recuperats": 11592,
+      "errors": 1,
       "descartats": 0
     },
     "raisc": {
@@ -12,7 +12,14 @@
       "descartats": 0
     }
   },
-  "total": 3311,
+  "total": 3312,
   "obertes": 558,
-  "novetats": []
+  "novetats": [],
+  "resums": {
+    "candidates": 614,
+    "de_cache": 0,
+    "generats": 0,
+    "errors": 0,
+    "omes": true
+  }
 }
