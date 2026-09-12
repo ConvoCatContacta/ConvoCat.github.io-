@@ -1,5 +1,7 @@
 import { defineConfig } from 'astro/config';
 
+import sitemap from '@astrojs/sitemap';
+
 // El repositorio se llama "ConvoCat.github.io-" (con guion final), así que GitHub Pages
 // lo publica como project page bajo esa subruta y no en la raíz del dominio.
 // Cuando haya dominio propio basta con exportar SITE y BASE_PATH="/": por eso ninguna
@@ -12,4 +14,5 @@ export default defineConfig({
   base,
   trailingSlash: 'ignore',
   build: { format: 'directory' },
+  integrations: [sitemap()],
 });
