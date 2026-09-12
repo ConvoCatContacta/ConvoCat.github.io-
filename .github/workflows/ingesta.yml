@@ -72,8 +72,21 @@ jobs:
           fi
           obertes=$(node -p "require('./data/meta.json').obertes")
           git commit -m "Dades: $(date -u +%Y-%m-%d) · ${obertes} convocatòries obertes"
-          git push
-          echo "canvis=true" >> "$GITHUB_OUTPUT"
+
+          # La ingesta dura uns 25 minuts i main pot haver avançat mentrestant. Sense rebasar,
+          # el push es rebutja i es perd tota la feina de l'execució, resums pagats inclosos.
+          # Només toquem data/, que no edita ningú més, així que el rebase no ha de xocar.
+          for intent in 1 2 3; do
+            if git push; then
+              echo "canvis=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Push rebutjat (intent $intent): main ha avançat. Rebasant."
+            git pull --rebase origin main
+          done
+
+          echo "::error::No s'han pogut publicar les dades després de tres intents."
+          exit 1
 
   # Cridat explícitament perquè el push del bot no dispara cap flux pel seu compte.
   desplega:
