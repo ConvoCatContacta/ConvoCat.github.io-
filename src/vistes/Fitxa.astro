@@ -1,0 +1,130 @@
+---
+import Base from '../layouts/Base.astro';
+import Disclaimer from '../components/Disclaimer.astro';
+import FontIData from '../components/FontIData.astro';
+import AltaCorreu from '../components/AltaCorreu.astro';
+import ComDemanar from '../components/ComDemanar.astro';
+import { meta, type Convocatoria } from '../lib/dades.ts';
+import {
+  dataLlarga, diesFinsA, importLlegible, llescaComarca, llescaId, ruta, urgencia,
+} from '../lib/format.ts';
+import { t, terminiLlegible, type Idioma } from '../i18n/textos.ts';
+
+interface Props { convocatoria: Convocatoria; idioma: Idioma }
+const { convocatoria: c, idioma } = Astro.props;
+const x = t(idioma);
+
+const avui = meta().executat.slice(0, 10);
+const dies = c.estat === 'oberta' ? diesFinsA(c.data_fi, avui) : null;
+const diners = importLlegible(c.import_total, idioma);
+const inici = dataLlarga(c.data_inici, idioma);
+const fi = dataLlarga(c.data_fi, idioma);
+// El paràgraf pot no existir (sense clau d'API) o faltar en un idioma: la fitxa es publica igual.
+const paragraf = c.resum?.paragrafs?.[idioma] ?? null;
+---
+
+<Base
+  idioma={idioma}
+  cami={`/convocatoria/${llescaId(c.id)}`}
+  titol={c.titol}
+  descripcio={`${c.organ_convocant}. ${x.estats[c.estat]}.`}
+>
+  <div class="estret">
+    <a class="fitxa__tornar" href={ruta('/', idioma)}>{x.fitxa.tornar}</a>
+
+    <div class="fitxa__dalt">
+      {
+        c.estat === 'oberta'
+          ? <span class={`etiqueta etiqueta--${urgencia(dies)}`}>{terminiLlegible(dies, idioma)}</span>
+          : <span class="etiqueta etiqueta--sense">{x.estats[c.estat]}</span>
+      }
+      <span class="etiqueta etiqueta--ambit">{x.ambits[c.ambit]}</span>
+      {
+        c.comarca && (
+          <a class="etiqueta etiqueta--ambit" href={ruta(`/comarca/${llescaComarca(c.comarca)}`, idioma)}>
+            {c.comarca}
+          </a>
+        )
+      }
+    </div>
+
+    <h1>{c.titol}</h1>
+
+    <dl class="dades">
+      <div class="dades__fila">
+        <dt>{x.fitxa.quiConvoca}</dt>
+        <dd>{c.organ_convocant}</dd>
+      </div>
+      <div class="dades__fila">
+        <dt>{x.fitxa.aQui}</dt>
+        <dd>{c.tipus_beneficiari.length ? c.tipus_beneficiari.join(', ') : x.fitxa.noConsta}</dd>
+      </div>
+      <div class="dades__fila">
+        <dt>{x.fitxa.dotacio}</dt>
+        <dd>{diners ?? x.fitxa.noConsta}</dd>
+      </div>
+      <div class="dades__fila">
+        <dt>{x.fitxa.termini}</dt>
+        <dd>
+          {fi ? (inici ? x.fitxa.delAl(inici, fi) : x.fitxa.finsAl(fi)) : null}
+          {!fi && c.termini_text ? c.termini_text : null}
+          {!fi && !c.termini_text ? x.fitxa.noConsta : null}
+        </dd>
+      </div>
+      {
+        c.municipi && (
+          <div class="dades__fila">
+            <dt>{x.fitxa.municipi}</dt>
+            <dd>{c.municipi}</dd>
+          </div>
+        )
+      }
+    </dl>
+
+    {
+      paragraf && (
+        <div class="resum">
+          <h2>{x.fitxa.enPoquesParaules}</h2>
+          <p>{paragraf}</p>
+          <p class="resum__marca">{x.fitxa.marcaResum}</p>
+        </div>
+      )
+    }
+
+    {
+      c.objecte && (
+        <details class="original">
+          <summary>{x.fitxa.objecteOficial}</summary>
+          <p>{c.objecte}</p>
+        </details>
+      )
+    }
+
+    <div class="accions">
+      <a class="boto" href={c.url_oficial} rel="noopener nofollow" target="_blank">
+        {x.fitxa.veureOficial}
+      </a>
+      {
+        c.url_bases && (
+          <a class="boto boto--secundari" href={c.url_bases} rel="noopener nofollow" target="_blank">
+            {x.fitxa.bases}
+          </a>
+        )
+      }
+      {
+        c.seu_electronica && (
+          <a class="boto boto--secundari" href={c.seu_electronica} rel="noopener nofollow" target="_blank">
+            {x.fitxa.seu}
+          </a>
+        )
+      }
+    </div>
+
+    <ComDemanar convocatoria={c} idioma={idioma} />
+
+    <Disclaimer idioma={idioma} />
+    <FontIData convocatoria={c} idioma={idioma} />
+
+    <AltaCorreu idioma={idioma} />
+  </div>
+</Base>

@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+import { meta } from '../lib/dades.ts';
+import { dataLlarga } from '../lib/format.ts';
+import { legal } from '../i18n/legal.ts';
+import type { Idioma } from '../i18n/textos.ts';
+
+interface Props { idioma: Idioma }
+const { idioma } = Astro.props;
+const l = legal(idioma);
+
+const avui = meta().executat.slice(0, 10);
+const ADRECA = 'ConvoCatContacta@proton.me';
+---
+
+<Base idioma={idioma} cami="/avis-legal" seccio="avis" titol={l.titolPagina} descripcio={l.descripcio}>
+  <div class="estret" style="padding-block: 2rem 1rem;">
+    <h1>{l.h1}</h1>
+
+    <h2>{l.queEs.titol}</h2>
+    <p>{l.queEs.text}</p>
+
+    <h2>{l.fonts.titol}</h2>
+    <p>{l.fonts.intro}</p>
+    <ul>
+      <li>{l.fonts.bdns}</li>
+      <li>{l.fonts.raisc}</li>
+    </ul>
+    <p>{l.fonts.reutilitzacio}</p>
+
+    <h2>{l.limits.titol}</h2>
+    <ul>
+      {l.limits.items.map((item) => <li>{item}</li>)}
+    </ul>
+    <p>{l.limits.tancament} {l.actualitzat(dataLlarga(avui, idioma) ?? avui)}</p>
+
+    <h2>{l.contacte.titol}</h2>
+    <p>
+      <a href={`mailto:${ADRECA}`}>{ADRECA}</a>. {l.contacte.text}
+    </p>
+
+    <h2>{l.privadesa.titol}</h2>
+    <p>{l.privadesa.sensSeguiment}</p>
+    <p>{l.privadesa.correu}</p>
+  </div>
+</Base>

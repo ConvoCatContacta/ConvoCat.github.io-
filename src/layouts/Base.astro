@@ -1,20 +1,33 @@
 ---
 import { ruta } from '../lib/format.ts';
+import {
+  CODI_HREFLANG, IDIOMA_PER_DEFECTE, IDIOMES, NOM_IDIOMA, t, type Idioma,
+} from '../i18n/textos.ts';
+import Bandera from '../components/Bandera.astro';
 import '../styles/global.css';
 
 interface Props {
+  idioma: Idioma;
   titol: string;
   descripcio: string;
-  seccio?: 'inici' | 'comarques' | 'avis';
+  /** Ruta sense base ni prefix d'idioma ("/", "/comarques", "/convocatoria/123"). La necessiten
+   *  el selector d'idioma i els hreflang per apuntar a la mateixa pàgina en cada llengua. */
+  cami: string;
+  seccio?: 'inici' | 'comarques' | 'guia' | 'avis';
 }
 
-const { titol, descripcio, seccio } = Astro.props;
+const { idioma, titol, descripcio, cami, seccio } = Astro.props;
+const x = t(idioma);
 const comptador = import.meta.env.PUBLIC_GOATCOUNTER;
 const complet = titol === 'Convocat' ? 'Convocat' : `${titol} · Convocat`;
+
+const absoluta = (i: Idioma) => new URL(ruta(cami, i), Astro.site ?? 'https://example.invalid').href;
+// El català és la versió canònica: és la raó de ser del projecte i la que ha de posicionar.
+const canonical = absoluta(IDIOMA_PER_DEFECTE);
 ---
 
 <!doctype html>
-<html lang="ca">
+<html lang={CODI_HREFLANG[idioma]}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,8 +35,10 @@ const complet = titol === 'Convocat' ? 'Convocat' : `${titol} · Convocat`;
     <meta name="description" content={descripcio} />
     <meta property="og:title" content={complet} />
     <meta property="og:description" content={descripcio} />
-    <meta property="og:locale" content="ca_ES" />
-    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site ?? 'https://example.invalid')} />
+    <meta property="og:locale" content={idioma} />
+    <link rel="canonical" href={canonical} />
+    {IDIOMES.map((i) => <link rel="alternate" hreflang={CODI_HREFLANG[i]} href={absoluta(i)} />)}
+    <link rel="alternate" hreflang="x-default" href={canonical} />
     {
       /* Analítica sense galetes ni perfilat: només es carrega si hi ha compte configurat, i
          l'avís legal promet que no seguim ningú. Res de Google Analytics. */
@@ -39,15 +54,53 @@ const complet = titol === 'Convocat' ? 'Convocat' : `${titol} · Convocat`;
   <body>
     <header class="capcalera">
       <div class="embolcall capcalera__cos">
-        <a class="marca" href={ruta('/')}>
+        <a class="marca" href={ruta('/', idioma)}>
           <span class="marca__punt" aria-hidden="true"></span>
           Convocat
         </a>
-        <nav class="nav" aria-label="Principal">
-          <a href={ruta('/')} aria-current={seccio === 'inici' ? 'page' : undefined}>Convocatòries</a>
-          <a href={ruta('/comarques')} aria-current={seccio === 'comarques' ? 'page' : undefined}>Comarques</a>
-          <a href={ruta('/avis-legal')} aria-current={seccio === 'avis' ? 'page' : undefined}>Avís legal</a>
-        </nav>
+
+        <div class="capcalera__dreta">
+          <nav class="nav" aria-label={x.nav.principal}>
+            <a href={ruta('/', idioma)} aria-current={seccio === 'inici' ? 'page' : undefined}>
+              {x.nav.convocatories}
+            </a>
+            <a href={ruta('/comarques', idioma)} aria-current={seccio === 'comarques' ? 'page' : undefined}>
+              {x.nav.comarques}
+            </a>
+            <a href={ruta('/com-es-demana', idioma)} aria-current={seccio === 'guia' ? 'page' : undefined}>
+              {x.nav.guia}
+            </a>
+            <a href={ruta('/avis-legal', idioma)} aria-current={seccio === 'avis' ? 'page' : undefined}>
+              {x.nav.avis}
+            </a>
+          </nav>
+
+          {/* Sense JS continua sent una llista d'enllaços utilitzable: el <details> només
+              l'apila en un menú. No cal cap script per canviar d'idioma. */}
+          <details class="idiomes">
+            <summary>
+              <Bandera idioma={idioma} />
+              <span class="visually-hidden">{x.idioma.etiqueta}: </span>{NOM_IDIOMA[idioma]}
+            </summary>
+            <ul>
+              {
+                IDIOMES.map((i) => (
+                  <li>
+                    <a
+                      href={ruta(cami, i)}
+                      hreflang={CODI_HREFLANG[i]}
+                      lang={CODI_HREFLANG[i]}
+                      aria-current={i === idioma ? 'true' : undefined}
+                    >
+                      <Bandera idioma={i} mida={15} />
+                      {NOM_IDIOMA[i]}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </details>
+        </div>
       </div>
     </header>
 
@@ -58,12 +111,10 @@ const complet = titol === 'Convocat' ? 'Convocat' : `${titol} · Convocat`;
     <footer class="peu">
       <div class="embolcall peu__cos">
         <p style="margin:0; max-width:34rem;">
-          <strong>Convocat</strong> és un projecte independent. No és un web oficial ni té cap
-          vincle amb cap administració pública. Les dades provenen de fonts obertes i cada fitxa
-          enllaça sempre a la convocatòria oficial.
+          <strong>Convocat</strong> {x.peu.descripcio}
         </p>
         <p style="margin:0;">
-          <a href={ruta('/avis-legal')}>Avís legal i fonts</a><br />
+          <a href={ruta('/avis-legal', idioma)}>{x.peu.avis}</a><br />
           <a href="mailto:ConvoCatContacta@proton.me">ConvoCatContacta@proton.me</a>
         </p>
       </div>

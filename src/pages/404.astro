@@ -1,19 +1,5 @@
 ---
-import Base from '../layouts/Base.astro';
-import { ruta } from '../lib/format.ts';
+import NoTrobat from "../vistes/NoTrobat.astro";
 ---
 
-<Base titol="Pàgina no trobada" descripcio="Aquesta pàgina no existeix a Convocat.">
-  <div class="estret" style="padding-block: 3rem 1rem;">
-    <h1>Aquesta pàgina no hi és</h1>
-    <p>
-      Potser l'enllaç està mal copiat. Les convocatòries que hem publicat alguna vegada
-      conserven la seva fitxa encara que el termini ja s'hagi tancat, així que un enllaç d'un
-      correu antic hauria de continuar funcionant.
-    </p>
-    <p class="accions">
-      <a class="boto" href={ruta('/')}>Veure les convocatòries obertes</a>
-      <a class="boto boto--secundari" href={ruta('/comarques')}>Buscar per comarca</a>
-    </p>
-  </div>
-</Base>
+<NoTrobat idioma="ca" />

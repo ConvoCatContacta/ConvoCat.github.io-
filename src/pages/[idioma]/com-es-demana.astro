@@ -1,0 +1,13 @@
+---
+import Guia from '../../vistes/Guia.astro';
+import { ALTRES_IDIOMES, type Idioma } from '../../i18n/textos.ts';
+
+export function getStaticPaths() {
+  return ALTRES_IDIOMES.map((idioma) => ({ params: { idioma }, props: { idioma } }));
+}
+
+interface Props { idioma: Idioma }
+const { idioma } = Astro.props;
+---
+
+<Guia idioma={idioma} />

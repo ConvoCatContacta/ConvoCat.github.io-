@@ -1,31 +1,24 @@
 ---
 import { dataLlarga } from '../lib/format.ts';
+import { t, type Idioma } from '../i18n/textos.ts';
 import { meta, type Convocatoria } from '../lib/dades.ts';
 
-interface Props {
-  convocatoria: Convocatoria;
-}
-
-const { convocatoria } = Astro.props;
+interface Props { convocatoria: Convocatoria; idioma: Idioma }
+const { convocatoria, idioma } = Astro.props;
+const x = t(idioma).fontData;
 
 const NOMS: Record<string, string> = {
   bdns: 'Base de Dades Nacional de Subvencions (BDNS)',
   raisc: "Registre d'ajuts i subvencions de Catalunya (RAISC)",
 };
+const unio: Record<Idioma, string> = { ca: ' i ', es: ' y ', en: ' and ' };
 
-const fonts = convocatoria.fonts.map((f) => NOMS[f] ?? f).join(' i ');
+const fonts = convocatoria.fonts.map((f) => NOMS[f] ?? f).join(unio[idioma]);
 // La data surt de l'execució de la ingesta, no de cada registre: veure el comentari a types.ts.
-const actualitzat = dataLlarga(meta().executat.slice(0, 10));
+const actualitzat = dataLlarga(meta().executat.slice(0, 10), idioma);
 ---
 
 <p class="font-data">
-  Font: {fonts}. Dades recollides el {actualitzat}.
-  {
-    convocatoria.confianca_termini === 'baixa' && (
-      <>
-        {' '}El termini d'aquesta convocatòria no consta com a data estructurada a l'origen, només
-        com a text, i per tant no l'hem pogut verificar.
-      </>
-    )
-  }
+  {x.font(fonts)} {actualitzat && x.recollides(actualitzat)}
+  {convocatoria.confianca_termini === 'baixa' && <> {x.terminiBaix}</>}
 </p>

@@ -1,0 +1,122 @@
+---
+import Base from '../layouts/Base.astro';
+import TargetaConvocatoria from '../components/TargetaConvocatoria.astro';
+import AltaCorreu from '../components/AltaCorreu.astro';
+import { beneficiaris, comarques, fitxes, meta } from '../lib/dades.ts';
+import { dataLlarga, ruta } from '../lib/format.ts';
+import { t, type Idioma } from '../i18n/textos.ts';
+
+interface Props { idioma: Idioma }
+const { idioma } = Astro.props;
+const x = t(idioma);
+
+const llista = fitxes();
+const avui = meta().executat.slice(0, 10);
+const totesComarques = comarques();
+const totsBeneficiaris = beneficiaris();
+---
+
+<Base idioma={idioma} cami="/" seccio="inici" titol={x.inici.titolPagina} descripcio={x.inici.descripcio}>
+  <div class="embolcall">
+    <section class="hero">
+      <span class="recompte">{x.inici.recompte(llista.length)}</span>
+      <h1>{x.inici.h1}</h1>
+      <p class="entrada">{x.inici.entrada}</p>
+    </section>
+
+    <form class="filtres" id="filtres" role="search">
+      <div class="filtres__fila">
+        <div class="camp" style="flex: 2 1 18rem;">
+          <label for="f-text">{x.filtres.cerca}</label>
+          <input id="f-text" type="search" placeholder={x.filtres.cercaPlaceholder} autocomplete="off" />
+        </div>
+        <div class="camp">
+          <label for="f-comarca">{x.filtres.comarca}</label>
+          <select id="f-comarca">
+            <option value="">{x.filtres.totes}</option>
+            {totesComarques.map((c) => <option value={c.nom}>{c.nom} ({c.total})</option>)}
+          </select>
+        </div>
+        <div class="camp">
+          <label for="f-ambit">{x.filtres.ambit}</label>
+          <select id="f-ambit">
+            <option value="">{x.filtres.tots}</option>
+            <option value="autonomic">{x.filtres.ambitAutonomic}</option>
+            <option value="local">{x.filtres.ambitLocal}</option>
+          </select>
+        </div>
+        <div class="camp">
+          <label for="f-termini">{x.filtres.termini}</label>
+          <select id="f-termini">
+            <option value="">{x.filtres.qualsevol}</option>
+            <option value="7">{x.filtres.menysDe7}</option>
+            <option value="30">{x.filtres.menysDe30}</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="camp">
+        <label for="f-beneficiari">{x.filtres.beneficiari}</label>
+        <select id="f-beneficiari">
+          <option value="">{x.filtres.tots}</option>
+          {totsBeneficiaris.map((b) => <option value={b}>{b}</option>)}
+        </select>
+      </div>
+
+      <div class="filtres__peu">
+        <span id="recompte" aria-live="polite">{x.filtres.resultat(llista.length)}</span>
+        <button type="button" class="boto-net" id="neteja">{x.filtres.neteja}</button>
+      </div>
+    </form>
+
+    <ul class="llista" id="llista">
+      {llista.map((fitxa) => <TargetaConvocatoria fitxa={fitxa} avui={avui} idioma={idioma} />)}
+    </ul>
+
+    <p class="sense-resultats" id="buit" hidden>{x.filtres.capResultat}</p>
+
+    <AltaCorreu idioma={idioma} />
+
+    <p class="font-data">
+      {x.fontData.recollides(dataLlarga(avui, idioma) ?? avui)}
+      <a href={ruta('/avis-legal', idioma)}>{x.peu.avis}</a>.
+    </p>
+  </div>
+</Base>
+
+<script define:vars={{ etiquetes: { u: t(idioma).filtres.resultat(1), p: t(idioma).filtres.resultat(2) } }}>
+  // Les etiquetes del recompte venen del servidor perquè el text depèn de l'idioma de la pàgina.
+  const form = document.getElementById('filtres');
+  const llista = document.getElementById('llista');
+  const recompte = document.getElementById('recompte');
+  const buit = document.getElementById('buit');
+  const items = Array.from(llista.children);
+  const camp = (id) => document.getElementById(id);
+
+  function filtra() {
+    const text = camp('f-text').value.trim().toLowerCase();
+    const comarca = camp('f-comarca').value;
+    const ambit = camp('f-ambit').value;
+    const termini = camp('f-termini').value;
+    const beneficiari = camp('f-beneficiari').value;
+
+    let visibles = 0;
+    for (const item of items) {
+      const dies = item.dataset.dies === '' ? null : Number(item.dataset.dies);
+      const passa =
+        (!text || (item.dataset.cerca ?? '').includes(text)) &&
+        (!comarca || item.dataset.comarca === comarca) &&
+        (!ambit || item.dataset.ambit === ambit) &&
+        (!beneficiari || (item.dataset.beneficiaris ?? '').split('|').includes(beneficiari)) &&
+        (!termini || (dies !== null && dies <= Number(termini)));
+      item.hidden = !passa;
+      if (passa) visibles++;
+    }
+
+    recompte.textContent = (visibles === 1 ? etiquetes.u : etiquetes.p).replace(/^\d+/, String(visibles));
+    buit.hidden = visibles > 0;
+  }
+
+  form.addEventListener('input', filtra);
+  document.getElementById('neteja')?.addEventListener('click', () => { form.reset(); filtra(); });
+</script>
