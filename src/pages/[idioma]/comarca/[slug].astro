@@ -1,0 +1,16 @@
+---
+import ComarcaVista from '../../../vistes/Comarca.astro';
+import { comarques, type Comarca } from '../../../lib/dades.ts';
+import { ALTRES_IDIOMES, type Idioma } from '../../../i18n/textos.ts';
+
+export function getStaticPaths() {
+  return ALTRES_IDIOMES.flatMap((idioma) =>
+    comarques().map((comarca) => ({ params: { idioma, slug: comarca.llesca }, props: { comarca, idioma } }))
+  );
+}
+
+interface Props { comarca: Comarca; idioma: Idioma }
+const { comarca, idioma } = Astro.props;
+---
+
+<ComarcaVista comarca={comarca} idioma={idioma} />

@@ -1,0 +1,44 @@
+---
+import Base from '../layouts/Base.astro';
+import { comarques, meta } from '../lib/dades.ts';
+import { dataLlarga, ruta } from '../lib/format.ts';
+import { comarcaAmbArticle } from '../../pipeline/comarques.ts';
+import { t, type Idioma } from '../i18n/textos.ts';
+
+interface Props { idioma: Idioma }
+const { idioma } = Astro.props;
+const x = t(idioma);
+
+const llista = comarques();
+const avui = meta().executat.slice(0, 10);
+---
+
+<Base
+  idioma={idioma}
+  cami="/comarques"
+  seccio="comarques"
+  titol={x.comarques.titolPagina}
+  descripcio={x.comarques.descripcio}
+>
+  <div class="embolcall">
+    <section class="hero">
+      <h1>{x.comarques.h1}</h1>
+      <p class="entrada">{x.comarques.entrada}</p>
+    </section>
+
+    <ul class="graella">
+      {
+        llista.map((c) => (
+          <li>
+            <a href={ruta(`/comarca/${c.llesca}`, idioma)}>
+              {idioma === 'ca' ? comarcaAmbArticle(c.nom) : c.nom}
+              <span>{c.total}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="font-data">{x.fontData.recollides(dataLlarga(avui, idioma) ?? avui)}</p>
+  </div>
+</Base>

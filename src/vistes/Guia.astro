@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import AltaCorreu from '../components/AltaCorreu.astro';
+import { guia } from '../i18n/guia.ts';
+import type { Idioma } from '../i18n/textos.ts';
+
+interface Props { idioma: Idioma }
+const { idioma } = Astro.props;
+const g = guia(idioma);
+---
+
+<Base
+  idioma={idioma}
+  cami="/com-es-demana"
+  seccio="guia"
+  titol={g.titolPagina}
+  descripcio={g.descripcio}
+>
+  <div class="estret" style="padding-block: 2rem 1rem;">
+    <h1>{g.h1}</h1>
+    <p class="entrada">{g.entrada}</p>
+
+    <p class="avis"><strong>{g.avis}</strong></p>
+
+    {
+      g.blocs.map((bloc) => (
+        <section class="pas">
+          <h2>{bloc.titol}</h2>
+          <p>{bloc.text}</p>
+          {bloc.llista && (
+            <ul>
+              {bloc.llista.map((item) => <li>{item}</li>)}
+            </ul>
+          )}
+        </section>
+      ))
+    }
+
+    <section class="pas">
+      <h2>{g.enllacos.titol}</h2>
+      <ul class="enllacos-oficials">
+        {
+          g.enllacos.items.map((e) => (
+            <li>
+              <a href={e.url} rel="noopener nofollow" target="_blank">{e.nom}</a>
+              <span>{e.nota}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <AltaCorreu idioma={idioma} />
+  </div>
+</Base>

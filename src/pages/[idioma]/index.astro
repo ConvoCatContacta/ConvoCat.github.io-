@@ -1,0 +1,14 @@
+---
+import Inici from '../../vistes/Inici.astro';
+import { ALTRES_IDIOMES, type Idioma } from '../../i18n/textos.ts';
+
+// El català viu a l'arrel sense prefix; aquí només es generen els altres idiomes.
+export function getStaticPaths() {
+  return ALTRES_IDIOMES.map((idioma) => ({ params: { idioma }, props: { idioma } }));
+}
+
+interface Props { idioma: Idioma }
+const { idioma } = Astro.props;
+---
+
+<Inici idioma={idioma} />

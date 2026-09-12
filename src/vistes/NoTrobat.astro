@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { ruta } from '../lib/format.ts';
+import { t, type Idioma } from '../i18n/textos.ts';
+
+interface Props { idioma: Idioma }
+const { idioma } = Astro.props;
+const x = t(idioma).noTrobat;
+---
+
+<Base idioma={idioma} cami="/404" titol={x.titol} descripcio={x.descripcio}>
+  <div class="estret" style="padding-block: 3rem 1rem;">
+    <h1>{x.h1}</h1>
+    <p>{x.cos}</p>
+    <p class="accions">
+      <a class="boto" href={ruta('/', idioma)}>{x.anarInici}</a>
+      <a class="boto boto--secundari" href={ruta('/comarques', idioma)}>{x.anarComarques}</a>
+    </p>
+  </div>
+</Base>

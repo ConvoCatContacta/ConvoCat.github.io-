@@ -10,7 +10,14 @@ export const ConfiancaSchema = z.enum(['alta', 'baixa']);
 // directament dels camps de la convocatòria i la pinta la plantilla: guardar-la aquí també
 // crearia dues fonts de veritat per a la mateixa dada, i acabarien divergint.
 export const ResumSchema = z.object({
-  paragraf: z.string().min(1),
+  // Els tres idiomes es demanen en una sola crida: surt més barat que tres i garanteix que
+  // diuen el mateix. Si en falta un, es descarta el resum sencer i la fitxa es publica sense
+  // paràgraf, que és millor que una pàgina en anglès amb un paràgraf en català.
+  paragrafs: z.object({
+    ca: z.string().min(1),
+    es: z.string().min(1),
+    en: z.string().min(1),
+  }),
   model: z.string(),
   // Hash del text d'origen. Si el text no canvia no es torna a generar el resum, i això manté
   // el fitxer de dades estable entre execucions.

@@ -1,0 +1,25 @@
+---
+import { ruta } from '../lib/format.ts';
+import { guia } from '../i18n/guia.ts';
+import type { Idioma } from '../i18n/textos.ts';
+import type { Convocatoria } from '../lib/dades.ts';
+
+/**
+ * Bloc "com es demana" de la fitxa.
+ *
+ * Només diu el que sabem del cert d'aquesta convocatòria —si l'origen publica una seu
+ * electrònica o no— i remet a la guia general. No genera passos ni indica formularis per
+ * convocatòria: això seria assessorament, i encertar-ho depèn de bases que no llegim.
+ */
+interface Props { convocatoria: Convocatoria; idioma: Idioma }
+const { convocatoria, idioma } = Astro.props;
+const g = guia(idioma).fitxa;
+---
+
+<section class="com-demanar">
+  <h2>{g.titol}</h2>
+  <p>{convocatoria.seu_electronica ? g.ambSeu : g.senseSeu}</p>
+  <p class="com-demanar__enllac">
+    <a href={ruta('/com-es-demana', idioma)}>{g.enllacGuia} &rarr;</a>
+  </p>
+</section>

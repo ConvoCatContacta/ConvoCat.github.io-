@@ -1,0 +1,47 @@
+---
+import Base from '../layouts/Base.astro';
+import TargetaConvocatoria from '../components/TargetaConvocatoria.astro';
+import AltaCorreu from '../components/AltaCorreu.astro';
+import { fitxes, meta, type Comarca } from '../lib/dades.ts';
+import { dataLlarga, ruta } from '../lib/format.ts';
+import { comarcaAmb } from '../../pipeline/comarques.ts';
+import { t, type Idioma } from '../i18n/textos.ts';
+
+interface Props { comarca: Comarca; idioma: Idioma }
+const { comarca, idioma } = Astro.props;
+const x = t(idioma);
+
+const avui = meta().executat.slice(0, 10);
+const llista = fitxes().filter((f) => f.comarca === comarca.nom);
+// Les comarques porten article en català i la preposició s'hi contrau. En castellà i anglès
+// el topònim va tal qual, que és com s'escriu en aquestes llengües.
+const aLa = idioma === 'ca' ? comarcaAmb('a', comarca.nom) : comarca.nom;
+const deLa = idioma === 'ca' ? comarcaAmb('de', comarca.nom) : comarca.nom;
+---
+
+<Base
+  idioma={idioma}
+  cami={`/comarca/${comarca.llesca}`}
+  seccio="comarques"
+  titol={x.comarques.aLaComarca(aLa)}
+  descripcio={x.comarques.aLaComarca(aLa)}
+>
+  <div class="embolcall">
+    <section class="hero">
+      <span class="recompte">{x.comarques.obertes(llista.length)}</span>
+      <h1>{x.comarques.aLaComarca(aLa)}</h1>
+      <p class="entrada">
+        {x.comarques.entradaComarca(deLa)}
+        <a href={ruta('/', idioma)}>{x.comarques.llistatGeneral}</a>.
+      </p>
+    </section>
+
+    <ul class="llista">
+      {llista.map((fitxa) => <TargetaConvocatoria fitxa={fitxa} avui={avui} idioma={idioma} />)}
+    </ul>
+
+    <AltaCorreu idioma={idioma} />
+
+    <p class="font-data">{x.fontData.recollides(dataLlarga(avui, idioma) ?? avui)}</p>
+  </div>
+</Base>
