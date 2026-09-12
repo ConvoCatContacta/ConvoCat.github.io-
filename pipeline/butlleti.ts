@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import type { Convocatoria } from './types.ts';
 
 const ARREL = join(dirname(fileURLToPath(import.meta.url)), '..');
-const LLOC = process.env.LLOC ?? 'https://convocatcontacta.github.io/ConvoCat.github.io-';
+const LLOC = process.env.LLOC ?? 'https://convocatcontacta.github.io';
 
 /**
  * Prepara el butlletí de novetats i el deixa **com a esborrany** a Buttondown.

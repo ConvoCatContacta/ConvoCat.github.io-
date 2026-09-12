@@ -3,7 +3,7 @@
 Radar de convocatòries d'ajuts i subvencions **obertes** a Catalunya, en català i explicades en
 llenguatge planer.
 
-→ **https://convocatcontacta.github.io/ConvoCat.github.io-/**
+→ **https://convocatcontacta.github.io/**
 
 Convocat és un projecte independent. **No és un web oficial** i no té cap vincle amb cap
 administració pública. Cada fitxa enllaça sempre a la convocatòria oficial, i els resums són
@@ -29,7 +29,7 @@ anterior és el que detecta les novetats per al butlletí.
 ```bash
 npm ci
 npm run ingest     # ~25 min: 11.600 peticions de detall a BDNS a ritme educat
-npm run dev        # http://localhost:4321/ConvoCat.github.io-/
+npm run dev        # http://localhost:4321/
 ```
 
 | Ordre | Què fa |
@@ -40,9 +40,8 @@ npm run dev        # http://localhost:4321/ConvoCat.github.io-/
 | `npm run typecheck` | Comprovació de tipus |
 | `npm run build` | Genera el lloc a `dist/` |
 
-El lloc es publica sota una subruta, així que **cap plantilla escriu rutes internes a mà**:
-totes passen per `import.meta.env.BASE_URL`. El dia que hi hagi domini propi només cal
-exportar `SITE` i `BASE_PATH=/`.
+**Cap plantilla escriu rutes internes a mà**: totes passen per `import.meta.env.BASE_URL`. El
+dia que hi hagi domini propi només cal exportar `SITE` i afegir un fitxer `CNAME`.
 
 ## Secrets (tots opcionals)
 
