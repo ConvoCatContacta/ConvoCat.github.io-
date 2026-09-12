@@ -1,0 +1,18 @@
+{
+  "executat": "2026-09-12T12:11:00.360Z",
+  "fonts": {
+    "bdns": {
+      "recuperats": 11591,
+      "errors": 2,
+      "descartats": 0
+    },
+    "raisc": {
+      "recuperats": 748,
+      "errors": 0,
+      "descartats": 0
+    }
+  },
+  "total": 3311,
+  "obertes": 558,
+  "novetats": []
+}
