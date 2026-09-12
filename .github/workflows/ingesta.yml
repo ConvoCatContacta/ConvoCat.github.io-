@@ -32,6 +32,15 @@ jobs:
       - run: npm ci
 
       - run: npm run ingest
+        env:
+          # Si el secret no hi és, la ingesta continua i les fitxes es publiquen sense paràgraf.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      # Es fa abans del commit perquè el diff és contra l'estat que encara hi ha al repo.
+      - name: Prepara el butlletí de novetats
+        run: npm run butlleti
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
 
       - name: Comprova que el resultat té sentit
         run: |
