@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Disclaimer from '../../components/Disclaimer.astro';
 import FontIData from '../../components/FontIData.astro';
+import AltaCorreu from '../../components/AltaCorreu.astro';
 import { meta, totes, type Convocatoria } from '../../lib/dades.ts';
 import {
   dataLlarga, diesFinsA, importLlegible, llescaComarca, llescaId, ruta, terminiLlegible, urgencia,
@@ -130,5 +131,7 @@ const fi = dataLlarga(c.data_fi);
 
     <Disclaimer />
     <FontIData convocatoria={c} />
+
+    <AltaCorreu />
   </div>
 </Base>
