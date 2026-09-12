@@ -1,0 +1,65 @@
+---
+import type { Idioma } from '../i18n/textos.ts';
+
+/**
+ * Banderes en SVG en comptes d'emoji.
+ *
+ * El motiu és pràctic: la senyera no té cap emoji que renderitzi de manera fiable. La seqüència
+ * de subdivisió ES-CT existeix a Unicode però la majoria de sistemes la deixen en blanc o hi
+ * posen una bandera negra, i quedaria l'única de les tres sense dibuix. Amb SVG les tres es
+ * veuen igual a tot arreu i no depenen de la font d'emoji del sistema.
+ */
+interface Props { idioma: Idioma; mida?: number }
+const { idioma, mida = 18 } = Astro.props;
+
+// La Union Jack necessita un clipPath, i pot haver-hi diverses banderes a la mateixa pàgina:
+// sense un id únic per instància el marcatge seria invàlid.
+const idClip = `uk-${Math.random().toString(36).slice(2, 9)}`;
+
+const ALT: Record<Idioma, string> = {
+  ca: 'Català', es: 'Castellano', en: 'English',
+};
+---
+
+{
+  idioma === 'ca' && (
+    /* Senyera: nou franges horitzontals, grogues i vermelles, començant i acabant en groc. */
+    <svg class="bandera" width={mida * 1.5} height={mida} viewBox="0 0 27 18" role="img"
+         aria-label={ALT.ca}>
+      <rect width="27" height="18" fill="#FCDD09" />
+      <g fill="#DA121A">
+        <rect y="2" width="27" height="2" />
+        <rect y="6" width="27" height="2" />
+        <rect y="10" width="27" height="2" />
+        <rect y="14" width="27" height="2" />
+      </g>
+    </svg>
+  )
+}
+
+{
+  idioma === 'es' && (
+    /* Bandera civil: vermell, groc doble, vermell. */
+    <svg class="bandera" width={mida * 1.5} height={mida} viewBox="0 0 27 18" role="img"
+         aria-label={ALT.es}>
+      <rect width="27" height="18" fill="#AA151B" />
+      <rect y="4.5" width="27" height="9" fill="#F1BF00" />
+    </svg>
+  )
+}
+
+{
+  idioma === 'en' && (
+    <svg class="bandera" width={mida * 1.5} height={mida} viewBox="0 0 60 30" role="img"
+         aria-label={ALT.en}>
+      <clipPath id={idClip}>
+        <path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z" />
+      </clipPath>
+      <rect width="60" height="30" fill="#012169" />
+      <path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6" />
+      <path d="M0,0 L60,30 M60,0 L0,30" clip-path={`url(#${idClip})`} stroke="#C8102E" stroke-width="4" />
+      <path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10" />
+      <path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6" />
+    </svg>
+  )
+}

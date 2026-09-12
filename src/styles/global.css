@@ -240,3 +240,9 @@ a:hover { text-decoration-thickness: 2px; }
 .com-demanar h2 { font-size: 1rem; margin-bottom: 0.4rem; }
 .com-demanar p { font-size: 0.93rem; margin-bottom: 0.5rem; }
 .com-demanar__enllac { margin: 0; font-size: 0.9rem; }
+
+.bandera {
+  display: inline-block; vertical-align: -0.15em; border-radius: 2px;
+  box-shadow: 0 0 0 1px rgb(28 33 31 / 18%); flex: none;
+}
+.idiomes ul a { display: flex; align-items: center; gap: 0.5rem; }

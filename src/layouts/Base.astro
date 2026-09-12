@@ -3,6 +3,7 @@ import { ruta } from '../lib/format.ts';
 import {
   CODI_HREFLANG, IDIOMA_PER_DEFECTE, IDIOMES, NOM_IDIOMA, t, type Idioma,
 } from '../i18n/textos.ts';
+import Bandera from '../components/Bandera.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -78,7 +79,7 @@ const canonical = absoluta(IDIOMA_PER_DEFECTE);
               l'apila en un menú. No cal cap script per canviar d'idioma. */}
           <details class="idiomes">
             <summary>
-              <span aria-hidden="true">🌐</span>
+              <Bandera idioma={idioma} />
               <span class="visually-hidden">{x.idioma.etiqueta}: </span>{NOM_IDIOMA[idioma]}
             </summary>
             <ul>
@@ -91,6 +92,7 @@ const canonical = absoluta(IDIOMA_PER_DEFECTE);
                       lang={CODI_HREFLANG[i]}
                       aria-current={i === idioma ? 'true' : undefined}
                     >
+                      <Bandera idioma={i} mida={15} />
                       {NOM_IDIOMA[i]}
                     </a>
                   </li>
