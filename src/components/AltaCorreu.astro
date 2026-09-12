@@ -1,27 +1,58 @@
 ---
-// La llista de correu és l'actiu del projecte, però el formulari només es publica quan hi ha
-// un compte de Buttondown configurat: un formulari que no envia enlloc és pitjor que cap.
+// La llista de correu és l'actiu del projecte, així que el lloc ha de captar des del primer
+// dia. Encara no hi ha proveïdor de butlletins, i un formulari que no envia enlloc és pitjor
+// que cap: mentrestant es demana l'alta per correu i es gestiona a mà.
+//
+// Quan hi hagi compte de Buttondown, PUBLIC_BUTTONDOWN_USER activa el formulari de debò i
+// aquest text desapareix tot sol.
 const usuari = import.meta.env.PUBLIC_BUTTONDOWN_USER;
+
+const ADRECA = 'ConvoCatContacta@proton.me';
+const assumpte = encodeURIComponent("Alta a les alertes de Convocat");
+const cos = encodeURIComponent(
+  "Hola,\n\nVull rebre les noves convocatòries per correu.\n\n" +
+    "Si t'interessa una comarca o un tipus d'ajut en concret, digues-ho aquí:\n\n"
+);
 ---
 
-{
-  usuari && (
-    <section class="alta">
-      <h2>Rep les noves convocatòries per correu</h2>
-      <p>
-        Un correu amb les convocatòries que s'obren a Catalunya, en català i explicades en
-        llenguatge planer. Pots donar-te de baixa quan vulguis.
-      </p>
-      <form
-        class="alta__form"
-        action={`https://buttondown.email/api/emails/embed-subscribe/${usuari}`}
-        method="post"
-        target="_blank"
-      >
-        <label class="visually-hidden" for="correu">Adreça electrònica</label>
-        <input id="correu" type="email" name="email" required placeholder="el.teu@correu.cat" />
-        <button type="submit">Vull les alertes</button>
-      </form>
-    </section>
-  )
-}
+<section class="alta">
+  <h2>Rep les noves convocatòries per correu</h2>
+
+  {
+    usuari ? (
+      <>
+        <p>
+          Un correu amb les convocatòries que s'obren a Catalunya, en català i explicades en
+          llenguatge planer. Pots donar-te de baixa quan vulguis.
+        </p>
+        <form
+          class="alta__form"
+          action={`https://buttondown.email/api/emails/embed-subscribe/${usuari}`}
+          method="post"
+          target="_blank"
+        >
+          <label class="visually-hidden" for="correu">Adreça electrònica</label>
+          <input id="correu" type="email" name="email" required placeholder="el.teu@correu.cat" />
+          <button type="submit">Vull les alertes</button>
+        </form>
+      </>
+    ) : (
+      <>
+        <p>
+          Encara no tenim el formulari automàtic a punt, així que de moment les altes les fem a
+          mà: escriu-nos i t'afegim a la llista. Pots dir-nos quina comarca o quin tipus d'ajut
+          t'interessa i et filtrarem el que t'enviem.
+        </p>
+        <p class="alta__accio">
+          <a class="boto" href={`mailto:${ADRECA}?subject=${assumpte}&body=${cos}`}>
+            Escriu-nos i t'avisem
+          </a>
+        </p>
+        <p class="alta__lletra">
+          Farem servir la teva adreça només per avisar-te de noves convocatòries. Per donar-te
+          de baixa, n'hi ha prou amb respondre a qualsevol missatge dient-ho.
+        </p>
+      </>
+    )
+  }
+</section>
