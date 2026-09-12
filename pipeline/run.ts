@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { carregaGeoIndex } from './comarca.ts';
 import { dedupe } from './dedupe.ts';
 import { desDeBdns, desDeRaisc } from './normalize.ts';
+import { afegeixResums } from './resum.ts';
 import * as bdns from './sources/bdns.ts';
 import * as raisc from './sources/raisc.ts';
 import { ConvocatoriaSchema, type Convocatoria, type Meta } from './types.ts';
@@ -77,6 +78,9 @@ async function main() {
         (a.data_fi ?? '9999').localeCompare(b.data_fi ?? '9999') || a.id.localeCompare(b.id)
     );
 
+  log('· resums en llenguatge planer');
+  const resums = await afegeixResums(totes, { dir: join(DADES, 'summaries'), log });
+
   const obertes = totes.filter((c) => c.estat === 'oberta');
 
   const meta: Meta = {
@@ -88,6 +92,7 @@ async function main() {
     total: totes.length,
     obertes: obertes.length,
     novetats: [],
+    resums,
   };
 
   mkdirSync(DADES, { recursive: true });
