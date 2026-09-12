@@ -9,6 +9,7 @@ interface Props {
 }
 
 const { titol, descripcio, seccio } = Astro.props;
+const comptador = import.meta.env.PUBLIC_GOATCOUNTER;
 const complet = titol === 'Convocat' ? 'Convocat' : `${titol} · Convocat`;
 ---
 
@@ -23,6 +24,17 @@ const complet = titol === 'Convocat' ? 'Convocat' : `${titol} · Convocat`;
     <meta property="og:description" content={descripcio} />
     <meta property="og:locale" content="ca_ES" />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site ?? 'https://example.invalid')} />
+    {
+      /* Analítica sense galetes ni perfilat: només es carrega si hi ha compte configurat, i
+         l'avís legal promet que no seguim ningú. Res de Google Analytics. */
+      comptador && (
+        <script
+          data-goatcounter={`https://${comptador}.goatcounter.com/count`}
+          async
+          src="//gc.zgo.at/count.js"
+        />
+      )
+    }
   </head>
   <body>
     <header class="capcalera">
