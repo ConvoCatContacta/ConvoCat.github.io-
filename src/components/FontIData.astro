@@ -1,6 +1,6 @@
 ---
 import { dataLlarga } from '../lib/format.ts';
-import type { Convocatoria } from '../lib/dades.ts';
+import { meta, type Convocatoria } from '../lib/dades.ts';
 
 interface Props {
   convocatoria: Convocatoria;
@@ -14,7 +14,8 @@ const NOMS: Record<string, string> = {
 };
 
 const fonts = convocatoria.fonts.map((f) => NOMS[f] ?? f).join(' i ');
-const actualitzat = dataLlarga(convocatoria.actualitzat.slice(0, 10));
+// La data surt de l'execució de la ingesta, no de cada registre: veure el comentari a types.ts.
+const actualitzat = dataLlarga(meta().executat.slice(0, 10));
 ---
 
 <p class="font-data">

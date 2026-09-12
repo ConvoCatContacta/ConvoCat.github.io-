@@ -55,7 +55,7 @@ const base: Convocatoria = {
   data_inici: '2026-07-29', data_fi: '2026-09-15', termini_text: null,
   estat: 'oberta', confianca_termini: 'alta',
   url_oficial: 'https://example.test/921121', url_bases: null, seu_electronica: null,
-  resum: null, actualitzat: '2026-09-11T00:00:00.000Z',
+  resum: null,
 };
 
 const delRaisc: Convocatoria = {

@@ -1,0 +1,62 @@
+name: Ingesta diària
+
+# Refresca data/ i el commet a main. Aquest commit dispara el flux de publicació,
+# de manera que el lloc es reconstrueix només quan les dades han canviat de veritat.
+
+on:
+  schedule:
+    # 04:00 UTC = 06:00 a Catalunya a l'estiu, 05:00 a l'hivern.
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingesta
+  cancel-in-progress: false
+
+jobs:
+  ingesta:
+    runs-on: ubuntu-latest
+    # Són ~11.600 peticions de detall a BDNS a ritme educat: no és un flux ràpid.
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run ingest
+
+      - name: Comprova que el resultat té sentit
+        run: |
+          node -e "
+            const m = require('./data/meta.json');
+            console.log(JSON.stringify(m, null, 2));
+            if (!m.total || m.total < 100) {
+              console.error('::error::Només ' + m.total + ' convocatòries: alguna font ha fallat.');
+              process.exit(1);
+            }
+            if (!m.obertes) {
+              console.error('::error::Cap convocatòria oberta: no publiquem un lloc buit.');
+              process.exit(1);
+            }
+          "
+
+      - name: Commet les dades si han canviat
+        run: |
+          git config user.name 'convocat-bot'
+          git config user.email 'noreply@github.com'
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Sense canvis a les dades; no cal commit."
+            exit 0
+          fi
+          obertes=$(node -p "require('./data/meta.json').obertes")
+          git commit -m "Dades: $(date -u +%Y-%m-%d) · ${obertes} convocatòries obertes"
+          git push
