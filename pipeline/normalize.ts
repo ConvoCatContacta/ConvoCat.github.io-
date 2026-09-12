@@ -3,6 +3,7 @@ import { codiBdns, type RaiscRow } from './sources/raisc.ts';
 import { resolGeo, type GeoIndex } from './comarca.ts';
 import { normalitzaBeneficiaris } from './beneficiaris.ts';
 import { nomOrganCatala } from './noms.ts';
+import { urlSegura } from './enllacos.ts';
 import type { Convocatoria, Estat } from './types.ts';
 
 export type EstatDerivat = { estat: Estat; confianca_termini: 'alta' | 'baixa' };
@@ -89,8 +90,8 @@ export function desDeBdns(d: BdnsDetall, geo: GeoIndex, avui: string): Convocato
     estat,
     confianca_termini,
     url_oficial: `https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/${codi}`,
-    url_bases: net(d.urlBasesReguladoras),
-    seu_electronica: net(d.sedeElectronica),
+    url_bases: urlSegura(d.urlBasesReguladoras),
+    seu_electronica: urlSegura(d.sedeElectronica),
     resum: null,
   };
 }
@@ -136,11 +137,11 @@ export function desDeRaisc(r: RaiscRow, geo: GeoIndex, avui: string): Convocator
     estat,
     confianca_termini,
     url_oficial:
-      net(r.url_diari_oficial) ??
-      net(r.url_catala_bases_reg) ??
+      urlSegura(r.url_diari_oficial) ??
+      urlSegura(r.url_catala_bases_reg) ??
       (bdns ? `https://www.infosubvenciones.es/bdnstrans/GE/ca/convocatoria/${bdns}` : ''),
-    url_bases: net(r.url_catala_bases_reg),
-    seu_electronica: net(r.seu_electr_nica),
+    url_bases: urlSegura(r.url_catala_bases_reg),
+    seu_electronica: urlSegura(r.seu_electr_nica),
     resum: null,
   };
 }
