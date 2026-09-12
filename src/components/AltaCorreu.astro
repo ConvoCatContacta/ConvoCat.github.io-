@@ -1,45 +1,28 @@
 ---
 import { t, type Idioma } from '../i18n/textos.ts';
 
-// La llista de correu és l'actiu del projecte, així que el lloc ha de captar des del primer
-// dia. Encara no hi ha proveïdor de butlletins, i un formulari que no envia enlloc és pitjor
-// que cap: mentrestant es demana l'alta per correu i es gestiona a mà.
+// La llista de correu és l'actiu del projecte, així que el formulari surt a la portada, a
+// cada fitxa, a les pàgines de comarca i a la guia.
 //
-// Quan hi hagi compte de Buttondown, PUBLIC_BUTTONDOWN_USER activa el formulari de debò i
-// aquest text desapareix tot sol.
+// L'usuari es pot sobreescriure amb PUBLIC_BUTTONDOWN_USER, però no és cap secret —apareix a
+// l'acció del formulari— i tenir-hi un valor per defecte fa que funcioni igual en local i a CI
+// sense haver de configurar res.
 interface Props { idioma: Idioma }
 const { idioma } = Astro.props;
 const x = t(idioma).alta;
 
-const usuari = import.meta.env.PUBLIC_BUTTONDOWN_USER;
-const ADRECA = 'ConvoCatContacta@proton.me';
-const enllac = `mailto:${ADRECA}?subject=${encodeURIComponent(x.assumpte)}&body=${encodeURIComponent(x.cosCorreu)}`;
+const usuari = import.meta.env.PUBLIC_BUTTONDOWN_USER ?? 'ConvoCat';
+// Buttondown va passar de buttondown.email a buttondown.com. El domini antic encara respon
+// amb una redirecció, però una redirecció en un POST pot perdre el cos: fem servir el nou.
+const accio = `https://buttondown.com/api/emails/embed-subscribe/${usuari}`;
 ---
 
 <section class="alta">
   <h2>{x.titol}</h2>
-
-  {
-    usuari ? (
-      <>
-        <p>{x.cosAmbProveidor}</p>
-        <form
-          class="alta__form"
-          action={`https://buttondown.email/api/emails/embed-subscribe/${usuari}`}
-          method="post"
-          target="_blank"
-        >
-          <label class="visually-hidden" for="correu">{x.placeholder}</label>
-          <input id="correu" type="email" name="email" required placeholder={x.placeholder} />
-          <button type="submit">{x.botoProveidor}</button>
-        </form>
-      </>
-    ) : (
-      <>
-        <p>{x.cosManual}</p>
-        <p class="alta__accio"><a class="boto" href={enllac}>{x.boto}</a></p>
-        <p class="alta__lletra">{x.lletraManual}</p>
-      </>
-    )
-  }
+  <p>{x.cosAmbProveidor}</p>
+  <form class="alta__form" action={accio} method="post" target="_blank">
+    <label class="visually-hidden" for="correu">{x.placeholder}</label>
+    <input id="correu" type="email" name="email" required placeholder={x.placeholder} />
+    <button type="submit">{x.botoProveidor}</button>
+  </form>
 </section>

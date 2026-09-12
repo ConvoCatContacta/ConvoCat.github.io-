@@ -47,11 +47,7 @@ type Textos = {
     obertes: (n: number) => string; aLaComarca: (c: string) => string;
     entradaComarca: (c: string) => string; llistatGeneral: string;
   };
-  alta: {
-    titol: string; cosAmbProveidor: string; cosManual: string; boto: string;
-    lletraManual: string; assumpte: string; cosCorreu: string; placeholder: string;
-    botoProveidor: string;
-  };
+  alta: { titol: string; cosAmbProveidor: string; placeholder: string; botoProveidor: string };
   disclaimer: string;
   fontData: { font: (f: string) => string; recollides: (d: string) => string; terminiBaix: string };
   peu: { descripcio: string; avis: string };
@@ -103,12 +99,7 @@ const ca: Textos = {
   },
   alta: {
     titol: 'Rep les noves convocatòries per correu',
-    cosAmbProveidor: "Un correu amb les convocatòries que s'obren a Catalunya, en català i explicades en llenguatge planer. Pots donar-te de baixa quan vulguis.",
-    cosManual: "Encara no tenim el formulari automàtic a punt, així que de moment les altes les fem a mà: escriu-nos i t'afegim a la llista. Pots dir-nos quina comarca o quin tipus d'ajut t'interessa i et filtrarem el que t'enviem.",
-    boto: "Escriu-nos i t'avisem", botoProveidor: 'Vull les alertes',
-    lletraManual: "Farem servir la teva adreça només per avisar-te de noves convocatòries. Per donar-te de baixa, n'hi ha prou amb respondre a qualsevol missatge dient-ho.",
-    assumpte: 'Alta a les alertes de Convocat',
-    cosCorreu: "Hola,\n\nVull rebre les noves convocatòries per correu.\n\nSi t'interessa una comarca o un tipus d'ajut en concret, digues-ho aquí:\n\n",
+    cosAmbProveidor: "Un correu amb les convocatòries que s'obren a Catalunya, en català i explicades en llenguatge planer. Pots donar-te de baixa quan vulguis.", botoProveidor: 'Vull les alertes',
     placeholder: 'el.teu@correu.cat',
   },
   disclaimer: "Això és un resum orientatiu, no assessorament. Descriu a qui s'adreça la convocatòria segons les dades publicades, no determina si hi tens dret. Les condicions que valen són les de les bases reguladores oficials. Comprova sempre els terminis i els requisits al document oficial abans de presentar cap sol·licitud.",
@@ -173,12 +164,7 @@ const es: Textos = {
   },
   alta: {
     titol: 'Recibe las nuevas convocatorias por correo',
-    cosAmbProveidor: 'Un correo con las convocatorias que se abren en Cataluña, explicadas en lenguaje claro. Puedes darte de baja cuando quieras.',
-    cosManual: 'Todavía no tenemos el formulario automático listo, así que de momento las altas las hacemos a mano: escríbenos y te añadimos a la lista. Puedes decirnos qué comarca o qué tipo de ayuda te interesa y filtraremos lo que te enviemos.',
-    boto: 'Escríbenos y te avisamos', botoProveidor: 'Quiero las alertas',
-    lletraManual: 'Usaremos tu dirección solo para avisarte de nuevas convocatorias. Para darte de baja, basta con responder a cualquier mensaje diciéndolo.',
-    assumpte: 'Alta en las alertas de Convocat',
-    cosCorreu: 'Hola,\n\nQuiero recibir las nuevas convocatorias por correo.\n\nSi te interesa una comarca o un tipo de ayuda en concreto, dilo aquí:\n\n',
+    cosAmbProveidor: 'Un correo con las convocatorias que se abren en Cataluña, explicadas en lenguaje claro. Puedes darte de baja cuando quieras.', botoProveidor: 'Quiero las alertas',
     placeholder: 'tu@correo.es',
   },
   disclaimer: 'Esto es un resumen orientativo, no asesoramiento. Describe a quién se dirige la convocatoria según los datos publicados, no determina si tienes derecho a ella. Las condiciones que valen son las de las bases reguladoras oficiales. Comprueba siempre los plazos y los requisitos en el documento oficial antes de presentar ninguna solicitud.',
@@ -243,12 +229,7 @@ const en: Textos = {
   },
   alta: {
     titol: 'Get new calls by email',
-    cosAmbProveidor: 'An email with the calls opening in Catalonia, explained in plain language. You can unsubscribe whenever you like.',
-    cosManual: 'The automatic sign-up form is not ready yet, so for now we add people by hand: write to us and we will put you on the list. Tell us which county or type of grant interests you and we will filter what we send.',
-    boto: 'Write to us and we will let you know', botoProveidor: 'Send me alerts',
-    lletraManual: 'We will use your address only to tell you about new calls. To unsubscribe, just reply to any message saying so.',
-    assumpte: 'Sign me up to Convocat alerts',
-    cosCorreu: 'Hello,\n\nI would like to receive new calls by email.\n\nIf a particular county or type of grant interests you, say so here:\n\n',
+    cosAmbProveidor: 'An email with the calls opening in Catalonia, explained in plain language. You can unsubscribe whenever you like.', botoProveidor: 'Send me alerts',
     placeholder: 'you@email.com',
   },
   disclaimer: 'This is an orientative summary, not advice. It describes who the call is aimed at according to the published data; it does not determine whether you are eligible. The conditions that count are those in the official terms. Always check the deadlines and requirements in the official document before applying.',
