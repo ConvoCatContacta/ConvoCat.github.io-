@@ -23,6 +23,9 @@ const accio = `https://buttondown.com/api/emails/embed-subscribe/${usuari}`;
   <form class="alta__form" action={accio} method="post" target="_blank">
     <label class="visually-hidden" for="correu">{x.placeholder}</label>
     <input id="correu" type="email" name="email" required placeholder={x.placeholder} />
+    {/* Buttondown documenta aquest camp al seu formulari d'exemple: indica que la petició ve
+        d'un formulari incrustat i condiciona la resposta que rep qui s'apunta. */}
+    <input type="hidden" name="embed" value="1" />
     <button type="submit">{x.botoProveidor}</button>
   </form>
 </section>
