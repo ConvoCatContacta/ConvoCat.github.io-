@@ -47,7 +47,7 @@ const ca: Legal = {
     titol: 'Privadesa',
     sensSeguiment: 'Aquest lloc no fa servir galetes de seguiment ni perfila els visitants.',
     correu:
-      "Si demanes les alertes, guardem la teva adreça només per avisar-te de noves convocatòries: no la compartim amb ningú ni l'utilitzem per a res més. De moment la llista es gestiona a mà, així que per donar-te de baixa n'hi ha prou amb respondre a qualsevol missatge o escriure'ns.",
+      "Si demanes les alertes, la teva adreça s'utilitza només per avisar-te de noves convocatòries: no la compartim amb ningú ni l'utilitzem per a res més. La llista la gestiona Buttondown, que actua com a encarregat del tractament, i tots els correus porten un enllaç per donar-te de baixa en qualsevol moment.",
   },
   actualitzat: (d) => `L'última actualització de les dades va ser el ${d}.`,
 };
@@ -87,7 +87,7 @@ const es: Legal = {
     titol: 'Privacidad',
     sensSeguiment: 'Este sitio no usa cookies de seguimiento ni perfila a los visitantes.',
     correu:
-      'Si pides las alertas, guardamos tu dirección solo para avisarte de nuevas convocatorias: no la compartimos con nadie ni la usamos para nada más. De momento la lista se gestiona a mano, así que para darte de baja basta con responder a cualquier mensaje o escribirnos.',
+      'Si pides las alertas, tu dirección se usa solo para avisarte de nuevas convocatorias: no la compartimos con nadie ni la usamos para nada más. La lista la gestiona Buttondown, que actúa como encargado del tratamiento, y todos los correos llevan un enlace para darte de baja en cualquier momento.',
   },
   actualitzat: (d) => `La última actualización de los datos fue el ${d}.`,
 };
@@ -127,7 +127,7 @@ const en: Legal = {
     titol: 'Privacy',
     sensSeguiment: 'This site does not use tracking cookies and does not profile visitors.',
     correu:
-      'If you ask for alerts, we keep your address only to tell you about new calls: we do not share it with anyone or use it for anything else. For now the list is managed by hand, so to unsubscribe just reply to any message or write to us.',
+      'If you ask for alerts, your address is used only to tell you about new calls: we do not share it with anyone or use it for anything else. The list is run through Buttondown, acting as data processor, and every email carries an unsubscribe link you can use at any time.',
   },
   actualitzat: (d) => `The data was last updated on ${d}.`,
 };

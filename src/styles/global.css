@@ -186,8 +186,6 @@ a:hover { text-decoration-thickness: 2px; }
 .original summary:hover { color: var(--accent); }
 .original p { margin: 0; padding: 0 1.1rem 1rem; font-size: 0.92rem; color: var(--text-suau); }
 
-.alta__accio { margin: 1rem 0 0.75rem; }
-.alta__lletra { font-size: 0.82rem; color: var(--text-tenue); margin: 0; max-width: 34rem; }
 
 /* ---------- selector d'idioma ---------- */
 .capcalera__dreta { display: flex; align-items: center; gap: 1.25rem; flex-wrap: wrap; }

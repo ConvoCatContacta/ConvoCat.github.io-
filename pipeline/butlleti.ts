@@ -88,7 +88,7 @@ async function main() {
   }
 
   const avui = new Date().toISOString().slice(0, 10);
-  const resposta = await fetch('https://api.buttondown.email/v1/emails', {
+  const resposta = await fetch('https://api.buttondown.com/v1/emails', {
     method: 'POST',
     headers: { Authorization: `Token ${clau}`, 'Content-Type': 'application/json' },
     body: JSON.stringify({
