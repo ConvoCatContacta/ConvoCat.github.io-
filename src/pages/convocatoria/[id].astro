@@ -87,11 +87,24 @@ const fi = dataLlarga(c.data_fi);
     </dl>
 
     {
-      c.objecte && (
+      c.resum && (
         <div class="resum">
-          <h2>Objecte de la convocatòria</h2>
-          <p>{c.objecte}</p>
+          <h2>En poques paraules</h2>
+          <p>{c.resum.paragraf}</p>
+          <p class="resum__marca">
+            Resum generat automàticament a partir de les dades publicades. El que val són les
+            bases oficials.
+          </p>
         </div>
+      )
+    }
+
+    {
+      c.objecte && (
+        <details class="original">
+          <summary>Objecte segons les bases (text oficial)</summary>
+          <p>{c.objecte}</p>
+        </details>
       )
     }
 

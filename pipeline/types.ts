@@ -6,10 +6,14 @@ export const NivellLocalSchema = z.enum(['municipi', 'comarca', 'provincia', 'al
 export const EstatSchema = z.enum(['oberta', 'propera', 'tancada', 'indeterminada']);
 export const ConfiancaSchema = z.enum(['alta', 'baixa']);
 
+// Només el que produeix el model. La fitxa de dades (qui convoca, import, termini) surt
+// directament dels camps de la convocatòria i la pinta la plantilla: guardar-la aquí també
+// crearia dues fonts de veritat per a la mateixa dada, i acabarien divergint.
 export const ResumSchema = z.object({
-  fitxa: z.array(z.object({ etiqueta: z.string(), valor: z.string() })),
-  paragraf: z.string().nullable(),
-  model: z.string().nullable(),
+  paragraf: z.string().min(1),
+  model: z.string(),
+  // Hash del text d'origen. Si el text no canvia no es torna a generar el resum, i això manté
+  // el fitxer de dades estable entre execucions.
   hash_font: z.string(),
   generat: z.string(),
 });
@@ -63,6 +67,13 @@ export const MetaSchema = z.object({
   total: z.number(),
   obertes: z.number(),
   novetats: z.array(z.string()),
+  resums: z.object({
+    candidates: z.number(),
+    de_cache: z.number(),
+    generats: z.number(),
+    errors: z.number(),
+    omes: z.boolean(),
+  }),
 });
 
 export type Meta = z.infer<typeof MetaSchema>;

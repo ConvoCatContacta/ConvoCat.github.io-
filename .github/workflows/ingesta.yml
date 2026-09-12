@@ -19,6 +19,8 @@ concurrency:
 jobs:
   ingesta:
     runs-on: ubuntu-latest
+    outputs:
+      canvis: ${{ steps.commit.outputs.canvis }}
     # Són ~11.600 peticions de detall a BDNS a ritme educat: no és un flux ràpid.
     timeout-minutes: 90
     steps:
@@ -32,6 +34,15 @@ jobs:
       - run: npm ci
 
       - run: npm run ingest
+        env:
+          # Si el secret no hi és, la ingesta continua i les fitxes es publiquen sense paràgraf.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      # Es fa abans del commit perquè el diff és contra l'estat que encara hi ha al repo.
+      - name: Prepara el butlletí de novetats
+        run: npm run butlleti
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
 
       - name: Comprova que el resultat té sentit
         run: |
@@ -49,14 +60,27 @@ jobs:
           "
 
       - name: Commet les dades si han canviat
+        id: commit
         run: |
           git config user.name 'convocat-bot'
           git config user.email 'noreply@github.com'
           git add data/
           if git diff --cached --quiet; then
             echo "Sense canvis a les dades; no cal commit."
+            echo "canvis=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           obertes=$(node -p "require('./data/meta.json').obertes")
           git commit -m "Dades: $(date -u +%Y-%m-%d) · ${obertes} convocatòries obertes"
           git push
+          echo "canvis=true" >> "$GITHUB_OUTPUT"
+
+  # Cridat explícitament perquè el push del bot no dispara cap flux pel seu compte.
+  desplega:
+    needs: ingesta
+    if: needs.ingesta.outputs.canvis == 'true'
+    uses: ./.github/workflows/desplega.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

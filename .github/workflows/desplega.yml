@@ -8,6 +8,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # El flux d'ingesta crida aquest directament. Un commit fet amb el GITHUB_TOKEN per defecte
+  # NO dispara cap altre flux (és la protecció contra bucles infinits de GitHub), així que
+  # confiar en el trigger de push deixaria les dades noves sense publicar.
+  workflow_call:
 
 permissions:
   contents: read
@@ -23,7 +27,11 @@ jobs:
   construeix:
     runs-on: ubuntu-latest
     steps:
+      # Sempre la punta de main: quan ens crida la ingesta, el commit de dades que acaba de
+      # fer és més nou que el SHA que va disparar aquella execució.
       - uses: actions/checkout@v5
+        with:
+          ref: main
 
       - uses: actions/setup-node@v6
         with:
