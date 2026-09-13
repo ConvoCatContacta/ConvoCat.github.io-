@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la contractació de persones en situació d'atur per part de petites i mitjanes empreses i autònoms. Els ajuts s'adrecen a empreses que vulguin contractar persones sense feina, dins del marc dels Plans Locals d'Ocupació que impulsa la Diputació de Barcelona.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Manresa finança ajuts perquè pimes i autònoms contractin persones en situació d'atur, amb recursos dels Fons de Prestació dels Plans Locals d'Ocupació de la Diputació de Barcelona.",
+    "es": "El Ayuntamiento de Manresa financia ayudas para que pymes y autónomos contraten a personas en situación de desempleo, con cargo a los Fondos de Prestación de los Planes Locales de Ocupación de la Diputación de Barcelona.",
+    "en": "Manresa City Council provides grants to help small and medium-sized enterprises and self-employed workers hire unemployed people, using funds from the Barcelona Provincial Council's Local Employment Plans."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "635c4d6cdfdcac2a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

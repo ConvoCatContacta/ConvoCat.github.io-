@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança congressos, jornades, actes, publicacions i recerques vinculades a la salut i l'acció social a Girona. S'adreça a entitats sense activitat econòmica interessades a desenvolupar aquestes activitats dins la demarcació. La iniciativa es promou des de Salut Pública de la Diputació de Girona (DIPSALUT).",
+  "paragrafs": {
+    "ca": "Finança congressos, jornades, actes, publicacions i recerques en els camps de la salut i l'acció social a la demarcació de Girona. S'adreça a entitats sense activitat econòmica.",
+    "es": "Subvenciona congresos, jornadas, actos, publicaciones e investigaciones en los ámbitos de la salud y la acción social en la demarcación de Girona. Va dirigida a entidades sin actividad económica.",
+    "en": "This grant finances congresses, conferences, events, publications and research in health and social action within Girona's territory. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0bb7d4b2f8bed04c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

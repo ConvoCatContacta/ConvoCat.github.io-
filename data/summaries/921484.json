@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'innovació empresarial que combinin recerca, desenvolupament i innovació tecnològica. S'adreça a petites i mitjanes empreses, autònoms i grans empreses que vulguin explorar noves tecnologies per millorar la competitivitat. ACCIÓ, l'Agència per a la Competitivitat de l'Empresa, gestiona aquesta línia de subvencions segons les bases reguladores aprovades.",
+  "paragrafs": {
+    "ca": "ACCIÓ finança projectes d'exploració tecnològica adreçats a pimes, autònoms i grans empreses.",
+    "es": "ACCIÓ financia proyectos de exploración tecnológica dirigidos a pymes, autónomos y grandes empresas.",
+    "en": "ACCIÓ funds technological exploration projects aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "18db0a5435b0fddc",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

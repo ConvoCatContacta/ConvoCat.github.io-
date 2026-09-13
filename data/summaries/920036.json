@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'AGAUR (Agència de Gestió d'Ajuts Universitaris i de Recerca) finança beques Equitat i permet acreditar el tram de renda familiar. S'adreça a persones físiques sense activitat econòmica que vulguin accedir a aquestes ajudes per als seus estudis universitaris.",
+  "paragrafs": {
+    "ca": "L'AGAUR gestiona un procediment per a les beques Equitat i per acreditar el tram de renda familiar. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "La AGAUR tramita un procedimiento para las becas Equidad y para acreditar el tramo de renta familiar. Se dirige a personas físicas sin actividad económica.",
+    "en": "The AGAUR manages a procedure for Equitat grants and to accredit family income bracket. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4d6d9e9600d2b9b3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

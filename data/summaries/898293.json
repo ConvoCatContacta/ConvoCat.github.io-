@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança mobilitats d'aprenentatge a l'estranger per a persones que participen en el Programa Erasmus+ ITER Mobility. S'adreça a persones físiques sense activitat econòmica que vulguin fer una estada de formació o experiència pràctica fora de Catalunya dins del programa. La subvenció cobreix despeses derivades de la mobilitat internacional per millorar competències i habilitats professionals.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança mobilitats d'aprenentatge a l'estranger per a persones sense activitat econòmica que participen en el Programa Erasmus+ ITER Mobility.",
+    "es": "El Servicio Público de Empleo de Cataluña financia movilidades de aprendizaje en el extranjero para personas sin actividad económica que participan en el Programa Erasmus+ ITER Mobility.",
+    "en": "The Servicio Público de Empleo de Cataluña funds learning mobility abroad for people without economic activity participating in the Erasmus+ ITER Mobility Programme."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "dfbdaf38e348f430",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró finança ajuts d'urgència social a través d'aquesta convocatòria anual. S'adreça a entitats sense activitat econòmica que es dediquen a cobrir necessitats socials urgents de la població local. Els ajuts es convoquen dins del marc del pressupost municipal per a l'exercici 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró finança ajuts d'urgència social a través d'aquesta convocatòria anual. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Castell d'Aro, Platja d'Aro i s'Agaró convoca anualmente subvenciones para ayudas de urgencia social. Van dirigidas a entidades sin actividad económica.",
+    "en": "Castell d'Aro, Platja d'Aro i s'Agaró municipality awards annual grants for emergency social assistance. The grants are available to non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "499bb35fb1951200",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

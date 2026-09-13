@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'Educació per la Ciutadania Global durant l'any 2027-2028. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar iniciatives en aquest àmbit. La Diputació de Barcelona és l'organisme que gestiona aquesta subvenció, que es regeix per la seva ordenança general de subvencions.",
+  "paragrafs": {
+    "ca": "La Diputació de Barcelona finança projectes d'Educació per la Ciutadania Global per a l'any 2027-2028. S'adreça a entitats sense activitat econòmica.",
+    "es": "La Diputación de Barcelona financia proyectos de Educación para la Ciudadanía Global para el año 2027-2028. Va dirigida a entidades sin actividad económica.",
+    "en": "Barcelona Provincial Council funds Global Citizenship Education projects for 2027-2028. It is aimed at non-profit organizations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ad1b5ccaa1762603",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

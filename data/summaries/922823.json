@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats de conservació de recursos genètics agrícoles, és a dir, la preservació de varietats de plantes i animals de valor agrícola. S'adreça a entitats de conservació, com petites i mitjanes empreses i treballadors autònoms, que desenvolupin aquest tipus de feina dins del marc del Pla estratègic de la Política Agrícola Comuna per al període 2023-2027.",
+  "paragrafs": {
+    "ca": "Finança accions de conservació de recursos genètics agrícoles. S'adreça a pimes i autònoms que actuen com a entitats de conservació.",
+    "es": "Financia acciones de conservación de recursos genéticos agrícolas. Va dirigida a pymes y autónomos que actúan como entidades de conservación.",
+    "en": "This grant finances agricultural genetic resource conservation activities. It is aimed at SMEs and self-employed workers operating as conservation entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "de57ccec08abc8e2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

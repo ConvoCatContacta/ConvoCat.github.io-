@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció finança despeses bàsiques de la llar per a persones jubilades o pensionistes que reben prestacions baixes. S'adreça a entitats sense activitat econòmica. L'Ajuntament de la Canonja en és la convocant.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Canonja finança despeses bàsiques del foyer de persones jubilades o pensionistes que perceben prestacions baixes. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de la Canonja financia gastos básicos del hogar de personas jubiladas o pensionistas que perciben prestaciones bajas. Se dirige a entidades sin actividad económica.",
+    "en": "The Municipality of la Canonja funds basic household expenses for retired people and pensioners receiving low benefits. It is aimed at organisations with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9142ceb941a7b309",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

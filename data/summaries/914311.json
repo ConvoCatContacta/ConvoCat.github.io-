@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança plans de distribució de llargmetratges cinematogràfics mitjançant aportacions reintegrables i subvencions. S'adreça a petites i mitjanes empreses, autònoms i grans empreses que desenvolupin activitats de distribució de films. L'Institut Català de les Empreses Culturals (ICEC) és qui convoca aquests ajuts en règim de concurrència competitiva.",
+  "paragrafs": {
+    "ca": "L'Institut Català de les Empreses Culturals finança plans de distribució de llargmetratges cinematogràfics mitjançant aportacions reintegrables i subvencions. S'adreça a petites i mitjanes empreses, autònoms i grans empreses.",
+    "es": "El Institut Català de les Empreses Culturals financia planes de distribución de largometrajes cinematográficos mediante aportaciones reintegrables y subvenciones. Va dirigido a pequeñas y medianas empresas, autónomos y grandes empresas.",
+    "en": "The Institut Català de les Empreses Culturals funds distribution plans for feature films through reintegrable contributions and grants. It is aimed at small and medium-sized enterprises, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "34d267870ca2203e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats extraescolars per promoure la igualtat d'oportunitats de la infància dins l'entorn escolar durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica. L'Ajuntament de Gavà busca amb aquestes subvencions facilitar que els nens i nenes puguin participar en activitats complementàries a l'escola en igualtat de condicions.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Gavà subvenciona activitats extraescolars per a la infància durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Gavà financia actividades extraescolares para la infancia durante el curso 2026-2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Gavà City Council provides funding for extracurricular activities for children during the 2026-2027 school year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "387d6385868d39cd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

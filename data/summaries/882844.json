@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques o en especie per a situacions socials urgents durant 2026. S'adreça a persones físiques que no tinguin activitat econòmica. Els ajuts es regulen segons bases específiques de caràcter social urgent establertes per l'Ajuntament de Sant Cebrià de Vallalta.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Cebrià de Vallalta ofereix prestacions econòmiques o en especie de caràcter social urgent per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament de Sant Cebrià de Vallalta ofrece prestaciones económicas o en especie de carácter social urgente para el año 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Sant Cebrià de Vallalta local authority provides urgent social aid in monetary or in-kind form for 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ab6d74f6fb0ec6e6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

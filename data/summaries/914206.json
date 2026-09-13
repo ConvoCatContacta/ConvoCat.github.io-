@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta ajuda finança l'adquisició de llibres de text per al curs 2026-2027. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Els ajuts es regulen mitjançant les bases específiques del programa 27 que estableix l'Ajuntament de Roses.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Roses finança l'adquisició de llibres de text per al curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Roses financia la adquisición de libros de texto para el curso 2026-2027. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Roses City Council funds the purchase of textbooks for the 2026-2027 academic year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "65086a31d2078494",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

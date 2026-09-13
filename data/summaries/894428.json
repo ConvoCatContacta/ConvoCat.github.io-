@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança diagnosis ambientals i diagnosis d'accessibilitat per a empreses i entitats del sector cultural. S'adreça a autònoms, petites i mitjanes empreses, grans empreses i entitats sense activitat econòmica que operen en l'àmbit cultural. L'ICEC (Institut Català de les Empreses Culturals) convoca aquestes ajudes per promoure millores en sostenibilitat i accés als recursos culturals.",
+  "paragrafs": {
+    "ca": "L'INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC) finança la realització de diagnosis ambientals i diagnosis d'accessibilitat. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses del sector cultural.",
+    "es": "El INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC) financia la realización de diagnósticos ambientales y diagnósticos de accesibilidad. Va dirigido a entidades sin actividad económica, pymes, autónomos y grandes empresas del sector cultural.",
+    "en": "The INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC) funds environmental diagnoses and accessibility assessments. It is open to non-profit entities, SMEs, self-employed workers and large companies in the cultural sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ba268413c1c92daf",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

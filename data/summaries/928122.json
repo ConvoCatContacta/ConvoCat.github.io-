@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Feliu de Llobregat finança inversions per reforçar l'autonomia financera i la sostenibilitat econòmica del teixit associatiu. S'adreça a entitats sense activitat econòmica que presentin projectes d'inversió dins del termini i condicions que estableixen les bases de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Feliu de Llobregat finança inversions en entitats sense activitat econòmica per promoure la seva autonomia financera i sostenibilitat econòmica durant el 2026.",
+    "es": "El Ayuntamiento de Sant Feliu de Llobregat financia inversiones en entidades sin actividad económica para impulsar su autonomía financiera y sostenibilidad económica durante 2026.",
+    "en": "Sant Feliu de Llobregat town council funds investments in non-profit organisations to boost their financial independence and economic sustainability in 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "caf07e45eeaaa133",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones físiques sense activitat econòmica i finança el transport escolar dins del mateix municipi. La subvenció cobreix els costos de desplaçament dels estudiants que necessiten utilitzar mitjans de transport per arribar a l'escola dins de Sant Jaume dels Domenys.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Jaume dels Domenys finança el transport escolar dins del municipi. S'adreça a persones físiques que no desenvolupen activitat econòmica.",
+    "es": "El Ajuntamiento de Sant Jaume dels Domenys financia el transporte escolar dentro del municipio. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Sant Jaume dels Domenys Town Council funds school transport within the municipality. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cb6584c7749ef886",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

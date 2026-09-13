@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la gestió de fems en explotacions ramaderes de boví afectades per tuberculosi. S'adreça a petites i mitjanes empreses i treballadors autònoms del sector ramader que pateixen l'impacte d'aquesta malaltia. Els ajuts es conceben com a mesura urgent de suport al sector agrari davant aquesta problemàtica sanitària.",
+  "paragrafs": {
+    "ca": "Finança la gestió de fems en explotacions ramaderes de boví afectades per la tuberculosi. S'adreça a pimes i autònoms del sector ramader.",
+    "es": "Financia la gestión de estiércol en explotaciones ganaderas de bovino afectadas por la tuberculosis. Va dirigida a pymes y autónomos del sector ganadero.",
+    "en": "This grant covers manure management in cattle farms affected by tuberculosis. It is aimed at small and medium-sized enterprises and self-employed farmers in the livestock sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "67c1fe440cf87908",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

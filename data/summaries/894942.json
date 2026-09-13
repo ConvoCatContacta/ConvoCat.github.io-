@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Diputació de Girona finança la producció de materials editorials. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin desenvolupar projectes en aquest àmbit. La subvenció té com a objectiu impulsar les produccions editorials durant l'any 2026.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona ofereix subvencions per a produccions editorials l'any 2026. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses.",
+    "es": "La Diputación de Girona convoca subvenciones para producciones editoriales en 2026. Va dirigida a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Diputació de Girona is offering subsidies for editorial productions in 2026. It is open to non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a0170f0c71498e34",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

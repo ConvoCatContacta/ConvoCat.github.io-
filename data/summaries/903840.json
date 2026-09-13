@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Torre de Claramunt convoca premis per a activitats i projectes socioculturals que es duguin a terme en motiu de la Festa Major de 2026. S'adreça a persones físiques que no tinguin activitat econòmica. Els premis reconeixen iniciatives que contribueixin a dinamitzar i enriquir el programa festiu del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Torre de Claramunt convoca premis per a activitats i projectes sociocultureals de la Festa Major 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de la Torre de Claramunt convoca premios para actividades y proyectos socioculturales de la Fiesta Mayor 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de la Torre de Claramunt is awarding prizes for sociocultural activities and projects as part of the 2026 Festa Major. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a503fd2cca506bed",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

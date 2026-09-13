@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats d'oci i lleure que promouen la participació veïnal. S'adreça a entitats sense activitat econòmica que desenvolupin projectes culturals i de lleure a Salou. Els ajuts cobreixen iniciatives que fomentin la cohesió comunitària i l'participació de les persones del municipi en activitats organitzades per aquestes entitats.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Salou finança activitats d'oci i lleure através de subvencions destinades a entitats sense activitat econòmica que desenvolupin projectes culturals amb participació veïnal.",
+    "es": "El Ayuntamiento de Salou subvenciona actividades de ocio y tiempo libre a través de ayudas dirigidas a entidades sin actividad económica que desarrollen proyectos culturales con participación vecinal.",
+    "en": "Salou's municipal council funds leisure and recreation activities through grants for non-profit organisations that carry out cultural projects involving community participation."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f2566fefc666dd67",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

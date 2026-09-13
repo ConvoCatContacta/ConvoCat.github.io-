@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consell Comarcal de la Noguera finança ajuts per a infants i adolescents a través del programa Som6. S'adreça a persones físiques que no desenvolupen activitat econòmica. Els ajuts es destinen a accions i activitats dins del programa Som6, que ofereix suport a la infància i l'adolescència de la comarca.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de la Noguera finança ajuts per a infants i adolescents dins del programa Som6. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal de la Noguera financia ayudas para niños y adolescentes del programa Som6. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal de la Noguera funds grants for children and adolescents in the Som6 programme. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fa6acc59c8a45607",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

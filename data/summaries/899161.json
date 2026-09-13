@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions per impulsar l'activitat comercial a Castellbisbal. S'adreça a petites i mitjanes empreses, autònoms i grans empreses del municipi que vulguin desenvolupar projectes per potenciar el comerç local. L'Ajuntament de Castellbisbal atorga les subvencions mitjançant un procés públic de concurrència competitiva entre les sol·licituds presentades.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castellbisbal finança iniciatives per impulsar l'activitat comercial. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Ajuntament de Castellbisbal financia iniciativas para impulsar la actividad comercial. Se dirige a pimes, autónomos y grandes empresas.",
+    "en": "Castellbisbal's municipal council funds initiatives to boost commercial activity. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6a7149d5d7545082",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

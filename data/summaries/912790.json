@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança compensacions pels armadors i armadores de barcos de pesca amb base a Catalunya que han hagut de paralitzar temporalment les seves activitats pesqueres. S'adreça a pimes i autònoms del sector pesquer afectats per aquestes paralitzacions temporals, segons les regles que estableixen les bases de la convocatòria.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança compensacions per a armadors i armadores de barcos de pesca amb puerto base a Catalunya que han patit aturades temporals d'activitats pesqueres. S'adreça a pimes i autònoms del sector pesquer.",
+    "es": "Esta convocatoria financia compensaciones para armadores y armadoras de embarcaciones de pesca con puerto base en Cataluña que han sufrido paralizaciones temporales de actividades pesqueras. Va dirigida a pymes y autónomos del sector pesquero.",
+    "en": "This grant programme compensates fishing vessel owners and skippers with a home port in Catalonia who have experienced temporary shutdowns of fishing activities. It is aimed at small and medium-sized enterprises and self-employed workers in the fishing sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "36f3bee935e7bfcf",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

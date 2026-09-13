@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el servei de transport adaptat en municipis gironins de menys de 50.000 habitants. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms. L'ajut té com a objectiu contribuir a finançar els serveis de transport accessible per a municipis de la comarca del Gironès durant l'any 2026.",
+  "paragrafs": {
+    "ca": "Finança el servei de transport adaptat als municipis de menys de 50.000 habitants del Gironès durant l'exercici 2026. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "Financia el servicio de transporte adaptado en los municipios de menos de 50.000 habitantes de la comarca del Gironès durante el ejercicio 2026. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "It funds adapted transport services in municipalities with fewer than 50,000 inhabitants in the Gironès region for 2026. It is aimed at self-employed persons without economic activity, entities without economic activity, SMEs and freelancers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4eca4f1c43a1d36b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

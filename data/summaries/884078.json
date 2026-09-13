@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones físiques que no desenvolupin activitat econòmica. La convocatòria finança una prestació econòmica derivada del programa de suport econòmic per a l'any 2007, segons les bases aprovades pel Departament de Drets Socials i Inclusió.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió obre una convocatòria de prestacions econòmiques adreçada a persones físiques sense activitat econòmica.",
+    "es": "El Departamento de Derechos Sociales e Inclusión abre una convocatoria de prestaciones económicas dirigida a personas físicas sin actividad económica.",
+    "en": "The Department of Social Rights and Inclusion opens a call for economic benefits aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "219d0aed39311b8d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

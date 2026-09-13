@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línia de préstecs bonificats de l'Institut Català de Finances finança l'adquisició, construcció, rehabilitació o adaptació a la normativa d'equipaments destinats a prestar serveis socials. S'adreça a pimes, autònoms i grans empreses que vulguin invertir en aquest tipus d'infraestructures amb condicions preferents de finançament.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs amb interessos reduïts per a la compra, construcció, rehabilitació o adaptació d'equipaments destinats a prestar serveis socials. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de Finances (ICF) concede préstamos con tipos de interés bonificados para la adquisición, construcción, rehabilitación o adaptación de equipamientos destinados a la prestación de servicios sociales. Va dirigida a pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de Finances (ICF) provides subsidized loans for purchasing, building, renovating or adapting facilities used to deliver social services. It is aimed at small and medium-sized enterprises, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f38adafc7ec0b42b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

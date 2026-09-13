@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a petites i mitjanes empreses i autònoms de Roses que vulguin subscriure's a la plataforma de l'Institut de Turisme Responsable per obtenir la certificació Biosphere. La subvenció finança aquesta subscripció amb l'objectiu que les empreses rosines accedeixin a la certificació de turisme responsable durant 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Roses finança la subscripció a la plataforma de certificació Biosphere del Instituto de Turismo Responsable. S'adreça a pimes i autònoms.",
+    "es": "El Ajuntamiento de Roses financia la suscripción a la plataforma de certificación Biosphere del Instituto de Turismo Responsable. Se dirige a pymes y autónomos.",
+    "en": "Roses City Council funds subscription to the Biosphere certification platform managed by the Instituto de Turismo Responsable. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6913aec256ef710a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

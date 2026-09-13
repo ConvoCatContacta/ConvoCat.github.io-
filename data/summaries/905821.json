@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la subtitulació de pel·lícules en català a sales comercials de cinema. S'adreça a entitats sense ànim de lucre, petites i mitjanes empreses i autònoms que exploten sales d'exhibició cinematogràfica i vulguin oferir pel·lícules subtitulades en llengua catalana.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança les sales comercials de cinema que subtitulen pel·lícules llargues en català. S'adreça a entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "Esta convocatoria financia las salas comerciales de cine que subtitulan películas de larga duración en catalán. Se dirige a entidades sin actividad económica, pymes y autónomos.",
+    "en": "This grant scheme funds commercial cinema venues that subtitle feature films in Catalan. It is aimed at non-profit entities, SMEs and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2751de340d5b0395",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

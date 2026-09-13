@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'activitats d'educació en el temps lliure dirigits a infants i joves durant l'any 2026. S'adreça a associacions sense finalitat de lucre que desenvolupin programes en aquesta matèria. L'Ajuntament de Cerdanyola del Vallès destina aquests recursos per impulsar iniciatives que fomentin l'educació i l'oci formatiu del col·lectiu infantil i juvenil.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cerdanyola del Vallès finança projectes d'activitats d'educació en el temps lliure juvenil per a l'any 2026. S'adreça a associacions sense activitat econòmica.",
+    "es": "El Ajuntament de Cerdanyola del Vallès financia proyectos de actividades de educación en el tiempo libre juvenil para el año 2026. Va dirigido a asociaciones sin actividad económica.",
+    "en": "Cerdanyola del Vallès council funds youth leisure education activity projects for 2026. It is aimed at non-profit associations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "02a789a4d5f3368c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

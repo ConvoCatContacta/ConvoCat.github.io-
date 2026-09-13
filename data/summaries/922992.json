@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Agència Catalana de l'Aigua finança la devolució de fons a persones físiques que no tenen activitat econòmica i que han pagat el cànon de control d'abocaments a la Confederació Hidrogràfica de l'Ebre o del Xúquer. Es tracta d'una atribució de recursos dirigida a particulars que compleixen els requisits com a subjectes passius d'aquest tribut, d'acord amb la normativa fiscal vigent.",
+  "paragrafs": {
+    "ca": "L'Agència Catalana de l'Aigua assigna fons a persones físiques sense activitat econòmica que són subjectes passius del cànon de control d'abocaments que gestionen la Confederació Hidrogràfica de l'Ebre o la Confederació Hidrogràfica del Xúquer.",
+    "es": "La Agencia Catalana del Agua asigna fondos a personas físicas sin actividad económica que son sujetos pasivos del canon de control de vertidos que gestionan la Confederación Hidrográfica del Ebro o la Confederación Hidrográfica del Júcar.",
+    "en": "The Catalan Water Agency allocates funds to natural persons without economic activity who are liable for the discharge control fee managed by the Ebro River Basin Authority or the Júcar River Basin Authority."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "df8417e0f94da0b2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Manresa finança becas esportives per a nens i joves amb pocs recursos econòmics a través d'entitats i clubs esportius locals. S'adreça a persones físiques sense activitat econòmica que desenvolupin programes d'inclusió esportiva. Les beques permeten que menors en situació de vulnerabilitat econòmica puguin accedir a activitats esportives organitzades per entitats locals.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Manresa finança becas esportives per a nens i joves amb pocs recursos a través d'entitats i clubs esportius locals. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Manresa financia becas deportivas para niños y jóvenes con pocos recursos a través de entidades y clubes deportivos locales. Se dirige a personas físicas sin actividad económica.",
+    "en": "Manresa City Council funds sports scholarships for children and young people with limited economic resources through local sports entities and clubs. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "789f906af75a96ce",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

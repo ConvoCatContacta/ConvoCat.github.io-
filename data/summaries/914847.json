@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'ús del servei d'acolliment diürn al centre de dia de Vilalba dels Arcs durant l'any 2026. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. La subvenció es concedeix en règim de no competitivitat, la qual cosa significa que no es compara una sol·licitud amb altres sinó que es valora si compleix els requisits establerts a les bases.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilalba dels Arcs subvenciona l'ús del servei d'acolliment diürn del centre de dia per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Vilalba dels Arcs subvenciona el uso del servicio de acogida diurno del centro de día durante 2026. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Vilalba dels Arcs municipal council provides grants to support use of the day centre's daytime care service in 2026. It is aimed at self-employed individuals and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "960aa2be8805baf3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

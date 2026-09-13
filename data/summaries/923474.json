@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions d'orientació laboral adreçades al sector agrari dins del programa Orienta. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses que vulguin desenvolupar aquestes actuacions d'orientació per a l'any 2026. La subvenció forma part del programa de suport a l'ocupació del Servei Públic d'Ocupació de Catalunya.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança actuacions d'orientació adreçades al sector agrari dins del programa Orienta. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Servicio Público de Empleo de Cataluña financia acciones de orientación dirigidas al sector agrario en el marco del programa Orienta. Va dirigido a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Servicio Público de Empleo de Cataluña funds orientation activities for the agricultural sector through the Orienta programme. It is aimed at non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1d530f9bb8eb22c4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

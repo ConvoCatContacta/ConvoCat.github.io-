@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la compra de llibres de text, material escolar, quotes de l'AFA, sortides o colònies i quotes de llar d'infants per a l'any 2026. S'adreça a persones físiques sense activitat econòmica. La gestiona l'Ajuntament de Tavèrnoles i els detalls complets sobre els requisits i condicions es troben a la web municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Tavèrnoles subvenciona l'adquisició de llibres de text, material escolar, quotes de l'AFA, sortides o colònies i quotes de llar d'infants per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Tavèrnoles subvenciona la adquisición de libros de texto, material escolar, cuotas de la AFA, salidas o colonias y cuotas de guardería para el año 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Tavèrnoles municipality provides grants to cover textbooks, school materials, parent association fees, school trips or summer camps, and nursery school fees for 2026. It is aimed at self-employed individuals and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "35dbd76416430500",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

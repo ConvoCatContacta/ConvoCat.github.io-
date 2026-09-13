@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria premia els millors treballs de recerca que realitzin alumnes de segon de batxillerat durant el curs 2026-2027. S'adreça a estudiants que cursin aquesta etapa educativa i que hagin desenvolupat projectes de recerca dins del programa acadèmic. Els premis reconeixen la qualitat i la dedicació en la realització d'aquests treballs.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cassà de la Selva convoca premis per als treballs de recerca de segon de batxillerat del curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Cassà de la Selva convoca premios para los trabajos de investigación de segundo de bachillerato del curso 2026-2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Cassà de la Selva town council is awarding prizes for research projects completed by second-year baccalaureate students in the 2026-2027 academic year. The grants target self-employed individuals and private persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "24d2d45bd647e980",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a pimes, autònoms i grans empreses amb projectes d'internacionalització. Finança préstecs amb condicions preferents, és a dir, amb tipus d'interès reduït i altres avantatges, per facilitar que aquestes empreses desenvolupin iniciatives de sortida als mercats internacionals. L'Institut Català de Finances (ICF) és qui ofereix aquesta línia de finançament.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances ofereix préstecs bonificats amb condicions preferents per a empreses amb projectes d'internacionalització. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de Finances ofrece préstamos bonificados con condiciones preferentes para empresas con proyectos de internacionalización. Va dirigido a pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de Finances provides subsidised loans with preferential terms for companies with internationalisation projects. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "97026277b3f6a3c8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

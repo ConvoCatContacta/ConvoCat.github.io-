@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Girona finança la millora i desenvolupament de biblioteques escolars durant els anys 2026 i 2027. S'adreça a entitats sense activitat econòmica que gestionen o impulsen aquestes biblioteques. La convocatòria té com a objectiu reforçar els serveis i recursos de les biblioteques en els centres educatius de Girona.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Girona finança projectes de biblioteques escolars per als anys 2026-2027. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Girona financia proyectos de bibliotecas escolares para los años 2026-2027. Se dirige a entidades sin actividad económica.",
+    "en": "The City Council of Girona funds school library projects for 2026-2027. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e0619778e8d424a7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

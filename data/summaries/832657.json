@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'ICEC (Institut Català de les Empreses Culturals) ofereix garanties per facilitar finançament a empreses i entitats dels sectors culturals. S'adreça a autònoms, petites i mitjanes empreses, grans empreses i entitats sense activitat econòmica. Les garanties funcionen com un suport perquè aquestes organitzacions accedeixin més fàcilment a crèdit bancari per desenvolupar les seves activitats culturals.",
+  "paragrafs": {
+    "ca": "L'Institut Català de les Empreses Culturals (ICEC) ofereix garanties per finançar empreses i entitats dels àmbits culturals. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses.",
+    "es": "El Institut Català de les Empreses Culturals (ICEC) ofrece garantías para financiar empresas y entidades de los ámbitos culturales. Va dirigido a entidades sin actividad económica, pequeñas y medianas empresas, autónomos y grandes empresas.",
+    "en": "The Institut Català de les Empreses Culturals (ICEC) provides guarantees to finance businesses and entities in the cultural sectors. It is aimed at entities without economic activity, small and medium-sized enterprises, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "924ce14a9d86de65",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

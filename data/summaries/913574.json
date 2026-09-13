@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones joves, autònoms, petites i mitjanes empreses i entitats sense activitat econòmica. Finança o reconeix projectes i iniciatives que compleixin els criteris establerts en les bases específiques del premi, que es convoca anualment per l'Ajuntament de Mollet del Vallès per fomentar l'emprenedoria i la innovació juvenil.",
+  "paragrafs": {
+    "ca": "El Premi Juvenil Vicenç Plantada el convocat l'Ajuntament de Mollet del Vallès. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Premio Juvenil Vicenç Plantada es convocado por el Ajuntamiento de Mollet del Vallès. Va dirigido a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "The Vicenç Plantada Youth Prize is announced by the Mollet del Vallès City Council. It is aimed at self-employed individuals without economic activity, non-profit organisations, small and medium-sized enterprises and freelancers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d18187170eeeb49c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

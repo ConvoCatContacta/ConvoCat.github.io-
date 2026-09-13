@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la inclusió d'habitatges en la Borsa d'Habitatges de Lloguer de Barcelona o altres programes socials de la ciutat. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica que tinguin habitatges per afegir a aquests programes de lloguer amb finalitat social.",
+  "paragrafs": {
+    "ca": "El Consorcio de la Vivienda de Barcelona subvenciona la inclusió d'habitatges al programa de la Borsa d'Habitatges de Lloguer de Barcelona o altres programes socials de la ciutat. S'adreça a persones físiques i entitats sense activitat econòmica.",
+    "es": "El Consorcio de la Vivienda de Barcelona financia la inclusión de viviendas en el programa de la Bolsa de Vivienda de Alquiler de Barcelona u otros programas sociales de la ciudad. Va dirigido a personas físicas y entidades sin actividad económica.",
+    "en": "The Consorcio de la Vivienda de Barcelona funds the inclusion of housing in the Barcelona Rental Housing Exchange programme or other social programmes in the city. It is aimed at individuals and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4aaec7f1bb919925",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

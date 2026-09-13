@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança obres de manteniment de camins no rodats que són propietat dels municipis a les comarques de muntanya i Aran. S'adreça a entitats sense activitat econòmica que puguin executar aquestes actuacions. Les subvencions es destinen a conservar la xarxa de camins per garantir la seva accessibilitat i bon estat a zones de difícil orografia.",
+  "paragrafs": {
+    "ca": "Finança actuacions de manteniment de camins no rodats de titularitat municipal a les comarques de muntanya i a Aran durant l'any 2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia actuaciones de mantenimiento de caminos no rodados de titularidad municipal en las comarcas de montaña y en Aran durante el año 2026. Se dirige a entidades sin actividad económica.",
+    "en": "This grant supports maintenance work on unpaved municipal paths in mountain regions and Aran during 2026. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2ec8394e2b669cfe",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

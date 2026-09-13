@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'activitat dels agents de desenvolupament local que treballen en programes de suport al desenvolupament local. S'adreça a entitats sense activitat econòmica que desenvolupin aquesta tasca. La convocatòria és la pròrroga dels contractes vigents dels agents que ja estan en funcionament dins els programes.",
+  "paragrafs": {
+    "ca": "Finança actuacions d'agents de desenvolupament local a través de pròrrogues. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia actuaciones de agentes de desarrollo local mediante prórrogas. Va dirigida a entidades sin actividad económica.",
+    "en": "This funding supports local development agent activities through extensions. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e94c0ee49d5c0ce7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

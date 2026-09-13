@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línia finança préstecs amb bonificació d'interessos per a empreses afectades per les mesures comercials dels Estats Units. S'adreça a petites i mitjanes empreses, autònoms i grans empreses que han patit l'impacte d'aquesta política comercial. Els préstecs es concedeixen amb condicions preferents per pal·liar els efectes econòmics que aquest conflicte comercial ha tingut sobre l'activitat empresarial.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances ofereix préstecs bonificats amb condicions preferents per a empreses afectades per la política comercial dels Estats Units. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de Finances ofrece préstamos bonificados con condiciones preferentes para empresas afectadas por la política comercial de Estados Unidos. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de Finances offers subsidized loans with preferential terms for companies affected by United States trade policy. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7308b2cfb1646b30",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

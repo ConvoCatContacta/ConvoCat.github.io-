@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Moià finança activitats d'entitats sense ànim de lucre que no desenvolupin activitat econòmica. Es tracta de subvencions en règim de concurrència competitiva, és a dir, que l'ajuntament valora els projectes presentats i tria els que considera més adequats. S'adreça a entitats sense activitat econòmica constituïdes legalment.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Moià finança activitats d'entitats sense ànim de lucre que no desenvolupen activitat econòmica. La convocatòria funciona per concurrència competitiva entre les entitats sol·licitants.",
+    "es": "El Ayuntamiento de Moià financia actividades de entidades sin ánimo de lucro que no desarrollan actividad económica. La convocatoria funciona por concurrencia competitiva entre las entidades solicitantes.",
+    "en": "Moià Town Council funds activities carried out by non-profit entities with no economic activity. The call operates on a competitive basis among applicant organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bea043f0472a1579",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

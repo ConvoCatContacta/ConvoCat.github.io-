@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el 30% del lloguer de 16 habitatges situats al carrer Carme, 4 de Premià de Mar. S'adreça a persones físiques sense activitat econòmica, a petites i mitjanes empreses (pimes) i a autònoms que siguin els llogaters de aquests immobles.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança el 30% del lloguer de 16 habitatges al carrer Carme, 4 de Premià de Mar. S'adreça a persones físiques sense activitat econòmica, pimes i autònoms.",
+    "es": "Esta convocatoria financia el 30% de la renta de 16 viviendas en la calle Carme, 4 de Premià de Mar. Va dirigida a personas físicas sin actividad económica, pymes y autónomos.",
+    "en": "This call funds 30% of the rent for 16 dwellings at Carme street, 4 in Premià de Mar. It is aimed at individuals without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d508d3a1b33f948a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

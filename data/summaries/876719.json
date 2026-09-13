@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vallirana finança prestacions econòmiques de caràcter social per a persones que no desenvolupen cap activitat econòmica. Aquestes ajudes es regeixen per la normativa municipal que estableix les condicions i els tipus de prestacions disponibles. S'adreça a persones físiques en situació de vulnerabilitat que compleixin els requisits que marca el reglament municipal de prestacions socials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vallirana ofereix prestacions econòmiques de caràcter social per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament de Vallirana ofrece prestaciones económicas de carácter social para el año 2026. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Vallirana town council provides economic social assistance for 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1a846c6c14ae3057",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

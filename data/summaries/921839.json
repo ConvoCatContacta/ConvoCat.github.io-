@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Santa Margarida i els Monjos finança projectes per crear ocupació local. S'adreça a petites i mitjanes empreses, autònoms i entitats sense activitat econòmica que vulguin impulsar llocs de treball al municipi. La subvenció respon a les bases reguladores que marquen els criteris de cada convocatòria anual.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Margarida i els Monjos ofereix subvencions per fomentar l'ocupació local adreçades a entitats sense activitat econòmica, petites i mitjanes empreses i autònoms.",
+    "es": "El Ajuntamiento de Santa Margarida i els Monjos convoca subvenciones para impulsar la ocupación local dirigidas a entidades sin actividad económica, pequeñas y medianas empresas y autónomos.",
+    "en": "Santa Margarida i els Monjos Town Council offers grants to promote local employment aimed at non-profit entities, small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ac828485d50cdd5c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

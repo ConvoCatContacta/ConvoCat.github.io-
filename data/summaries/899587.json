@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la contractació de persones que participen en els projectes del Servei Local d'Ocupació de Parets del Vallès. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin incorporar aquestes persones a la plantilla.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Parets del Vallès finança la contractació de persones que participen en projectes del Servei Local d'Ocupació. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Parets del Vallès financia la contratación de personas que participan en proyectos del Servicio Local de Ocupación. Va dirigido a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Parets del Vallès Town Council funds the hiring of people participating in Local Employment Service projects. It is aimed at non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c4b35ff0a62b85a9",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança la prestació de centre de dia per a la promoció de l'autonomia personal i l'atenció a persones en situació de dependència. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms. La gestiona el Departament de Drets Socials i Inclusió.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança la prestació de centre de dia per a la promoció de l'autonomia personal i l'atenció a persones en situació de dependència. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Departament de Drets Socials i Inclusió financia la prestación de centro de día para la promoción de la autonomía personal y la atención a personas en situación de dependencia. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "The Departament de Drets Socials i Inclusió funds day centre services for the promotion of personal autonomy and care for persons in situations of dependency. It is aimed at individuals without economic activity, entities without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fbb90e072ba90cf0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

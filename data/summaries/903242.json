@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça als titulars de vehicles de taxi urbà a Reus que hagen fer millores d'adaptabilitat als seus cotxes. Finança les actuacions ja realitzades per adaptar els taxis a criteris d'accessibilitat o altres millores de tipus similar. La convocatòria va dirigida a persones físiques sense activitat econòmica registrada que tinguin concessió de taxi a la ciutat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Reus finança actuacions d'adaptabilitat en vehicles de taxi urbà. S'adreça a persones físiques sense activitat econòmica que són titulars de vehicles que presten aquest servei a la ciutat.",
+    "es": "El Ajuntamiento de Reus financia actuaciones de adaptabilidad en vehículos de taxi urbano. Va dirigida a personas físicas sin actividad económica que son titulares de vehículos que prestan este servicio en la ciudad.",
+    "en": "Reus City Council funds adaptability measures in urban taxi vehicles. It is aimed at self-employed individuals who own vehicles providing this service in the city."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "573d5580e6e04a7a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

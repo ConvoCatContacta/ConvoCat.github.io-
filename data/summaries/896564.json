@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament del Papiol finança la suficiència alimentària dels infants que van a l'escola bressol durant el curs 2026/2027. L'ajuda s'adreça a persones físiques que no desenvolupen cap activitat econòmica.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança l'alimentació a les escoles infantils per al curs 2026/2027. S'adreça a persones físiques que no desenvolupen activitat econòmica.",
+    "es": "Esta convocatoria financia la alimentación en las escuelas infantiles para el curso 2026/2027. Va dirigida a personas físicas sin actividad económica.",
+    "en": "This grant finances food provision at nursery schools for the 2026/2027 school year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0df269d2c89da205",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

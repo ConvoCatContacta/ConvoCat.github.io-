@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Cardona finança l'adquisició de llibres, material escolar, llibre verd i/o opcions de reutilització, així com la quota d'AMPA per al curs 2026/2027. S'adreça a persones físiques sense activitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cardona finança l'adquisició de llibres, material escolar, llibre verd i/o reutilització i quota AMPA per al curs 2026/2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Cardona financia la adquisición de libros, material escolar, libro verde y/o reutilización y cuota AMPA para el curso 2026/2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "Cardona's local council funds the purchase of books, school materials, green book and/or reuse items, and AMPA fees for the 2026/2027 school year. It targets individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "797c7514ccc2e529",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

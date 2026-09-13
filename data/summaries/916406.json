@@ -1,6 +1,10 @@
 {
-  "paragraf": "Els Premis de Recerca Jove finançen projectes de recerca per promoure l'esperit científic entre els joves investigadors. S'adrecen a persones individuals sense activitat econòmica i a entitats que tampoc en desenvolupen, segons les bases reguladores aprovades per l'Agència de Gestió d'Ajuts Universitaris i de Recerca (AGAUR).",
+  "paragrafs": {
+    "ca": "Els Premis de Recerca Jove (PRJ) reconeixen aportacions en investigació científica. S'adrecen a persones físiques sense activitat econòmica i a entitats sense activitat econòmica.",
+    "es": "Los Premios de Investigación Joven (PRJ) reconocen aportaciones en investigación científica. Se dirigen a personas físicas sin actividad económica y a entidades sin actividad económica.",
+    "en": "The Young Research Awards (PRJ) recognize contributions in scientific research. They are aimed at individuals without economic activity and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fc81063219b46719",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

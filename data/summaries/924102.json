@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Subirats finança el transport escolar no obligatori per a alumnat d'educació infantil i primària durant el curs 2025-2026. S'adreça a persones físiques sense activitat econòmica que siguin les responsables de l'alumnat que necessita aquest servei de transport.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Subirats finança el transport escolar no obligatori per a l'alumnat d'educació infantil i primària del curs 2025-2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Subirats financia el transporte escolar no obligatorio para el alumnado de educación infantil y primaria del curso 2025-2026. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Subirats Town Council funds non-compulsory school transport for pupils in infant and primary education during the 2025-2026 academic year. It is aimed at natural persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9ad0a5f2c20e65d5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

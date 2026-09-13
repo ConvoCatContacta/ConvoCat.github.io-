@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els desplaçaments dels centres docents públics d'educació infantil (segon cicle), primària i secundària obligatòria de Vilanova i la Geltrú. S'adreça a aquests centres educatius sostinguts amb fons públics que vulguin organitzar activitats fora de les seves instal·lacions. Es tracta d'ajudes en règim competitiu, la qual cosa significa que l'ajuntament en seleccionarà alguns entre tots els que ho demanin.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilanova i la Geltrú finança desplaçaments per a centres docents públics d'educació infantil de segon cicle, primària i educació secundària obligatòria. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Vilanova i la Geltrú financia desplazamientos para centros docentes públicos de educación infantil de segundo ciclo, primaria y educación secundaria obligatoria. Va dirigida a entidades sin actividad económica.",
+    "en": "Vilanova i la Geltrú's town council funds travel and trips for publicly-funded schools providing early childhood education from age three, primary education and compulsory secondary education. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "92a0ed2b07e3cce0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

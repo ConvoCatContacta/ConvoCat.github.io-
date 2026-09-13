@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament d'Olesa de Montserrat finança la creació de noves empreses i activitats econòmiques, així com millores en establiments de comerç, serveis personals i restauració. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica que vulguin desenvolupar una nova activitat econòmica al municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Olesa de Montserrat subvenciona la creació de nous negocis i l'activitat comercial, així com la millora d'establiments de comerç, serveis personals i restauració. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Olesa de Montserrat otorga subvenciones para la creación de nuevas empresas y la actividad comercial, así como para la mejora de establecimientos de comercio, servicios personales y restauración. Están destinadas a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "Olesa de Montserrat's municipality provides grants for starting new businesses and commercial activity, as well as for improving shops, personal services and restaurants. These grants are for individuals without economic activity and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0ac56539891414da",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

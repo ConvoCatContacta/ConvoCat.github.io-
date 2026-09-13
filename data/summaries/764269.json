@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança garanties per a projectes de reindustrialització i impuls de l'activitat industrial a Catalunya, amb l'objectiu de facilitar l'accés al finançament. S'adreça a pimes, autònoms i grans empreses que desenvolupin aquests projectes al territori català.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança garanties per a projectes de reindustrialització i impuls de l'activitat industrial a Catalunya. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "Esta convocatoria financia garantías para proyectos de reindustrialización e impulso de la actividad industrial en Cataluña. Va dirigida a pymes, autónomos y grandes empresas.",
+    "en": "This call finances guarantees for reindustrialisation projects and industrial activity initiatives in Catalonia. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6fb7058eb4aa00d3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

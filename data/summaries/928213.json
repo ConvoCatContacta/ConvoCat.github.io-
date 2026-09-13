@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones que no desenvolupen activitat econòmica i finança la concessió de premis en la XXXII edició del Concurs de Fotografia Sant Vicenç 2027, organitzat per l'Ajuntament de Mollet del Vallès. Els premis reconeixen els treballs fotogràfics que compleixen els criteris establerts a les bases reguladores de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Mollet del Vallès convoca premis del Concurs de Fotografia Sant Vicenç. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament de Mollet del Vallès convoca premios del Concurso de Fotografía Sant Vicenç. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Mollet del Vallès City Council awards prizes for the Sant Vicenç Photography Contest. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fe0f99d214c06c51",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut Ramon Llull convoca una segona ronda d'ajuts el 2026 per finançar la mobilitat del professorat que imparteix estudis de català a universitats fora de Catalunya. S'adreça a persones físiques sense activitat econòmica que desenvolupin aquesta activitat docent. Els ajuts es concedeixin en règim de no competitiu, la qual cosa significa que no competeixen entre sol·licitants que compleixin els requisits.",
+  "paragrafs": {
+    "ca": "L'Institut Ramon Llull finança la mobilitat del professorat d'estudis catalans que exerceix a universitats fora de Catalunya. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Instituto Ramon Llull financia la movilidad del profesorado de estudios catalanes que ejerce en universidades fuera de Cataluña. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Institut Ramon Llull funds mobility for teachers of Catalan studies working at universities outside Catalonia. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2637d45dfb77bb80",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

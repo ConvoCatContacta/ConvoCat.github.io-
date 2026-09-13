@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Tàrrega finança ajuts individuals per al menjador escolar d'alumnat dels cursos de segon cicle d'educació infantil, educació primària i educació secundària obligatòria. S'adreça a persones físiques sense activitat econòmica que tinguin fills o filles escolaritzats en aquests nivells educatius.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Tàrrega finança ajuts individuals de menjador per a l'alumnat escolaritzat en qualsevol curs del segon cicle d'educació infantil, educació primària i educació secundària obligatòria. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Tàrrega financia ayudas individuales de comedor para el alumnado escolarizado en cualquier curso del segundo ciclo de educación infantil, educación primaria y educación secundaria obligatoria. Se dirige a personas físicas sin actividad económica.",
+    "en": "Tàrrega's municipal council funds individual meal assistance for pupils enrolled in any year of the second cycle of early childhood education, primary education and compulsory secondary education. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5cd3f72670c4837a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

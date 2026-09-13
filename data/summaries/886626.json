@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consell Comarcal de la Noguera finança accions i recursos dirigits a infants i adolescents a través del programa \"Per Ells!\". S'adreça a persones físiques que no desenvolupen activitat econòmica i que vulguin desenvolupar projectes o activitats en benefici d'aquest col·lectiu de la comarca.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de la Noguera finança ajuts destinats a infants i adolescents del programa \"Per Ells!\". S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal de la Noguera financia ayudas destinadas a menores y adolescentes del programa \"Per Ells!\". Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal de la Noguera funds support for children and adolescents under the \"Per Ells!\" programme. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "502009241a60aac7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

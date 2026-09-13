@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta prestació ofereix una aportació econòmica destinada a persones que cuiden altres sense ser professionals del sector. S'adreça a cuidadors sense activitat econòmica que atenen persones en situació de dependència, dins el sistema de suport per a l'autonomia personal.",
+  "paragrafs": {
+    "ca": "Aquesta prestació econòmica va dirigida a persones físiques sense activitat econòmica que exerceixen de cuidadors no professionals. S'enquadra dins la Llei d'Autonomia Personal i Atenció a Persones en Situació de Dependència.",
+    "es": "Esta prestación económica se dirige a personas físicas sin actividad económica que ejercen como cuidadores no profesionales. Se enmarca en la Ley de Autonomía Personal y Atención a Personas en Situación de Dependencia.",
+    "en": "This financial allowance targets individuals without economic activity who work as unpaid carers. It falls within the scope of the Law on Personal Autonomy and Care for People in a Situation of Dependency."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8ee226f513481055",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

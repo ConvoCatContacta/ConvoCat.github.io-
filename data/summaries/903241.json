@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Reus finança les despeses d'aigua potable de les famílies que viuen al municipi i que passen dificultats econòmiques o situació de vulnerabilitat. S'adreça a persones físiques sense activitat econòmica que necessitin ajuda per pagar el servei d'abastament i sanejament d'aigua.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Reus finança les despeses d'aigua potable de les famílies del municipi que es troben en situació de vulnerabilitat econòmica. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Reus financia los gastos de agua potable de las familias del municipio que se encuentran en situación de vulnerabilidad económica. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de Reus funds water supply costs for families in the municipality experiencing economic hardship and vulnerability. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "41ddc74f8808e193",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

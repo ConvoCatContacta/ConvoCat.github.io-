@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'assessorament i el suport tècnic per desenvolupar polítiques municipals de protecció de la salut durant el 2026. S'adreça a entitats sense activitat econòmica que vulguin rebre ajuda per impulsar accions de salut pública als municipis. La Diputació de Girona és l'organisme que gestiona aquestes subvencions.",
+  "paragrafs": {
+    "ca": "DIPSALUT finança assessorament i suport tècnic a polítiques municipals de protecció de la salut per a l'any 2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "DIPSALUT financia asesoramiento y apoyo técnico a políticas municipales de protección de la salud para el año 2026. Se dirige a entidades sin actividad económica.",
+    "en": "DIPSALUT funds advisory and technical support for municipal health protection policies in 2026. It is aimed at entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8d4f67801add3aa6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

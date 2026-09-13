@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta ajuda económica es dirigeix a famílies que han tingut un naixement, una adopció, una tutela o un acolliment recent. La convoca el Departament de Drets Socials i Inclusió i va destinada a persones físiques sense activitat econòmica. L'import i la cuantia es calculen segons el nivell d'ingressos de la família. Es tracta d'una prestació de suport a les famílies en moments de canvi en la seva composició.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió ofereix una prestació econòmica dirigida a famílies que han tingut un naixement, adopció, tutela o acolliment. Va destinada a persones físiques sense activitat econòmica i està sotmesa al nivell d'ingressos.",
+    "es": "El Departament de Drets Socials i Inclusió convoca una ayuda económica para familias en las que ha habido un nacimiento, adopción, tutela o acogimiento. Se dirige a personas físicas sin actividad económica y está condicionada al nivel de ingresos.",
+    "en": "The Departament de Drets Socials i Inclusió offers financial support to families that have experienced a birth, adoption, guardianship or fostering arrangement. It is aimed at self-employed individuals without economic activity and is subject to income thresholds."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "db8b7185058d3822",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la bonificació dels interessos de préstecs per construir habitatges amb protecció oficial destinats a lloguer o cessió d'ús. S'adreça a entitats sense activitat econòmica i a grans empreses que vulguin desenvolupar aquestes promocions d'habitatge.",
+  "paragrafs": {
+    "ca": "L'Agència de l'Habitatge de Catalunya finança la bonificació d'interessos de préstecs per construir habitatges amb protecció oficial destinats a lloguer o cessió d'ús. S'adreça a entitats sense activitat econòmica i grans empreses.",
+    "es": "La Agència de l'Habitatge de Catalunya financia la bonificación de intereses de préstamos para construir viviendas con protección oficial destinadas a alquiler o cesión de uso. Se dirige a entidades sin actividad económica y grandes empresas.",
+    "en": "The Agència de l'Habitatge de Catalunya finances the reduction of loan interest for building officially protected housing intended for rent or use agreements. It is aimed at non-profit entities and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c93703abd82bebcf",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

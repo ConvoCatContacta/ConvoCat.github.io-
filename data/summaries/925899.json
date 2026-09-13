@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança programes i activitats per a gent gran durant el 2026. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar iniciatives adreçades a aquest col·lectiu. L'Ajuntament de Girona convoca aquesta ajuda per impulsar projectes que millorin la qualitat de vida i la participació de les persones majors.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Girona finança programes i activitats dirigits a gent gran durant el 2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Girona financia programas y actividades dirigidos a personas mayores durante 2026. Va dirigido a entidades sin actividad económica.",
+    "en": "Girona City Council funds programmes and activities for older people in 2026. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b9ceb4ec01154575",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

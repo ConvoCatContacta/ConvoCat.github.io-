@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Vicenç dels Horts finança mitjançant aquesta convocatòria despeses de caràcter social relacionades amb l'educació de menors, com els àpats a l'escola, costos d'escolarització, activitats extraescolars i serveis de centres educatius per a l'any 2026. S'adreça a persones físiques que no desenvolupen activitat econòmica i que es troben en situació de necessitat econòmica o social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Vicenç dels Horts finança ajudes econòmiques per a comedor escolar, gastos d'escolarització, activitats extraescolars i centres, per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Sant Vicenç dels Horts otorga ayudas económicas para comedor escolar, gastos de escolarización, actividades extraescolares y centros, durante 2026. Van dirigidas a personas físicas sin actividad económica.",
+    "en": "Sant Vicenç dels Horts municipal council provides economic aid for school meals, schooling expenses, extracurricular activities and centres in 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "04acf18ed6e071b5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

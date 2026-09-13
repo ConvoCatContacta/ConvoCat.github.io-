@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança activitats de foment cultural a través de subvencions per a entitats sense activitat econòmica ni afany de lucre. S'adreça a organitzacions culturals que no operen amb finalitat de benefici i que volen desenvolupar projectes que dinamitzin l'oferta cultural del municipi de Palau-solità i Plegamans.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palau-solità i Plegamans subvenciona entitats sense afany de lucre que no desenvolupen activitat econòmica i treballen en l'àmbit de la cultura.",
+    "es": "El Ajuntament de Palau-solità i Plegamans financia entidades sin ánimo de lucro que no realizan actividad económica y trabajan en el ámbito cultural.",
+    "en": "The Ajuntament de Palau-solità i Plegamans funds non-profit entities with no economic activity operating in the cultural sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "43228c4f5a7daee0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

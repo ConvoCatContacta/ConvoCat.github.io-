@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats d'entitats sense activitat econòmica en l'àmbit de les polítiques feministes, els drets civils i la inclusió. S'adreça a entitats sense finalitat de lucre que portin a terme projectes dins aquests àmbits. L'Ajuntament de Viladecans canalitza aquests recursos en règim de concurrència competitiva, de manera que les entitats interessades han de competir per accedir-hi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Viladecans finança activitats en els àmbits de les polítiques feministes, els drets civils i la inclusió. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Viladecans financia actividades en los ámbitos de las políticas feministas, los derechos civiles y la inclusión. Se dirige a entidades sin actividad económica.",
+    "en": "Viladecans City Council funds activities in the fields of feminist policies, civil rights and inclusion. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c20bb379907094eb",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

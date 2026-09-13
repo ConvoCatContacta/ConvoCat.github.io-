@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança actuacions per millorar i embelir habitatges. S'adreça a persones que no desenvolupen cap activitat econòmica i que volen renovar les seves cases. L'Ajuntament de Sant Jaume dels Domenys destina aquestes subvencions a reformes que augmentin la qualitat i l'aspecte visual de les vivendes del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Jaume dels Domenys finança obres de millora i embelliment d'habitatges. S'adreça a persones físiques que no tenen activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Jaume dels Domenys financia obras de mejora y embellecimiento de viviendas. Se dirige a personas físicas sin actividad económica.",
+    "en": "Sant Jaume dels Domenys municipality funds home improvement and beautification works. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7a9cc539a745b856",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

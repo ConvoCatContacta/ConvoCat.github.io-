@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança programes i projectes educatius a les comarques gironines. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin impulsar iniciatives en aquest àmbit. La Diputació de Girona convoca aquestes subvencions amb vista a l'anualitat 2026.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança programes i projectes educatius a les comarques gironines. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia programas y proyectos educativos en las comarcas gironinas. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Diputació de Girona funds educational programmes and projects in the Girona region. It is open to individuals without economic activity, non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "74863659855a5967",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

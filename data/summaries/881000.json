@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Llinars del Vallès finança prestacions socials de caràcter econòmic i serveis destinats a recolzar i desenvolupar la infància i l'adolescència. S'adreça a persones físiques sense activitat econòmica que resideixen al municipi i que necessiten aquest tipus de suport per al desenvolupament dels menors.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Llinars del Vallès finança prestacions socials econòmiques i serveis per a la infància i adolescència. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Llinars del Vallès financia prestaciones sociales económicas y servicios para la infancia y adolescencia. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Llinars del Vallès Town Council funds economic social benefits and services for children and adolescents. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "edf7a56c37fe0173",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats extraescolars per a infants i adolescents amb l'objectiu de garantir que totes les nenes i nens tinguin les mateixes oportunitats d'accés a aquestes activitats. S'adreça a persones físiques sense activitat econòmica que es presentin al procés de selecció competitiva de l'Ajuntament del Masnou.",
+  "paragrafs": {
+    "ca": "L'Ajuntament del Masnou finança activitats extraescolars adreçades a la infància i l'adolescència. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de El Masnou financia actividades extraescolares dirigidas a la infancia y la adolescencia. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The municipality of El Masnou funds extracurricular activities for children and teenagers. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "76b9691d418efd43",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

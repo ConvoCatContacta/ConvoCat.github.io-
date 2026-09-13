@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línia de préstecs bonificats de l'Institut Català de Finances s'adreça a petites i mitjanes empreses, autònoms i grans empreses afectades per les mesures comercials dels Estats Units. Finança projectes empresarials mitjançant préstecs amb interessos reduïts i condicions preferents per a les empreses que han sofert l'impacte d'aquestes polítiques comercials.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs amb interessos bonificats adreçats a pimes, autònoms i grans empreses afectades per la política comercial dels Estats Units d'Amèrica.",
+    "es": "El Instituto Catalán de Finanzas (ICF) ofrece préstamos con intereses bonificados dirigidos a pimes, autónomos y grandes empresas afectadas por la política comercial de Estados Unidos de América.",
+    "en": "The Institut Català de Finances (ICF) provides subsidised loans for SMEs, self-employed workers and large companies affected by United States trade policy."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f3594feb8088630f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança cursos de català per a adults durant el curs acadèmic 2026-2027. S'adreça a entitats sense activitat econòmica que vulguin oferir aquesta formació. La convoca l'Oficina de Suport a la Iniciativa Cultural.",
+  "paragrafs": {
+    "ca": "S'adreça a entitats sense activitat econòmica per finançar cursos de català per a adults durant el curs 2026-2027. La convocatòria la gestiona l'Oficina de Suport a la Iniciativa Cultural.",
+    "es": "Se dirige a entidades sin actividad económica para financiar cursos de catalán para adultos durante el curso 2026-2027. La convocatoria la gestiona la Oficina de Suport a la Iniciativa Cultural.",
+    "en": "It is aimed at non-profit organisations to fund Catalan courses for adults during the 2026-2027 academic year. The Oficina de Suport a la Iniciativa Cultural manages this grant programme."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "22c59f7e3af4e8b4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

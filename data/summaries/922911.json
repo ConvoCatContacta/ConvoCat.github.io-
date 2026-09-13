@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança treballs de màster sobre temàtica marítima presentats a universitats catalanes. S'adreça a autors de treballs de màster que hagin estudiat a universitats de Catalunya. El premi reconeix la recerca de qualitat relacionada amb l'àmbit naval i marítim, i la concessió es regeix per l'Ordenança General de Subvencions del Consorci de les Reals Atarazanes i Museu Marítim de Barcelona.",
+  "paragrafs": {
+    "ca": "El Consorci de les Reials Atarazanes i Museu Marítim de Barcelona finança treballs de màster presentats a universitats catalanes amb el Premi de Recerca \"Antoni de Capmany\". S'adreça a entitats sense activitat econòmica.",
+    "es": "El Consorcio de las Reales Atarazanas y Museo Marítimo de Barcelona financia trabajos de máster presentados en universidades catalanas con el Premio de Investigación \"Antoni de Capmany\". Va dirigido a entidades sin actividad económica.",
+    "en": "The Consortium of the Royal Shipyards and Maritime Museum of Barcelona funds master's theses presented at Catalan universities through the \"Antoni de Capmany\" Research Award. It is aimed at entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b046727c84b90c30",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

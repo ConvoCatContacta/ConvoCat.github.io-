@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques per a persones que atravessen situacions d'urgència social. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. La convoca el Consell Comarcal de l'Alt Penedès i es regeix per les bases establertes al Reglament de prestacions econòmiques de caràcter social.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de l'Alt Penedès finança prestacions econòmiques de caràcter social. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal de l'Alt Penedès financia prestaciones económicas de carácter social. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal de l'Alt Penedès funds social welfare payments. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "12efbd909fdc54db",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

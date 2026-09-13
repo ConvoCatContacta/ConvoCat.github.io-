@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança iniciatives per promoure l'autoempleo i la creació d'empresa a Montcada i Reixac. S'adreça a pimes i autònoms que vulguin desenvolupar projectes empresarials al municipi. L'Ajuntament de Montcada i Reixac ofereix aquesta subvenció per impulsar l'activitat empresarial local i generar ocupació a la zona.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Montcada i Reixac finança projectes d'autoempresa i creació de negocis. S'adreça a petites i mitjanes empreses i autònoms.",
+    "es": "El Ajuntamiento de Montcada i Reixac subvenciona proyectos de autoempleo y creación de empresa. La ayuda va dirigida a pequeñas y medianas empresas y autónomos.",
+    "en": "Montcada i Reixac City Council funds self-employment and business creation projects. The subsidy is aimed at small and medium-sized enterprises and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c400f9684df87e73",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

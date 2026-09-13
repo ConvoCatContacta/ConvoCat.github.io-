@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança necessitats puntuals, urgents i bàsiques de subsistència relacionades amb catering per a gent gran. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i grans empreses.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Andreu de Llavaneres finança ajuts econòmics per cobrir necessitats urgents i bàsiques de subsistència. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Sant Andreu de Llavaneres financia ayudas económicas para hacer frente a necesidades urgentes y básicas de subsistencia. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Sant Andreu de Llavaneres municipality provides economic aid to cover urgent and basic subsistence needs. It is aimed at self-employed individuals and individuals without economic activity, entities without economic activity, SMEs, and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d7d641f203c1d301",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

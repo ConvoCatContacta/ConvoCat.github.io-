@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança obres de rehabilitació de vivendes orientades a millorar l'accessibilitat a Barcelona. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica que vulguin dur a terme actuacions d'accessibilitat en edificis residencials. Els ajuts es distribueixen entre els pressupostos dels anys 2026, 2027 i 2028 i els gestiona el Consorcio de la Vivienda de Barcelona.",
+  "paragrafs": {
+    "ca": "El Consorcio de la Vivienda de Barcelona finança obres de rehabilitació per millorar l'accessibilitat en edificis de la ciutat. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "El Consorcio de la Vivienda de Barcelona financia obras de rehabilitación para mejorar la accesibilidad en edificios de la ciudad. Se dirige a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "The Consorcio de la Vivienda de Barcelona funds rehabilitation works to improve accessibility in buildings across the city. It is aimed at individuals without economic activity and non-profit organizations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d1a3a9533c431e4f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

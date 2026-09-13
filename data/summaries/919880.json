@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consell Comarcal del Bages finança projectes de recerca, desenvolupament i innovació (R+D+I) dirigits a impulsar l'activitat empresarial a la comarca del Bages. S'adreça a persones físiques i entitats que no desenvolupen cap activitat econòmica de manera regular i que volen promoure iniciatives innovadores al teixit empresarial local.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança activitats de recerca, desenvolupament i innovació en el teixit empresarial de la comarca del Bages. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia actividades de investigación, desarrollo e innovación en el tejido empresarial de la comarca del Bages. Va dirigida a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "This grant programme funds research, development and innovation activities in the business sector of the Bages region. It is aimed at individuals without economic activity and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7131f73517b68878",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

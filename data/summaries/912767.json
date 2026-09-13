@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la compensació econòmica per a pescadores i pescadors que han patit una parada temporal de les activitats de pesca. S'adreça a treballadores i treballadors del sector pesquer enrolats en embarcacions de pesca, tant si treballen per compte aliè com si són armadores o armadors afectats per la paralització. Les petites i mitjanes empreses i autònoms del sector pesquer poden accedir a aquestes ajudes.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança la compensació per a pescadores i pescadors afectats per la paralització temporal d'activitats pesqueres. S'adreça a pimes i autònoms del sector pesquer enrolats en embarcacions, tant si són treballadores i treballadors com armadores i armadors.",
+    "es": "Esta convocatoria financia la compensación para pescadores y pescadoras afectados por la paralización temporal de actividades pesqueras. Se dirige a pymes y autónomos del sector pesquero enrolados en embarcaciones, tanto si son trabajadores y trabajadoras como armadores y armadoras.",
+    "en": "This call funds compensation for fishers affected by temporary suspension of fishing activities. It targets SMEs and self-employed workers in the fishing sector enrolled on vessels, whether as employees or vessel owners."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a4dcd6242b39e846",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

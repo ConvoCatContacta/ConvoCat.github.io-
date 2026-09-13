@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Castellbisbal convoca aquesta subvenció per a entitats sense activitat econòmica a través d'un procés de concurrència competitiva. La convocatòria s'emmarca en les bases generals que regulen les subvencions en règim de concurrència pública per a l'any 2026. Les bases officials especifiquen els objectius concrets que financia.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castellbisbal convoca subvencions destinades a entitats sense activitat econòmica dins del marc de les bases generals reguladores per a 2026.",
+    "es": "El Ajuntamiento de Castellbisbal convoca subvenciones dirigidas a entidades sin actividad económica conforme a las bases generales reguladoras para 2026.",
+    "en": "Castellbisbal City Council is offering grants to non-profit organisations under the general regulations established for 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f67b29d242799bd9",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

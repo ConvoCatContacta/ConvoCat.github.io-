@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Puig-reig finança activitats que realitzin associacions i entitats sense ànim de lucre durant l'any 2026. S'adreça a associacions i entitats sense ànim de lucre, així com a persones físiques sense activitat econòmica i petites i mitjanes empreses o autònoms que participin en aquestes iniciatives.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Puig-reig finança activitats que realitzen associacions i entitats sense ànim de lucre durant l'any 2026. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ajuntament de Puig-reig financia actividades que realizan asociaciones y entidades sin ánimo de lucro durante el año 2026. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "Puig-reig Municipality funds activities carried out by associations and non-profit entities during 2026. It is open to self-employed individuals and persons without economic activity, non-profit entities, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d521e301e48398b6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones físiques sense activitat econòmica, petites i mitjanes empreses (Pimes) i autònoms. El premi finança idees i projectes orientats a promoure l'ús del català en diversos àmbits. Està convocat per l'Ajuntament de Reus i es regula segons les bases oficials del premi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Reus convoca un premi per a idees que promoguin l'ús del català. S'adreça a persones sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ayuntamiento de Reus convoca un premio para ideas que promuevan el uso del catalán. Va dirigido a personas sin actividad económica, pymes y autónomos.",
+    "en": "Reus City Council is calling for ideas to promote the use of Catalan. It is open to individuals without business activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "69c3f7a4c9792b43",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

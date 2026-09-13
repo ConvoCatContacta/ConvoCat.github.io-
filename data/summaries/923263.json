@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses extraordinàries que generen els municipis i agrupacions de municipis per portar aigua als pobles quan hi ha problemes d'abastament. Cobreix els costos de vehicles cisterna o obres d'emergència que es facin per aquest transport. S'adreça als ens locals i agrupacions d'ens locals sense activitat econòmica.",
+  "paragrafs": {
+    "ca": "Finança les despeses extraordinàries que han tingut els ens locals i les agrupacions d'ens locals pel transport d'aigua per abastir poblacions, incloses les compres de vehicles cisterna o les obres d'emergència. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia los gastos extraordinarios que han tenido los entes locales y agrupaciones de entes locales por el transporte de agua para abastecer poblaciones, incluidas las compras de vehículos cisterna u obras de emergencia. Va dirigida a entidades sin actividad económica.",
+    "en": "This grant covers extraordinary expenses incurred by local authorities and groups of local authorities for water transport to supply populations, including cistern vehicle purchases or emergency works. It is aimed at entities with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c10023a1c8da78b8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

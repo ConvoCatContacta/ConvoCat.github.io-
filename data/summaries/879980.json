@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la designació dels reis del Carnaval i dels reis infantils del Carnaval de Roses per a l'any 2026. S'adreça a persones particulars sense activitat econòmica i a entitats sense activitat econòmica que vulguin participar en l'elecció i desenvolupament d'aquestes figures festives de la festa carnavalesca de Roses.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança els premis per a l'elecció dels reis del Carnaval i dels reis infantils del Carnaval de Roses. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia los premios para la elección de los reyes del Carnaval y de los reyes infantiles del Carnaval de Roses. Se dirige a personas físicas sin actividad económica y a entidades sin actividad económica.",
+    "en": "This call funds prizes for the election of Carnival kings and child Carnival kings at the Roses Carnival. It is aimed at individuals without economic activity and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4c8754bb76d541ad",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Santa Margarida i els Monjos finança projectes de socialització i reutilització de llibres escolars per al curs 2025-2026. S'adreça a entitats sense activitat econòmica que vulguin impulsar iniciatives en aquest àmbit.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Margarida i els Monjos finança projectes de socialització i reutilització de llibres escolars per al curs 2025-2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Santa Margarida i els Monjos financia proyectos de socialización y reutilización de libros escolares para el curso 2025-2026. Va dirigida a entidades sin actividad económica.",
+    "en": "Santa Margarida i els Monjos municipal authority funds projects for the socialization and reuse of school textbooks for the 2025-2026 academic year. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b3eb7d447d4b1ffd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

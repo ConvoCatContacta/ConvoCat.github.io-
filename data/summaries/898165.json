@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança pràctiques formatives en organitzacions internacionals per a persones que no exerceixen cap activitat econòmica. Els ajuts, anomenats Canigó-Francesc Vendrell, són promoguts pel Departament d'Acció Exterior i Unió Europea i permeten desenvolupar formació pràctica en entitats internacionals. S'adreça a persones físiques sense activitat econòmica que vulguin realitzar aquesta mena de pràctiques.",
+  "paragrafs": {
+    "ca": "Finança pràctiques formatives en organitzacions internacionals. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia prácticas formativas en organizaciones internacionales. Se dirige a personas físicas sin actividad económica.",
+    "en": "Funds training internships in international organizations. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "935d13bc357661ca",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

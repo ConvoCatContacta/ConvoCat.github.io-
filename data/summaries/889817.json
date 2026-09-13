@@ -1,6 +1,10 @@
 {
-  "paragraf": "El concurs fotogràfic 2026 de l'Ajuntament de Dosrius finança la creació de treballs fotogràfics. S'adreça a persones físiques que no tinguin activitat econòmica. El concurs reconeix i promou la fotografia com a forma d'expressió artística entre els residents o creadors interessats a participar-hi amb les seves obres.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Dosrius convoca un concurs fotogràfic dirigit a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Dosrius convoca un concurso fotográfico dirigido a personas físicas sin actividad económica.",
+    "en": "Dosrius City Council is launching a photography competition for individuals who are not engaged in any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "be19e89ce80a64c7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

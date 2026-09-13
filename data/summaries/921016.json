@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la creació d'ocupació mitjançant ajuts econòmics destinats a entitats sense activitat econòmica. La convoca el Consell Comarcal del Bages per donar suport a iniciatives que generin llocs de treball. S'adreça a entitats sense afany de lucre que vulguin impulsar projectes de creació d'emprego a la comarca.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Bages finança ajudes econòmiques destinades a entitats sense activitat econòmica per al projecte Rubik 13, dirigit al suport de la creació d'ocupació.",
+    "es": "El Consell Comarcal del Bages financia ayudas económicas destinadas a entidades sin actividad económica para el proyecto Rubik 13, dirigidas al apoyo de la creación de empleo.",
+    "en": "The Consell Comarcal del Bages funds economic aid for entities without economic activity under the Rubik 13 project, aimed at supporting job creation."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "974938f7c824fbfd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

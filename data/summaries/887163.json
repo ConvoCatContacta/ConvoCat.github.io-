@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament del Papiol finança ajudes d'urgència social adreçades a persones que no tenen activitat econòmica. Aquestes subvencions pretenen cobrir situacions de necessitat puntual de qui es troba en circumstàncies de vulnerabilitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament del Papiol finança ajudes d'urgència social per a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament del Papiol financia ayudas de urgencia social destinadas a personas físicas sin actividad económica.",
+    "en": "The Ajuntament del Papiol provides emergency social aid for individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8fa54d71c0b7473a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

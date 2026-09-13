@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la instal·lació d'infraestructures per millorar la bioseguretat en explotacions de bestiar de boví, ovell o cabra. S'adreça a pimes i autònoms que es dediquen a la ramaderia de rumiants. Els ajuts són de caràcter mínim, segons la normativa europea, i pretenen reforçar les mesures de prevenció de malalties en aquestes explotacions.",
+  "paragrafs": {
+    "ca": "Finança la instal·lació d'infraestructures per millorar la bioseguretat en explotacions de bestiar boví, ovní o cabrum. S'adreça a pimes i autònoms.",
+    "es": "Financia la instalación de infraestructuras para mejorar la bioseguridad en explotaciones de ganado bovino, ovino o caprino. Va dirigida a pymes y autónomos.",
+    "en": "It funds the installation of infrastructure to improve biosecurity in cattle, sheep and goat farms. It is aimed at small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a49c57d686fe5778",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats relacionades amb establiments comercials, empreses i professionals. S'adreça a pimes i autònoms que vulguin accedir a les ajudes per a l'exercici 2026. L'Ajuntament de Calonge i Sant Antoni és qui impulsa aquest programa de suport econòmic adreçat a l'activitat empresarial local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Calonge i Sant Antoni finança establiments comercials, activitats empresarials i professionals mitjançant subvencions per a l'exercici 2026. S'adreça a pimes i autònoms.",
+    "es": "El Ajuntamiento de Calonge i Sant Antoni convoca subvenciones para establecimientos comerciales, actividades empresariales y profesionales durante 2026. Van dirigidas a pymes y autónomos.",
+    "en": "The Ajuntament de Calonge i Sant Antoni offers subsidies for commercial establishments, business and professional activities in 2026. The funding targets SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "39bfdc2bda554754",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats d'entitats esportives del municipi dels Pallaresos per a l'any 2026. S'adreça a entitats sense activitat econòmica que desenvolupin programes o projectes vinculats amb l'esport. L'Ajuntament dels Pallaresos concedeix aquestes subvencions per impulsar la pràctica esportiva i el desenvolupament de clubs i associacions del territori.",
+  "paragrafs": {
+    "ca": "L'Ajuntament dels Pallaresos finança activitats d'entitats esportives sense ànim de lucre del municipi durant el 2026.",
+    "es": "El Ajuntament de Els Pallaresos financia actividades de entidades deportivas sin ánimo de lucro del municipio durante 2026.",
+    "en": "The Ajuntament de Els Pallaresos funds activities run by non-profit sports organisations in the municipality during 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fa6e7cc2ef3e6b4a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

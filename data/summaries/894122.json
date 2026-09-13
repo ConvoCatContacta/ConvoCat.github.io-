@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Mancomunitat Intermunicipal Voluntària La Plana finança prestacions socials de caràcter econòmic per a persones físiques sense activitat econòmica. La convocatòria funciona mitjançant un procediment de concurrència competitiva per a l'exercici 2026, és a dir, que es valoren i comparen les sol·licituds rebudes. Les condicions específiques de les ajudes s'estableixen a l'ordenança que regula aquestes prestacions socials.",
+  "paragrafs": {
+    "ca": "La Mancomunitat Intermunicipal Voluntària La Plana convoca prestacions socials de caràcter econòmic per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "La Mancomunidad Intermunicipal Voluntaria La Plana convoca prestaciones sociales de carácter económico para el año 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Mancomunidad Intermunicipal Voluntaria La Plana is opening a call for social welfare benefits of an economic nature for 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "83d14e6fb02b448d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

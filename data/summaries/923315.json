@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Servei Català de Trànsit finança accions dels ens locals de Catalunya destinades a millorar la mobilitat segura i sostenible, a desenvolupar sistemes de trànsit intel·ligent, a pacificar el trànsit i a reduir els accidents a les àrees urbanes. S'adreça a entitats sense activitat econòmica dels territoris de Catalunya.",
+  "paragrafs": {
+    "ca": "El Servei Català de Trànsit finança actuacions dels ens locals de Catalunya relacionades amb la mobilitat segura i sostenible, la intel·ligència del trànsit i la reducció de la sinistralitat urbana. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Servei Català de Trànsit financia acciones de los entes locales de Cataluña vinculadas a la movilidad segura y sostenible, la inteligencia del tráfico y la reducción de la siniestralidad urbana. Va dirigida a entidades sin actividad económica.",
+    "en": "The Servei Català de Trànsit funds actions by local authorities in Catalonia linked to safe and sustainable mobility, traffic intelligence and reducing road accidents in urban areas. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a2e748b7216e6b0b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

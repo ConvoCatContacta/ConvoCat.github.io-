@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança projectes que generin nous llocs de treball i promoguin l'activitat econòmica. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que es proposin crear ocupació al municipi de Navàs.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Navàs finança la creació de llocs de treball. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, Pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Navàs financia la creación de puestos de trabajo. Se dirige a personas sin actividad económica, entidades sin actividad económica, Pymes, autónomos y grandes empresas.",
+    "en": "Navàs Town Council funds the creation of jobs. It is aimed at individuals without economic activity, entities without economic activity, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7024cf74404cd758",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

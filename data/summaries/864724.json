@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de la Diputació de Girona finança accions per crear públic per a la cultura, adreçades a ajuntaments, organismes autònoms municipals i entitats municipals descentralitzades. Les subvencions estan pensades per a iniciatives que impulsin l'assistència a activitats culturals i enfortesquin l'accés de la ciutadania a la cultura als municipis de la comarca.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança accions per crear públics per a la cultura dirigides a ajuntaments, organismes autònoms i entitats municipals descentralitzades. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia acciones para crear públicos para la cultura dirigidas a ayuntamientos, organismos autónomos y entidades municipales descentralizadas. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pimes, autónomos y grandes empresas.",
+    "en": "Girona Provincial Council funds actions to create audiences for culture aimed at municipalities, autonomous bodies and decentralised municipal entities. It is open to self-employed individuals and legal entities without economic activity, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "81a0ebec900db23a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el lloguer d'habitatges a través de la Borsa d'Habitatge del Consell Comarcal de l'Alt Penedès. S'adreça a propietaris individuals, entitats sense activitat econòmica, petites i mitjanes empreses i grans empreses que posen habitatges a disposició del programa per a lloguer social.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de l'Alt Penedès finança subvencions per a propietaris que posen habitatges en lloguer a través de la Borsa d'Habitatge. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Consell Comarcal de l'Alt Penedès financia subvenciones para propietarios que ponen viviendas en alquiler a través de la Bolsa de Vivienda. Va dirigido a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Consell Comarcal de l'Alt Penedès provides grants for property owners who make dwellings available for rent through the Housing Pool. It is aimed at individuals without economic activity, entities without economic activity, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9a857a0c598898da",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

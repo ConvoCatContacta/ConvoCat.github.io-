@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la compra de llibres de text per a l'alumnat del curs escolar 2026-2027. S'adreça a persones físiques sense activitat econòmica que vulguin accedir a una subvenció per cobrir aquesta despesa educativa i així fomentar la igualtat d'oportunitats entre la infància en l'entorn escolar. L'Ajuntament de Gavà és l'organisme que gestiona els ajuts.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Gavà finança la compra de llibres de text per al curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Gavà financia la compra de libros de texto para el curso 2026-2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "Gavà Town Council funds the purchase of textbooks for the 2026-2027 school year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b81c099ac0108c6e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

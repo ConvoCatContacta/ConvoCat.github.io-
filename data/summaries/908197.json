@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses d'escolaritat i de menjador escolar per a alumnes de l'educació infantil, primària i secundària durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica que tinguin fills o filles en ensenyament obligatori o en el segon cicle d'educació infantil. Els ajuts es concedeixen segons la normativa general de subvencions de l'Ajuntament de Sant Cugat del Vallès.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Cugat del Vallès convoca ajuts individuals per cobrir despeses d'escolaritat i servei de menjador escolar. S'adreça a persones físiques sense activitat econòmica que tinguin fills en ensenyament obligatori, segon cicle d'educació infantil, primària o secundària per al curs 2026-2027.",
+    "es": "El Ayuntamiento de Sant Cugat del Vallès convoca ayudas individuales para cubrir gastos de escolaridad y servicio de comedor escolar. Se dirigen a personas físicas sin actividad económica que tengan hijos en educación obligatoria, segundo ciclo de educación infantil, primaria o secundaria para el curso 2026-2027.",
+    "en": "Sant Cugat del Vallès Town Council offers individual grants to cover schooling fees and school meal service costs. These are for private individuals without economic activity who have children in compulsory education, second cycle of early childhood education, primary or secondary education for the 2026-2027 academic year."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6918d5d722b9f07d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

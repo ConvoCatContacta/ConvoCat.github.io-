@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajuts d'urgència social per a l'any 2026. S'adreça a persones físiques que no exerceixen activitat econòmica. Les bases que regeixen la concessió d'aquestes subvencions es recullen en l'Ordenança específica de l'Ajuntament de Banyeres del Penedès sobre ajuts d'urgència social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Banyeres del Penedès convoca ajuts d'urgència social per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Banyeres del Penedès convoca ayudas de urgencia social para el año 2026. Se dirigen a personas físicas sin actividad económica.",
+    "en": "Banyeres del Penedès municipality is calling for emergency social aid for 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "051541f923b16d9f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

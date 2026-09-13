@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes empresarials de joves emprenedors i emprenedores. S'adreça a petites i mitjanes empreses (Pimes) i treballadors autònoms que vulguin desenvolupar iniciatives emprenedores. La gestiona l'Institut Municipal de Desenvolupament Local de Vallsgenera i té com a objectiu donar suport econòmic a joves que vulguin tirar endavant les seves idees de negoci.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança projectes empresarials de joves emprenedors i emprenedores. S'adreça a pimes i autònoms.",
+    "es": "Esta convocatoria financia proyectos empresariales de jóvenes emprendedores y emprendedores. Se dirige a pymes y autónomos.",
+    "en": "This call funds business projects run by young entrepreneurs. It is aimed at small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "16669b5e7777de4b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

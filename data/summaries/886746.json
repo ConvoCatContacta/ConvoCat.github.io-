@@ -1,6 +1,10 @@
 {
-  "paragraf": "No puc escriure el paràgraf perquè la informació que em dones és insuficient. El títol és \"ANULADA\", la convocatòria no especifica què finança exactament ni a quins objectius es destina (només menciona que segueix una ordenança general de subvencions), i falta l'explicació clara de què és el que es subvenciona realment. Per redactar segons les regles que em demanes, necessitaria les bases oficials o almenys la descripció detallada de l'objecte de la subvenció.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria ha estat anulada.",
+    "es": "Esta convocatoria ha sido anulada.",
+    "en": "This call has been cancelled."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "708c0e94bf522e34",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

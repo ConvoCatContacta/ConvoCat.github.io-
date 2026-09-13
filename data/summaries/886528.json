@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el doblatge i la subtitulació en català de pel·lícules de llargmetratge que s'estrenen en sales de cine. S'adreça a petites i mitjanes empreses, autònoms i grans empreses que treballen en l'àmbit de la producció audiovisual i la distribució cinematogràfica. L'objectiu és impulsar l'accessibilitat del cinema en català a les sales d'exhibició.",
+  "paragrafs": {
+    "ca": "Finança el doblatge i la subtitulació en català de pel·lícules d'estrena que es projectin en sales de cine. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "Financia el doblaje y la subtitulación al catalán de largometrajes de estreno proyectados en salas cinematográficas. Va dirigida a pymes, trabajadores autónomos y grandes empresas.",
+    "en": "This grant funds dubbing and subtitling into Catalan for feature films released in cinemas. It is open to small and medium-sized enterprises, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "902b24039a73d65e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

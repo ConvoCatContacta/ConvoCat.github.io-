@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Ripollet finança prestacions econòmiques per a persones que pateixin necessitats urgents en matèria de serveis socials durant l'any 2026. S'adreça a persones sense activitat econòmica que sol·licitin aquestes ajudes en règim de concurrència competitiva, segons el reglament municipal de prestacions socials de caràcter econòmic.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Ripollet ofereix prestacions econòmiques per atendre necessitats urgents en serveis socials l'any 2026. S'adreça a persones físiques que no tinguin activitat econòmica.",
+    "es": "El Ayuntamiento de Ripollet ofrece prestaciones económicas para atender necesidades urgentes en servicios sociales en 2026. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Ripollet City Council offers economic aid to cover urgent social services needs in 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ba28856094e7ee87",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

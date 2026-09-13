@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajuts de minimis per a explotacions ramaderes de boví afectades per la tuberculosi. S'adreça a pimes i autònoms que explotin bestiar i tinguin compromisos derivats de les bases reguladores d'ajuts per a aquest problema sanitari. El Departament d'Agricultura financia aquestes mesures d'urgència per donar suport al sector ramader afectat per aquesta malaltia.",
+  "paragrafs": {
+    "ca": "Finança mesures urgents de suport al sector agrari i forestal. S'adreça a pimes i autònoms que hagin adquirit compromisos derivats de les bases reguladores dels ajuts a les explotacions ramaderes de boví afectades per la tuberculosi.",
+    "es": "Financia medidas urgentes de apoyo al sector agrario y forestal. Se dirige a pymes y autónomos que hayan adquirido compromisos derivados de las bases reguladoras de las ayudas a las explotaciones ganaderas de bovino afectadas por la tuberculosis.",
+    "en": "This scheme funds urgent support measures for the agricultural and forestry sector. It is aimed at SMEs and self-employed workers who have made commitments under the regulations for aid to cattle farms affected by tuberculosis."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d80c6a4ca20d27d2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

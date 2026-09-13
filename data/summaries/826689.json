@@ -1,6 +1,10 @@
 {
-  "paragraf": "La línia de préstecs bonificats ICF Ecoverda Canvi Climàtic finança projectes d'adaptació i mitigació del canvi climàtic amb condicions preferents. S'adreça a petites i mitjanes empreses, autònoms i grans empreses. Els préstecs compten amb bonificacions i estan regulats per la normativa europea de les ajudes.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs bonificats amb condicions preferents per a projectes d'adaptació i mitigació del canvi climàtic. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de Finances (ICF) ofrece préstamos bonificados con condiciones preferentes para proyectos de adaptación y mitigación del cambio climático. Va dirigido a pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de Finances (ICF) provides subsidised loans on preferential terms for climate change adaptation and mitigation projects. It is aimed at SMEs, self-employed individuals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5c6bd6f62a41adbc",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

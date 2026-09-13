@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el desenvolupament de prototips de videojocs. S'adreça a petites i mitjanes empreses i a autònoms que vulguin crear jocs videoludics. La gestiona l'Oficina de Suport a la Iniciativa Cultural de la Generalitat de Catalunya.",
+  "paragrafs": {
+    "ca": "Finança el desenvolupament de prototips de videojocs. S'adreça a pimes i autònoms.",
+    "es": "Financia el desarrollo de prototipos de videojuegos. Se dirige a pymes y autónomos.",
+    "en": "This funding supports the development of video game prototypes. It is aimed at small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1144c96fc8863625",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

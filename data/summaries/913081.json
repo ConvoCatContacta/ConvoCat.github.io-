@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la mobilitat de l'alumnat que cursa ensenyaments postobligatoris al municipi de Puig-reig durant els cursos 2025-2026 i 2026-2027. S'adreça a persones físiques sense activitat econòmica que estudien en aquests nivells educatius. L'Ajuntament de Puig-reig és qui gestiona aquests ajuts individuals per facilitar el desplaçament dels estudiants.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Puig-reig convoca ajuts individuals de mobilitat per a l'alumnat d'ensenyaments postobligatoris dels cursos 2025-2026 i 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Puig-reig convoca ayudas individuales de movilidad para el alumnado de enseñanzas postobligatorias de los cursos 2025-2026 y 2026-2027. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Puig-reig Town Council offers individual mobility grants for students in post-compulsory education in the 2025-2026 and 2026-2027 academic years. It targets individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2b6f251487e589b6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

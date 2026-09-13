@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes per impulsar les explotacions agrícoles al municipi d'Ascó. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Les subvencions les atorga l'Ajuntament d'Ascó per recolzar el desenvolupament agrícola local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança iniciatives relacionades amb explotacions agrícoles al municipi. S'adreça a persones físiques que no tinguin activitat econòmica.",
+    "es": "El Ayuntamiento de Ascó financia iniciativas relacionadas con explotaciones agrícolas en el municipio. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament d'Ascó funds initiatives related to agricultural holdings in the municipality. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "29d330e7c04865a5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

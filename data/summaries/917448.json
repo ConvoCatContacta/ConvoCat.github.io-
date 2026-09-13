@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de recerca en ciències socials i humanes a la comarca de la Garrotxa. S'adreça a persones físiques que no desenvolupin cap activitat econòmica i vulguin promoure treballs en aquests camps disciplinaris. L'Ajuntament d'Olot promou aquest suport per impulsar l'estudi i la investigació en aquestes àrees de coneixement.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Olot finança la beca Ernest Lluch per a la recerca en ciències socials i humanes a la comarca de la Garrotxa. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Olot financia la beca Ernest Lluch para la investigación en ciencias sociales y humanidades en la comarca de la Garrotxa. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Ajuntament d'Olot funds the Ernest Lluch grant for research in social sciences and humanities in the Garrotxa region. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "aa71720b736be7d8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

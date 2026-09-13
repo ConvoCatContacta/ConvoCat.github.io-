@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el finanament de les empreses de l'economia social per mitjà de garanties, és a dir, avals que faciliten l'accés al crèdit. S'adreça a pimes i autònoms que treballen en l'àmbit de l'economia social durant el període 2024-2027. Els ajuts s'atorgan en forma de cobertura de risc, no de subvencions directes.",
+  "paragrafs": {
+    "ca": "El Departament d'Empresa i Treball convoca ajuts en forma de garantia per finançar empreses de l'economia social durant 2024-2027. S'adreça a pimes i autònoms.",
+    "es": "El Departamento de Empresa y Trabajo convoca ayudas en forma de garantía para financiar empresas de la economía social durante 2024-2027. Van dirigidas a pymes y autónomos.",
+    "en": "The Department of Enterprise and Labour is offering guarantees to finance social economy enterprises between 2024 and 2027. The support is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7e1450706f3df2ef",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

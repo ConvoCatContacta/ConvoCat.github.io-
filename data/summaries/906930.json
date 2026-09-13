@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consell Comarcal del Priorat finança ajudes econòmiques per pagar l'assistència als menjadors escolars durant el curs 2026/2027. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Aquestes ajudes pretenen facilitar l'accés a l'alimentació escolar a l'alumnat de la comarca.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Priorat finança l'assistència a menjadors escolars per al curs 2026/2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal del Priorat financia la asistencia a comedores escolares para el curso 2026/2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal del Priorat funds assistance to school canteens for the 2026/2027 school year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2d4ad62da062bca1",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

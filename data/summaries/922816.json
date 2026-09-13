@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'actuació de les federacions esportives catalanes i les unions esportives de clubs i associacions durant la temporada 2026-2027. S'adreça a entitats sense activitat econòmica que vulguin rebre suport econòmic plurianual per desenvolupar les seves activitats en l'àmbit de l'esport a Catalunya.",
+  "paragrafs": {
+    "ca": "El Consell Català de l'Esport finança l'acció de les federacions esportives catalanes i les unions esportives de clubs i associacions per a la temporada 2026-2027. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Consell Català de l'Esport financia la actividad de federaciones deportivas catalanas y uniones deportivas de clubes y asociaciones para la temporada 2026-2027. Va dirigida a entidades sin actividad económica.",
+    "en": "The Consell Català de l'Esport funds the activities of Catalan sports federations and sports unions of clubs and associations for the 2026-2027 season. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d728d70b98dc8edf",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

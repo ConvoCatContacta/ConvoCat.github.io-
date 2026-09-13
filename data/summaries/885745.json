@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats extraescolars per a estudiants empadronats a Puig-reig durant l'any 2026. S'adreça a persones físiques sense activitat econòmica, dins del marc de les bases que regulen ajudes per a la igualtat d'oportunitats en entorns educatius. L'objectiu és facilitar l'accés a aquestes activitats complementàries als alumnes del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Puig-reig finança activitats extraescolars per a alumnes empadronats al municipi durant l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Puig-reig financia actividades extraescolares para alumnos empadronados en el municipio durante el año 2026. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Puig-reig's municipal council funds extracurricular activities for students registered in the municipality during 2026. It is aimed at self-employed individuals and unemployed people."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c26f4de095374f44",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

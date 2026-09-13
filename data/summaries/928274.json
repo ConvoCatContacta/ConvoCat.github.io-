@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció finança activitats esportives al municipi d'Arenys de Munt. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar projectes en aquest àmbit. La convocatòria funciona en règim de concurrència competitiva, és a dir, que els projectes concursaran entre si per accedir als recursos disponibles. L'Ajuntament d'Arenys de Munt és l'organisme responsable de gestionar aquest programa de suport.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Arenys de Munt finança activitats esportives al municipi. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Arenys de Munt financia actividades deportivas en el municipio. Va dirigida a entidades sin actividad económica.",
+    "en": "The Arenys de Munt municipal council funds sports activities in the municipality. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bf75e3c1fab61018",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

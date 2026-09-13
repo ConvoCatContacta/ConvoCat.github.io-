@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes i activitats en matèria de salut i benestar animal. S'adreça a entitats sense activitat econòmica ni afany de lucre que vulguin desenvolupar iniciatives en aquest àmbit. La convoca l'Ajuntament de Palau-solità i Plegamans.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palau-solità i Plegamans finança accions en matèria de salut i benestar animal. S'adreça a entitats sense activitat econòmica ni afany de lucre.",
+    "es": "El Ajuntamiento de Palau-solità i Plegamans financia acciones en materia de salud y bienestar animal. Va dirigido a entidades sin actividad económica ni ánimo de lucro.",
+    "en": "Palau-solità i Plegamans Town Council funds initiatives on animal health and welfare. It is aimed at non-profit entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5fbace62c11c1758",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

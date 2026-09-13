@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la producció de nous espectacles de circ de sala, carrer i carpa amb caràcter professional durant el període 2026-2029. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses. La concessió de les subvencions es realitza en règim de concurrència no competitiva, la qual cosa significa que no hi ha competència entre projectes.",
+  "paragrafs": {
+    "ca": "L'Institut Català de les Empreses Culturals (ICEC) finança la producció de nous espectacles de circ de sala, carrer i carpa de caràcter professional entre 2026 i 2029. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de les Empreses Culturals (ICEC) financia la producción de nuevos espectáculos de circo de sala, calle y carpa de carácter profesional entre 2026 y 2029. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de les Empreses Culturals (ICEC) funds the production of new professional circus performances in indoor venues, streets and tents during 2026-2029. It targets entities without economic activity, SMEs, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cab91d15e16b2446",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

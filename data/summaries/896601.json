@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la compra de material escolar per a l'any 2026/2027. S'adreça a persones físiques sense activitat econòmica per cobrir les despeses de material que necessiten els estudiants durant el curs escolar.",
+  "paragrafs": {
+    "ca": "L'Ajuntament del Papiol finança la compra de material escolar per a l'any lectiu 2026/2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament del Papiol financia la adquisición de material escolar para el curso 2026/2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "Papiol Town Council funds the purchase of school materials for the 2026/2027 academic year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "53df89fbc9bff47d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança iniciatives per fomentar l'autoocupació de persones treballadores autònomes. S'adreça a pimes i autònoms que desenvolupin activitats econòmiques. L'Ajuntament de Pallejà ofereix aquestes subvencions per impulsar la creació i consolidació del treball autònom al municipi.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança la creació de llocs de treball autònom. S'adreça a pimes i a treballadores i treballadors autònoms.",
+    "es": "Esta convocatoria financia la creación de puestos de trabajo autónomo. Se dirige a pymes y a trabajadores y trabajadoras autónomos.",
+    "en": "This grant finances the creation of self-employment positions. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2b7b2ab7012ec403",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

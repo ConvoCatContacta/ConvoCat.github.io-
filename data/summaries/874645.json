@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línia finança mitjançant préstecs bonificats els projectes inclosos al Programa d'Actuació PUOSC per al període 2025-2029. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i treballadors autònoms que vulguin desenvolupar projectes dins aquest programa. Els préstecs conten amb condicions especials de bonificació per fer més accessibles les inversions previstes.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances ofereix préstecs bonificats per finançar projectes del Pla d'Urbanisme i Obres de Sants (PUOSC) 2025-2029. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i autònoms.",
+    "es": "El Instituto Catalán de Finanzas ofrece préstamos bonificados para financiar proyectos del Plan de Urbanismo y Obras de Sants (PUOSC) 2025-2029. Se dirige a entidades sin actividad económica, pequeñas y medianas empresas y autónomos.",
+    "en": "The Catalan Institute of Finance provides subsidised loans to fund PUOSC (Urban Planning and Works Plan) 2025-2029 projects. It is aimed at non-profit entities, small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6d36007449772255",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

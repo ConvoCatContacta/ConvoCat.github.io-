@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions socials de caràcter econòmic destinades a afrontar situacions d'urgència social, així com altres ajudes socials. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i es troben en situació de necessitat. L'Ajuntament de Llinars del Vallès gestiona aquestes ajudes per donar cobertura a casos de vulnerabilitat social al municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Llinars del Vallès finança prestacions socials econòmiques per a situacions d'urgència social i altres ajudes socials. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Llinars del Vallès financia prestaciones sociales de carácter económico para situaciones de urgencia social y otras ayudas sociales. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Llinars del Vallès municipality funds economic social benefits for emergency situations and other social aid. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5d0d3f562088f063",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

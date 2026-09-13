@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes i activitats d'entitats sense activitat econòmica durant l'exercici 2026. S'adreça a entitats sense ànim de lucre del municipi de Cabrils que vulguin optar a subvencions en règim de concurrència competitiva.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cabrils convoca subvencions en règim de concurrència competitiva per a l'any 2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Cabrils convoca subvenciones en régimen de concurrencia competitiva para el ejercicio 2026. Se dirigen a entidades sin actividad económica.",
+    "en": "Cabrils Municipality calls for competitive grants for 2026. These are aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c9193932d75f0245",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

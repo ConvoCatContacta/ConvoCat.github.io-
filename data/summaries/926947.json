@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Alcanó finança projectes d'empreses petites i mitjanes i treballadors autònoms ubicats al municipi. La convocatòria s'adreça a persones empresàries i autònomes interessades a rebre suport econòmic per desenvolupar les seves activitats a Alcanó.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Alcanó finança ajuts dirigits a pimes i autònoms del municipi.",
+    "es": "El Ayuntamiento de Alcanó convoca ayudas destinadas a pymes y autónomos del municipio.",
+    "en": "The Alcanó Town Council offers grants for small businesses and self-employed workers in the municipality."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ec478f0f1a1a431b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

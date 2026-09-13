@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'accés a l'habitatge per a persones que no desenvolupen cap activitat econòmica. S'adreça a persones físiques residents a la Garriga que necessiten suport per accedir a una vivenda. L'Ajuntament de la Garriga ofereix aquestes subvencions per facilitar que la població pugui accedir a una casa pròpia o en règim de lloguer.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Garriga finança les despeses d'accés a l'habitatge per a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de la Garriga financia los gastos de acceso a la vivienda para personas físicas sin actividad económica.",
+    "en": "The Ajuntament de la Garriga funds housing access expenses for individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b590ece1328b8751",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques per a persones que acolleixen en família menors d'edat tutelats per la Generalitat de Catalunya. S'adreça a persones físiques que no desenvolupen activitat econòmica i que es fan càrrec de l'acolliment d'aquests menors. Es tracta d'ajuts de caràcter social per cobrir les despeses derivades de l'atenció i manutenció dels infants en règim de família acollidora.",
+  "paragrafs": {
+    "ca": "Finança prestacions econòmiques per a famílies que acullen menors tutelats per la Generalitat. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia prestaciones económicas para familias que acogen a menores tutelados por la Generalitat. Se dirige a personas físicas sin actividad económica.",
+    "en": "Provides economic assistance to families caring for minors under the guardianship of the Generalitat. It targets individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a78ae8838e549e01",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

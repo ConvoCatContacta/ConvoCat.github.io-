@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança beques esportives per a la temporada 2026/27. S'adreça a persones que no desenvolupen cap activitat econòmica. Les beques pretenen donar suport a l'activitat esportiva dels residents al municipi de Santa Coloma de Cervelló.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Coloma de Cervelló ofereix beques esportives per a la temporada 2026/27. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Santa Coloma de Cervelló convoca becas deportivas para la temporada 2026/27. Están destinadas a personas físicas sin actividad económica.",
+    "en": "Santa Coloma de Cervelló municipality offers sports grants for the 2026/27 season. These are aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "18006eaf28998d4f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

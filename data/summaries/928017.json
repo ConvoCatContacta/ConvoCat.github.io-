@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança despeses relacionades amb el menjador escolar. S'adreça a persones individuals que no desenvolupen activitat econòmica i a entitats sense activitat econòmica, dins el marc de les bases generals que regulen les subvencions destinades a la infància i adolescència a Badia del Vallès.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Badia del Vallès finança ajuts per al menjador escolar. S'adrecen a persones físiques i entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Badia del Vallès financia ayudas para el comedor escolar. Van dirigidas a personas físicas y entidades sin actividad económica.",
+    "en": "Badia del Vallès City Council funds aid for school meals. It is aimed at individuals and organisations with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d34e2bd240e643f6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

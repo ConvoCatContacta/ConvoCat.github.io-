@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Constantí finança les obres de rehabilitació de façanes. S'adreça a persones particulars sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i grans empreses que vulguin millorar l'aspecte extern dels edificis.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança la rehabilitació de façanes a Constantí. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "Esta convocatoria financia la rehabilitación de fachadas en Constantí. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "This call funds the rehabilitation of building facades in Constantí. It is aimed at individuals without economic activity, entities without economic activity, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "92077c55c544e899",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

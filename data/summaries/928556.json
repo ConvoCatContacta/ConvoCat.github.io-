@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats musicals i s'adreça a persones que no desenvolupen cap activitat econòmica. L'Ajuntament de Palau-solità i Plegamans ofereix aquestes subvencions seguint la normativa general que regula tots els ajuts municipals. La convocatòria forma part del programa Palau Ressona2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palau-solità i Plegamans finança un concurs de música. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament de Palau-solità i Plegamans financia un concurso de música. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de Palau-solità i Plegamans funds a music competition. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "da4707be6568139b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

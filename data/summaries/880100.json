@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria del Patronat de Promoció Econòmica finança la participació d'empreses en fires i salons internacionals. S'adreça a autònoms, pimes, grans empreses i entitats sense activitat econòmica. La subvenció forma part del programa de subvencions de la Diputació de Lleida per impulsar la promoció econòmica i la presència de negocis en mercats internacionals.",
+  "paragrafs": {
+    "ca": "Finança la participació de pimes, autònoms, grans empreses, persones físiques i entitats sense activitat econòmica en fires i salons internacionals. La convocatòria, gestionada pel Patronat de Promoció Econòmica, està oberta per a l'any 2025.",
+    "es": "Financia la participación de pymes, autónomos, grandes empresas, personas físicas y entidades sin actividad económica en ferias y salones internacionales. La convocatoria, gestionada por el Patronat de Promoció Econòmica, está abierta para el año 2025.",
+    "en": "This grant programme supports the participation of SMEs, self-employed workers, large companies, individuals and entities without economic activity in international trade fairs and exhibitions. Managed by Patronat de Promoció Econòmica, it is open for 2025."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "46df8f60e5027615",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

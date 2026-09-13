@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança premis per als guanyadors d'un concurs de torradors de castanyes que organitza l'Ajuntament d'Amer. S'adreça a persones físiques que no exerceixen cap activitat econòmica. Els premis es concedeixin als participants que guanyin en les categories que estableixen les bases del concurs.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Amer convoca un concurs de torradors de castanyes 2026. S'adreça a persones físiques sense activitat econòmica i es convoca en forma de premis.",
+    "es": "El Ayuntamiento de Amer convoca un concurso de tostadores de castañas 2026. Se dirige a personas físicas sin actividad económica y se convoca en forma de premios.",
+    "en": "Amer Town Council holds a 2026 chestnut roasting competition. It is open to individuals without economic activity and awards prizes to participants."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "40b500c6b28325be",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

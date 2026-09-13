@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança premis per a participants en el Concurs d'Aparadors de la 28ª Fira Internacional del Cistell de Salt. S'adreça a petites i mitjanes empreses i autònoms que presentin els seus aparadors en aquesta fira. Els premis s'otorgen segons les bases reguladores de concursos de l'Ajuntament de Salt.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Salt convoca premis per a aparadors dins la 28ª Fira Internacional del Cistell. S'adreça a pimes i autònoms.",
+    "es": "El Ajuntamiento de Salt convoca premios para escaparates en el marco de la 28ª Feria Internacional de la Cesta. Va dirigida a pymes y autónomos.",
+    "en": "Salt City Council is calling for awards for shop windows at the 28th International Basket Fair. It targets small and medium-sized enterprises and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3722ea2234dab5f5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

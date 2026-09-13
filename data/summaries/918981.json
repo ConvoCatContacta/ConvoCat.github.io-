@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Salvador de Guardiola finança activitats esportives fora de l'horari escolar per a nens i nenes de 3 a 16 anys durant el curs 2026-2027. S'adreça a persones físiques que no exerceixen cap activitat econòmica i puguin acreditar aquesta condició segons les bases de la convocatòria. Els ajuts es distribueixen entre les sol·licituds rebudes en funció dels criteris de prioritat que estableixen les bases oficials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Salvador de Guardiola finança activitats esportives extraescolars per a nenes i nens de 3 a 16 anys. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Sant Salvador de Guardiola financia actividades deportivas extraescolares para niños y niñas de 3 a 16 años. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Sant Salvador de Guardiola municipal council funds extracurricular sports activities for children aged 3 to 16. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ee659616fe20625d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

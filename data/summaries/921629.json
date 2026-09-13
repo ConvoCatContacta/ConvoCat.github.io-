@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança un premi literari per a persones que no desenvolupin activitat econòmica. S'adreça a autors que vulguin participar en aquesta competició organitzada per l'Ajuntament de Manresa. El premi reconeix la qualitat literària dins dels criteris que estableixen les bases oficials de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Manresa convoca el premi literari Joaquim Amat-Piniella 2027, adreçat a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Manresa convoca el premio literario Joaquim Amat-Piniella 2027, dirigido a personas físicas sin actividad económica.",
+    "en": "The Manresa City Council announces the Joaquim Amat-Piniella 2027 literary prize, aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "77704a4987320024",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'ús del transport públic per a estudiants de batxillerat, cicles formatius de grau mitjà i superior, graus universitaris, postgraus, màsters i doctorats. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança l'ús de transport públic per a estudiants de batxillerat, cicles formatius, graus universitaris, postgraus, màsters i doctorats. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Orís financia el uso de transporte público para estudiantes de bachillerato, ciclos formativos, grados universitarios, posgrados, másteres y doctorados. Se dirige a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "Orís Municipal Council provides funding for public transport use among students enrolled in upper secondary education, vocational training programmes, university degrees, postgraduate studies, master's degrees and doctoral programmes. It targets individuals and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cbe10795630e130b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

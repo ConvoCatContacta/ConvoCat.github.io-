@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de millora i modernització de les xarxes de regadius durant els anys 2027, 2028 i 2029. S'adreça a les comunitats de regants, que són entitats sense activitat econòmica que gestionen col·lectivament l'aigua per a l'agricultura. Els ajuts pretenen potenciar la infraestructura de reg per fer més eficients aquestes xarxes.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança projectes de millora i modernització de xarxes de regadius. S'adreça a comunitats de regants que siguin entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia proyectos de mejora y modernización de redes de regadíos. Se dirige a comunidades de regantes que sean entidades sin actividad económica.",
+    "en": "This programme funds projects to improve and upgrade irrigation networks. It is aimed at irrigation communities that are non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7c5596045a4ff85a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

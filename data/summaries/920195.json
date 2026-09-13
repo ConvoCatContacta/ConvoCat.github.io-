@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones, entitats sense activitat econòmica i petites empreses o autònoms per finançar excavacions arqueològiques i paleontològiques que es fan abans que obres o projectes desenvolupin els terrenys. La Oficina de Suport a la Iniciativa Cultural concedeix aquestes ajudes per protegir el patrimoni arqueològic i paleontològic de Catalunya.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança intervencions arqueològiques i paleontològiques preventives. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "Esta convocatoria financia intervenciones arqueológicas y paleontológicas preventivas. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "This call funds preventive archaeological and paleontological interventions. It is open to individuals without economic activity, organisations without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4cee602182751840",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

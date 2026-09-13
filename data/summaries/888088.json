@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'entitats sense activitat econòmica que treballen en cooperació al desenvolupament. S'adreça a associacions, fundacions i organitzacions similars que no desenvolupen activitat econòmica. L'Ajuntament de Palafrugell aprova les bases que regulen com es concedeixen aquests ajuts i com s'ha de justificar la seva despesa durant l'exercici 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palafrugell finança projectes de cooperació al desenvolupament. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Palafrugell financia proyectos de cooperación al desarrollo. Se dirige a entidades sin actividad económica.",
+    "en": "Palafrugell City Council funds development cooperation projects. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "36d0207d89f0e5e0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

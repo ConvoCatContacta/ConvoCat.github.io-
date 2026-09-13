@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Bisbal d'Empordà finança obres de millora, rehabilitació o obertura de negocis a peu de carrer en els àmbits del comerç, la restauració, les oficines-serveis i les activitats tradicionals i artesania. S'adreça a petites i mitjanes empreses i autònoms que vulguin intervenir en aquests tipus d'establiments situats a la planta baixa.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Bisbal d'Empordà finança la millora, rehabilitació i nova implementació d'establiments comercials, de restauració, d'oficines-serveis i d'activitats tradicionals i artesania ubicats a peu de carrer. S'adreça a pimes i autònoms.",
+    "es": "El Ajuntamiento de la Bisbal d'Empordà financia la mejora, rehabilitación e implementación de nuevos establecimientos comerciales, de restauración, de oficinas-servicios y de actividades tradicionales y artesanía ubicados a pie de calle. Va dirigida a pymes y autónomos.",
+    "en": "The Bisbal d'Empordà Town Council funds improvements, rehabilitation and new implementation of commercial establishments, restaurants, offices-services and traditional crafts and activities located at street level. It is aimed at SMEs and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "674fe94f585de74d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

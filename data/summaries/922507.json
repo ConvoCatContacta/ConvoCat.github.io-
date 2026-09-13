@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de la Diputació de Tarragona finança actuacions per a instal·lacions en entitats sense activitat econòmica. S'adreça a organitzacions que no desenvolupen activitat econòmica i que vulguin realitzar obres o millores en les seves instal·lacions. Les bases que regeixen aquesta ajuda són les generals de subvencions de la Diputació de Tarragona i dels seus organismes autònoms.",
+  "paragrafs": {
+    "ca": "La Diputació de Tarragona ofereix subvencions per a actuacions dirigides a entitats sense activitat econòmica.",
+    "es": "La Diputación de Tarragona ofrece subvenciones para actuaciones dirigidas a entidades sin actividad económica.",
+    "en": "Tarragona Provincial Council provides grants for activities aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "acfa5ce30958cfc3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

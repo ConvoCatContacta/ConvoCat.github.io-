@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança cupons per millorar la competitivitat empresarial. S'adreça a petites i mitjanes empreses i treballadors autònoms. Els cupons permeten accedir a serveis especialitzats que ajuden les empreses a ser més competitives. La convocatòria la gestiona l'Agència per a la Competitivitat de l'Empresa (ACCIÓ).",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria de l'ACCIÓ finança cupons de competitivitat empresarial. S'adreça a pimes i autònoms.",
+    "es": "Esta convocatoria de ACCIÓ financia cupones de competitividad empresarial. Se dirige a pymes y autónomos.",
+    "en": "This call from ACCIÓ funds business competitiveness vouchers. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "dd323bc51ac3aaa7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

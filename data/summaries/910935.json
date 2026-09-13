@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la participació d'infants i adolescents en risc d'exclusió social en activitats extraescolars. S'adreça a persones físiques sense activitat econòmica que vulguin organitzar o facilitar aquestes activitats durant l'any 2026. L'Ajuntament de l'Espluga de Francolí ofereix aquestes subvencions per fomentar l'accés a activitats educatives i de lleure fora de l'horari escolar.",
+  "paragrafs": {
+    "ca": "Finança la participació en activitats extraescolars per a infants i adolescents en risc d'exclusió social. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia la participación en actividades extraescolares para menores y adolescentes en riesgo de exclusión social. Va dirigida a personas físicas sin actividad económica.",
+    "en": "This grant finances participation in extracurricular activities for children and teenagers at risk of social exclusion. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "89f60fc654f197fc",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

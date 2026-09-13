@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança sortides escolars curriculars per fomentar la igualtat d'oportunitats dels infants a l'entorn escolar durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica que vulguin sol·licitar ajut per cobrir les despeses d'aquestes activitats escolars. L'Ajuntament de Gavà és l'organisme que gestiona i concedeix aquestes subvencions.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Gavà finança sortides escolars curriculars per a l'escola curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Gavà financia salidas escolares curriculares para la escuela curso 2026-2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "Gavà City Council funds school curricular trips for the 2026-2027 school year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a4bfbcfbca5ca6d6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

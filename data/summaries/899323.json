@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Ascó finança ajudes econòmiques per a les famílies del municipi en casos de naixement o adopció de fills. S'adreça a persones físiques residents a Ascó que no desenvolupin cap activitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança subvencions destinades a famílies del municipi pel naixement o adopció de fills. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Ascó financia subvenciones destinadas a familias del municipio por el nacimiento o adopción de hijos. Está dirigido a personas físicas sin actividad económica.",
+    "en": "The Ascó Town Council provides grants for families in the municipality upon the birth or adoption of children. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7f20035fe9d21e73",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

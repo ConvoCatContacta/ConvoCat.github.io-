@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Canonja finança els treballs de normalització lingüística dels rètols de fachada dels establiments comercials, industrials i professionals. S'adreça a pimes i autònoms que vulguin adequar la senyalització exterior del seu negoci als criteris de normalització lingüística establerts.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Canonja finança la normalització lingüística dels rètols de façana dels establiments. S'adreça a pimes i autònoms que operin a la Canonja.",
+    "es": "El Ayuntamiento de la Canonja financia la normalización lingüística de los rótulos de fachada de los establecimientos. Va dirigida a pymes y autónomos que desarrollen su actividad en la Canonja.",
+    "en": "The Ajuntament de la Canonja funds the linguistic normalization of shop signs on building facades. It is aimed at small and medium-sized enterprises and self-employed professionals operating in la Canonja."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3521f74a41cf5f0f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

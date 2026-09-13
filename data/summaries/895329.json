@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajuts per a menjador escolar destinats a l'alumnat amb dificultats econòmiques o que viu en zones geogràficament allunyades durant el curs 2026/2027. S'adreça a persones físiques sense activitat econòmica que actuen com a representants d'infants escolaritzats. El Consell Comarcal de la Selva és qui organitza aquesta línia de suport per garantir l'accés a l'alimentació escolar en condicions d'equitat.",
+  "paragrafs": {
+    "ca": "Finança ajuts individuals per al menjador escolar durant el curs 2026/2027. S'adreça a persones físiques sense activitat econòmica que disposin de necessitats socioeconòmiques o geogràfiques.",
+    "es": "Financia ayudas individuales para comedor escolar durante el curso 2026/2027. Se dirige a personas físicas sin actividad económica que tengan necesidades socioeconómicas o geográficas.",
+    "en": "Funds individual meals assistance at school for the 2026/2027 academic year. It is aimed at people without economic activity who have socioeconomic or geographic needs."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "aec5a54e181ba0ca",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajuts en especie per a persones i entitats sense activitat econòmica que es troben en situacions d'urgència. L'Ajuntament de Capellades destina aquests ajuts a cobrir necessitats bàsiques que requereixin una intervenció ràpida. S'adreça tant a persones físiques com a entitats sense activitat econòmica que es veugin afectades per circumstàncies que justifiquin una actuació immediata.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Capellades finança ajuts en espècie per a persones i entitats sense activitat econòmica que es troben en situació d'urgència.",
+    "es": "El Ajuntamiento de Capellades financia ayudas en especie para personas y entidades sin actividad económica que se encuentran en situación de urgencia.",
+    "en": "Capellades Town Council provides aid in kind to individuals and non-profit organisations without economic activity facing urgent circumstances."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "58693e91d9de47f4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

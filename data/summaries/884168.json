@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de millora de l'estalvi energètic i l'eficiència energètica, així com accions de protecció del medi ambient. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i autònoms. L'Ajuntament d'Orís és qui gestiona aquestes ajudes, que es regulen segons l'ordenança general de subvencions municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança millores en l'estalvi i l'eficiència energètica i la protecció del medi ambient. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ayuntamiento de Orís financia mejoras en el ahorro y la eficiencia energética y la protección del medio ambiente. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "Orís Town Council funds improvements in energy savings and efficiency and environmental protection. It is aimed at individuals without economic activity, non-profit organisations, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d31af93c4e6a4306",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

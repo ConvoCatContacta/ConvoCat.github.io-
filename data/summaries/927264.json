@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la participació en competicions federades l'any 2026 d'esportistes de Cambrils que practiquen esports individuals o en parella. S'adreça a persones físiques que no desenvolupen activitat econòmica i es regeix per l'Ordenança general de subvencions de l'Ajuntament de Cambrils.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cambrils finança subvencions per a esportistes individuals o en parella que participen en competicions federades durant l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Cambrils financia subvenciones para deportistas individuales o en pareja que participan en competiciones federadas durante el año 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Cambrils Town Council funds subsidies for individual athletes or those competing in pairs who take part in federated competitions during 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c954f7e0079984a9",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança obres de millora en equipaments culturals. S'adreça a associacions i fundacions que treballen en cultura popular i tradicional i que no tenen activitat econòmica. La convoca l'Oficina de Suport a la Iniciativa Cultural.",
+  "paragrafs": {
+    "ca": "Finança obres de millora en equipaments culturals. S'adreça a associacions i fundacions sense activitat econòmica dedicades a la cultura popular i tradicional.",
+    "es": "Financia obras de mejora en equipamientos culturales. Se dirige a asociaciones y fundaciones sin actividad económica dedicadas a la cultura popular y tradicional.",
+    "en": "This funding supports improvement works in cultural facilities. It is aimed at associations and foundations without economic activity working in the field of popular and traditional culture."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2be47644cff0d63e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

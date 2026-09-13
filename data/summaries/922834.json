@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'adquisició de llibres, material escolar, activitats extraescolars i cursos de natació escolar per al curs 2026-2027. S'adreça a persones físiques sense activitat econòmica. Les bases reguladores especifiquen que també es poden finançar beques de mobilitat per a estudiants de formacions postobligatòries.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vallirana finança llibres, material escolar, activitats extraescolars i cursos de natació escolar per al curs 2026-2027, així com beques de mobilitat per a estudiants de formació postobligatòria. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Vallirana financia libros, material escolar, actividades extraescolares y cursos de natación escolar para el curso 2026-2027, así como becas de movilidad para estudiantes de formación postobligatoria. Se dirige a personas físicas sin actividad económica.",
+    "en": "Vallirana City Council funds books, school materials, extracurricular activities and swimming courses for the 2026-2027 school year, as well as mobility grants for postcompulsory education students. It is aimed at self-employed individuals and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0b1efa9e9a8dafa4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

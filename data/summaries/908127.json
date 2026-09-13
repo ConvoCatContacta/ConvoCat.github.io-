@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions socials de caràcter econòmic per a l'escolaritat durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica del municipi de Vilalba Sasserra. La concessió dels ajuts es farà mitjançant un procés de concurrència competitiva, és a dir, que es valoraran les sol·licituds presentades i s'assignaran segons els criteris que estableixen les bases oficials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilalba Sasserra convoca prestacions socials de caràcter econòmic per a l'escolaritat del curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Vilalba Sasserra convoca prestaciones sociales de carácter económico para la escolaridad del curso 2026-2027. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Vilalba Sasserra Town Council offers economic social benefits for school fees in the 2026-2027 academic year. It is aimed at self-employed individuals and unemployed persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "940aab5eb08b346f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

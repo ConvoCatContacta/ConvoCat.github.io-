@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança accions d'urgència social per a persones i entitats sense activitat econòmica, d'acord amb el reglament de serveis socials municipal. S'adreça a persones físiques i entitats que no desenvolupen activitat econòmica i necessiten suport en situacions que requereixen atenció urgent en l'àmbit social. L'Ajuntament d'Olèrdola és qui gestiona aquesta línia d'ajuts.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Olèrdola finança ajudes d'urgència social dirigides a persones físiques i entitats sense activitat econòmica, segons el Reglament de Serveis Socials.",
+    "es": "El Ajuntamiento de Olèrdola financia ayudas de urgencia social dirigidas a personas físicas y entidades sin actividad económica, conforme al Reglamento de Servicios Sociales.",
+    "en": "Olèrdola Town Council funds emergency social aid for individuals and organisations without economic activity, in accordance with the Social Services Regulations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "28139892ac205e4e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

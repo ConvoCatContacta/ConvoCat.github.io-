@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajuts econòmics per a esportistes d'alt nivell i premis per al personal tècnic i guies que els acompanyen. S'adreça a persones físiques que no tinguin activitat econòmica. La gestiona el Consell Català de l'Esport.",
+  "paragrafs": {
+    "ca": "Finança ajuts econòmics per a persones esportistes d'alt nivell i premis per al personal tècnic i guies que les acompanyen. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia ayudas económicas para deportistas de alto nivel y premios para el personal técnico y guías de estos deportistas. Se dirige a personas físicas sin actividad económica.",
+    "en": "Funds grants for high-level athletes and prizes for their technical staff and guides. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a6e3d986feebe544",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

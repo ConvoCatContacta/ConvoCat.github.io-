@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats que desenvolupen les associacions professionals del sector del transport de mercaderies per carretera. S'adreça a entitats sense activitat econòmica que treballen en aquest àmbit. Les subvencions es regeixen per les bases aprovades el 2021 i modificades el 2022, i estan destinades a finançar les actuacions que aquestes associacions desenvolupin durant l'any 2026.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança activitats que duen a terme associacions professionals del sector del transport de mercaderies per carretera. S'adreça a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia actividades que realizan asociaciones profesionales del sector del transporte de mercancías por carretera. Va dirigida a entidades sin actividad económica.",
+    "en": "This grant funds activities carried out by professional associations in the road freight transport sector. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d48e545ed5130af3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

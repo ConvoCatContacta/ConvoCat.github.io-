@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança activitats i projectes culturals portats a terme per entitats sense ànim de lucre. S'adreça a organizacions culturals que no desenvolupen activitat econòmica i que volen desenvolupar iniciatives en aquest àmbit. La gestiona l'Ajuntament de Palamós per donar suport a la vida cultural del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palamós finança activitats d'entitats culturals sense activitat econòmica durant l'any 2026.",
+    "es": "El Ayuntamiento de Palamós financia actividades de entidades culturales sin actividad económica durante el año 2026.",
+    "en": "The Palamós Town Council funds activities carried out by cultural organisations with no economic activity during 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d762b507a42035ba",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques de caràcter urgent per a persones que es troben en situació de necessitat social. S'adreça a persones físiques sense activitat econòmica del municipi d'Arenys de Mar que necessitin suport econòmic per fer front a situacions de caràcter urgent, d'acord amb el que estableix el reglament municipal de prestacions econòmiques de caràcter social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Arenys de Mar finança prestacions econòmiques urgents per a persones físiques sense activitat econòmica, segons el seu reglament municipal de prestacions socials.",
+    "es": "El Ajuntamiento de Arenys de Mar financia prestaciones económicas urgentes para personas físicas sin actividad económica, conforme a su reglamento municipal de prestaciones sociales.",
+    "en": "The Municipality of Arenys de Mar provides urgent economic assistance to individuals without economic activity, in accordance with its municipal regulation on social benefits."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "73623aaeaa4faf8c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

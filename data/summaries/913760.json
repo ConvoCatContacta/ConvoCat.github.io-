@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les obres i despeses per obrir negocis comercials en locals que estaven tancats al municipi de Vilanova i la Geltrú. S'adreça a petites i mitjanes empreses i autònoms que vulguin reactivar aquests espais comercials al centre del municipi. L'Ajuntament ofereix suport econòmic per impulsar la iniciativa empresarial local i revitalitzar la vida comercial de la ciutat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilanova i la Geltrú subvenciona l'obertura de comercos en locals que havien estat tancats. S'adreça a pimes i autònoms.",
+    "es": "El Ajuntamiento de Vilanova i la Geltrú financia la apertura de establecimientos comerciales en locales que estaban cerrados. Va dirigido a pymes y autónomos.",
+    "en": "Vilanova i la Geltrú's town council funds the opening of shops in premises that were previously closed. It is aimed at small and medium-sized businesses and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "66d5837e2c1555dd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

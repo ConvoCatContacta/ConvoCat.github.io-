@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes per impulsar l'emprendiment al municipi de Sallent. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i autònoms. L'Ajuntament de Sallent ofereix aquestes ajudes per fomentar la creació i desenvolupament d'iniciatives empresarials locals.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sallent finança ajudes per impulsar l'emprenedoria. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ajuntamiento de Sallent financia ayudas para impulsar el emprendimiento. Se dirige a personas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "Sallent City Council funds support for entrepreneurship. It is aimed at individuals without economic activity, entities without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cf80473df0823e2c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'accés i la permanència en habitatges de lloguer. S'adreça a persones físiques sense activitat econòmica que vulguin sol·licitar ajuts municipals a través d'un procés de concurrència competitiva. Els ajuts es gestionen per l'Ajuntament de Sant Pere de Ribes.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Pere de Ribes finança ajuts per facilitar l'accés i la permanència en habitatges de lloguer. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Pere de Ribes financia ayudas para facilitar el acceso y la permanencia en viviendas de alquiler. Se dirige a personas físicas sin actividad económica.",
+    "en": "Sant Pere de Ribes municipal council funds grants to support access to and staying in rental housing. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d5723d2e3490ec41",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria del municipi de Vandellòs i l'Hospitalet de l'Infant finança serveis funeraris. S'adreça a entitats sense activitat econòmica que vulguin accedir a aquestes ayudes per al 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança serveis funeraris. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Vandellòs i l'Hospitalet de l'Infant financia servicios funerarios. Va dirigido a entidades sin actividad económica.",
+    "en": "The Municipality of Vandellòs i l'Hospitalet de l'Infant funds funeral services. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f8ef28fc1c27d9ee",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

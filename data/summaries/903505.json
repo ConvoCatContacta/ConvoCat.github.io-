@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Agència de l'Habitatge de Catalunya finança projectes per construir habitatges amb protecció oficial en terrenys que formen part de la reserva pública de solars. S'adreça a entitats sense ànim de lucre, petites i mitjanes empreses, autònoms i grans empreses que vulguin desenvolupar aquests projectes. Els ajuts es distribuiran per concurrència pública no competitiva, és a dir, sense competir entre sol·licitants sempre que es compleixin els requisits establerts.",
+  "paragrafs": {
+    "ca": "L'Agencia de la Vivienda de Cataluña finança la promoció d'habitatges amb protecció oficial en terrenys que formen part de la reserva pública de solars. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Agencia de la Vivienda de Cataluña financia la promoción de viviendas con protección oficial en terrenos inscritos en la reserva pública de solares. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Agencia de la Vivienda de Cataluña funds the development of officially protected housing on land registered in the public reserve of building plots. It is aimed at non-profit entities, small and medium-sized enterprises, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "55ba7814852f535b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

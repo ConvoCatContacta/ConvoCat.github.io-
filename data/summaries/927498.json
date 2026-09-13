@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria promou i reconeix la creativitat de nens i joves a través dels Premis 30 d'Octubre. S'adreça a persones físiques que no tinguin activitat econòmica. La iniciativa finança la concessió de premis per estimular l'expressió creativa en la població infantil i juvenil de Salou.",
+  "paragrafs": {
+    "ca": "Els Premis 30 d'Octubre a la Creativitat Infantil i Juvenil de l'Ajuntament de Salou s'adrecen a persones físiques sense activitat econòmica. La convocatòria reconeix les millors creacions en les categories infantil i juvenil.",
+    "es": "Los Premios 30 de Octubre a la Creatividad Infantil y Juvenil del Ayuntamiento de Salou se dirigen a personas físicas sin actividad económica. La convocatoria reconoce las mejores creaciones en las categorías infantil y juvenil.",
+    "en": "The 30 October Awards for Childhood and Youth Creativity from the Salou City Council are open to individuals without economic activity. The awards recognise outstanding creative works in the children's and youth categories."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cb1db9333aed0d31",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

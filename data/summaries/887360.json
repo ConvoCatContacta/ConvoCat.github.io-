@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció de l'Ajuntament de la Canonja finança l'obertura de nous establiments comercials a zones específiques del municipi: el casc antic (R1), i les àrees R2 i R4a. S'adreça a petites i mitjanes empreses i autònoms que vulguin implantar-se en aquests espais per impulsar l'activitat comercial i empresarial local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Canonja finança la instal·lació de negocis comercials a les zones urbanístiques R1 (Casco Antiguo), R2 i R4a del municipi. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de la Canonja financia la instalación de establecimientos comerciales en las zonas urbanísticas R1 (Casco Antiguo), R2 y R4a del municipio. Va dirigido a pymes y autónomos.",
+    "en": "The Canonja Town Council provides funding for commercial businesses setting up in the R1 (Casco Antiguo), R2 and R4a urban zones of the municipality. It is aimed at SMEs and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "17d4ce4f19325887",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

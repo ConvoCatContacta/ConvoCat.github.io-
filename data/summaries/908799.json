@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut Ramon Llull finança la producció editorial de traduccions de novel·les i altres obres literàries originals al català i occità. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses interessats a publicar aquests treballs traduïts.",
+  "paragrafs": {
+    "ca": "L'Institut Ramon Llull finança la producció editorial de traduccions d'obres literàries originals a llengua catalana i occitana. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Institut Ramon Llull financia la producción editorial de traducciones de obras literarias originales al catalán y occitano. Va dirigido a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Institut Ramon Llull funds the editorial production of translations of original literary works into Catalan and Occitan. It is open to non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4b9184c85de77436",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

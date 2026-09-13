@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de reindustrialització i manteniment d'activitat industrial per a empreses que es troben en situació de dificultats. S'adreça a pimes, autònoms i grans empreses interessats a reforçar o preservar la seva activitat industrial a Catalunya. Els ajuts busquen contribuir a la recuperació i consolidació d'aquestes empreses dins el territori.",
+  "paragrafs": {
+    "ca": "El Departament d'Empresa i Treball finança projectes de reindustrialització i manteniment de l'activitat industrial en situació de dificultat. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Departament d'Empresa i Treball financia proyectos de reindustrialización y mantenimiento de la actividad industrial en situación de dificultad. Va dirigida a pymes, autónomos y grandes empresas.",
+    "en": "The Departament d'Empresa i Treball funds projects for reindustrialisation and maintenance of industrial activity facing difficulties. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8f9a445196877257",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

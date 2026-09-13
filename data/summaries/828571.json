@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la bonificació dels interessos de préstecs destinats a millorar i modernitzar establiments d'allotjament turístic a Catalunya. S'adreça a pimes i autònoms que vulguin dur a terme projectes de reforma en aquest tipus de negocis. El Departament d'Empresa i Treball ofereix aquesta línia d'ajuts per als anys 2025 i 2026.",
+  "paragrafs": {
+    "ca": "El Departament d'Empresa i Treball finança préstecs per a projectes de millora i modernització d'establiments d'allotjament turístic a Catalunya mitjançant bonificacions dels interessos. S'adreça a pimes i autònoms.",
+    "es": "El Departament d'Empresa i Treball financia préstamos para proyectos de mejora y modernización de establecimientos de alojamiento turístico en Cataluña mediante bonificaciones de intereses. Va dirigida a pymes y autónomos.",
+    "en": "The Departament d'Empresa i Treball finances loans for improvement and modernisation projects of tourist accommodation facilities in Catalonia through interest rate subsidies. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f06a419f4cc5e0a0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

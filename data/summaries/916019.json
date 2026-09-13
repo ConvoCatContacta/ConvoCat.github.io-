@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions per impulsar l'activitat empresarial a Cardona i la Coromina. S'adreça a petites i mitjanes empreses i treballadors autònoms que vulguin desenvolupar iniciatives econòmiques en aquests territoris. L'ajuntament de Cardona és qui gestiona aquestes ajudes amb l'objectiu de reforçar el teixit empresarial local i crear més oportunitats de negoci a la zona.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cardona finança accions per promoure l'activitat empresarial. S'adreça a petites i mitjanes empreses i treballadors autònoms.",
+    "es": "El Ajuntament de Cardona financia acciones para promover la actividad empresarial. Se dirige a pequeñas y medianas empresas y trabajadores autónomos.",
+    "en": "Cardona Town Council funds actions to promote business activity. It is aimed at small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "49b050fac6485014",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Jaume dels Domenys finança diverses activitats adreçades a petites i mitjanes empreses i treballadors autònoms del municipi. Aquesta ajuda pretén impulsar iniciatives que contribueixin al desenvolupament econòmic local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Jaume dels Domenys finança la promoció de diferents activitats. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Sant Jaume dels Domenys financia la promoción de distintas actividades. Va dirigido a pymes y autónomos.",
+    "en": "The Sant Jaume dels Domenys Town Council provides funding to promote various activities. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2ad6d1e095cff039",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

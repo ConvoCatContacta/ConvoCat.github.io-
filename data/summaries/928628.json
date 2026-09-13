@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Vilanova i la Geltrú finança accions als centres docents públics d'educació infantil de segon cicle, primària i educació secundària obligatòria. S'adreça a entitats sense activitat econòmica, és a dir, a aquests centres sostinguts amb fons públics. La subvenció es concedeix en règim de concurrència competitiva, el que significa que es distribuirà entre els projectes presentats que millor compleixin els criteris de les bases.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilanova i la Geltrú finança accions als centres docents sostinguts amb fons públics d'educació infantil de segon cicle, primària i educació secundària obligatòria. S'adreça a aquestes institucions educatives.",
+    "es": "El Ajuntamiento de Vilanova i la Geltrú financia acciones en los centros docentes sostenidos con fondos públicos de educación infantil de segundo ciclo, primaria y educación secundaria obligatoria. Va dirigida a estas instituciones educativas.",
+    "en": "Vilanova i la Geltrú municipality funds activities at publicly funded educational centres providing infant education (second cycle), primary education and compulsory secondary education. It targets these educational institutions."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d358713ea5b4b86d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

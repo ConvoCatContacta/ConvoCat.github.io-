@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta prestació complementa la pensió estatal que reben les persones sense activitat econòmica. La convoca el Departament de Drets Socials i Inclusió i forma part de les ajudes socials de caràcter econòmic. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que perceben una pensió estatal.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança una prestació econòmica complementària a la pensió estatal. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departament de Drets Socials i Inclusió financia una prestación económica complementaria a la pensión estatal. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Departament de Drets Socials i Inclusió provides economic aid to complement the state pension. It targets individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8c901bc949b0e278",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

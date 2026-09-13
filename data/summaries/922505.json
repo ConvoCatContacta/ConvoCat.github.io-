@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Programa Genius 2026, convocat per la Diputació de Tarragona, finança projectes segons les bases generals de subvencions de la diputació i els seus organismes autònoms. S'adreça a persones físiques que no tinguin cap activitat econòmica. La convocatòria segueix els criteris establerts en la normativa general de subvencions de l'ent local tarragoní.",
+  "paragrafs": {
+    "ca": "La Diputació de Tarragona finança el Programa Genius 2026, dirigit a persones físiques que no desenvolupen activitat econòmica.",
+    "es": "La Diputació de Tarragona financia el Programa Genius 2026, destinado a personas físicas sin actividad económica.",
+    "en": "The Diputació de Tarragona funds the Genius 2026 Programme, aimed at individuals not engaged in economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e87eed5fc048f75d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

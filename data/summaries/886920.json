@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança accions de patrocini publicitari al municipi de Deltebre. S'adreça a petites i mitjanes empreses (pimes) i a treballadors autònoms que vulguin desenvolupar activitats de promoció i visibilitat al municipi. L'Ajuntament de Deltebre ofereix aquestes subvencions per fomentar la presència publicitària dels negocis locals i reforçar la dinamització econòmica de la zona.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Deltebre finança el patrocini publicitari del municipi. S'adreça a petites i mitjanes empreses i autònoms.",
+    "es": "El Ayuntamiento de Deltebre financia el patrocinio publicitario del municipio. Se dirige a pequeñas y medianas empresas y autónomos.",
+    "en": "The Ajuntament de Deltebre funds advertising sponsorship of the municipality. It is aimed at small and medium-sized enterprises and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a26928c961118acb",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

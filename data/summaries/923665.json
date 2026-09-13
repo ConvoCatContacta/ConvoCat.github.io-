@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions per potenciar la presència internacional de l'administració pública dels ens locals de Catalunya. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar projectes d'internacionalització. El Departament d'Acció Exterior i Unió Europea impulsa aquesta línia per fomentar la cooperació i l'intercanvi dels governs locals amb institucions internacionals.",
+  "paragrafs": {
+    "ca": "El Departament d'Acció Exterior i Unió Europea finança accions per promoure la internacionalització de l'administració pública dels ens locals de Catalunya. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Departament d'Acció Exterior i Unió Europea financia acciones para promover la internacionalización de la administración pública de los entes locales de Cataluña. Va dirigida a entidades sin actividad económica.",
+    "en": "The Departament d'Acció Exterior i Unió Europea funds activities to promote the internationalisation of public administration in local bodies in Catalonia. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "213fc8815cc9e6fb",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

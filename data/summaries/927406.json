@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consorci per a la Formació Contínua de Catalunya finança programes de formació en el treball adreçats a persones treballadores ocupades. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses que vulguin desenvolupar accions formatives per als seus treballadors.",
+  "paragrafs": {
+    "ca": "El Consorci per a la Formació Contínua de Catalunya finança accions formatives dins dels Programes del Sistema de Formació en el Treball adreçades a persones treballadores ocupades. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Consorcio para la Formación Continua de Cataluña financia acciones formativas dentro de los Programas del Sistema de Formación en el Trabajo dirigidas a personas trabajadoras ocupadas. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Consorci per a la Formació Contínua de Catalunya funds training activities within the Work Training System Programmes aimed at employed workers. It is directed at non-profit organisations, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ccf92fb7714589f0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

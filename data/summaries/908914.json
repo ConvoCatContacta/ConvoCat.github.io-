@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Ascó finança l'adquisició d'immobles, solars i altres béns similars destinats a ús residencial al municipi. S'adreça a persones físiques que no tinguin activitat econòmica. Les subvencions pretenen impulsar l'accés a la propietat d'habitatge a Ascó per a residents sense activitat empresarial o professional.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança l'adquisició d'immobles, solars i similars per a ús residencial al municipi. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Ascó financia la adquisición de inmuebles, solares y similares para uso residencial en el municipio. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Ascó City Council provides funding for the acquisition of real estate, land and similar properties for residential use in the municipality. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "be28cf1f9ec32213",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

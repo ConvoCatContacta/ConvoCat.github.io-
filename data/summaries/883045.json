@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta prestació finança la renda garantida de ciutadania per a persones majors de 65 anys. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que compleixen els requisits que estableixen les bases oficials de la convocatòria.",
+  "paragrafs": {
+    "ca": "Aquesta prestació finança la renda garantida de ciutadania per a persones de més de 65 anys sense activitat econòmica. La convoca el Departament de Drets Socials i Inclusió.",
+    "es": "Esta prestación financia la renta garantizada de ciudadanía para personas mayores de 65 años sin actividad económica. La convoca el Departament de Drets Socials i Inclusió.",
+    "en": "This benefit provides income support through the guaranteed income scheme for people over 65 years old with no economic activity. It is managed by the Departament de Drets Socials i Inclusió."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2a3e31ed6548704b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

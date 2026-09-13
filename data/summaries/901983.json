@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les quotes de guarderia i les sortides escolars curriculars per a infants. S'adreça a persones físiques sense activitat econòmica del municipi de Cardona que compleixin els requisits establerts a les bases reguladores de prestacions socials de caràcter econòmic de l'Ajuntament.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cardona finança quotes de guarderia i sortides escolars curriculars. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Cardona financia cuotas de guardería y salidas escolares curriculares. Se dirige a personas físicas sin actividad económica.",
+    "en": "Cardona's town council funds childcare fees and curricular school trips. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5c8540b60875cd3c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut Ramon Llull finança la mobilitat internacional d'autors de literatura catalana i aranesa fora dels territoris on es parlen aquestes llengües. S'adreça a persones físiques sense activitat econòmica que vulguin desplaçar-se per fer activitats relacionades amb la promoció i difusió de la literatura en català i aranès més enllà dels seus dominis lingüístics tradicionals.",
+  "paragrafs": {
+    "ca": "L'Institut Ramon Llull finança la mobilitat de persones autores de literatura catalana i aranesa fora dels territoris on es parla aquestes llengües. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Instituto Ramon Llull financia la movilidad de personas autoras de literatura catalana y aranesa fuera de los territorios donde se hablan estas lenguas. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Institut Ramon Llull funds mobility for authors of Catalan and Aranese literature outside the regions where these languages are spoken. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fefe3676487a0b70",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

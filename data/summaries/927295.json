@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats d'esport extraescolar als centres docents de Valls per al curs 2025-2026. S'adreça a entitats sense activitat econòmica que vulguin promoure programes d'esport fora de l'horari lectiu en aquests centres. El Patronat Municipal d'Esports de Valls és qui convoca aquests ajuts.",
+  "paragrafs": {
+    "ca": "El Patronat Municipal d'Esports de Valls finança la promoció de l'esport extraescolar als centres docents per al curs 2025/26. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Patronat Municipal de Deportes de Valls financia la promoción del deporte extraescolar en los centros docentes para el curso 2025/26. Se dirige a entidades sin actividad económica.",
+    "en": "The Patronat Municipal d'Esports of Valls funds the promotion of extracurricular sports in educational centres for the 2025/26 academic year. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a06c8c17d62c1395",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

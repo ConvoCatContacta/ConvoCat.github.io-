@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els serveis de menjars a domicili per a persones i entitats diverses. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i grans empreses. L'Ajuntament de Santa Perpètua de Mogoda és qui impulsa aquest programa de suport als serveis de catering a casa durant el període 2021-2025.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Perpètua de Mogoda subvenciona el servei de comides a domicili. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Santa Perpètua de Mogoda financia el servicio de comidas a domicilio. Va dirigido a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Santa Perpètua de Mogoda's municipal council funds meal delivery services. It is aimed at self-employed individuals and private persons without economic activity, non-profit organisations, SMEs, sole traders and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c4631096bda848ab",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

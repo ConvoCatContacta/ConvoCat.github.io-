@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la instal·lació d'infraestructures per millorar la bioseguretat en granges d'aus de corral davant les aus salvatges, amb l'objectiu de prevenir el contagi del virus de la influenza aviar. S'adreça a pimes i autònoms del sector avícola que vulguin reforçar les mesures de protecció dels seus animals.",
+  "paragrafs": {
+    "ca": "El Departament d'Agricultura, Ramaderia, Pesca i Alimentació finança la instal·lació d'infraestructures per millorar la bioseguretat en granges avícoles. S'adreça a pimes i autònoms.",
+    "es": "El Departamento de Agricultura, Ganadería, Pesca y Alimentación financia la instalación de infraestructuras para mejorar la bioseguridad en granjas avícolas. Se dirige a pymes y autónomos.",
+    "en": "The Department of Agriculture, Livestock, Fisheries and Food funds the installation of infrastructure to improve biosecurity in poultry farms. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7ded423ca3ad33d5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

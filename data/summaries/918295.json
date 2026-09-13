@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats de lleure com colònies i campaments que organitzen entitats sense activitat econòmica. S'adreça a associacions i col·lectius que vulguin promoure aquest tipus de programes d'oci per als seus membres. L'Ajuntament de Sant Joan Despí impulsa així la participació en activitats recreatives a través del teixit associatiu local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Joan Despí finança la participació d'entitats sense activitat econòmica en activitats de lleure com colònies i campaments.",
+    "es": "El Ajuntamiento de Sant Joan Despí financia la participación de entidades sin actividad económica en actividades de ocio como colonias y campamentos.",
+    "en": "Sant Joan Despí City Council funds the participation of non-profit organisations in leisure activities such as summer camps and outdoor expeditions."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8408d41fceeb4c4a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

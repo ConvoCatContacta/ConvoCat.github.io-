@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Feliu de Llobregat finança prestacions econòmiques destinades a cobriran necessitats educatives urgents per al curs 2026/27. S'adreça a persones sense activitat econòmica que es trobin en situació de urgència social i necessitin ajuda complementària per a l'educació.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Feliu de Llobregat finança prestacions socials econòmiques adreçades a persones físiques sense activitat econòmica que es troben en situació d'urgència social. Es complementen les ajudes destinades a educació per al curs 2026/27.",
+    "es": "El Ajuntamiento de Sant Feliu de Llobregat financia prestaciones sociales económicas dirigidas a personas físicas sin actividad económica que se encuentran en situación de urgencia social. Complementan las ayudas destinadas a educación para el curso 2026/27.",
+    "en": "Sant Feliu de Llobregat's municipal government provides economic social assistance to individuals without economic activity who face urgent social needs. These grants complement education support for the 2026/27 academic year."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "82797f3facd43ee9",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la distribució i l'explotació d'espectacles a través de dues modalitats: aportacions que s'han de retornar i subvencions sense reemborsar. S'adreça a persones físiques que no desenvolupen activitat econòmica i a grans empreses. L'Institut Català de les Empreses Culturals (ICEC) és l'organisme que gestiona aquests ajuts en règim de competència, on els solicitants concorren entre si.",
+  "paragrafs": {
+    "ca": "L'ICEC finança la distribució i l'explotació d'espectacles mitjançant aportacions reintegrables i subvencions. S'adreça a persones físiques sense activitat econòmica i grans empreses.",
+    "es": "El ICEC financia la distribución y explotación de espectáculos a través de aportaciones reintegrables y subvenciones. Va dirigido a personas físicas sin actividad económica y grandes empresas.",
+    "en": "The ICEC provides funding for the distribution and staging of performances through reimbursable contributions and grants. It is aimed at self-employed individuals without economic activity and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "897fb0cad22ab120",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

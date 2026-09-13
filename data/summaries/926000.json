@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Servei Públic d'Ocupació de Catalunya (SOC) finança programes de formació professional per a l'ocupació adreçats prioritàriament a persones sense feina. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses per dur a terme aquestes accions formatives dins del programa Forma i Contracta.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança programes de formació professional per a l'ocupació dirigits prioritàriament a persones treballadores en situació de desocupació. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses.",
+    "es": "El Servicio Público de Empleo de Cataluña financia programas de formación profesional para el empleo dirigidos prioritariamente a personas trabajadoras desocupadas. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Servicio Público de Empleo de Cataluña funds vocational training programmes for employment aimed primarily at unemployed workers. It is open to non-profit entities, small and medium-sized enterprises, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1ecec179bd3c52b3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

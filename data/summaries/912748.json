@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança inversions empresarials que generen un alt impacte, dirigida per l'Agència per a la Competitivitat de l'Empresa (ACCIÓ). S'adreça a petites i mitjanes empreses (Pimes), autònoms i grans empreses que vulguin realitzar projectes de transformació o creixement. Les bases que regulen aquesta línia de subvencions es van aprovar el juny de 2026.",
+  "paragrafs": {
+    "ca": "L'ACCIÓ finança inversions empresarials d'alt impacte. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "La ACCIÓ financia inversiones empresariales de alto impacto. Va dirigida a pymes, autónomos y grandes empresas.",
+    "en": "ACCIÓ funds high-impact business investments. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2532df8e23587c40",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

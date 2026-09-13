@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els serveis locals d'habitatge que ofereixen els ens locals integrats a la Xarxa de Serveis Locals d'Habitatge. S'adreça a entitats sense activitat econòmica que formen part d'aquesta xarxa i que presten serveis en l'àmbit de l'habitatge. Les subvencions corresponen a l'any 2026 i es gestionen des de la Diputació de Girona.",
+  "paragrafs": {
+    "ca": "Subvencions de la Diputació de Girona per finançar els serveis locals d'habitatge als ens locals que formen part de la Xarxa de Serveis Locals d'Habitatge. S'adreça a entitats sense activitat econòmica adherides a aquesta xarxa.",
+    "es": "Subvenciones de la Diputación de Girona para financiar los servicios locales de vivienda en los entes locales que integran la Red de Servicios Locales de Vivienda. Van dirigidas a entidades sin actividad económica adheridas a esta red.",
+    "en": "Grants from the Girona Provincial Council to fund local housing services in local authorities that are part of the Local Housing Services Network. They are aimed at non-profit entities that have joined this network."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "adaa8142fb121618",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

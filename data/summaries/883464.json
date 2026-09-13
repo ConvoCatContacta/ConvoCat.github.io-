@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones físiques que no desenvolupen una activitat econòmica. Finança prestacions econòmiques per cobrir situacions de vellesa i malaltia dins la Cartera de Serveis Socials que estableix el Departament de Drets Socials i Inclusió.",
+  "paragrafs": {
+    "ca": "Aquesta prestació econòmica, aprovada dins la Cartera de Serveis Socials 2010-2011, s'adreça a persones físiques sense activitat econòmica. Finança dues modalitats: la FAS Vellesa i la FAS Malaltia.",
+    "es": "Esta prestación económica, aprobada dentro de la Cartera de Servicios Sociales 2010-2011, se dirige a personas físicas sin actividad económica. Financia dos modalidades: la FAS Vejez y la FAS Enfermedad.",
+    "en": "This economic benefit, approved under the Social Services Portfolio 2010-2011, is aimed at self-employed persons without economic activity. It funds two schemes: FAS Old Age and FAS Illness."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "827f325d738c8062",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

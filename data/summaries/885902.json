@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de recerca per millorar la formació inicial del professorat de primària i secundària. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar estudis en aquest àmbit. L'Agència de Gestió d'Ajuts Universitaris i de Recerca (AGAUR) és l'organisme que gestiona aquests ajuts.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria de l'AGAUR finança projectes de recerca dins les universitats. S'adreça a entitats sense activitat econòmica que treballen en la millora de la formació inicial de mestres i professorat de secundària.",
+    "es": "Esta convocatoria de la AGAUR financia proyectos de investigación en las universidades. Va dirigida a entidades sin actividad económica que trabajen en la mejora de la formación inicial de maestros y profesorado de secundaria.",
+    "en": "This call from AGAUR funds research projects in universities. It is aimed at non-profit entities working on improving initial teacher training for primary and secondary school teachers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "958aca4e050bc570",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

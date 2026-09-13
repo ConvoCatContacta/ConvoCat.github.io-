@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la consolidació i el desenvolupament de la compravenda d'empreses a Barcelona. S'adreça a entitats sense activitat econòmica que vulguin impulsar operacions de compravenda empresarial. La Diputació de Barcelona la convoca per a l'any 2026 seguint els criteris establerts a l'ordenança general de subvencions.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança la consolidació i desenvolupament de compravendes d'empreses a la província de Barcelona. S'adreça a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia la consolidación y desarrollo de compraventas de empresas en la provincia de Barcelona. Va dirigida a entidades sin actividad económica.",
+    "en": "This grant finances the consolidation and development of business purchases and sales in the province of Barcelona. It is aimed at entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3f5aeec40fed1d05",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

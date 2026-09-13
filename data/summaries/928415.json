@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'adquisició de llibres de text per a entitats sense afany de lucre dins del programa de reutilització de llibres de text i projectes d'innovació educativa per al curs 2026-2027. S'adreça a entitats sense activitat econòmica que tinguin interès a accedir a aquest finançament per renovar o ampliar els seus fons bibliogràfics escolars.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Coloma de Gramenet finança l'adquisició de llibres de text dins del programa de reutilització de llibres de text i projectes d'innovació educativa per al curs 2026-2027. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Santa Coloma de Gramenet financia la adquisición de libros de texto dentro del programa de reutilización de libros de texto y proyectos de innovación educativa para el curso 2026-2027. Va dirigido a entidades sin actividad económica.",
+    "en": "Santa Coloma de Gramenet City Council funds the purchase of textbooks under its textbook reuse and educational innovation projects programme for the 2026-2027 academic year. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "42bd79f79728f3e7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

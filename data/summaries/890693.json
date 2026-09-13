@@ -1,6 +1,10 @@
 {
-  "paragraf": "Esta convocatòria finança millores en locals comercials de Badia del Vallès. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica que vulguin impulsar la reforma i modernització dels seus establiments comercials al municipi. Les subvencions es regeixen segons l'Ordenança General de Subvencions de l'Ajuntament.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Badia del Vallès finança millores en locals comercials. S'adreça a persones físiques i entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Badia del Vallès financia mejoras en locales comerciales. Se dirige a personas físicas y entidades sin actividad económica.",
+    "en": "Badia del Vallès Town Council funds improvements to commercial premises. It is aimed at individuals and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7890a5c5c5e34380",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

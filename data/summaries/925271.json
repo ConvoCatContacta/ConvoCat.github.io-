@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats culturals relacionades amb la Baixada Andromines l'any 2026. S'adreça a persones físiques que no tinguin activitat econòmica i que vulguin desenvolupar iniciatives dins aquest marc cultural. L'Ajuntament de Sant Cebrià de Vallalta hi convida a través d'un procés de selecció competitiva on es valoren els projectes presentats.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Cebrià de Vallalta finança activitats culturals de la Baixada Andromines. S'adreça a persones físiques que no desenvolupen activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Cebrià de Vallalta financia actividades culturales de la Baixada Andromines. Se dirige a personas físicas sin actividad económica.",
+    "en": "Sant Cebrià de Vallalta municipality funds cultural activities related to the Baixada Andromines. It targets individuals who are not engaged in economic activities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d90c4c606e464fea",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

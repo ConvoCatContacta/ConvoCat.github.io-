@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Viladecans finança el desenvolupament esportiu d'esportistes individuals considerats d'elit que resideixen al municipi. S'adreça a persones físiques sense activitat econòmica que competeixen en aquesta categoria. Els recursos es distribueixen mitjançant un procés de concurrència competitiva, on es valoren les candidatures per seleccionar les més mereixedores de suport.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Viladecans finança subvencions per a esportistes individuals residents al municipi considerats d'elit. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Viladecans financia subvenciones para deportistas individuales residentes en el municipio considerados de élite. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de Viladecans funds grants for individual athletes residing in the municipality and considered elite. It is aimed at natural persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "73f281ab3a6f0fb4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

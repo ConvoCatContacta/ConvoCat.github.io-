@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Banyoles finança treballs de restauració i rehabilitació de façanes d'edificis al municipi. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms que vulguin millorar l'estat de les façanes dels seus immobles.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Banyoles subvenciona la restauració i rehabilitació de façanes d'immobles al municipi. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ajuntamiento de Banyoles financia la restauración y rehabilitación de fachadas de inmuebles en el municipio. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "Banyoles Town Council funds the restoration and rehabilitation of building facades in the municipality. It is aimed at individuals without economic activity, entities without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7dd1ebce2ab99940",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

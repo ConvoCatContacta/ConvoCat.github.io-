@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Servicio Público de Empleo de Cataluña finança programes de formació professional per a l'ocupació adreçats principalment a persones desocupades. Les subvencions es destinan a entitats sense activitat econòmica, petites i mitjanes empreses i grans empreses que desenvolupin aquests programes de formació en àrees prioritàries durant l'any 2026.",
+  "paragrafs": {
+    "ca": "Finança programes de formació professional per a l'ocupació dirigits prioritàriament a persones treballadores en situació de desocupació. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "Financia programas de formación profesional para el empleo dirigidos prioritariamente a personas trabajadoras desocupadas. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Funds vocational training programmes for employment aimed primarily at unemployed workers. It is open to non-profit organisations, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c9c984082691766c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

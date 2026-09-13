@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Sant Joan Despí finança projectes anuals de funcionament d'entitats que desenvolupen programes esportius amb nens i nenes. Els programes han de tenir caràcter formatiu, educatiu o competitiu. S'adreça a entitats sense activitat econòmica interessades a impulsar la pràctica esportiva entre la infància de la ciutat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Joan Despí finança projectes anuals de funcionament d'entitats esportives que desenvolupin programes de pràctica esportiva formativa, educativa o competitiva per a nens i nenes. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Joan Despí financia proyectos anuales de funcionamiento de entidades deportivas que desarrollen programas de práctica deportiva formativa, educativa o competitiva para niños y niñas. Va dirigido a entidades sin actividad económica.",
+    "en": "Sant Joan Despí's Municipal Council funds annual operating projects for sports entities that deliver formative, educational or competitive sports practice programmes for children. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6a6d6cf909a464e8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

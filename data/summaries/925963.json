@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats de les associacions de veïns de Valls i les seves pedanies. S'adreça a entitats sense activitat econòmica que desenvolupen tasques comunitàries al municipi. L'Ajuntament de Valls ofereix subvencions per potenciar el treball associatiu i la participació veïnal a la zona urbana i les àrees rurals annexes.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Valls finança activitats de les associacions de veïns de Valls i les seves pedanies. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Valls financia actividades de las asociaciones de vecinos de Valls y sus pedanías. Se dirige a entidades sin actividad económica.",
+    "en": "Valls City Council funds activities carried out by neighbourhood associations in Valls and its outlying areas. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "36fa424ede022078",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

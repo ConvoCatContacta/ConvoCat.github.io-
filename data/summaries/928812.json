@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la rehabilitació i recuperació d'edificis situats al Barri Antic de Valls. S'adreça a persones físiques sense activitat econòmica, entitats sense finalitat de lucre i petites i mitjanes empreses o autònoms que vulguin dur a terme aquests treballs de millora en la zona delimitada.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Valls ofereix subvencions per a la rehabilitació i recuperació d'edificis dins el Barri Antic. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ajuntamiento de Valls convoca subvenciones destinadas a la rehabilitación y recuperación de edificios en el ámbito del Barrio Antiguo. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "Valls City Council offers grants for the rehabilitation and recovery of buildings in the Old Town area. It is aimed at individuals without economic activity, entities without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "841e312a58fc8881",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

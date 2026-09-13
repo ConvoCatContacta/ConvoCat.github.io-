@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats econòmiques a Palafrugell i s'adreça a pimes i autònoms. L'Ajuntament de Palafrugell ofereix aquestes subvencions seguint les bases generals reguladores que estableixen els criteris i la justificació de les ayudes municipals per al 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palafrugell finança activitats econòmiques. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Palafrugell financia actividades económicas. Va dirigido a pymes y autónomos.",
+    "en": "The Ajuntament de Palafrugell funds economic activities. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d39fe5afbcbc583f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

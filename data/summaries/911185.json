@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança treballs de recerca sobre administració pública i polítiques públiques. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar investigacions en aquestes àrees. La subvenció té com a objectiu impulsar l'estudi i l'anàlisi de qüestions relacionades amb la gestió pública i el disseny de polítiques, amb una perspectiva rigorosa i acadèmica.",
+  "paragrafs": {
+    "ca": "La ESCOLA D'ADMINISTRACIÓ PÚBLICA DE CATALUNYA finança treballs de recerca sobre administració pública i polítiques públiques. S'adreça a entitats sense activitat econòmica.",
+    "es": "La ESCOLA D'ADMINISTRACIÓN PÚBLICA DE CATALUNYA financia trabajos de investigación sobre administración pública y políticas públicas. Va dirigida a entidades sin actividad económica.",
+    "en": "The ESCOLA D'ADMINISTRACIÓN PÚBLICA DE CATALUNYA funds research work on public administration and public policies. It is aimed at entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "285b550868561d18",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

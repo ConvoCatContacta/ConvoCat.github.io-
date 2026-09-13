@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Garriga finança activitats d'entitats esportives sense ànim de lucre. Aquesta convocatòria en règim de concurrència competitiva s'adreça a les associacions i clubs esportius locals que vulguin desenvolupar els seus programes i projectes.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Garriga finança activitats d'entitats esportives sense activitat econòmica durant l'any 2026.",
+    "es": "El Ajuntamiento de la Garriga financia actividades de entidades deportivas sin actividad económica durante el año 2026.",
+    "en": "The Ajuntament de la Garriga funds activities carried out by sports entities without economic activity in 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e2111ba836105389",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

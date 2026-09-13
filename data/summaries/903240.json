@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses de manteniment de l'habitatge per a famílies del municipi de Reus en situació de vulnerabilitat econòmica. S'adreça a persones físiques sense activitat econòmica que pateixen dificultats econòmiques i viuen en propietat. L'ajuda busca que aquestes famílies puguin mantenir adequadament el seu habitatge principal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Reus finança despeses de manteniment d'habitatges en propietat. S'adreça a persones físiques sense activitat econòmica que viuen en situació de vulnerabilitat econòmica.",
+    "es": "El Ajuntamiento de Reus financia gastos de mantenimiento de viviendas en propiedad. Va dirigido a personas físicas sin actividad económica que se encuentran en situación de vulnerabilidad económica.",
+    "en": "Reus City Council funds maintenance expenses for owner-occupied homes. It is aimed at individuals without economic activity experiencing financial vulnerability."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4666797cca11963d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

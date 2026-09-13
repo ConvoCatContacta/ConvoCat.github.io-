@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança ajuts puntuals per a persones sense ingressos que es troben en situació d'urgència social o risc d'exclusió social. S'adreça també a usuàries i usuaris dels centres de dia i la residència de gent gran d'aquestes localitats. Els ajuts pretenen donar resposta a necessitats immediates d'aquestes persones.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança ajuts puntuals per a persones físiques sense activitat econòmica que es trobin en situació d'urgència social, que necessitin prevenció d'exclusió social, o que utilitzin el centre de dia i la residència de gent gran de Vandellòs o el centre de dia de l'Hospitalet de l'Infant.",
+    "es": "El Ayuntamiento de Vandellòs y l'Hospitalet de l'Infant convoca ayudas puntuales para personas físicas sin actividad económica que estén en situación de urgencia social, que necesiten prevención de exclusión social, o que utilicen el centro de día y la residencia de Vandellòs o el centro de día de l'Hospitalet de l'Infant.",
+    "en": "Vandellòs and l'Hospitalet de l'Infant Town Council provides one-off grants for self-employed individuals and people without economic activity who are in situations of social emergency, need social exclusion prevention, or use the day centre and residential home in Vandellòs or the day centre in l'Hospitalet de l'Infant."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9f9bf85159266756",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

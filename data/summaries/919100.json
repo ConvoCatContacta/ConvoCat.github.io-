@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions que promoguin la igualtat d'oportunitats en la infància i l'adolescència, concretament dins la línia d'escolarització. S'adreça a persones físiques sense activitat econòmica. Les subvencions es concedeixen mitjançant un procés de concurrència competitiva, on es valoren les sol·licituds rebudes segons els criteris que estableixen les bases específiques.",
+  "paragrafs": {
+    "ca": "L'Ajuntament del Masnou finança accions per a la igualtat d'oportunitats de la infància i l'adolescència, concretament en l'àrea d'escolarització. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de El Masnou financia acciones para la igualdad de oportunidades de la infancia y la adolescencia, específicamente en el ámbito de la escolarización. Va dirigida a personas físicas sin actividad económica.",
+    "en": "El Masnou Municipality funds initiatives for equal opportunities in childhood and adolescence, specifically in schooling. It is aimed at self-employed individuals and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6b6a9c0162b8f0b5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

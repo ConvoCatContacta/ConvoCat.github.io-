@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les activitats esportives i l'ús de les instal·lacions de les entitats, clubs i associacions esportives del municipi de Vandellòs i l'Hospitalet de l'Infant. S'adreça a entitats sense activitat econòmica que desenvolupin activitats esportives al municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant subvenciona el desenvolupament d'activitats esportives i l'ús de les instal·lacions de les entitats, clubs i associacions esportives del municipi. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Vandellòs y l'Hospitalet de l'Infant subvenciona el desarrollo de actividades deportivas y el uso de las instalaciones de las entidades, clubes y asociaciones deportivas del municipio. Va dirigida a entidades sin actividad económica.",
+    "en": "Vandellòs and l'Hospitalet de l'Infant municipality provides grants for sports activities and the use of facilities by sports entities, clubs and associations in the area. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "de6e07285d333b4e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

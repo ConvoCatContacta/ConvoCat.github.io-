@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats de promoció del comerç local a Cerdanyola del Vallès. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar accions per donar a conèixer els negocis i el comerç de proximitat del municipi. L'Ajuntament de Cerdanyola del Vallès és l'organisme que convoca aquestes subvencions.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cerdanyola del Vallès finança activitats de promoció del comerç local. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Cerdanyola del Vallès financia actividades de promoción del comercio local. Va dirigido a entidades sin actividad económica.",
+    "en": "The Ajuntament de Cerdanyola del Vallès funds activities to promote local commerce. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ada6b87ae8c36fea",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

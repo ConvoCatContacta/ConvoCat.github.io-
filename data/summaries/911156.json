@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Pere de Ribes ofereix subvencions destinades a cobrir despeses de transport públic interurbà durant el 2026. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. La subvenció té com a objectiu facilitar l'accés al transport públic entre municipis per a aquesta població.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Pere de Ribes ofereix subvencions per al transport públic interurbà adreçades a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Pere de Ribes otorga subvenciones para el transporte público interurbano dirigidas a personas físicas sin actividad económica.",
+    "en": "Sant Pere de Ribes municipal council provides grants for intercity public transport aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "51caab02b35612ee",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

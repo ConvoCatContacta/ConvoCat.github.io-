@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats de cooperatives agràries i altres entitats sense finalitat de lucre que desenvolupen la seva tasca majoritàriament al Parc Agrari del Baix Llobregat. S'adreça a entitats sense activitat econòmica que actuïn en l'àmbit agrari. El Consorci del Parc Agrari del Baix Llobregat impulsa aquesta subvenció per donar suport a les organitzacions que treballen en aquest territori i contribueixen a preservar-ne la vocació agrícola.",
+  "paragrafs": {
+    "ca": "El Consorci del Parc Agrari del Baix Llobregat finança projectes de cooperatives agràries i altres entitats agràries sense finalitat de lucre que desenvolupen la seva activitat total o majoritàriament dins del parc agrari.",
+    "es": "El Consorcio del Parque Agrario del Baix Llobregat financia proyectos de cooperativas agrarias y otras entidades agrarias sin fines lucrativos que desarrollan su actividad total o mayoritariamente dentro del parque agrario.",
+    "en": "The Consorci del Parc Agrari del Baix Llobregat funds projects by agricultural cooperatives and other non-profit agricultural entities that operate fully or mostly within the agricultural park."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5ff803d6e5b856ef",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

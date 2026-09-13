@@ -1,6 +1,10 @@
 {
-  "paragraf": "La prestació econòmica d'assistència personal finança els costos d'una persona que ajudi en les activitats diàries a persones amb dependència. S'adreça a persones físiques sense activitat econòmica que necessiten suport per mantenir la seva autonomia personal. La convocatòria es gestiona pel Departament de Drets Socials i Inclusió.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança una prestació econòmica per a l'assistència personal de persones en situació de dependència. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departamento de Derechos Sociales e Inclusión financia una prestación económica para la asistencia personal de personas en situación de dependencia. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Department of Social Rights and Inclusion provides economic assistance for personal care services to people in situations of dependency. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cd7e9786282a5621",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

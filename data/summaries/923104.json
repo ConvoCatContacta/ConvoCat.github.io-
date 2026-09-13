@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Oficina de Suport a la Iniciativa Cultural finança la commemoració d'esdeveniments, personalitats o entitats importants per a la cultura catalana. S'adreça a entitats sense activitat econòmica, a petites i mitjanes empreses i a autònoms que vulguin promoure activitats que reconeguin aquestes commemoracions dins de l'àmbit cultural.",
+  "paragrafs": {
+    "ca": "Finança commemoracions d'esdeveniments, personalitats o entitats rellevants de la cultura catalana. S'adreça a entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "Financia conmemoraciones de acontecimientos, personalidades o entidades relevantes de la cultura catalana. Va dirigida a entidades sin actividad económica, pymes y autónomos.",
+    "en": "This subsidy finances commemorations of significant events, figures and organisations in Catalan culture. It is open to non-profit entities, small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c17f5e70f5beae97",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

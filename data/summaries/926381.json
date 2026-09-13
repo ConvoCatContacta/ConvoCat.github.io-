@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de solidaritat i cooperació que desenvolupin entitats sense activitat econòmica inscrits al registre municipal de Cerdanyola del Vallès. Els projectes han de promoure accions de cooperació i solidaritat en l'àmbit local o internacional, dirigint-se a col·lectius vulnerables o amb necessitats socials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cerdanyola del Vallès finança projectes de solidaritat i cooperació. S'adreça a entitats sense activitat econòmica inscrits al Registre municipal d'entitats i associacions ciutadanes.",
+    "es": "El Ajuntamiento de Cerdanyola del Vallès financia proyectos de solidaridad y cooperación. Va dirigido a entidades sin actividad económica inscritas en el Registro municipal de entidades y asociaciones ciudadanas.",
+    "en": "Cerdanyola del Vallès Town Council funds solidarity and cooperation projects. It is aimed at non-profit entities registered in the municipal registry of citizens' entities and associations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d108b030142babcb",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquestes bases financen ajuts destinats a cobrir necessitats urgents de tipus social. S'adrecen a persones que no realitzen cap activitat econòmica. La convocatòria la fa el Consell Comarcal del Baix Ebre per a l'exercici 2026.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Baix Ebre finança ajuts per a situacions d'urgència social. S'adrecen a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal del Baix Ebre financia ayudas para situaciones de urgencia social. Se dirigen a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal del Baix Ebre funds emergency social assistance. It is aimed at individuals who do not carry out any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3198a78d8b4910d6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

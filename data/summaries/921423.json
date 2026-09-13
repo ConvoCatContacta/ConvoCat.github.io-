@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança beques de recerca dirigides a l'excel·lència en investigació i transferència de coneixement. S'adreça a estudiants de centres universitaris que tenen seu a Terrassa. L'Ajuntament de Terrassa és qui convoca aquestes beques, que es destinen a persones físiques que no desenvolupen activitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Terrassa finança beques de recerca a l'excel·lència dirigides a estudiants de centres universitaris amb seu a la ciutat. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Terrassa convoca becas de investigación a la excelencia para estudiantes de centros universitarios ubicados en la ciudad. Están dirigidas a personas físicas sin actividad económica.",
+    "en": "Terrassa City Council awards research grants for excellence to students at university centres based in the city. They are aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b93defe11abdc24c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques d'urgència social a Barcelona per ajudar a mantenir l'accés a habitatge en lloguer. S'adreça a persones sense activitat econòmica que necessiten suport derivat de processos de mediació. Els fons provenen dels pressupostos de 2026 i 2027 i els gestiona el Consorcio de la Vivienda de Barcelona.",
+  "paragrafs": {
+    "ca": "El CONSORCIO DE LA VIVIENDA DE BARCELONA finança prestacions econòmiques d'urgència social derivades de la mediació per a manteniment de l'habitatge de lloguer a Barcelona. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El CONSORCIO DE LA VIVIENDA DE BARCELONA otorga prestaciones económicas de urgencia social derivadas de la mediación para el mantenimiento de la vivienda de alquiler en Barcelona. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The CONSORCIO DE LA VIVIENDA DE BARCELONA provides emergency social benefits derived from mediation to support rental housing maintenance in Barcelona. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "829570ad343e363f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

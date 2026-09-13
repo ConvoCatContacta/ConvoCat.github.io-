@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Avinyó finança activitats esportives i casals per a nens i nenes que es troben en situació de necessitat socioeconòmica durant l'any 2026. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que poden accedir a aquestes prestacions socials de caràcter econòmic segons les bases específiques establertes per a aquesta convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Avinyó finança activitats esportives i casals per a nens i nenes amb necessitats socioeconòmiques durant l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Avinyó financia actividades deportivas y casales para niños y niñas con necesidades socioeconómicas durante el año 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Avinyó City Council funds sports activities and recreational centres for children with socioeconomic needs during 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "35cbd5776d4cc56e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

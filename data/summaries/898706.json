@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de les Franqueses del Vallès finança ajuts per estimular i reactivar la contractació de personal a les empreses. S'adreça a pimes i autònoms que vulguin crear ocupació el 2026. Els ajuts persegueixen dinamitzar el mercat laboral local i reforçar la capacitat de les petites i mitjanes empreses i treballadors autònoms per incorporar nous treballadors.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de les Franqueses del Vallès ofereix subvencions per fomentar i reactivar la contractació a les empreses. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de les Franqueses del Vallès convoca subvenciones para fomentar y reactivar la contratación en las empresas. Están dirigidas a pymes y autónomos.",
+    "en": "The Ajuntament de les Franqueses del Vallès is offering grants to promote and reactivate hiring in companies. These are aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5b3847b54bff5543",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Finança la rehabilitació de l'interior d'habitatges buits per posar-los en lloguer dins del programa de mediació municipal de Sant Pere de Ribes. S'adreça a persones físiques sense activitat econòmica que vulguin participar en aquesta iniciativa municipal d'oferiment d'habitatges en règim de lloguer.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Pere de Ribes finança la rehabilitació interior d'habitatges buits per incorporar-los a la borsa d'habitatges de lloguer del programa de mediació municipal. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Pere de Ribes financia la rehabilitación interior de viviendas vacías para incorporarlas a la bolsa de viviendas de alquiler del programa de mediación municipal. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Sant Pere de Ribes City Council funds the interior rehabilitation of empty housing to incorporate them into the rental housing pool of the municipal mediation programme. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4cf33364837af0e7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

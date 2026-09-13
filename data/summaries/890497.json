@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques per a persones que es troben en situacions de vulnerabilitat social. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i es regeixen pels criteris establerts al reglament de prestacions de caràcter social de l'Ajuntament de Santa Maria d'Oló. Les ajudes busquen donar suport econòmic a qui ho necesita segons la normativa municipal vigent.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Maria d'Oló finança prestacions econòmiques de caràcter social. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Santa Maria d'Oló financia prestaciones económicas de carácter social. Se dirige a personas físicas sin actividad económica.",
+    "en": "The municipality of Santa Maria d'Oló provides economic benefits of a social nature. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cdc1e388e74a632c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

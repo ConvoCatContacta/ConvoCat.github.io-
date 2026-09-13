@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança mesures per protegir habitatges contra inundacions i reduir els danys que causen a les vivendes situades als carrers de la part baixa de Torrefarrera. S'adreça a persones físiques sense activitat econòmica que tinguin habitatges en aquestes zones afectades per riscos d'inundació.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Torrefarrera finança mesures per protegir habitatges contra inundacions i minimitzar-ne les conseqüències en les vivendes situades als carrers de la part baixa del nucli urbà. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Torrefarrera financia medidas para proteger viviendas contra inundaciones y minimizar sus consecuencias en las casas ubicadas en las calles de la parte baja del casco urbano. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Torrefarrera Town Council funds measures to protect homes against flooding and reduce its consequences for properties located in the streets of the lower part of the town centre. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "66787a8362606ba1",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

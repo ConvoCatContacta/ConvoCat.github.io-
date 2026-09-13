@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament dels Pallaresos finança actuacions de caràcter cultural o d'interès local. S'adreça a entitats sense ànim de lucre del municipi que vulguin desenvolupar aquests projectes.",
+  "paragrafs": {
+    "ca": "L'Ajuntament dels Pallaresos finança actuacions de caràcter cultural o d'interès local. S'adreça a entitats sense activitat econòmica del municipi.",
+    "es": "El Ayuntamiento de Els Pallaresos financia actuaciones de carácter cultural o de interés local. Se dirige a entidades sin actividad económica del municipio.",
+    "en": "The Ayuntamiento de Els Pallaresos funds cultural activities or local interest initiatives. It is aimed at non-profit entities based in the municipality."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "47e38983f79feede",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

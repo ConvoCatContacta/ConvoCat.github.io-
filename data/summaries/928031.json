@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança actuacions de gestió forestal sostenible en finques públiques i projectes d'interès general dins del Pla estratègic de la Política Agrícola Comú per al període 2023-2027. S'adreça a pimes i treballadors autònoms que duguin a terme aquestes activitats forestals. El Departament d'Agricultura, Ramaderia, Pesca i Alimentació és l'organisme responsable de gestionar aquest programa d'ajuts.",
+  "paragrafs": {
+    "ca": "Finança accions de gestió forestal sostenible en finques públiques i actuacions d'interès general dins del Pla estratègic de la PAC 2023-2027. S'adreça a pimes i autònoms.",
+    "es": "Financia acciones de gestión forestal sostenible en fincas públicas y actuaciones de interés general dentro del Plan estratégico de la PAC 2023-2027. Se dirige a pymes y autónomos.",
+    "en": "It funds sustainable forest management actions on public estates and activities of general interest under the PAC Strategic Plan 2023-2027. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8ec667cdf19a5534",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

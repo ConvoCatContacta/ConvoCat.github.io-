@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la contractació de persones en situació d'atur per part de petites i mitjanes empreses i treballadors autònoms. S'adreça a pimes i autònoms que vulguin crear llocs de treball i contractar persones sense ocupació. L'ajut forma part d'un programa per impulsar l'ocupació local a Esplugues de Llobregat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Esplugues de Llobregat finança la contractació de persones en atur i la creació d'ocupació. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Esplugues de Llobregat financia la contratación de personas en paro y la creación de empleo. Va dirigida a pymes y autónomos.",
+    "en": "Esplugues de Llobregat's local authority funds hiring of unemployed people and job creation. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0e9b1c7ca986e513",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

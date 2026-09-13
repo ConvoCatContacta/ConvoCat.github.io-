@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Olèrdola finança targetes moneder destinades a persones físiques que no desenvolupen cap activitat econòmica. Els recursos es destinan a activitats vinculades als serveis socials del municipi. La targeta funciona com a instrument per accedir a prestacions socials dins de les línies d'actuació establertes al reglament de serveis socials local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Olèrdola finança targetes monedero per a persones físiques sense activitat econòmica, dins del marc dels serveis socials municipals.",
+    "es": "El Ajuntamiento de Olèrdola financia tarjetas monedero para personas físicas sin actividad económica, en el ámbito de los servicios sociales municipales.",
+    "en": "The Olèrdola town council provides wallet cards for individuals without economic activity, as part of municipal social services."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2d00f1694355a408",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

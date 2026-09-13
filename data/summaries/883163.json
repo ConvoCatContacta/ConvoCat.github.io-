@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el desenvolupament de l'activitat esportiva d'atletes individuals. S'adreça a persones físiques sense activitat econòmica que resideixen a Vandellòs i l'Hospitalet de l'Infant i són considerades esportistes d'elit a nivell municipal. L'Ajuntament local gestiona la convocatòria en règim de concurrència competitiva per a l'exercici de 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança subvencions econòmiques per a esportistes individuals considerats d'elit a nivell municipal. S'adreça a persones físiques sense activitat econòmica que resideixen al municipi.",
+    "es": "El Ajuntamiento de Vandellòs i l'Hospitalet de l'Infant convoca subvenciones económicas destinadas a deportistas individuales considerados de élite a nivel municipal. Van dirigidas a personas físicas sin actividad económica que residen en el municipio.",
+    "en": "Vandellòs i l'Hospitalet de l'Infant municipality offers economic grants for individual athletes recognised as elite-level competitors at municipal level. The grants target residents of the municipality who are self-employed or unemployed."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "49747e141e525a5b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

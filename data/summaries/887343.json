@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança intervencions en immobles de valor patrimonial. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms. La Diputació de Girona ofereix subvencions per restaurar i conservar edificis amb importància patrimonial a la comarca.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança actuacions en immobles de valor patrimonial. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "La Diputació de Girona financia actuaciones en inmuebles de valor patrimonial. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pimes y autónomos.",
+    "en": "Diputació de Girona funds works on properties of patrimonial value. It is aimed at individuals without economic activity, non-profit entities, small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "05ba9a15185409f3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

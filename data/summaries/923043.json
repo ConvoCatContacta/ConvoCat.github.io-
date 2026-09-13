@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de recerca aplicada i desenvolupament tecnològic en empreses de la cadena de valor del sector químic. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin impulsar innovació tecnològica al sector.",
+  "paragrafs": {
+    "ca": "ACCIÓ finança projectes de recerca aplicada i desenvolupament tecnològic en la cadena de valor del sector químic. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses.",
+    "es": "ACCIÓ financia proyectos de investigación aplicada y desarrollo tecnológico en la cadena de valor del sector químico. Se dirige a entidades sin actividad económica, pequeñas y medianas empresas, autónomos y grandes empresas.",
+    "en": "ACCIÓ funds applied research and technological development projects across the chemical sector value chain. It is open to non-profit entities, small and medium-sized enterprises, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "da948fa716ddfabf",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

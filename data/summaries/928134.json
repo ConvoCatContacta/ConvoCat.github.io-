@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança despeses de mobilitat per a l'alumnat que cursa estudis post obligatoris, és a dir, formació professional, batxillerat o altres ensenyaments que venen després de l'educació obligatòria. S'adreça a persones que viuen al municipi de Cercs i estudien aquests nivells educatius. L'Ajuntament de Cercs destina aquests ajuts a facilitar l'accés a la mobilitat dels joves estudiants de la localitat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cercs finança ajuts individuals de mobilitat per a l'alumnat d'ensenyaments post obligatoris. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Cercs financia ayudas individuales de movilidad para el alumnado de enseñanzas post obligatorias. Se dirige a personas físicas sin actividad económica.",
+    "en": "Cercs Town Council provides individual mobility grants for post-compulsory education students. It targets self-employed individuals and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0ad90ea3206730d2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta acreditació de l'AGAUR s'adreça a estudiants víctimes de violència masclista fora de la relació de parella. L'acreditació permet l'exempció total dels preus públics que paguen les estudiants a les universitats públiques de Catalunya segons el decret anual de preus.",
+  "paragrafs": {
+    "ca": "L'AGAUR ofereix una acreditació per a estudiants víctimes de violència masclista fora de l'àmbit de la parella que els permet l'exempció total dels preus públics a les universitats públiques de Catalunya. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "La AGAUR concede una acreditación para estudiantes víctimas de violencia machista fuera del ámbito de la pareja que permite la exención total de los precios públicos en las universidades públicas de Cataluña. Se dirige a personas físicas sin actividad económica.",
+    "en": "The AGAUR grants an accreditation for students who are victims of gender-based violence outside intimate relationships, allowing them full exemption from public fees at public universities in Catalonia. It is addressed to individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6f15e4ea50a0ebe3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

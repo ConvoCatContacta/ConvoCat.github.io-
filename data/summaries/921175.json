@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança beques per fer pràctiques al Departament de Cultura de la Generalitat o a les institucions que depenen d'aquest departament. S'adreça a persones que no desenvolupen cap activitat econòmica. Les pràctiques s'emmarcen dins dels programes de formació pràctica que ofereix l'administració cultural catalana.",
+  "paragrafs": {
+    "ca": "Finança pràctiques al Departament de Cultura o a les seves entitats adscrites. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia prácticas en el Departamento de Cultura o en sus entidades adscritas. Se dirige a personas físicas sin actividad económica.",
+    "en": "This grant funds internships at the Department of Culture or its affiliated entities. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ef5c9e17aae491e2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

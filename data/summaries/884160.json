@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança part de la despesa de transport públic per als estudiants que cursen estudis postobligatoris fora de Martorell. S'adreça a persones físiques sense activitat econòmica que realitzen aquests estudis i que volen reduir la despesa de desplaçament.",
+  "paragrafs": {
+    "ca": "El Patronat Municipal de Servei d'Atenció a les Persones de Martorell finança part de la despesa de transport públic per a estudiants que cursen estudis post-obligatoris fora de Martorell. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Patronat Municipal de Servei d'Atenció a les Persones de Martorell financia parte del gasto de transporte público para estudiantes que cursan estudios post-obligatorios fuera de Martorell. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Patronat Municipal de Servei d'Atenció a les Persones de Martorell funds part of the public transport costs for students pursuing post-compulsory studies outside Martorell. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9daaf2cc98100a20",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

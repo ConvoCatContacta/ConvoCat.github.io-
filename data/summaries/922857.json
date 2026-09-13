@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'entitats sense ànim de lucre que no desenvolupen activitat econòmica. L'Ajuntament de Viladecavalls ofereix aquestes subvencions en règim de competència, és a dir, que les organitzacions interessades presenten les seves sol·licituds i s'avaluen segons els criteris establerts a les bases. S'adreça a associacions, fundacions i altres organitzacions sense finalitat lucrativa que vulguin desenvolupar iniciatives locals.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Viladecavalls ofereix subvencions en règim de concurrència competitiva destinades a entitats sense ànim de lucre que no desenvolupin activitat econòmica.",
+    "es": "El Ayuntamiento de Viladecavalls convoca subvenciones en régimen de concurrencia competitiva dirigidas a entidades sin ánimo de lucro que no realicen actividad económica.",
+    "en": "Viladecavalls Town Council offers grants through competitive selection to non-profit entities that do not carry out economic activities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9d092c3b7f9b3b23",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

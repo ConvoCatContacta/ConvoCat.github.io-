@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats complementàries que s'afegeixen a la programació estable d'equipaments que fan escena i música. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar aquestes activitats. L'Oficina de Suport a la Iniciativa Cultural és qui gestiona aquesta subvenció per enfortir l'oferta cultural dels equipaments escènics i musicals.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança activitats complementàries a la programació professional estable d'equipaments escènics i musicals. S'adreça a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia actividades complementarias a la programación profesional estable de equipamientos escénicos y musicales. Va dirigida a entidades sin actividad económica.",
+    "en": "This grant programme funds complementary activities to the regular professional programming of performing arts and music venues. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fe18a6c3abf1b5c2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

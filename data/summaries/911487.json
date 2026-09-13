@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Diputació de Girona finança l'elaboració de plans municipals de biblioteques, així com els projectes de construcció, adequació, mobiliari i senyalització per a biblioteques públiques. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i autònoms.",
+  "paragrafs": {
+    "ca": "Finança l'elaboració de plans municipals de biblioteques i projectes de construcció, adequació, mobiliari i senyalització per a biblioteques públiques. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "Financia la elaboración de planes municipales de bibliotecas y proyectos de construcción, adecuación, mobiliario y señalización para bibliotecas públicas. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "It funds the development of municipal library plans and construction, renovation, furniture and signage projects for public libraries. It is open to self-employed individuals and freelancers without economic activity, organisations without economic activity, small and medium-sized enterprises, and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e6222b00e66166af",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

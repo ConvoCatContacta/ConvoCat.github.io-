@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança mesures de defensa contra la plaga del porc senglar que afecta els productors agraris. S'adreça a agricultors autònoms, petites i mitjanes empreses, i altres persones físiques sense activitat econòmica que desenvolupen activitats agrícoles a la zona.",
+  "paragrafs": {
+    "ca": "Finança accions de defensa contra la plaga del porc senglar. S'adreça a productors agraris que són persones físiques sense activitat econòmica, pimes i autònoms.",
+    "es": "Financia acciones de defensa contra la plaga del jabalí. Se dirige a productores agrarios que sean personas físicas sin actividad económica, pymes y autónomos.",
+    "en": "This grant funds defence measures against wild boar plague. It is aimed at agricultural producers who are self-employed individuals without economic activity, SMEs and sole traders."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "199ec209e34fee6f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

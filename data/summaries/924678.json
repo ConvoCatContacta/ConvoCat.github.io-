@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la realització de jornades, activitats i formació relacionades amb l'acolliment i l'adopció durant l'exercici 2026. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar accions en aquest àmbit. Les ajudes es concedeixen segons les bases establertes per l'Institut Català de l'Acolliment i de l'Adopció.",
+  "paragrafs": {
+    "ca": "Finança la realització de jornades, activitats i formació. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia la realización de jornadas, actividades y formación. Se dirige a entidades sin actividad económica.",
+    "en": "Funds activities, training sessions and educational events. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d524911d5b7734cd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança part de l'impost sobre béns immobles del domicili habitual per a l'any 2026. S'adreça a persones físiques sense activitat econòmica que són titulars de família monoparental. L'Ajuntament de Vilafranca del Penedès concedeix els ajuts mitjançant un procés de concessió no competitiva.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilafranca del Penedès financia part de l'impost sobre béns immobles del domicili habitual. S'adreça a persones físiques sense activitat econòmica que són titulars de família monoparental.",
+    "es": "El Ajuntamiento de Vilafranca del Penedès financia parte del impuesto sobre bienes inmuebles de la vivienda habitual. Va dirigido a personas físicas sin actividad económica que son titulares de familia monoparental.",
+    "en": "Vilafranca del Penedès Town Council provides funding to cover part of the property tax on the primary residence. It is aimed at individuals without economic activity who are heads of single-parent families."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "404facc049f37e42",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

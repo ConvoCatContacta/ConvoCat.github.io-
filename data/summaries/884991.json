@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança la millora i dinamització del comerç local mitjançant la instal·lació de parades al mercat setmanal de Navàs. S'adreça a persones que no desenvolupen activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Navàs finança la millora i dinamització del comerç local mitjançant la instal·lació de parades al mercat setmanal. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ayuntamiento de Navàs financia la mejora y dinamización del comercio local mediante la instalación de puestos en el mercado semanal. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Navàs Town Council funds the improvement and revitalisation of local commerce through the establishment of market stalls in the weekly market. It is aimed at self-employed individuals without economic activity, entities without economic activity, small and medium-sized enterprises, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6bfd1e54c3d17697",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

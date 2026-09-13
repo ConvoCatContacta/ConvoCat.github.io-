@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquest ajut municipal finança despeses escolars de l'alumnat escolaritzat en educació infantil de segon cicle, primària i secundària obligatòria per al curs 2026-2027. S'adreça a les famílies sense activitat econòmica que tenguin fills en aquests nivells educatius. La concessió dels ajuts es farà per ordre de puntuació en un procés de concurrència competitiva que estableixen les bases de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Salvador de Guardiola finança ajuts escolars per a alumnes d'ensenyament obligatori i segon cicle d'educació infantil del curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Salvador de Guardiola financia ayudas escolares para alumnos de enseñanza obligatoria y segundo ciclo de educación infantil del curso 2026-2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "Sant Salvador de Guardiola's municipal council funds school grants for students in compulsory education and the second cycle of early childhood education in the 2026-2027 academic year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4568a06c377f734b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

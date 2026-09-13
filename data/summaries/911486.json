@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança un concurs de disseny de gots per a la Festa Major de Moià. S'adreça a persones joves sense activitat econòmica que vulguin participar creant una proposta de disseny per als gots de la festa. L'Ajuntament de Moià convoca aquest concurs per trobar un disseny que representi la Festa Major del municipi.",
+  "paragrafs": {
+    "ca": "S'adreça a persones físiques sense activitat econòmica que vulguin participar en un concurs per dissenyar els gots de la Festa Major de Moià. La convocatòria la fa l'Ajuntament de Moià.",
+    "es": "Va dirigida a personas físicas sin actividad económica que deseen participar en un concurso para diseñar los vasos de la Festa Major de Moià. La convocatoria la realiza el Ajuntament de Moià.",
+    "en": "Open to individuals without business activity who wish to enter a design competition for the cups of Moià's Festa Major. The Ajuntament de Moià is running the competition."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9fa1701358235789",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

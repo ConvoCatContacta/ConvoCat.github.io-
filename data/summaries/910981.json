@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança obres d'arranjament dins dels habitatges per a persones grans. S'adreça a persones físiques sense activitat econòmica. La subvenció es concedeix en règim de concurrència pública no competitiva, és a dir, que es finança qui compleix els requisits establerts a les bases, sense competir amb altres sol·licitants.",
+  "paragrafs": {
+    "ca": "L'Agencia de la Vivienda de Cataluña finança obres d'arranjament a l'interior dels habitatges de persones grans. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "La Agencia de la Vivienda de Cataluña financia obras de adecuación en el interior de las viviendas de personas mayores. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Agencia de la Vivienda de Cataluña funds adaptation works inside the homes of older people. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d5f5a11ad9f6aa7d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

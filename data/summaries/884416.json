@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Jaume dels Domenys finança prestacions per a situacions d'urgència social dins de cada any econòmic. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i es troben en necessitat urgent. Les prestacions es convoquen anualment per fer front a casos de caràcter excepcional que requereixen ajuda immediata.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Jaume dels Domenys finança prestacions d'urgència social durant cada any. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Jaume dels Domenys financia prestaciones de urgencia social a lo largo de cada año. Se dirige a personas físicas sin actividad económica.",
+    "en": "Sant Jaume dels Domenys municipal council funds emergency social assistance throughout each financial year. It targets individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e6458ce715e2ad9c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

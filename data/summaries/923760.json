@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Vilafranca del Penedès finança accions relacionades amb l'esport d'elit durant el curs 2025/2026. S'adreça a persones sense activitat econòmica, entitats sense fins de lucre, petites i mitjanes empreses, autònoms i grans empreses. Les ajudes es concedeixin mitjançant concurrència competitiva, és a dir, que diversos sol·licitants competeixin per obtenir-les.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilafranca del Penedès financia el Programa 5 Esport d'Elit durant el curs 2025/2026. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Vilafranca del Penedès financia el Programa 5 Deporte de Élite durante el curso 2025/2026. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Vilafranca del Penedès Town Council funds the Elite Sports Programme 5 during the 2025/2026 academic year. It is aimed at self-employed individuals without economic activity, entities without economic activity, SMEs, freelancers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bd21f59220d8e233",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

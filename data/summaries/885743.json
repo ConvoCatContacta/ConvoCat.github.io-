@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Puig-reig finança part de les despeses d'escolarització en les escoles bressol del municipi per a famílies en situació socioeconòmica desfavorida amb infants de 0 a 2 anys durant l'any 2026. S'adreça a persones físiques sense activitat econòmica que tinguin fills en aquestes edats i necessitin aquesta ajuda per accedir al servei d'educació infantil.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Puig-reig finança ajuts per a l'escolarització d'infants de 0 a 2 anys en escoles bressol del municipi durant el 2026. S'adreça a persones físiques sense activitat econòmica que es troben en situacions socioeconòmiques desfavorides.",
+    "es": "El Ayuntamiento de Puig-reig financia ayudas para la escolarización de menores de 0 a 2 años en escuelas infantiles del municipio durante 2026. Va dirigido a personas físicas sin actividad económica que se encuentran en situaciones socioeconómicas desfavorecidas.",
+    "en": "Puig-reig Town Council funds grants for the enrolment of children aged 0 to 2 years old in local nurseries during 2026. It targets self-employed individuals without economic activity who are facing disadvantaged socioeconomic circumstances."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "155d4f7185cf6654",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

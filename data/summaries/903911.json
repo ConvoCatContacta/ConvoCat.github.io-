@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Diputació de Girona finança fires i salons d'orientació educativa que es desenvolupin a les comarques gironines. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin organitzar aquestes activitats relacionades amb l'orientació educativa.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança fires i salons d'orientació educativa a les comarques gironines. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia ferias y salones de orientación educativa en el ámbito de las comarcas gerundenses. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Girona Provincial Council funds educational guidance fairs and exhibitions in the Girona region. It is aimed at self-employed individuals without economic activity, non-profit entities, SMEs, sole proprietors and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "30e8d9204948f0d4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

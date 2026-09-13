@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'organització de festivals que superen l'àmbit municipal i de fires de desenvolupament local. S'adreça als ajuntaments de la comarca del Gironès que tinguin la naturalesa d'entitats sense activitat econòmica. El Consell Comarcal del Gironès és qui gestiona aquestes subvencions per a l'exercici 2026.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Gironès finança l'organització de festivals amb incidència supramunicipal i fires locals. S'adreça a ajuntaments de la comarca del Gironès per a l'exercici 2026.",
+    "es": "El Consell Comarcal del Gironès financia la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local. Va dirigida a los ayuntamientos de la comarca del Gironès para el ejercicio 2026.",
+    "en": "The Consell Comarcal del Gironès funds the organization of festivals with supramunicipal relevance and local trade fairs. It is aimed at municipalities in the Gironès region for 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4eaebbe87f2a8916",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

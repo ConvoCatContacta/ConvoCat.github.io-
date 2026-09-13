@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció finança estudis no obligatoris com la universitat, cicles formatius, batxillerat i escoles infantils per al curs 2025-2026. S'adreça a persones físiques sense activitat econòmica que vulguin rebre suport econòmic per continuar aquests estudis.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Martí Vell subvenciona els estudis no obligatoris per a l'any 2025-2026. S'adreça a persones físiques sense activitat econòmica que cursin estudis universitaris, cicles formatius, batxillerat o escoles infantils.",
+    "es": "El Ajuntamiento de Sant Martí Vell subvenciona los estudios no obligatorios para el año 2025-2026. Se dirige a personas físicas sin actividad económica que cursen estudios universitarios, ciclos formativos, bachillerato o escuelas infantiles.",
+    "en": "Sant Martí Vell's municipal council provides subsidies for non-compulsory studies in 2025-2026. It is aimed at individuals without economic activity who are pursuing university studies, vocational training, secondary education or early childhood education."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5a572b8fc8e43122",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

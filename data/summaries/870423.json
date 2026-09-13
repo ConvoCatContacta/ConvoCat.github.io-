@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Diputació de Girona finança programes i projectes que previnguin l'abandonament escolar premurat a les comarques gironines. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin desenvolupar iniciatives en aquest àmbit durant l'anualitat 2026.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança programes i projectes contra l'abandonament escolar prematur a les comarques gironines. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia programas y proyectos contra el abandono escolar prematuro en las comarcas gerundenses. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Diputació de Girona funds programmes and projects to address early school leaving in the counties of Girona. It is aimed at self-employed individuals and natural persons without economic activity, non-profit entities, SMEs and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a7b03b3d91501b6f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes i activitats de utilitat pública o interès social que permetin desenvolupar oportunitats educatives igualitàries per a nens i joves. S'adreça a entitats sense activitat econòmica que vulguin portar a terme iniciatives en aquest àmbit. L'Ajuntament de Terrassa és qui convoca aquestes ajudes en règim de concurrència pública.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Terrassa finança projectes i activitats d'utilitat pública o interès social. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntament de Terrassa financia proyectos y actividades de utilidad pública o interés social. Se dirige a entidades sin actividad económica.",
+    "en": "The Ajuntament de Terrassa funds projects and activities of public utility or social interest. It is aimed at entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "750b1efdf88bfe2a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

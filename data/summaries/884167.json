@@ -1,6 +1,10 @@
 {
-  "paragraf": "Esta convocatòria finança accions de promoció de la salut a través de l'Ajuntament d'Orís. S'adreça a persones individuals sense activitat econòmica i a entitats que tampoc no desenvolupen activitat econòmica, com ara associacions o clubs. La dotació i els detalls específics dels projectes que es poden finançar consten a l'ordenança general de subvencions municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís convoca aquesta ajuda per a la promoció de la salut. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Orís convoca esta ayuda para la promoción de la salud. Se dirige a personas físicas sin actividad económica y a entidades sin actividad económica.",
+    "en": "Orís Town Council calls for grants to promote health. It is aimed at individuals without economic activity and organisations without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1d004695c715c3ff",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

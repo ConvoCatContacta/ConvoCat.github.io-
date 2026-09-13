@@ -1,6 +1,10 @@
 {
-  "paragraf": "Esta subvención financia mejoras energéticas en edificios ubicados en los núcleos residenciales de Perafort y Puigdelfí. Se dirige a personas físicas sin actividad económica que sean propietarias o usufructuarias de viviendas en estas zonas y que deseen realizar obras de eficiencia energética en sus inmuebles.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Perafort finança millores energètiques en edificis dels nuclis residencials de Perafort i Puigdelfí. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Perafort financia mejoras energéticas en edificios de los núcleos residenciales de Perafort y Puigdelfí. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Perafort town council funds energy efficiency improvements in buildings located in the residential areas of Perafort and Puigdelfí. It is aimed at individuals without business activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "02af2901f35a67c4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

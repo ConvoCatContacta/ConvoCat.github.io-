@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Mollet del Vallès atorga premis a esportistes locals que hagin participat en competicions deportives oficials durant la temporada 2025-2026. S'adreça a persones físiques que no desenvolupin activitat econòmica. Els premis reconeixen la participació en competicions oficials i es concedeixen d'acord amb les bases reguladores establertes per a aquesta convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Mollet del Vallès concedeix premis a esportistes locals que hagin participat en competicions esportives oficials durant la temporada 2025-2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Mollet del Vallès concede premios a deportistas locales que hayan participado en competiciones deportivas oficiales durante la temporada 2025-2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Mollet del Vallès municipality awards prizes to local athletes who have taken part in official sports competitions during the 2025-2026 season. It targets individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "72f704d9655fd8f4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

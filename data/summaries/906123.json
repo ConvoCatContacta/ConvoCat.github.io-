@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la creació de noves botigues taller d'artesania artística situades a la planta baixa a la Bisbal d'Empordà. S'adreça a pimes i autònoms que vulguin desenvolupar aquest tipus d'activitat a la localitat. La iniciativa forma part del pla de subvencions municipal per a l'any 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Bisbal d'Empordà finança la creació de botigues taller d'artesania artística a la planta baixa del municipi. S'adreça a pimes i autònoms.",
+    "es": "El Ajuntamiento de la Bisbal d'Empordà financia la creación de tiendas taller de artesanía artística en planta baja del municipio. Va dirigida a pymes y autónomos.",
+    "en": "The Ajuntament de la Bisbal d'Empordà funds the creation of artistic craft shops and workshops at street level in the municipality. It is aimed at small and medium-sized businesses and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "864ad60f8c8c35b8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

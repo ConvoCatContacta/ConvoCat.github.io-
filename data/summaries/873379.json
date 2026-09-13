@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Diputació de Girona finança mitjançant el programa Indika el funcionament de centres dedicats a conservar, difondre i interpretar el patrimoni cultural i la memòria històrica. S'adreça a persones individuals sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que desenvolupin aquesta tasca de preservació i transmissió del patrimoni cultural.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança els centres que conserven, difonen i interpreten el patrimoni cultural i la memòria històrica a través del programa Indika. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia los centros que conservan, difunden e interpretan el patrimonio cultural y la memoria histórica a través del programa Indika. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Diputació de Girona funds centres that preserve, disseminate and interpret cultural heritage and historical memory through the Indika programme. It is aimed at individuals without economic activity, non-profit entities, small and medium-sized enterprises, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b8dd7f93c2c49307",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

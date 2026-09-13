@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones físiques, entitats sense activitat econòmica, petites i mitjanes empreses i grans empreses del municipi d'Orís. Finança la instal·lació de plaques fotovoltaiques per a l'autoconsum i els seus equipaments a les vivendes locals. L'ajuntament ofereix aquesta ajuda per fomentar l'energia solar a nivell residencial.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança la instal·lació de plaques fotovoltaiques per a l'autoconsum i els seus equipaments en habitatges del municipi. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ayuntamiento de Orís financia la instalación de placas fotovoltaicas para el autoconsumo y sus equipos en viviendas del municipio. Va dirigido a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Orís Town Council funds the installation of photovoltaic panels for self-consumption and related equipment in homes within the municipality. It is aimed at individuals without economic activity, entities without economic activity, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cf30363d9cf1aecf",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

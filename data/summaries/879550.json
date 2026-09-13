@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats que fomentin l'encontre entre lectors i creadors literaris, com autors, traductors i il·lustradors. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i autònoms que vulguin organitzar aquest tipus de contactes. Els ajuts es concedeixen en espècie, no pas en diners.",
+  "paragrafs": {
+    "ca": "Finança activitats que posin en contacte lectors amb autors, traductors i il·lustradors literaris. S'adreça a entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "Financia actividades que pongan en contacto lectores con autores, traductores e ilustradores literarios. Se dirige a entidades sin actividad económica, pymes y autónomos.",
+    "en": "It funds activities that bring readers into contact with literary authors, translators and illustrators. It is aimed at non-profit organisations, SMEs and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "dec38446429c696d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Canonja finança activitats esportives a través de subvencions destinades a esportistes empadronats al municipi. S'adreça a persones físiques sense activitat econòmica que practiquin esport a la localitat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Canonja atorga subvencions a persones físiques sense activitat econòmica que estiguin empadronades al municipi i practiquin esport.",
+    "es": "El Ajuntamiento de la Canonja concede subvenciones a personas físicas sin actividad económica que estén empadronadas en el municipio y practiquen deporte.",
+    "en": "The Ajuntament de la Canonja grants subsidies to individuals without economic activity who are registered residents of the municipality and engage in sports."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4ccd89f8b1a3df21",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

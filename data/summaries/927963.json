@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats d'estiu de l'any 2026 i s'adreça a entitats sense activitat econòmica. Es tracta d'una subvenció en règim de concurrència no competitiva, la qual cosa significa que no hi ha competència entre les sol·licituds. El suport es regula segons les bases reguladores de subvencions que l'Ajuntament de Viladecans ha establert per a aquestes iniciatives estives.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança activitats d'estiu de l'any 2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia actividades de verano del año 2026. Se dirige a entidades sin actividad económica.",
+    "en": "This grant finances summer activities in 2026. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "093fdc9fa72c5179",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Diputació de Lleida finança projectes i accions que promoguin i dinamitzin el comerç local. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses que vulguin desenvolupar iniciatives en aquest àmbit.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança projectes i accions que promouen i dinamitzen el comerç local. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses.",
+    "es": "Esta convocatoria financia proyectos y acciones que promocionan y dinamizan el comercio local. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pequeñas y medianas empresas, autónomos y grandes empresas.",
+    "en": "This call funds projects and actions that promote and boost local commerce. It is open to individuals without economic activity, non-profit organisations, small and medium-sized enterprises, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ac903c8919d3cd08",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Orís finança beques i premis per a persones que finalitzen estudis de grau superior, graus universitaris, postgraus, màsters i doctorats. S'adreça a persones sense activitat econòmica i a entitats sense activitat econòmica que completen aquestes formacions.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís ofereix beques i premis econòmics per a persones i entitats sense activitat econòmica que finalitzin cicles formatius de grau superior, graus universitaris, postgrados, màsters o doctorats.",
+    "es": "El Ajuntamiento de Orís concede becas y premios económicos a personas y entidades sin actividad económica que completen ciclos formativos de grado superior, grados universitarios, postgrados, másteres o doctorados.",
+    "en": "The Municipality of Orís provides economic grants and awards to individuals and entities without economic activity who complete higher-level vocational training cycles, university degrees, postgraduate studies, master's degrees or doctoral programmes."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3181ab245c95c929",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

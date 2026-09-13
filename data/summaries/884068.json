@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques destinades a persones sense activitat econòmica que es troben en situació de dependència. S'adreça a persones físiques que s'inclouen dins del Programa de suport a persones amb dependències, que forma part de les actuacions del Programa Viure en Família impulsat pel Departament de Drets Socials i Inclusió.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança una prestació econòmica dins del programa Viure en Família. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departament de Drets Socials i Inclusió financia una prestación económica dentro del programa Viure en Família. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Departament de Drets Socials i Inclusió provides economic assistance through the Viure en Família programme. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0975ad6661c54c46",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

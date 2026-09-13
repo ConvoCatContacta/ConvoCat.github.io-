@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línia de préstecs de l'Institut Català de Finances ofereix finançament amb condicions preferents a empreses i entitats que han patit danys per emergències climàtiques. S'adreça a petites i mitjanes empreses, autònoms i grans empreses afectades per aquestes situacions. Els préstecs es regeixen per la normativa europea sobre aquest tipus de finançament.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs amb condicions preferents a empreses i entitats afectades per situacions d'emergència climàtica. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de Finances (ICF) ofrece préstamos con condiciones preferentes a empresas y entidades afectadas por situaciones de emergencia climática. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de Finances (ICF) provides loans with preferential terms for businesses and organisations affected by climate emergencies. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "12becae1b1211403",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

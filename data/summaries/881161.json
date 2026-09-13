@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Polinyà finança prestacions econòmiques de caràcter social per a l'any 2026, regulades per l'ordenança municipal. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Els ajuts es concedeixin conforme a la modificació aprovada de l'ordenança municipal que regula aquestes prestacions.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Polinyà convoca ajuts econòmics de caràcter social destinats a persones físiques sense activitat econòmica, conforme a l'ordenança municipal vigent per a l'any 2026.",
+    "es": "El Ajuntamiento de Polinyà convoca ayudas económicas de carácter social destinadas a personas físicas sin actividad económica, conforme a la ordenanza municipal vigente para el año 2026.",
+    "en": "Polinyà's municipal council is offering economic aid of a social nature for self-employed individuals without economic activity, in accordance with the municipal regulations in force for 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5b7eaf8492217f0e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línea de préstecs bonificats de l'Institut Català de Finances finança projectes d'empreses joves i innovadores a la comarca de Girona. S'adreça a petites i mitjanes empreses i autònoms que busquin finançament amb condicions preferents per desenvolupar activitats innovadores a aquesta zona.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs bonificats per a pimes i autònoms joves i innovadores a Girona. Els préstecs finançen projectes empresarials dins del marc del Reglament (UE) 651/2014.",
+    "es": "El Institut Català de Finances (ICF) ofrece préstamos bonificados para pymes y autónomos jóvenes e innovadores en Girona. Los préstamos financian proyectos empresariales dentro del marco del Reglamento (UE) 651/2014.",
+    "en": "The Institut Català de Finances (ICF) provides subsidised loans for young and innovative SMEs and self-employed workers in Girona. The loans finance business projects under the framework of Regulation (EU) 651/2014."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ab17a1364c9b5b29",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

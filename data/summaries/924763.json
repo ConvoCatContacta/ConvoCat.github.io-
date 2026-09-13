@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la compra de material escolar per al curs 2026-2027. S'adreça a persones i entitats sense activitat econòmica que formin part del sistema de serveis socials de l'Ajuntament d'Olèrdola. La iniciativa s'emmarca dins la política municipal de suport educatiu per als infants en situació de vulnerabilitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Olèrdola finança beques per a material escolar del curs 2026-2027. S'adrecen a persones físiques i entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Olèrdola financia becas para material escolar del curso 2026-2027. Van dirigidas a personas físicas y entidades sin actividad económica.",
+    "en": "Olèrdola Town Council provides grants for school materials for the 2026-2027 academic year. They are aimed at individuals and organisations with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6cc626906ca90bc7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

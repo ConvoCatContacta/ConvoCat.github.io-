@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'ús de pòlisses d'assegurança agrària a través de les línies del Pla anual d'Agroseguro. S'adreça a petites i mitjanes empreses del sector agrari i a autònoms que vulguin cobrir els riscos de les seves explotacions amb aquests seguros.",
+  "paragrafs": {
+    "ca": "Finança pòlisses d'assegurança agrària del Pla anual d'Agroseguro. S'adreça a pimes i autònoms del sector agrari.",
+    "es": "Financia pólizas de seguro agrario del Plan anual de Agroseguro. Va dirigida a pymes y autónomos del sector agrario.",
+    "en": "This funding covers agricultural insurance policies from Agroseguro's annual plan. It is aimed at SMEs and self-employed workers in the agricultural sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d15ae6cd0d503168",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Valls finança activitats d'associacions i entitats socials sense ànim de lucre. S'adreça a organitzacions del sector social que desenvolupin projectes i accions de caràcter comunitari, cultural, esportiu o d'altres àmbits socials que contribueixin al benestar col·lectiu del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Valls finança activitats d'associacions i entitats sense activitat econòmica de l'àmbit social.",
+    "es": "El Ayuntamiento de Valls financia actividades de asociaciones y entidades sin actividad económica del ámbito social.",
+    "en": "Valls City Council funds activities carried out by non-profit associations and entities in the social sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fe96de7ca1dc3899",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

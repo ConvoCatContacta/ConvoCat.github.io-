@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'ajut als estudis. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que es troben en situació de necessitat econòmica per continuar la seva formació.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança ajuts als estudis per a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Ascó financia ayudas para los estudios dirigidas a personas físicas sin actividad económica.",
+    "en": "The Ascó Municipal Council provides grants for studies aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d1503ffc3372cb78",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Agència de l'Habitatge de Catalunya finança part del cost del lloguer d'habitatges que les persones o entitats demandants han contratats al mercat privat durant l'any 2026. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica que necessitin ajut per pagar el lloguer.",
+  "paragrafs": {
+    "ca": "L'Agencia de la Vivienda de Cataluña finança el cost del lloguer d'habitatges privats per a l'any 2026. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "La Agencia de la Vivienda de Cataluña financia el coste del alquiler de viviendas privadas para el año 2026. Se dirige a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "The Agencia de la Vivienda de Cataluña funds the rental costs of private housing for 2026. It is aimed at individuals without economic activity and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "027477b39432b14e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

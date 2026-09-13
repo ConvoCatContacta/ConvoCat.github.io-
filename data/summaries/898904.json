@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança un premi econòmic per a la desena edició del Premi Empordà de Novel·la. S'adreça a persones físiques que no exerceixen cap activitat econòmica. El premi reconeix obres de ficció narrativa segons els criteris establerts pel jurat de la convocatòria.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Baix Empordà convoca un premi econòmic per a la desena edició del Premi Empordà de Novel·la. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal del Baix Empordà convoca un premio económico para la décima edición del Premio Empordà de Novela. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal del Baix Empordà is awarding an economic prize for the tenth edition of the Premi Empordà de Novel·la. It is open to individuals who do not carry out economic activities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9c1fdd3a058c948f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

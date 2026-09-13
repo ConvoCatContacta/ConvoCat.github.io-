@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de producció editorial en català i occità. S'adreça a petites i mitjanes empreses, autònoms i grans empreses que treballin en l'àmbit editorial. Es distribueix en règim de concurrència no competitiva, és a dir, que no es comparen els projectes entre ells per ordenar-los per puntuació, sinó que s'avaluen segons uns criteris fixos. L'Institut Català de les Empreses Culturals és qui gestiona la convocatòria.",
+  "paragrafs": {
+    "ca": "L'ICEC (Institut Català de les Empreses Culturals) finança la producció editorial en català i en occità. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El ICEC (Institut Català de les Empreses Culturals) financia la producción editorial en catalán y en occitano. Va dirigido a pymes, autónomos y grandes empresas.",
+    "en": "The ICEC (Institut Català de les Empreses Culturals) funds publishing production in Catalan and Occitan. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "516ed3d3e8212708",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

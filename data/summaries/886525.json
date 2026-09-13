@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la prestació d'acolliment residencial per a persones en situació de dependència, amb l'objectiu de promoure la seva autonomia personal. S'adreça a persones físiques que no exerceixen cap activitat econòmica. El Departament de Drets Socials i Inclusió impulsa aquesta iniciativa per garantir que les persones amb dependència tinguin accés a serveis d'allotjament i atenció adaptats a les seves necessitats.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança la prestació del servei d'acolliment residencial per a persones en situació de dependència. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Esta convocatoria financia la prestación del servicio de acogimiento residencial para personas en situación de dependencia. Va dirigida a personas físicas sin actividad económica.",
+    "en": "This call funds the provision of residential care services for people in situations of dependency. It is aimed at natural persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "db2ad2b6aad7b740",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

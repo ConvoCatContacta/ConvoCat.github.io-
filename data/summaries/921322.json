@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança obres de literatura dramàtica inèdites en llengua catalana. S'adreça a persones físiques que no desenvolupin activitat econòmica. El premi es convoca anualment per reconèixer la creació teatral original i fomentar la literatura dramàtica en català. La Diputació de Barcelona és l'organisme responsable de la convocatòria, que es regeix per la normativa general de subvencions.",
+  "paragrafs": {
+    "ca": "La Diputació de Barcelona convoca el Premi Àngel Guimerà de Literatura Dramàtica per a l'any 2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "La Diputación de Barcelona convoca el Premio Ángel Guimerá de Literatura Dramática para el año 2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Barcelona Provincial Council convenes the Ángel Guimerá Prize for Dramatic Literature for 2027. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c1fed73ef0aeff74",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

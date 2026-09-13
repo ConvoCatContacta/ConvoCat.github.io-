@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vilanova i la Geltrú ofereix ajuts econòmics en els tributs municipals per a persones físiques sense activitat econòmica que es trobin en situacions especials. Aquests ajuts es destinen a ajudar a fer front a obligacions tributàries municipals quan hi ha circumstàncies que ho justifiquen.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilanova i la Geltrú finança ajuts econòmics en tributs municipals per atendre situacions especials. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Vilanova i la Geltrú financia ayudas económicas en tributos municipales para atender situaciones especiales. Se dirige a personas físicas sin actividad económica.",
+    "en": "Vilanova i la Geltrú City Council funds economic aid in municipal taxes to address special situations. It is aimed at self-employed individuals and natural persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "13b439065f11d6ce",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

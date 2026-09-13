@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Reus finança premis que reconeixen la innovació empresarial. S'adreça a petites i mitjanes empreses i autònoms que desenvolupin projectes innovadors. Els premis porten els noms Gabriel Ferraté i Pascual i pretenen destacar iniciatives que impulsin la innovació en el teixit empresarial local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Reus convoca els Premis Gabriel Ferraté i Pascual a la Innovació Empresarial 2026. S'adrecen a pimes i autònoms.",
+    "es": "El Ayuntamiento de Reus convoca los Premios Gabriel Ferraté i Pascual a la Innovación Empresarial 2026. Van dirigidos a pymes y autónomos.",
+    "en": "The City Council of Reus announces the Gabriel Ferraté i Pascual Awards for Business Innovation 2026. They are aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7d786325144d484f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

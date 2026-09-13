@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques per a situacions d'urgència social. S'adreça a persones físiques sense activitat econòmica que es trobin en dificultats econòmiques i necessitin ajuda urgent per cobrir necessitats bàsiques. Els ajuts es concedeixen d'acord amb el reglament de prestacions econòmiques de caràcter social de l'Ajuntament de la Torre de Claramunt.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Torre de Claramunt finança ajuts individuals d'urgència social per a persones físiques sense activitat econòmica, a través de prestacions econòmiques de caràcter social.",
+    "es": "El Ayuntamiento de la Torre de Claramunt financia ayudas individuales de urgencia social para personas físicas sin actividad económica, mediante prestaciones económicas de carácter social.",
+    "en": "The Ajuntament de la Torre de Claramunt funds individual emergency social aid for individuals without economic activity, through social welfare payments."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c31a9fc757331281",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

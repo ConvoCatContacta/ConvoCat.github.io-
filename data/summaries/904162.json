@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Parets del Vallès finança projectes per impulsar l'emprenedoria i la creació de noves empreses al municipi. S'adreça a petites i mitjanes empreses i autònoms que vulguin desenvolupar iniciatives empresarials locals. Els ajuts pretenen contribuir a generar activitat econòmica i ocupació a través del suport financer a emprenedors.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Parets del Vallès subvenciona projectes d'emprenedoria dirigits a crear empreses al municipi. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Parets del Vallès financia proyectos de emprendimiento orientados a la creación de empresas en el municipio. Va dirigido a pymes y autónomos.",
+    "en": "Parets del Vallès municipality offers grants for entrepreneurship projects aimed at creating businesses in the area. It is open to SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ca8cd910f6d47509",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

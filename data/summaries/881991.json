@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament d'Avinyó finança prestacions econòmiques d'alimentació. S'adreça a persones físiques que no exerceixen cap activitat econòmica. Les ajudes es concedeixen segons les bases específiques per a prestacions socials de caràcter econòmic establertes per a l'any 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Avinyó ofereix prestacions econòmiques de caràcter alimentari per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Avinyó ofrece prestaciones económicas de carácter alimentario para el año 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Avinyó City Council offers economic benefits of a food nature for 2026. These are aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a81d1c99544e4e09",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

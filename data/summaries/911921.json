@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Mont-roig del Camp subvenciona activitats esportives i de lleure d'estiu fora del municipi per a infants amb discapacitat durant l'any 2026. S'adreça a persones físiques sense activitat econòmica que vulguin finançar aquestes activitats per als seus fills o filles amb discapacitat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Mont-roig del Camp finança activitats esportives i de lleure d'estiu que es realitzen fora del municipi. S'adreça a infants amb discapacitat.",
+    "es": "El Ayuntamiento de Mont-roig del Camp financia actividades deportivas y de ocio de verano que se realizan fuera del municipio. Se dirige a niños con discapacidad.",
+    "en": "Mont-roig del Camp municipality funds summer sports and leisure activities held outside the municipality. It is aimed at children with disabilities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2f6a44a2e5460167",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els costos del transport adaptat durant el 2026. S'adreça a persones físiques que no tenen activitat econòmica. L'ajuda cobreix els desplaçaments en vehicles especialment equipats per a qui té mobilitat reduïda o necessitats específiques de transport. La gestiona el Consell Comarcal de l'Anoia.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de l'Anoia finança el transport adaptat per a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal de l'Anoia financia el transporte adaptado para personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal de l'Anoia funds adapted transport for self-employed individuals and persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bf191b39317eb83d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

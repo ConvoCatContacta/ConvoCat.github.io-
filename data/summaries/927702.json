@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la creació de noves empreses i el desenvolupament de noves activitats d'autònoms al municipi de Vilanova i la Geltrú. S'adreça a petites i mitjanes empreses i a persones que vulguin crear una activitat en solitari dins del terme municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilanova i la Geltrú finança la creació de noves empreses i negocis d'autònoms al municipi. S'adreça a petites i mitjanes empreses (Pimes) i autònoms.",
+    "es": "El Ayuntamiento de Vilanova i la Geltrú subvenciona la creación de nuevas empresas y negocios de autónomos en el municipio. Están dirigidas a pequeñas y medianas empresas (Pimes) y autónomos.",
+    "en": "Vilanova i la Geltrú's municipal authority provides funding for the creation of new businesses and self-employed ventures in the municipality. It is aimed at small and medium-sized enterprises (SMEs) and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4831b30be60a3cac",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses del diagnòstic de dificultats en l'aprenentatge en infants i joves. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses. Els ajuts s'enmarquen dins la protecció social de la infància i l'adolescència.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança diagnòstics de dificultats en l'aprenentatge en infants i joves. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "Esta convocatoria financia diagnósticos de dificultades en el aprendizaje en menores y jóvenes. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "This call funds diagnoses of learning difficulties in children and young people. It is aimed at individuals without economic activity, non-profit organisations, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "877c95d44a7b7d9c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

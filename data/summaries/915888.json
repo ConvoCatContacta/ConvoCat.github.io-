@@ -1,6 +1,10 @@
 {
-  "paragraf": "Els Premis CAC a la Investigació sobre Comunicació Audiovisual reconeixen treballs de recerca sobre comunicació de masses. S'adrecen a persones físiques sense activitat econòmica, a petites i mitjanes empreses i a autònoms que vulguin presentar les seves investigacions en aquest camp. El Consell de l'Audiovisual de Catalunya (CAC) financia aquests premis per impulsar l'estudi i l'anàlisi crítica de la comunicació audiovisual.",
+  "paragrafs": {
+    "ca": "El CAC (Consell de l'Audiovisual de Catalunya) convoca premis per a treballs de recerca sobre comunicació audiovisual. S'adrecen a persones físiques sense activitat econòmica, pimes i autònoms.",
+    "es": "El CAC (Consell de l'Audiovisual de Catalunya) convoca premios para trabajos de investigación sobre comunicación audiovisual. Se dirigen a personas físicas sin actividad económica, pymes y autónomos.",
+    "en": "The CAC (Consell de l'Audiovisual de Catalunya) awards prizes for research work on audiovisual communication. They are aimed at individuals without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "67c1fa4974446d58",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

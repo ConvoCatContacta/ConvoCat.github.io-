@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Servei d'Ocupació de Catalunya (SOC) finança la contractació laboral de persones en situació de major vulnerabilitat. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin contractar aquests treballadors i treballadores. La convocatòria és per a l'any 2025.",
+  "paragrafs": {
+    "ca": "El SOC finança la contractació laboral de persones en situació de major vulnerabilitat. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El SOC financia la contratación laboral de personas en situación de mayor vulnerabilidad. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The SOC funds job contracts for people in situations of high vulnerability. It is aimed at non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8619d619eaa077b4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

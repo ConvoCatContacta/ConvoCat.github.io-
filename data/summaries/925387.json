@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança beques per a joves que participen al Campus d'Ocupació de Calonge i Sant Antoni. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Els ajuts són gestionats per l'Ajuntament de Calonge i Sant Antoni per a l'exercici 2026, i busquen recolzar la formació i l'ocupabilitat dels participants en aquest programa.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Calonge i Sant Antoni finança beques per a joves del Campus d'Ocupació durant l'exercici 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Calonge i Sant Antoni financia becas para jóvenes del Campus de Ocupación durante el ejercicio 2026. Están dirigidas a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de Calonge i Sant Antoni funds scholarships for young people at the Campus de Ocupación during 2026. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9a784b5842fc402d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

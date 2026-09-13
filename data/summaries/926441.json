@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança la programació d'espectacles d'arts en viu i activitats d'arts visuals de caràcter professional que es desenvolupin dins d'esdeveniments d'interès agroturístic. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i autònoms que vulguin organitzar aquest tipus d'activitats culturals vinculades al sector agroturístic.",
+  "paragrafs": {
+    "ca": "L'Oficina de Suport a la Iniciativa Cultural finança la programació d'espectacles d'arts en viu i activitats d'arts visuals de caràcter professional en esdeveniments d'interès agroturístic. S'adreça a entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "La Oficina de Suport a la Iniciativa Cultural financia la programación de espectáculos de artes en vivo y actividades de artes visuales de carácter profesional en eventos de interés agroturístico. Va dirigida a entidades sin actividad económica, pymes y autónomos.",
+    "en": "The Oficina de Suport a la Iniciativa Cultural funds the programming of live arts performances and professional visual arts activities at events of agritourism interest. It is aimed at non-profit entities, SMEs and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d87945344d7a9b8f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

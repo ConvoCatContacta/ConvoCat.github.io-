@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Martorell finança accions per impulsar l'activitat econòmica al municipi. S'adreça a petites i mitjanes empreses i autònoms que exerceixen activitat a Martorell. Els ajuts pretenen reforçar el teixit empresarial local i afavorir el desenvolupament econòmic de la zona.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Martorell finança accions per impulsar l'activitat econòmica al municipi. S'adreça a pimes i autònoms.",
+    "es": "El Ajuntamiento de Martorell financia acciones para impulsar la actividad económica en el municipio. Va dirigido a pymes y autónomos.",
+    "en": "Martorell's town council funds initiatives to boost economic activity in the municipality. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e30af39d45163689",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

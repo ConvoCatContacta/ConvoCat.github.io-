@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament d'Olesa de Montserrat finança la cessió de pisos a la borsa d'habitatges de lloguer. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica que disposin de vivendes i vulguin posar-les a disposició del programa municipal d'habitatge per a lloguer.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Olesa de Montserrat finança la cessió de pisos a la borsa d'habitatges de lloguer. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Olesa de Montserrat subvenciona la cesión de viviendas para incorporarlas a la bolsa de viviendas de alquiler. Se dirige a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "Olesa de Montserrat Town Council funds the transfer of homes to its rental housing pool. It is aimed at individuals without economic activity and organisations without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5c04f9e5def1b586",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

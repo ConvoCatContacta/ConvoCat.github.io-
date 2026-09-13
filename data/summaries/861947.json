@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línia de l'Institut Català de Finances ofereix préstecs amb interessos més baixos adreçats a petites, mitjanes i grans empreses, així com a autònoms, que han patit l'impacte de les mesures comercials dels Estats Units. Els préstecs pretenen ajudar aquestes empreses a fer front a les dificultats econòmiques derivades d'aquest context comercial internacional.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs amb tipus d'interès reduït adreçats a pimes, autònoms i grans empreses afectades per la política comercial dels Estats Units d'Amèrica.",
+    "es": "El Institut Català de Finances (ICF) ofrece préstamos con tipos de interés reducido dirigidos a pymes, autónomos y grandes empresas afectadas por la política comercial de Estados Unidos de América.",
+    "en": "The Institut Català de Finances (ICF) provides loans with reduced interest rates aimed at SMEs, self-employed workers and large companies affected by United States trade policy."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3af92e54e77d1e64",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

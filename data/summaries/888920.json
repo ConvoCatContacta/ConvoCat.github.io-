@@ -1,6 +1,10 @@
 {
-  "paragraf": "Cette convocatòria finança actuacions per estalviar energia en edificis i instal·lacions. S'adreça a persones físiques que no tenen activitat econòmica. L'Ajuntament de Sant Salvador de Guardiola ofereix aquestes subvencions perquè es realitzin millores orientades a reduir el consum energètic.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Salvador de Guardiola finança actuacions orientades a l'estalvi energètic. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Salvador de Guardiola financia actuaciones orientadas al ahorro energético. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Sant Salvador de Guardiola municipality funds energy-saving measures. It is aimed at individuals who do not carry out any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8e39153edc192e94",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

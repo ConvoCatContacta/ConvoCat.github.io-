@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Servicio Público de Empleo de Cataluña financia les empreses, autònoms i entitats sense activitat econòmica que acullen alumnat per fer pràctiques professionals no laborals vinculades a un certificat de formació professional. Els ajuts permeten aquestes organitzacions oferir experiència pràctica als alumnes dins de les seves instal·lacions.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança ajuts a entitats sense activitat econòmica, pimes i autònoms que acullen alumnat per realitzar pràctiques professionals no laborals vinculades a un certificat de formació professional.",
+    "es": "El Servicio Público de Empleo de Cataluña financia ayudas a entidades sin actividad económica, pymes y autónomos que acogen alumnado para realizar prácticas profesionales no laborales vinculadas a un certificado de formación profesional.",
+    "en": "The Servicio Público de Empleo de Cataluña funds grants for non-profit entities, SMEs and self-employed workers that host students to carry out non-labour professional practices linked to a vocational training certificate."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "46af78d9e13f0def",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

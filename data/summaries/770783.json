@@ -1,6 +1,10 @@
 {
-  "paragraf": "La línia Eurocrèdit finança projectes d'empreses innovadores mitjançant préstecs gestionats per Instruments Financers per a Empreses Innovadores. S'adreça a petites i mitjanes empreses, small midcaps i grans empreses. Els préstecs s'ofenen dins el Programa del FEDER de Catalunya 2021-2027, amb l'objectiu de donar suport econòmic a empreses que desenvolupin activitats innovadores.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances publica la normativa de la línia de préstecs Eurocrèdit per a petites i mitjanes empreses i small midcaps, gestionada per Instruments Financers per a Empreses Innovadores (IFEM) dins el Programa del FEDER de Catalunya 2021-2027. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de Finances publica la normativa de la línea de préstamos Eurocrèdit para pequeñas y medianas empresas y small midcaps, gestionada por Instruments Financers per a Empreses Innovadores (IFEM) dentro del Programa del FEDER de Cataluña 2021-2027. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de Finances publishes the regulations for the Eurocrèdit loan line for small and medium-sized enterprises and small midcaps, managed by Instruments Financers per a Empreses Innovadores (IFEM) under the FEDER Programme for Catalonia 2021-2027. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3830df0b90f1ac2f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

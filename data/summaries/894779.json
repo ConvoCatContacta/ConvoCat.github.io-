@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions per promoure que els propietaris d'animals domèstics al municipi d'Ascó tinguin comportaments més responsables. S'adreça a persones físiques que no exerceixen activitat econòmica. L'Ajuntament d'Ascó concedeix aquestes subvencions per fomentar hàbits correctes en el manteniment i la convivència amb mascotes al terme municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança accions relacionades amb el comportament responsable de les persones propietàries d'animals domèstics al municipi. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Ascó financia acciones relacionadas con el comportamiento responsable de las personas propietarias de animales domésticos en el municipio. Se dirige a personas físicas sin actividad económica.",
+    "en": "Ascó Town Council funds actions related to responsible behaviour among pet owners in the municipality. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bffebf019bc4cfa5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

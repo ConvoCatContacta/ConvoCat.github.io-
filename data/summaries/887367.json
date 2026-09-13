@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Canonja finança obres per millorar l'accessibilitat i eliminar barreres arquitectòniques en edificis residencials i vivendes. S'adreça a persones físiques sense activitat econòmica que vulguin dur a terme aquestes millores als seus immobles.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Canonja finança millores d'accessibilitat i eliminació de barreres arquitectòniques en edificis residencials i viviendas. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de la Canonja financia mejoras de accesibilidad y eliminación de barreras arquitectónicas en edificios residenciales y viviendas. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de la Canonja funds improvements to accessibility and removal of architectural barriers in residential buildings and dwellings. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8730de3bbd901243",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

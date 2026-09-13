@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança beques esportives per a la temporada 2025-2026. S'adreça a persones físiques que no tenen activitat econòmica. Els ajuts pretenen sufragar despeses relacionades amb la pràctica esportiva dels beneficiaris, tal com es detalla en les bases específiques que l'Ajuntament de Piera ha establert per a aquesta convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Piera ofereix beques esportives per a la temporada 2025-2026. S'adrecen a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Piera convoca beques deportivas para la temporada 2025-2026. Van dirigidas a personas físicas sin actividad económica.",
+    "en": "Piera's municipal government is offering sports scholarships for the 2025-2026 season. These are aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d79d67a531c8e283",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

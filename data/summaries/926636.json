@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la programació de música en viu professional en festivals. S'adreça a entitats sense activitat econòmica que vulguin organitzar events musicals. La convocatòria la gestiona l'Oficina de Suport a la Iniciativa Cultural, que avalua les sol·licituds segons les bases específiques del programa.",
+  "paragrafs": {
+    "ca": "Finança la programació de música en viu professional en festivals. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia la programación de música en vivo profesional en festivales. Se dirige a entidades sin actividad económica.",
+    "en": "This grant funds the programming of professional live music in festivals. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e7231e50d6e2888c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

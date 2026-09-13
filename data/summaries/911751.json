@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'desenvolupament local participatiu a través del mètode Leader, dins el Pla estratègic de la Política Agrícola Comuna 2023-2027. S'adreça a persones físiques sense activitat econòmica, petites i mitjanes empreses i autònoms que vulguin impulsar iniciatives de desenvolupament rural a les seves comunitats locals, amb una metodologia participativa que implica la col·laboració dels agents territorials.",
+  "paragrafs": {
+    "ca": "S'adreça a persones físiques sense activitat econòmica, pimes i autònoms per finançar projectes d'desenvolupament local participatiu Leader en el marc del Programa de desenvolupament rural de Catalunya PEPAC 2023-2027.",
+    "es": "Se dirige a personas físicas sin actividad económica, pymes y autónomos para financiar proyectos de desarrollo local participativo Leader en el marco del Programa de desarrollo rural de Cataluña PEPAC 2023-2027.",
+    "en": "Targets self-employed workers, micro and small businesses, and individuals without economic activity to fund projects on participatory local development Leader within the rural development programme of Catalonia PEPAC 2023-2027."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "920a5024ba718848",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

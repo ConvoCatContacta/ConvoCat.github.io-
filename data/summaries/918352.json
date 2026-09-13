@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats d'arts escèniques, música i arts visuals destinades als centres d'ensenyament reglat, a nivell municipal i comarcal. S'adreça a entitats sense activitat econòmica que vulguin desenvolupar aquests projectes culturals en àmbits educatius.",
+  "paragrafs": {
+    "ca": "Finança activitats de arts escèniques, música i arts visuals adreçades a estudiants d'ensenyament reglat a nivel municipal i comarcal. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia actividades de artes escénicas, música y artes visuales dirigidas a estudiantes de enseñanza reglada a nivel municipal y comarcal. Se dirige a entidades sin actividad económica.",
+    "en": "This grant funds performing arts, music and visual arts activities for students in regulated education at municipal and regional level. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9b8df4c987510f9a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

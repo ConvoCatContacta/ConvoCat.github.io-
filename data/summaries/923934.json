@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes i activitats d'escoles i associacions de famílies d'estudiants (AFES) ubicades a la comarca de les Garrigues per al 2026. S'adreça a persones sense activitat econòmica i a entitats sense ànim de lucre, com ara aquestes escoles i associacions, que puguin justificar la seva feina i els seus objectius a la zona.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de les Garrigues finança activitats a escoles i associacions de famílies d'estudiants (AFES) de la comarca. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica.",
+    "es": "El Consell Comarcal de les Garrigues financia actividades en escuelas y asociaciones de familias de estudiantes (AFES) de la comarca. Va dirigido a personas físicas sin actividad económica y a entidades sin actividad económica.",
+    "en": "The Consell Comarcal de les Garrigues funds activities at schools and student family associations (AFES) in the region. It is open to individuals without economic activity and non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e09bc42ce242ec84",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

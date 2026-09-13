@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vilafranca del Penedès finança la realització de sis grans esdeveniments durant el curs 2025/2026 a través d'ajuts repartits per concurrència competitiva. S'adreça a persones sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i autònoms, així com a grans empreses interessades a organitzar o promoure aquests actes.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilafranca del Penedès finança sis grans esdeveniments durant el curs 2025/2026. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ayuntamiento de Vilafranca del Penedès financia seis grandes acontecimientos durante el curso 2025/2026. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Vilafranca del Penedès Town Council funds six major events during the 2025/2026 academic year. It addresses individuals without economic activity, organisations without economic activity, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "69d76bca7a26ea8a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

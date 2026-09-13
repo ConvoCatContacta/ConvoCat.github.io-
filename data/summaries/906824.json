@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la pràctica d'esports durant el curs 2026-27. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. L'Ajuntament de Parets del Vallès impulsa aquesta ajuda per facilitar l'accés a l'esport entre la població sense ingressos d'activitat empresarial o professional.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Parets del Vallès finança la pràctica esportiva per a la temporada 2026-27. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Parets del Vallès financia la práctica deportiva para la temporada 2026-27. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Parets del Vallès municipality funds sports practice for the 2026-27 season. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9b7eece9db2c1b9a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

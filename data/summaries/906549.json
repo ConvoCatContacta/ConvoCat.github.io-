@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats d'entitats sense ànim de lucre per mitjà de subvencions que s'atorguen competitivament. S'adreça a entitats sense activitat econòmica que desenvolupen projectes en aquesta línia i que es presentin a la convocatòria de l'Ajuntament de Sant Julià de Vilatorta. Les bases reguladores estableixen els requisits, procediments i criteris d'avaluació per a la concessió de les subvencions.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Julià de Vilatorta convoca subvencions per a entitats sense ànim de lucre que no desenvolupin activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Julià de Vilatorta convoca subvenciones para entidades sin ánimo de lucro que no desarrollen actividad económica.",
+    "en": "Sant Julià de Vilatorta Municipal Council is opening a grants programme for non-profit organisations that do not carry out economic activities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9c6e5aeb57058e14",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes i activitats que desenvolupin entitats sense activitat econòmica de Montbrió del Camp. L'Ajuntament de Montbrió del Camp atorga aquestes subvencions en règim de concurrència competitiva, és a dir, que els diners es reparteixen entre les sol·licituds que millor compleixen els criteris establerts a les bases.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Montbrió del Camp subvenciona projectes i activitats d'entitats sense activitat econòmica locals per a l'any 2026.",
+    "es": "El Ayuntamiento de Montbrió del Camp financia proyectos y actividades de entidades locales sin actividad económica para el año 2026.",
+    "en": "Montbrió del Camp's municipality provides subsidies for projects and activities carried out by local entities with no economic activity during 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "52e7ad9ce6adcc13",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

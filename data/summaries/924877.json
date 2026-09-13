@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes i activitats d'educació ambiental que es desenvolupin al municipi de Girona. S'adreça a entitats sense activitat econòmica, és a dir, organitzacions que no generen ingressos econòmics com a activitat principal. Els projectes han de tendir a sensibilitzar la ciutadania sobre qüestions ambientals i contribuir a millorar la consciència ecològica a la localitat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Girona finança projectes i activitats d'educació ambiental al municipi. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Girona financia proyectos y actividades de educación ambiental en el municipio. Se dirige a entidades sin actividad económica.",
+    "en": "Girona City Council funds environmental education projects and activities in the municipality. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "48c317fa9a4a7b29",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

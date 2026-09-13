@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vilafranca del Penedès finança activitats d'esport de base amateur durant el curs 2025/2026 a través d'ajuts i subvencions en règim de concurrència competitiva. S'adreça a persones individuals sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que desenvolupin programes en aquest àmbit esportiu.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilafranca del Penedès finança activitats del programa 1 Esport de Base Amateur per al curs 2025/2026. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ayuntamiento de Vilafranca del Penedès financia actividades del programa 1 Deporte de Base Amateur para el curso 2025/2026. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Vilafranca del Penedès City Council funds activities under the Amateur Base Sports programme 1 for the 2025/2026 academic year. It is aimed at self-employed individuals without economic activity, non-profit organisations, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ce1aece18430bcf0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

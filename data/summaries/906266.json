@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la menjador escolar per al curs 2026-2027 i s'adreça a persones físiques que no tenen activitat econòmica. Els ajuts cobreixen els costos de l'alimentació en aquest servei.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Moianès finança ajuts individuals de menjador per al curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal del Moianès financia ayudas individuales de comedor para el curso 2026-2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal del Moianès funds individual meal allowances for the 2026-2027 school year. It is aimed at self-employed individuals and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cbc2947e3256f4a7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

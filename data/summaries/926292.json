@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria ofereix ajuts econòmics a famílies de Cerdanyola del Vallès per atendre necessitats socials. S'adreça a persones físiques que no desenvolupin activitat econòmica. Els ajuts es distribueixen segons les bases generals d'atorgament d'ajuts socials que estableix l'Ajuntament, amb la finalitat de donar suport a col·lectius que necessitin reforç econòmic.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cerdanyola del Vallès ofereix ajuts econòmics a famílies. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament de Cerdanyola del Vallès convoca ayudas económicas para familias. Se dirigen a personas físicas sin actividad económica.",
+    "en": "Cerdanyola del Vallès municipality offers economic aid for families. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a3dea343b3af45c2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

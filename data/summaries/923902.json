@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes per promoure l'ús del català en l'àmbit local. S'adreça a entitats sense activitat econòmica que vulguin impulsar la llengua catalana en els seus territoris. Les subvencions es concedeixin a través de la Oficina de Suport a la Iniciativa Cultural, que estableix les condicions específiques a les bases de la convocatòria.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança projectes per impulsar l'ús del català en l'àmbit local. S'adreça a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia proyectos para impulsar el uso del catalán en el ámbito local. Va dirigida a entidades sin actividad económica.",
+    "en": "This grant programme funds projects to promote the use of Catalan at local level. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "875f088bf6f947d0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

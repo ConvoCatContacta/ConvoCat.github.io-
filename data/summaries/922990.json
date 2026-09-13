@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Agència Catalana de l'Aigua fiança accions adreçades a les persones físiques i jurídiques que paguen el cànon de control d'abocaments a les confederacions hidrogràfiques de l'Ebre o del Xúquer. S'adreça a pimes, autònoms i grans empreses subjectes passius d'aquest cànon que liquiden les confederacions esmentades. Aquesta convocatòria es regeix per la Llei 5/2017, de mesures fiscals i administratives.",
+  "paragrafs": {
+    "ca": "L'Agència Catalana de l'Aigua atribueix fons a les persones físiques i jurídiques que paguen el cànon de control d'abocaments a la Confederació Hidrogràfica de l'Ebre o la Confederació Hidrogràfica del Xúquer. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "La Agencia Catalana del Agua asigna fondos a las personas físicas y jurídicas que cotizan el canon de control de vertidos a la Confederación Hidrográfica del Ebro o la Confederación Hidrográfica del Júcar. Va dirigido a pymes, autónomos y grandes empresas.",
+    "en": "The Agència Catalana de l'Aigua distributes funds to individuals and legal entities that pay the discharge control fee to the Ebro or Júcar river basin authorities. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e0aab5ad0692bdd6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

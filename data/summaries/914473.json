@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut Català de Finances ofereix préstecs amb condicions bonificades per a entitats sense activitat econòmica que vulguin millorar les instal·lacions esportives bàsiques. Aquests préstecs es dirigeixen a la inversió en equipaments i millores de la xarxa d'instal·lacions esportives existents, amb unes condicions més favorables que les del mercat habitual.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs amb interessos reduïts per finançar millores en instal·lacions esportives. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Institut Català de Finances (ICF) concede préstamos con tipos de interés reducidos para financiar mejoras en instalaciones deportivas. Va dirigido a entidades sin actividad económica.",
+    "en": "The Institut Català de Finances (ICF) provides loans with reduced interest rates to finance improvements in sports facilities. It is aimed at entities with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e05ade9336312533",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

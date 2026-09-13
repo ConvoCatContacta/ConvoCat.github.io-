@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vallirana finança beques de mobilitat, llibres, material escolar i activitats extraescolars per a estudiants de postobligatoria durant el curs 2026-2027. S'adreça a persones sense activitat econòmica pròpia que compleixen els requisits establerts a les bases reguladores específiques de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vallirana finança llibres, material escolar, activitats extraescolars i beques de mobilitat per a estudiants de postobligatòria. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Vallirana financia libros, material escolar, actividades extraescolares y becas de movilidad para estudiantes de educación postobligatoria. Se dirige a personas físicas sin actividad económica.",
+    "en": "Vallirana's municipal authority funds textbooks, school materials, extracurricular activities and mobility grants for post-compulsory education students. It targets individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "95be083ee01a0dfc",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

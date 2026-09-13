@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a dones que han patit violència masclista i el Decret estableix indemnitzacions econòmiques per a aquestes víctimes. Els ajuts es regulen segons la Llei orgànica de mesures de protecció integral contra la violència de gènere i la Llei 5/2008, i van destinats a persones que no exerceixen cap activitat econòmica. El Departament d'Igualtat i Feminisme gestiona aquestes prestacions de caràcter reparador per a les víctimes.",
+  "paragrafs": {
+    "ca": "Finança indemnitzacions econòmiques per a dones víctimes de violència masclista. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia indemnizaciones económicas para mujeres víctimas de violencia machista. Se dirige a personas físicas sin actividad económica.",
+    "en": "Provides economic compensation for women victims of gender-based violence. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "95ab2717912facc1",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

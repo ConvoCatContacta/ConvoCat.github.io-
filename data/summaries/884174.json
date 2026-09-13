@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança intervencions d'urgència social per a persones i entitats sense activitat econòmica. S'adreça a persones físiques i organitzacions que no desenvolupen activitat econòmica i necessiten suport urgent, d'acord amb l'ordenança municipal de subvencions de l'Ajuntament d'Orís.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança ajuts d'urgència social adreçats a persones i entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Orís financia ayudas de urgencia social dirigidas a personas y entidades sin actividad económica.",
+    "en": "The Orís Municipal Council provides emergency social aid for individuals and organisations with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "872e36400b2f6002",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

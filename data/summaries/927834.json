@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats esportives pensades per prevenir l'exclusió social de persones en situació de vulnerabilitat. S'adreça a persones físiques sense activitat econòmica que vulguin organitzar o desenvolupar programes esportius adreçats a aquest col·lectiu. La finançació la gestiona l'Ajuntament de Vallgorguina i té l'objectiu de fer l'esport accessible com a eina per millorar la inclusió social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vallgorguina subvenciona activitats esportives dirigides a menors en risc d'exclusió. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Vallgorguina financia actividades deportivas para menores en riesgo de exclusión. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Vallgorguina Town Council funds sports activities for minors at risk of exclusion. It is aimed at self-employed individuals and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "006d7fb0c70da00e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el servei de comedor escolar per al curs 26/27 i s'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses. Es concedeix en règim de concurrència competitiva, és a dir, que l'Ajuntament de Santa Perpètua de Mogoda valorarà les sol·licituds rebudes segons criteris establerts a les bases específiques.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Perpètua de Mogoda finança serveis de menjador escolar per a l'exercici 2026-27. S'adreça a persones físiques, entitats, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Santa Perpètua de Mogoda financia servicios de comedor escolar para el ejercicio 2026-27. Se dirige a personas físicas, entidades, pimes, autónomos y grandes empresas.",
+    "en": "Santa Perpètua de Mogoda Municipality funds school canteen services for the 2026-27 academic year. It is open to individuals, entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2a71c95123554720",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

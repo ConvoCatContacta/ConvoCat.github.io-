@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la publicació de materials d'interès local editades per ajuntaments. S'adreça a entitats sense activitat econòmica i l'ofereix la Diputació de Girona per a l'any 2026. Es tracta de suports que contribueixen a difondre informació de valor per a la comunitat local.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança la publicació de materials d'interès local editados per ajuntaments. S'adreça a entitats sense activitat econòmica.",
+    "es": "La Diputación de Girona financia la publicación de materiales de interés local editados por ayuntamientos. Va dirigida a entidades sin actividad económica.",
+    "en": "The Diputació de Girona funds the publication of local interest materials produced by municipal authorities. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "39cc8a8884d99480",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Canonja finança ajudes per al comerç local durant els anys 2025 i 2026. S'adreça a petites i mitjanes empreses i autònoms que desenvolupin activitats comercials. Les ajudes es regeixen per unes bases específiques que detallen les condicions i els requisits per accedir-hi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Canonja finança ajudes dirigides a pimes i autònoms del comerç local per als exercicis 2025 i 2026.",
+    "es": "El Ayuntamiento de la Canonja financia ayudas dirigidas a pymes y autónomos del comercio local para los ejercicios 2025 y 2026.",
+    "en": "The Canonja Town Council provides grants aimed at small and medium-sized enterprises and self-employed workers in the local commerce sector for the years 2025 and 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "93b2aede78d2a323",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

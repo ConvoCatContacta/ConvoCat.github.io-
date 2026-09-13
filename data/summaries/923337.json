@@ -1,6 +1,10 @@
 {
-  "paragraf": "Finança una prestació econòmica dirigida a persones amb discapacitat que no tenen activitat econòmica. Es tracta d'una ajuda de dret de concurrència per a l'atenció social, convocada pel Departament de Drets Socials i Inclusió per als anys 2024, 2025 i 2026. S'adreça a persones físiques que compleixin els requisits establerts a les bases de la convocatòria.",
+  "paragrafs": {
+    "ca": "S'adreça a persones físiques sense activitat econòmica. Finança una prestació social de caràcter econòmic per a atenció social a les persones amb discapacitat durant els anys 2024, 2025 i 2026.",
+    "es": "Se dirige a personas físicas sin actividad económica. Financia una prestación social de carácter económico para atención social a las personas con discapacidad durante los años 2024, 2025 y 2026.",
+    "en": "It is aimed at self-employed persons without economic activity. It funds an economic social benefit for social care assistance to people with disabilities during 2024, 2025 and 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0dd5d6b68a119d6d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

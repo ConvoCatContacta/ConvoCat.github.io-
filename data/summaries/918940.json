@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança beques perquè estudiants del sistema universitari de Catalunya col·laborin en projectes de recerca dins dels departaments de les universitats. S'adreça a persones físiques que no desenvolupin activitat econòmica. Les beques es regulen segons els umbrals de renda i patrimoni familiar establerts per a l'estudi durant el curs 2026-2027.",
+  "paragrafs": {
+    "ca": "Beques per a estudiants que col·laborin en departaments universitaris de les universitats catalanes durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Becas para estudiantes que colaboren en departamentos universitarios de las universidades catalanas durante el curso 2026-2027. Se dirigen a personas físicas sin actividad económica.",
+    "en": "Grants for students collaborating in university departments at Catalan universities during the 2026-2027 academic year. They are aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3fe73f2810d21035",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

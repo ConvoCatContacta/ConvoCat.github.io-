@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la creació i desenvolupament d'espais de recerca de feina orientats a ajudar les persones a trobar ocupació. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i autònoms que vulguin posar en marxa o millorar aquests espais d'orientació laboral durant l'any 2026.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança accions per desenvolupar espais de recerca de feina en l'àmbit de l'orientació per a l'ocupació durant l'any 2026. S'adreça a entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Servicio Público de Empleo de Cataluña financia acciones para desarrollar espacios de búsqueda de trabajo en el ámbito de la orientación para el empleo durante 2026. Va dirigido a entidades sin actividad económica, pymes y autónomos.",
+    "en": "The Servicio Público de Empleo de Cataluña funds initiatives to develop job search spaces in the field of employment guidance during 2026. It is aimed at entities without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c6d58d30f56b8c58",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

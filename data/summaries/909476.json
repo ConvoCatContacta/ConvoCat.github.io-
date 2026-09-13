@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Santa Coloma de Cervelló finança beques individuals per al servei de menjador de la llar d'infants municipal Rojas Feliu durant el curs 2025-2026. S'adreça a persones físiques sense activitat econòmica que vulguin accedir a aquesta prestació en règim de concurrència competitiva, és a dir, on es valoren totes les sol·licituds rebudes per concedir les ajudes disponibles.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Coloma de Cervelló ofereix beques individuals per al servei de menjador de la llar d'infants municipal Rojas Feliu durant el curs 2025-2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Santa Coloma de Cervelló ofrece becas individuales para el servicio de comedor de la escuela infantil municipal Rojas Feliu durante el curso 2025-2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Santa Coloma de Cervelló's municipality offers individual grants for the school canteen service at the municipal infant school Rojas Feliu for the 2025-2026 academic year. It is aimed at self-employed individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e728c89b4739c02c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

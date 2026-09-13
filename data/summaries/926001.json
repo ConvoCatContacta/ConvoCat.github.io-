@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança actuacions relacionades amb la Formació Professional Ocupacional Dual, un programa que combina formació i experiència laboral. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin participar en aquest programa durant l'any 2026. Els detalls específics de les actuacions que es financen es troben regulats a les bases oficials del programa.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança actuacions del programa Formació Professional Ocupacional Dual (SOC-FPODUAL) per a l'any 2026. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Servicio Público de Empleo de Cataluña financia actuaciones del programa Formación Profesional Ocupacional Dual (SOC-FPODUAL) para el año 2026. Va dirigida a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Servicio Público de Empleo de Cataluña funds activities of the Dual Occupational Professional Training programme (SOC-FPODUAL) for 2026. It is aimed at non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "417117081a329080",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

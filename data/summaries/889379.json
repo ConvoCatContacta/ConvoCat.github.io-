@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Súria finança ajudes econòmiques de caràcter social per a persones en situació d'urgència. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Les prestacions es regeixen pel reglament municipal de prestacions socials i estan pensades per pal·liar necessitats econòmiques urgents de la població.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Súria finança prestacions econòmiques de caràcter social per a persones físiques sense activitat econòmica que es trobin en situació d'urgència social.",
+    "es": "El Ayuntamiento de Súria financia prestaciones económicas de carácter social dirigidas a personas físicas sin actividad económica que se encuentren en situación de urgencia social.",
+    "en": "Súria Town Council provides economic social assistance to individuals without economic activity who face urgent social needs."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "10738a502d5d16d9",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

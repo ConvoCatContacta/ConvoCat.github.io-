@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança prestacions socials de caràcter econòmic per a l'acolliment de menors tutelats. S'adreça a persones físiques que no fan activitat econòmica i que es fan càrrec de l'acollida d'aquests menors sota la responsabilitat de l'Administració.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança prestacions econòmiques d'acolliment per a menors tutelats. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departament de Derechos Sociales e Inclusión financia prestaciones económicas de acogimiento para menores tutelados. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Departament de Drets Socials i Inclusió provides economic benefits for the accommodation of children in state care. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9cc7a60b02084375",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

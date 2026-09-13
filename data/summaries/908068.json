@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses derivades de naixements i adopcions durant l'any 2026. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. L'ajut pretén donar suport a les famílies locals en els costos relacionats amb l'ampliació de la família, ja sigui per naixement biològic o per adopció.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Mateu de Bages finança ajuts per a natalitat i adopció. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Mateu de Bages financia ayudas por natalidad y adopción. Se dirigen a personas físicas sin actividad económica.",
+    "en": "Sant Mateu de Bages municipality provides grants for birth and adoption. They are aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "832ec20f4dfda31e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

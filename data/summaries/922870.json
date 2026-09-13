@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Mancomunitat Intermunicipal Voluntària La Plana finança activitats esportives per a infants i adolescents durant la temporada 2026-2027 als municipis mancomunats. S'adreça a persones físiques sense activitat econòmica.",
+  "paragrafs": {
+    "ca": "La Mancomunitat Intermunicipal Voluntària La Plana finança activitats esportives per a infants i adolescents durant la temporada 2026-2027. S'adreça a persones físiques sense activitat econòmica dels municipis mancomunats.",
+    "es": "La Mancomunidad Intermunicipal Voluntaria La Plana financia actividades deportivas para menores durante la temporada 2026-2027. Va dirigida a personas físicas sin actividad económica de los municipios mancomunados.",
+    "en": "The Mancomunitat Intermunicipal Voluntària La Plana funds sports activities for children and teenagers during the 2026-2027 season. It is aimed at individuals without economic activity from the associated municipalities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9dcba9e4b8794223",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

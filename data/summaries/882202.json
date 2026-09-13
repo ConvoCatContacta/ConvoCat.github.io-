@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajuts per a persones que es troben en situació d'urgència social, com dificultats econòmiques greus o manca de recursos bàsics. S'adreça a persones físiques sense activitat econòmica que es trobin en aquesta situació i que resideixin a Monistrol de Montserrat. L'Ajuntament del municipi és qui gestiona aquests ajuts d'emergència social per ajudar les persones en més vulnerabilitat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Monistrol de Montserrat finança ajuts per a persones físiques sense activitat econòmica que es trobin en situació d'urgència social.",
+    "es": "El Ajuntamiento de Monistrol de Montserrat financia ayudas para personas físicas sin actividad económica que se encuentren en situación de urgencia social.",
+    "en": "Monistrol de Montserrat Municipal Council funds aid for individuals without economic activity facing urgent social needs."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e55b8f7f5f2dc12f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de desenvolupament local participatiu vinculats a la pesca i l'aquicultura, dins del marc del Fons Europeu Marítim i de Pesca 2024-2028. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que treballen en aquests sectors a Catalunya.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança projectes de desenvolupament local participatiu en l'àmbit marítim i pesquer, dins del Fons Europeu Marítim, de Pesca i Aquacultura (FEMPA) 2024-2028. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "Esta convocatoria financia proyectos de desarrollo local participativo en el ámbito marítimo y pesquero, dentro del Fondo Europeo Marítimo y de la Pesca 2024-2028. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "This call funds participatory local development projects in the maritime and fishing sector under the European Maritime, Fisheries and Aquaculture Fund (EMFAF) 2024-2028. It is aimed at non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "30121acacbdd28db",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

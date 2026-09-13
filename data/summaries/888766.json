@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la contractació de persones en situació d'atur del municipi de Viladecavalls i la creació de nous negocis autònoms. S'adreça a empreses de qualsevol mida, autònoms i entitats sense ànim de lucre que duguin a terme aquestes accions. L'ajut es concedeix en règim de concurrència competitiva, és a dir, que es valoren totes les sol·licituds que compleixen els requisits i es concedeix una puntuació per escollir les més adequades.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Viladecavalls finança la contractació de persones aturades del municipi i la creació de nous autònoms. S'adreça a empreses, autònoms i entitats sense ànim de lucre.",
+    "es": "El Ajuntamiento de Viladecavalls financia la contratación de personas desempleadas del municipio y la creación de nuevos autónomos. Se dirige a empresas, autónomos y entidades sin ánimo de lucro.",
+    "en": "The Viladecavalls Municipality funds the hiring of unemployed people from the municipality and the creation of new self-employed workers. It is aimed at companies, self-employed workers and non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b20bd7b125d8ec92",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

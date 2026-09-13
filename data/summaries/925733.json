@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Pobla de Mafumet finança ajuts individuals adreçats a estudiants del municipi. Aquestes beques són per a persones físiques que no desenvolupen activitat econòmica. La convocatòria té com a objectiu donar suport econòmic a l'estudiantat local mitjançant ajuts personals.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Pobla de Mafumet finança ajuts individuals per a estudiants del municipi. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de la Pobla de Mafumet financia ayudas individuales para estudiantes del municipio. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de la Pobla de Mafumet provides individual grants for students in the municipality. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c25ebd0b931329a7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

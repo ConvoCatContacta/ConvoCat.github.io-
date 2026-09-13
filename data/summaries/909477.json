@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Roquetes ofereix subvencions excepcionals per atendre situacions d'urgència social durant el 2026. S'adreça a persones sense activitat econòmica, pimes i autònoms que es trobin en aquesta situació. Aquestes ajudes es concedeixen segons les bases específiques que regulen cadascun dels casos d'urgència social que es puguin presentar.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Roquetes finança subvencions excepcionals per atendre situacions d'urgència social. S'adrecen a persones físiques sense activitat econòmica, petites i mitjanes empreses i autònoms.",
+    "es": "El Ayuntamiento de Roquetes financia subvenciones excepcionales para atender situaciones de urgencia social. Van dirigidas a personas físicas sin actividad económica, pequeñas y medianas empresas y autónomos.",
+    "en": "Roquetes Town Council provides exceptional subsidies to address situations of social emergency. These are aimed at self-employed individuals, small and medium-sized enterprises and people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7fa6d78044249b8c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

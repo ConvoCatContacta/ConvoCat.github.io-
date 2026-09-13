@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions adreçades a les persones que són usuàries del centre residencial Rojar. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. La subvenció té com a objecte donar suport a les necessitats d'aquestes persones residents al centre.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança subvencions adreçades a persones físiques sense activitat econòmica que són usuàries del centre residencial Rojar.",
+    "es": "El Ajuntamiento de Ascó financia subvenciones para personas físicas sin actividad económica que son usuarias del centro residencial Rojar.",
+    "en": "Ascó's municipal government provides subsidies for people without economic activity who are users of the Rojar residential centre."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e39d0e295cfa3413",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

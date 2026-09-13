@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Pere de Ribes finança dos tipus d'actuacions: la conservació i la rehabilitació de façanes, que es gestionen per concurrència competitiva, i les millores d'accessibilitat, que es gestionen per concurrència no competitiva. S'adreça a persones físiques que no desenvolupen activitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Pere de Ribes finança la conservació i rehabilitació de façanes, així com millores d'accessibilitat. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Sant Pere de Ribes financia la conservación y rehabilitación de fachadas, así como mejoras de accesibilidad. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Sant Pere de Ribes Town Council funds the conservation and rehabilitation of facades, as well as accessibility improvements. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f69e81cc6100b02f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Andreu de Llavaneres convoca ajuts per cobrir la compra de llibres de text i material escolar de nens i nenes que cursen educació primària. S'adreça a famílies residents al municipi, tant si són persones físiques com entitats o empreses. Es tracta d'una convocatòria sense competència, on tots els sol·licitants que reuneixin els requisits de les bases reben ajuda.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Andreu de Llavaneres finança la compra de llibres de text i material escolar per a fills en educació primària. S'adreça a famílies, empreses i autònoms.",
+    "es": "El Ajuntamiento de Sant Andreu de Llavaneres financia la compra de libros de texto y material escolar para hijos en educación primaria. Se dirige a familias, empresas y autónomos.",
+    "en": "The Sant Andreu de Llavaneres municipality funds the purchase of textbooks and school materials for primary school children. It is aimed at families, businesses and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d9bd049bce36a8bd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'emancipació de joves del municipi de Castell d'Aro, Platja d'Aro i s'Agaró. S'adreça a persones físiques que no exerceixen cap activitat econòmica. La subvenció es concedeix per règim de concurrència no competitiva, és a dir, sense comparar propostes entre sol·licitants, sinó atorgant ajuda a qui reuneixi els requisits establerts a les bases oficials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró finança subvencions per a l'emancipació dels joves del municipi. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Castell d'Aro, Platja d'Aro i s'Agaró financia subvenciones para la emancipación de los jóvenes del municipio. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Castell d'Aro, Platja d'Aro i s'Agaró municipality council funds subsidies for young people's emancipation in the municipality. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "795f32c491b7261e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

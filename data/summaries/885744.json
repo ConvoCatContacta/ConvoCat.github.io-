@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la compra de material i llibres escolars per a alumnes empadronats a Puig-reig. S'adreça a persones físiques sense activitat econòmica que tinguin fills o filles en edad educativa. L'ajut forma part de les mesures per promoure la igualtat d'oportunitats en l'educació, facilitant que les famílies puguin accedir als recursos necessaris per a l'estudi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Puig-reig finança material i llibres per a alumnes empadronats al municipi. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Puig-reig financia material y libros para alumnos empadronados en el municipio. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Puig-reig Town Council funds school materials and books for pupils registered in the municipality. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "13e3dc736f4adf5d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

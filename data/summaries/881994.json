@@ -1,6 +1,10 @@
 {
-  "paragraf": "Finança l'Ajuntament d'Avinyó la prestació de bestretes econòmiques per a menjar a domicili durant el 2026. S'adreça a persones físiques que no exerceixen cap activitat econòmica. Es tracta d'una ajuda social de caràcter dinerari que busca facilitar l'accés a alimentació a domicili per a qui la necessita.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Avinyó finança bestretes econòmiques per a comides a domicili durant el 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Avinyó financia prestaciones económicas para comidas a domicilio durante 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Avinyó Town Council provides economic assistance for home-delivered meals in 2026. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c2f76df246ea6f64",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

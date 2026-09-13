@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança assegurances per a estructures, cobertures i instal·lacions d'hivernacles, umbracles i túnels. S'adreça a pimes i autònoms del sector agrari que vulguin protegir aquestes inversions a través de pòlisses que cobreixen riscos agraris. Els ajuts s'emmarcen en el Pla anual de seguros agrarios de la Generalitat.",
+  "paragrafs": {
+    "ca": "El Departament d'Agricultura, Ramaderia, Pesca i Alimentació finança assegurances per a estructures, cobertures i instal·lacions d'hivernacles, umbracles i túnels. S'adreça a pimes i autònoms.",
+    "es": "El Departamento de Agricultura, Ganadería, Pesca y Alimentación financia seguros para estructuras, coberturas e instalaciones de invernaderos, umbráculos y túneles. Se dirige a pymes y autónomos.",
+    "en": "The Department of Agriculture, Livestock, Fisheries and Food finances insurance for structures, coverings and installations of greenhouses, shade structures and tunnels. It is aimed at small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "94a5b8705ef9f1ce",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

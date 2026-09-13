@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de la Diputació de Girona finança festivals o cicles artístics que es desenvolupin en micropobles de les comarques gironines. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses interessades en organitzar activitats culturals i artístiques.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança festivals o cicles artístics en micropobles de les comarques gironines. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia festivales o ciclos artísticos en micropueblos de las comarcas gerundenses. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Diputació de Girona funds festivals and artistic cycles in small villages across the Girona region. It targets individuals without business activity, non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "01a7c4d22922b171",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

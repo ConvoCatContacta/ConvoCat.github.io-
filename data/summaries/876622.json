@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions formatives que inclouen un compromís de contractació per a persones. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses. La gestiona el Servicio Público de Empleo de Cataluña dins del Programa Forma i Insereix per a l'any 2026.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança accions formatives amb compromís de contractació per a persones. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Servicio Público de Empleo de Cataluña financia acciones formativas con compromiso de contratación para personas. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Servicio Público de Empleo de Cataluña funds training activities with a commitment to hiring participants. It is aimed at non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fbeb9d925257878c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

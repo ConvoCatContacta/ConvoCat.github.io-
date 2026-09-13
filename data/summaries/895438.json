@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els costos del menjador escolar per a l'alumnat d'educació infantil de segon cicle, ensenyaments obligatoris i educació especial que estudia en centres educatius de l'Alt Penedès. L'ajut s'adreça a persones físiques sense activitat econòmica que són la família de l'alumne per al curs 2026-2027.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de l'Alt Penedès finança ajuts individuals per al menjador escolar de l'alumnat d'ensenyaments obligatoris, educació especial i segon cicle d'educació infantil escolaritzat en centres de la comarca. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal de l'Alt Penedès financia ayudas individuales para el comedor escolar del alumnado de enseñanzas obligatorias, educación especial y segundo ciclo de educación infantil escolarizado en centros de la comarca. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal de l'Alt Penedès funds individual grants for school meals for pupils in compulsory education, special education and second cycle early childhood education enrolled in schools in the region. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "211c63206d0bfb1b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

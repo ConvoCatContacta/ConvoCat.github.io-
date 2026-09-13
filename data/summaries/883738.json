@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Campllong finança gastos de productes de primera necessitat i de subministraments i serveis bàsics. S'adreça a persones físiques que no tenen activitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Campllong finança despeses de productes de primera necessitat i subministraments de serveis bàsics. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Campllong financia gastos de productos de primera necesidad y suministros de servicios básicos. Se dirige a personas físicas sin actividad económica.",
+    "en": "Campllong's municipal government funds expenses for essential goods and basic service supplies. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7804c3c90e2d2c28",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

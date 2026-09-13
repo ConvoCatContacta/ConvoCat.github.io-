@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Calafell finança el servei de transport adaptat per a persones amb discapacitat, dependència o mobilitat reduïda durant l'any 2026. S'adreça a persones físiques que no desenvolupen activitat econòmica i necessiten aquest servei de transport especialitzat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Calafell finança el transport adaptat per a persones amb discapacitat, dependència o mobilitat reduïda. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Calafell financia el transporte adaptado para personas con discapacidad, dependencia o movilidad reducida. Se dirige a personas físicas sin actividad económica.",
+    "en": "Calafell Town Council funds adapted transport for people with disabilities, dependency or reduced mobility. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ba277c6fd4c8fcf2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

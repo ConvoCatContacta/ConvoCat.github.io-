@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consell Comarcal de la Selva finança ajuts individuals de desplaçament per a estudiar durant el curs 2026/2027. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que necessiten ajuda per cobrir els costos dels desplaçaments relacionats amb l'activitat escolar.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de la Selva finança ajuts per al desplaçament de persones físiques sense activitat econòmica durant el curs escolar 2026/2027.",
+    "es": "El Consell Comarcal de la Selva financia ayudas para el desplazamiento de personas físicas sin actividad económica durante el curso escolar 2026/2027.",
+    "en": "The Consell Comarcal de la Selva funds travel assistance for individuals without economic activity during the 2026/2027 school year."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "952972b215e0f018",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

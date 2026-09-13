@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança mesures urgents per ajudar a les persones afectades pel conflicte a Ucraïna que es troben a Catalunya. S'adreça a persones físiques sense activitat econòmica que ofereixin guarda provisional en família aliena, és a dir, que acollin temporalment menors o altres membres de famílies desplaçades per la guerra.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança mesures de guarda provisional de menors ucraïnesos en famílies catalanes. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departamento de Derechos Sociales e Inclusión financia medidas de guarda provisional de menores ucranianos en familias catalanas. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Department of Social Rights and Inclusion funds temporary guardianship of Ukrainian children in Catalan families. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f0365cdd6df3e697",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

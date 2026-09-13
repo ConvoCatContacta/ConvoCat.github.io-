@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament d'Avinyó finança prestacions socials bàsiques en especie per a l'any 2026. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que necessiten aquest tipus de suport. Les prestacions es concedeixen sota criteris de caràcter econòmic establerts a les bases específiques.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Avinyó finança prestacions socials de caràcter bàsic en especie per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Avinyó financia prestaciones sociales de carácter básico en especie para el año 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Avinyó municipality funds basic social provisions in kind for 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "77c279797926d2de",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el funcionament de les oficines municipals d'escolarització als ajuntaments de Catalunya per al curs 2025-2026. S'adreça als ajuntaments, que són entitats sense activitat econòmica. Les subvencions serveixen per cobrir els costos de les oficines que gestionen l'escolarització de l'alumnat als centres educatius municipals.",
+  "paragrafs": {
+    "ca": "El Departament d'Educació i Formació Professional finança les oficines municipals d'escolarització. S'adreça als ajuntaments de Catalunya per al curs 2025-2026.",
+    "es": "El Departamento de Educación y Formación Profesional financia las oficinas municipales de escolarización. Va dirigida a los ayuntamientos de Cataluña para el curso 2025-2026.",
+    "en": "The Department of Education and Vocational Training funds municipal school placement offices. It is aimed at municipalities in Catalonia for the 2025-2026 academic year."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "329ff7d833c5f538",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

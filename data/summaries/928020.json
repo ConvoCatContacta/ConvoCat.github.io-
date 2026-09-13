@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança un complement per als ajuts de menjador escolar de l'Institut de Educació Secundària (IES) de la Comunitat de Ciutats de la Comarca del Vallès Occidental (CCVOC). S'adreça a persones sense activitat econòmica i a entitats sense activitat econòmica que poden beneficiar-se dels programes de suport a la infància i adolescència de l'Ajuntament de Badia del Vallès.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Badia del Vallès finança un complement per als ajuts de menjador escolar. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Badia del Vallès financia un complemento para las ayudas de comedor escolar. Va dirigido a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "Badia del Vallès municipal council provides additional funding for school meal assistance. It is aimed at individuals without economic activity and organisations without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a89e6fa99666458e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

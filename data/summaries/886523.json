@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria del Consell Comarcal de la Ribera d'Ebre finança ajuts per facilitar la mobilitat de persones que participen en el dispositiu d'inserció sociolaboral Ribera d'Ebre Viva, dins del pla d'execució anual 2025. S'adreça a persones físiques sense activitat econòmica que participen en aquest projecte de promoció d'ocupació a la comarca.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de la Ribera d'Ebre finança ajuts per a facilitar la mobilitat de persones que participen en el dispositiu d'inserció sociolaboral Ribera d'Ebre Viva. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal de la Ribera d'Ebre financia ayudas para facilitar la movilidad de personas que participan en el dispositivo de inserción sociolaboral Ribera d'Ebre Viva. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal de la Ribera d'Ebre funds grants to facilitate mobility for people participating in the Ribera d'Ebre Viva social and employment insertion scheme. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3dfcc2a34036a724",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

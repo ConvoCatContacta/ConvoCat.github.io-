@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció finança les despeses de recollida d'escombraries i residus urbans per a famílies del municipi de Reus que es troben en situació de vulnerabilitat econòmica. S'adreça a persones físiques sense activitat econòmica que pateixen dificultats econòmiques, per ajudar-les a fer front a les despeses de funcionament de la llar.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Reus finança les despeses de recollida d'escombraries i residus sòlids urbans per a persones físiques sense activitat econòmica que viuen en situació de vulnerabilitat econòmica.",
+    "es": "El Ayuntamiento de Reus financia los gastos de recogida de basura y residuos sólidos urbanos para personas físicas sin actividad económica que atraviesan dificultades económicas.",
+    "en": "Reus City Council funds waste collection and urban solid waste management services for private individuals without economic activity facing economic hardship."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "81e643de20ef01bd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Castelldefels finança projectes, activitats i serveis que mantinguin i millorin l'economia local a través de la creació d'empreses. S'adreça a petites i mitjanes empreses (Pimes) i autònoms que vulguin desenvolupar iniciatives empresarials al municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castelldefels subvenciona projectes, activitats i serveis que fomenten el manteniment i la millora de l'economia local. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Castelldefels financia proyectos, actividades y servicios que impulsen el mantenimiento y la mejora de la economía local. Va dirigido a pymes y autónomos.",
+    "en": "Castelldefels Town Council provides funding for projects, activities and services that support the maintenance and improvement of the local economy. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "53a7c4b12c06d5aa",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

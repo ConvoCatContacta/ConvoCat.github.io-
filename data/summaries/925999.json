@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança actuacions del programa Treball i Formació per a entitats sense ànim de lucre. S'adreça a entitats sense activitat econòmica que vulguin participar en accions de formació i ocupació. Les subvencions es convoquen per a l'any 2026 segons les bases reguladores establertes pel Servicio Público de Empleo de Cataluña.",
+  "paragrafs": {
+    "ca": "El Servicio Público de Empleo de Cataluña finança actuacions del Programa Treball i Formació per a entitats sense ànim de lucre durante l'any 2026. S'adreça a entitats sense activitat econòmica que vulguin participar en aquest programa.",
+    "es": "El Servicio Público de Empleo de Cataluña financia actuaciones del Programa Trabajo y Formación para entidades sin ánimo de lucro durante el año 2026. Va dirigida a entidades sin actividad económica que participen en este programa.",
+    "en": "The Servicio Público de Empleo de Cataluña funds activities under the Work and Training Programme for non-profit organisations during 2026. It is aimed at entities with no economic activity participating in this programme."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "54f65303b0ec7b98",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

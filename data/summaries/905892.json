@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'eficiència energètica. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, i autònoms. L'Ajuntament de Gurb impulsa aquesta línia per millorar l'estalvi d'energia en diferents tipus de beneficiaris.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Gurb finança millores d'eficiència energètica. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ajuntamiento de Gurb financia mejoras de eficiencia energética. Va dirigido a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "Gurb Town Council funds energy efficiency improvements. It is aimed at individuals without economic activity, entities without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cec438a08c5fe2dd",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta beca finança projectes de recerca en ciències naturals a la comarca de la Garrotxa. S'adreça a persones que no desenvolupen cap activitat econòmica i vulguin impulsar investigacions en aquest àmbit. L'Ajuntament d'Olot és qui convoca i gestiona aquesta ajuda per potenciar el coneixement científic natural de la regió.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Olot convoca la beca Oriol de Bolòs per finançar la recerca en ciències naturals a la comarca de La Garrotxa. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Olot convoca la beca Oriol de Bolòs para financiar la investigación en ciencias naturales en la comarca de La Garrotxa. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Ajuntament d'Olot is offering the Oriol de Bolòs grant to fund research in natural sciences in the La Garrotxa region. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6ee669e8b568a27c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

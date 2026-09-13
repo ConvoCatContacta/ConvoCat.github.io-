@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'arranjament i la pintura de façanes als nuclis antics. S'adreça a persones físiques que no desenvolupin cap activitat econòmica. L'Ajuntament de la Secuita destina aquests diners a millorar l'aspecte dels edificis antics del municipi.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança l'arranjament i la pintura de façanes al nucli antic. S'adreça a persones físiques que no desenvolupin activitat econòmica.",
+    "es": "Esta convocatoria financia la reparación y pintura de fachadas en el núcleo antiguo. Va dirigida a personas físicas sin actividad económica.",
+    "en": "This grant finances the repair and painting of façades in the old town centre. It is aimed at individuals who are not engaged in economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e16293fe4422777b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

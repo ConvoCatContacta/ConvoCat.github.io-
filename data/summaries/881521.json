@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Palafolls finança ajuts econòmics de caràcter social per a persones sense activitat econòmica durant l'any 2026. Aquests ajuts es dirigeixen a persones físiques que es troben en situació de necessitat i no desenvolupen cap activitat empresarial o professional remunerada.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palafolls convoca ajuts econòmics de caràcter social adreçats a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Palafolls convoca ayudas económicas de carácter social dirigidas a personas físicas sin actividad económica.",
+    "en": "Palafolls Town Council offers economic aid of a social nature aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c91d151d462a615a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

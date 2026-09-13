@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Salou finança entitats, activitats i projectes culturals. S'adreça a persones físiques sense activitat econòmica, petites i mitjanes empreses i autònoms interessats a desenvolupar iniciatives en l'àmbit de la cultura.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Salou finança entitats, activitats i projectes culturals. S'adreça a persones físiques sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ayuntamiento de Salou financia entidades, actividades y proyectos culturales. Se dirige a personas físicas sin actividad económica, pymes y autónomos.",
+    "en": "Salou Town Council funds cultural entities, activities and projects. It is aimed at individuals without economic activity, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7546b1cf5f5ffeef",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

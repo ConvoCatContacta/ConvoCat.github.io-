@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança treballs acadèmics que incorporen perspectiva de gènere a través dels Premis Dolors Vives Rodon. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica. L'Ajuntament de Valls reconeix i premia els treballs que analitzen les qüestions de gènere des d'una perspectiva acadèmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Valls convoca premis per a treballs acadèmics que incorporen perspectiva de gènere. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Valls convoca premios para trabajos académicos que incorporan perspectiva de género. Se dirige a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "The Ajuntament de Valls announces prizes for academic works that incorporate a gender perspective. It is aimed at individuals without economic activity and organisations without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6d559fdd7c253d10",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

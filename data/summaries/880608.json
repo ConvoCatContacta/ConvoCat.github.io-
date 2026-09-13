@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Pere de Vilamajor finança prestacions socials de caràcter econòmic per a l'exercici 2026. S'adreça a pimes i autònoms que presentin sol·licitud en règim de concurrència competitiva. Els ajuts cobreixen tant prestacions de caràcter peremptori com no peremptori, segons les bases reguladores establertes per l'administració local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Pere de Vilamajor ofereix ajuts per a prestacions socials d'emergència i altres prestacions de caràcter social. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Sant Pere de Vilamajor convoca ayudas para prestaciones sociales de emergencia y otras prestaciones de carácter social. Va dirigido a pymes y autónomos.",
+    "en": "Sant Pere de Vilamajor's municipal council is offering grants for emergency social assistance and other social benefits. It is aimed at small and medium-sized enterprises and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e4c7cd42930f92da",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

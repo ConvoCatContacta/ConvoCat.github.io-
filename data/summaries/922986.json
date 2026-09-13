@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'innovació en tecnologies de la informació dins de la cadena de valor del sector automoció i de la mobilitat. S'adreça a pimes, autònoms i grans empreses que vulguin desenvolupar iniciatives de recerca, desenvolupament i innovació en aquest àmbit.",
+  "paragrafs": {
+    "ca": "ACCIÓ finança projectes de tecnologia de la informació destinats a empreses de la cadena de valor del sector de l'automoció i la mobilitat. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "ACCIÓ financia proyectos de tecnología de la información destinados a empresas de la cadena de valor del sector de la automoción y la movilidad. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "ACCIÓ funds information technology projects for companies in the automotive and mobility value chain. It is aimed at SMEs, self-employed workers and large enterprises."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7997bc8681d0ae23",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

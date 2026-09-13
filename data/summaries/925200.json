@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança mesures per recuperar la producció en explotacions de boví afectades per tuberculosi. S'adreça a petites i mitjanes empreses i autònoms del sector ramader que hagin patit aquesta malaltia i vulguin reactivar la seva activitat productiva.",
+  "paragrafs": {
+    "ca": "Finança mesures d'ajuda urgent per a explotacions de boví que han patit tuberculosi. S'adreça a pimes i autònoms del sector.",
+    "es": "Financia medidas de apoyo urgente para explotaciones de ganado bovino afectadas por tuberculosis. Va dirigida a pymes y trabajadores autónomos del sector.",
+    "en": "Funds support measures for cattle farms affected by tuberculosis. It is aimed at small and medium-sized businesses and self-employed farmers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f2cd82714dc25e50",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

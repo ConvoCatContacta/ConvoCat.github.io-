@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de traducció al català d'obres no literàries. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses que vulguin traduir obres d'aquesta natura. La subvenció forma part del programa de suport a la iniciativa cultural de la Generalitat de Catalunya per a l'any 2026.",
+  "paragrafs": {
+    "ca": "Finança la traducció al català d'obres no literàries. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "Financia la traducción al catalán de obras no literarias. Va dirigida a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "It funds the translation into Catalan of non-literary works. It is aimed at non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "654d4b79cf0042df",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

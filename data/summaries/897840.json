@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Viladecavalls finança serveis de transport adaptat per a l'any 2026 mitjançant una convocatòria oberta on es valoren totes les sol·licituds que compleixen els requisits. S'adreça a persones físiques que no desenvolupen activitat econòmica. L'ajut pretén facilitar la mobilitat de persones amb necessitats especials de transport.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Viladecavalls finança el transport adaptat mitjançant una convocatòria d'ajuts en concurrència competitiva per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Viladecavalls financia el transporte adaptado a través de una convocatoria de ayudas en concurrencia competitiva para el año 2026. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Viladecavalls Town Council funds adapted transport through a competitive grant call for 2026. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bda11643639baead",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

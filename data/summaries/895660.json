@@ -1,6 +1,10 @@
 {
-  "paragraf": "Finança ajuts individuals de transport escolar col·lectiu per a alumnat amb necessitats socioeconòmiques o geogràfiques durant el curs 2026/2027. S'adreça a entitats sense activitat econòmica que puguin gestionar aquests ajuts de mobilitat escolar a la comarca de la Selva.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de la Selva finança ajuts individuals de transport escolar col·lectiu per a estudiants amb necessitats socioeconòmiques i geogràfiques durant el curs 2026/2027. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Consell Comarcal de la Selva financia ayudas individuales de transporte escolar colectivo para estudiantes con necesidades socioeconómicas y geográficas durante el curso 2026/2027. Se dirige a entidades sin actividad económica.",
+    "en": "Consell Comarcal de la Selva funds individual aid for collective school transport to students with socioeconomic and geographic needs during the 2026/2027 school year. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ff0c7c3d40d2418f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

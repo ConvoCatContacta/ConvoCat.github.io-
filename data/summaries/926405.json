@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Cerdanyola del Vallès finança activitats i projectes dirigits a persones majors a través d'aquesta convocatòria. S'adreça a associacions sense fins de lucre que treballin en l'àmbit de la gent gran. Les subvencions cobreixen accions inscrites en el programa municipal de suport a les persones majors.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cerdanyola del Vallès finança activitats d'associacions de persones majors. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Cerdanyola del Vallès financia actividades de asociaciones de personas mayores. Se dirige a entidades sin actividad económica.",
+    "en": "Cerdanyola del Vallès municipality funds activities run by associations of older people. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5668d2ef9dcfb3a8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

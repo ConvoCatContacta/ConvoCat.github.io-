@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de la Diputació de Girona finança projectes i iniciatives que impulsin els objectius de desenvolupament sostenible de l'Agenda 2030 als municipis gironins. S'adreça a entitats sense activitat econòmica que vulguin promoure aquestes actuacions de sostenibilitat al territori.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança projectes i iniciatives que implementin els Objectius de Desenvolupament Sostenible (ODS) de l'Agenda 2030 als municipis de la demarcació. S'adreça a entitats sense activitat econòmica.",
+    "es": "La Diputación de Girona financia proyectos e iniciativas que implementen los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030 en los municipios de la demarcación. Va dirigida a entidades sin actividad económica.",
+    "en": "The Diputació de Girona funds projects and initiatives that implement the Sustainable Development Goals (SDGs) of the 2030 Agenda in municipalities across the province. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b852f2c1becad5eb",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

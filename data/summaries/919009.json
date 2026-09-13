@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Salvador de Guardiola finança premis per a esportistes individuals del municipi a través del programa Ambaixadors de l'esport. S'adreça a persones físiques que no desenvolupen activitat econòmica i que competeixen de manera individual. Els ajuts es concedeixen en règim de concurrència competitiva, la qual cosa significa que es valoraran les sol·licituds rebudes segons els criteris establerts a les bases.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Salvador de Guardiola finança ajuts per a esportistes individuals sense activitat econòmica mitjançant el programa \"Ambaixadors de l'esport\".",
+    "es": "El Ayuntamiento de Sant Salvador de Guardiola financia ayudas para deportistas individuales sin actividad económica a través del programa \"Embajadores del deporte\".",
+    "en": "Sant Salvador de Guardiola's municipal government provides funding for individual athletes without economic activity through the \"Ambassadors of Sport\" programme."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cba2b2a03f18e7be",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

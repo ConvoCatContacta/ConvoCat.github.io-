@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els treballs de manteniment dels camins rurals i els accesos a granjas del municipi d'Orís. S'adreça a persones físiques, entitats sense activitat econòmica, pimes, autònoms i grans empreses que participin en aquestes tasques de conservació de vies rurals locals.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança el manteniment de camins rurals i accesos a granges. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Orís financia el mantenimiento de caminos rurales y accesos a granjas. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Ajuntament d'Orís funds the maintenance of rural roads and farm access routes. It is aimed at individuals without economic activity, organisations without economic activity, SMEs, self-employed persons and large enterprises."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "796ea61a77e46dde",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

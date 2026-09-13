@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Constantí finança incentius dirigits a empreses, autònoms i nous emprenedors per impulsar la creació d'ocupació durant l'any 2026. S'adreça a persones que vulguin fer negoci sense tenir activitat econòmica prèvia, a entitats sense activitat, autònoms, petites i mitjanes empreses, així com a grans empreses que contribueixin a generar llocs de treball.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Constantí finança incentius per a empreses, nous emprenedors, autònoms i pimes. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Constantí financia incentivos para empresas, nuevos emprendedores, autónomos y pymes. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Constantí Town Council funds incentives for companies, new entrepreneurs, self-employed workers and SMEs. It is aimed at self-employed individuals without economic activity, entities without economic activity, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "466b6487c43143db",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

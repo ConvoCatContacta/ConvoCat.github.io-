@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut Ramon Llull finança activitats de promoció exterior de la literatura catalana i aranesa. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses que vulguin impulsar la difusió d'aquesta literatura fora de Catalunya. Els projectes es seleccionaran en convocatòria oberta on es compararan les propostes presentades.",
+  "paragrafs": {
+    "ca": "L'Institut Ramon Llull finança activitats de promoció exterior de la literatura catalana i aranesa. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Instituto Ramón Llull financia actividades de promoción exterior de la literatura catalana y aranesa. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Institut Ramon Llull funds activities to promote Catalan and Aranese literature internationally. It is open to non-profit organisations, SMEs, freelancers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "be4663cf11301f10",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

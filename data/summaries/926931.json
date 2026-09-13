@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de les Franqueses del Vallès ofereix ajuts econòmics per cobrir despeses d'escolarització de l'alumnat empadronat al municipi. S'adreça a persones físiques sense activitat econòmica que tinguin fills escolaritzats des de segon cicle d'educació infantil fins a quart d'ESO durant el curs 2026-2027.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de les Franqueses del Vallès finança ajuts econòmics per als fills i filles empadronats al municipi que estudien des d'educació infantil (segon cicle) fins a quart d'ESO durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de las Franquesas del Vallés financia ayudas económicas para los hijos e hijas empadronados en el municipio que estudian desde educación infantil (segundo ciclo) hasta cuarto de ESO durante el curso 2026-2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de les Franqueses del Vallès provides financial support for children registered in the municipality who are studying from early childhood education (second cycle) through to fourth year of secondary school during the 2026-2027 academic year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2b70a8aae03f4e2a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

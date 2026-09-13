@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions socials de tipus econòmic per a persones que no desenvolupen cap activitat econòmica. S'adreça a individus en situació de vulnerabilitat que necessiten suport financer per cobrir necessitats socials bàsiques. El Departament de Drets Socials i Inclusió la gestiona per assegurar que les persones sense ingressos per treball tinguin accés a ajuts que els permetin cobrir despeses essencials.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança prestacions econòmiques de caràcter social adreçades a persones físiques sense activitat econòmica.",
+    "es": "El Departament de Drets Socials i Inclusió financia prestaciones económicas de carácter social dirigidas a personas físicas sin actividad económica.",
+    "en": "The Departament de Drets Socials i Inclusió provides economic social assistance to individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1a34de4458680473",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

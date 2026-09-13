@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança la realització de pintures murals i s'adreça a persones individuals que no desenvolupen cap activitat econòmica. Els participants presentaran els seus projectes en el concurs organitzat per l'Ajuntament de Salou per embellir espais públics del municipi amb obres de pintura mural.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Salou convoca un concurs de pintura mural adreçat a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Salou convoca un concurso de pintura mural dirigido a personas físicas sin actividad económica.",
+    "en": "The Municipality of Salou is calling a mural painting competition for individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "31b2c2066a1ae8c3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

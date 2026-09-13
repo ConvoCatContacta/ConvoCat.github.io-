@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria premia dones que destaquen en l'esport. S'adreça a persones individuals sense activitat econòmica i a entitats sense activitat econòmica. La Diputació de Barcelona reconeix així la trajectòria i els assoliments de dones en l'àmbit esportiu. Els premis es regeixen per l'ordenança general de subvencions de la Diputació.",
+  "paragrafs": {
+    "ca": "La Diputació de Barcelona convoca premis per a dones d'esport l'any 2026. S'adreça a persones físiques i entitats sense activitat econòmica.",
+    "es": "La Diputación de Barcelona convoca premios para mujeres del deporte del año 2026. Se dirigen a personas físicas y entidades sin actividad económica.",
+    "en": "Barcelona Provincial Council is awarding prizes for women in sport for 2026. These are aimed at individuals and organisations with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "db13e679b0b2b765",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

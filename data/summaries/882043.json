@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Moià finança l'atenció de necessitats socials urgents i imperioses. S'adreça a persones físiques que no tenen cap activitat econòmica i que necessiten suport per cobrir situacions de caràcter peremptori en l'àmbit dels serveis socials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Moià finança la cobertura de necessitats peremptòries de serveis socials. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntament de Moià financia la cobertura de necesidades perentorias de servicios sociales. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Moià Town Council funds the coverage of urgent social services needs. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2e84d1bd2cc5a826",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança obres d'arranjament en habitatges buits perquè es puguin lloguer a través de la borsa d'habitatges municipal. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica que disposin d'habitatges en aquestes condicions. Es tracta d'una subvenció de concurrència no competitiva, és a dir, que se sol·licita en els períodes establerts per l'Ajuntament de Vila-seca.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança obres d'arranjament d'habitatges buits per posar-los en lloguer dins la borsa d'habitatges de l'Oficina Municipal. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia obras de arreglo de viviendas vacías para destinarlas al alquiler en la bolsa de viviendas de la Oficina Municipal. Va dirigida a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "This grant finances repair works on empty dwellings to make them available for rent through the Municipal Office housing pool. It is aimed at individuals without economic activity and non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c6e7902e67e55eee",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

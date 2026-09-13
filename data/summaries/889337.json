@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta prestació finança l'acolliment residencial de persones en situació de dependència que necessiten suport per a la vida quotidiana. S'adreça a persones físiques que no desenvolupen activitat econòmica i busca promoure la seva autonomia personal mitjançant serveis d'atenció residencial especialitzada.",
+  "paragrafs": {
+    "ca": "Finança l'acolliment residencial per a persones en situació de dependència. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia la acogida residencial para personas en situación de dependencia. Se dirige a personas físicas sin actividad económica.",
+    "en": "This grant covers residential care for people in situations of dependency. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2b1b8ebdd157e12d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

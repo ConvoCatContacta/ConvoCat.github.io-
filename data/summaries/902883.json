@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança un premi d'art biennal que l'Ajuntament de Sant Pere de Riudebitlles convoca de forma periòdica. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. El premi reconeix les creacions artístiques presentades a la biennal, oferint una oportunitat als creadors no professionals del municipi i la zona.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Pere de Riudebitlles convoca un premi de la Biennal d'Art de Riudebitlles. S'adreça a persones físiques que no desenvolupen activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Pere de Riudebitlles convoca un premio de la Bienal de Arte de Riudebitlles. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Sant Pere de Riudebitlles municipality is holding the Riudebitlles Art Biennial award. It is open to individuals who are not engaged in any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "210c7bf2bd28a43b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vilafranca del Penedès finança activitats inclusives durant el curs 2025/2026 per mitjà d'ajuts i subvencions en règim de concurrència competitiva. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses que vulguin desenvolupar aquest tipus d'activitats.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilafranca del Penedès convoca ajuts i subvencions per al Programa 2 d'Activitats Inclusives durant el curs 2025/2026. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Vilafranca del Penedès convoca ayudas y subvenciones para el Programa 2 de Actividades Inclusivas durante el curso 2025/2026. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pimes, autónomos y grandes empresas.",
+    "en": "Vilafranca del Penedès Town Council is opening a call for grants and subsidies under the Inclusive Activities Program 2 for the 2025/2026 academic year. It is aimed at self-employed individuals and natural persons with no economic activity, entities with no economic activity, SMEs and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fb1db436392bb49a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

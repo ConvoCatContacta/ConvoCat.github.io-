@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els treballs de neteja i tractament de la vegetació a urbanitzacions i nuclis de població que estan afectats per la normativa sobre prevenció d'incendis forestals. S'adreça a entitats sense activitat econòmica que treballen en aquests àmbits per reduir el risc d'incendis a través de la gestió de la vegetació.",
+  "paragrafs": {
+    "ca": "Finança treballs de tractament de la vegetació en urbanitzacions i nuclis de població afectats per la Llei 5/2003, de 22 d'abril. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia trabajos de tratamiento de la vegetación en urbanizaciones y núcleos de población afectados por la Ley 5/2003, de 22 de abril. Se dirige a entidades sin actividad económica.",
+    "en": "This grant funds vegetation treatment works in urbanised areas and population centres covered by the Act 5/2003, of 22 April. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2e6b2f4ead73af6a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

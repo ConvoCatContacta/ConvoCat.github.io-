@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consorci per a la Formació Contínua de Catalunya finança accions de suport a la formació dirigides a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses. Aquesta convocatòria per a 2026 permet accedir a subvencions per dur a terme aquestes accions formatives.",
+  "paragrafs": {
+    "ca": "El Consorci per a la Formació Contínua de Catalunya finança accions de suport a la formació. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Consorcio para la Formación Continua de Cataluña financia acciones de apoyo a la formación. Va dirigido a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Consorcio para la Formación Continua de Cataluña funds support actions for training. It is aimed at non-profit entities, SMEs, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5b8c01c278f141d6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

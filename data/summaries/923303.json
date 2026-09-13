@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança mesures de bioseguretat per a explotacions ramaderes de boví afectades per la tuberculosi. S'adreça a petites i mitjanes empreses i autònoms del sector ramader. Els ajuts estan enquadrats dins el règim de minimis i es vinculen als programes de suport a l'agricultura i la ramaderia davant situacions urgents.",
+  "paragrafs": {
+    "ca": "Finança mesures de bioseguretat en explotacions ramaderes de boví afectades per tuberculosi. S'adreça a pimes i autònoms del sector.",
+    "es": "Financia medidas de bioseguridad en explotaciones ganaderas de bovino afectadas por tuberculosis. Se dirige a pymes y autónomos del sector.",
+    "en": "Funds for biosecurity measures in cattle farms affected by tuberculosis. The scheme targets small and medium-sized enterprises and self-employed workers in the sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b94b5cd96a132963",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

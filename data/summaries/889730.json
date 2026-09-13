@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el servei de teleassistència domiciliari per a persones que viuen a casa. S'adreça a persones físiques sense activitat econòmica. La convoca l'Ajuntament del Catllar.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança el servei de teleassistència domiciliària per a persones físiques sense activitat econòmica. La convoca l'Ajuntament del Catllar.",
+    "es": "Esta convocatoria financia el servicio de teleasistencia domiciliaria para personas físicas sin actividad económica. La convoca el Ayuntamiento del Catllar.",
+    "en": "This grant programme funds the home teleassistance service for individuals without economic activity. It is organised by the Ajuntament del Catllar."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2c9ff97f32f50f8b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

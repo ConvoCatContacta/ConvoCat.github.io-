@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança suport econòmic per a persones amb dependència que resideixen a Llambilles. S'adreça a persones físiques sense activitat econòmica que es trobin en aquesta situació. L'ajuda forma part d'un programa municipal destinat a oferir assistència econòmica a la població amb necessitats de dependència dins del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Llambilles finança ajuts econòmics per a persones amb dependència. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Llambilles financia ayudas económicas para personas con dependencia. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Llambilles Town Council provides economic support to people with dependency. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "b839146128a4309b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els costos dels vetlladors del casal d'estiu de 2026 per a infants i joves amb necessitats educatives especials. S'adreça a persones individuals sense activitat econòmica, entitats sense activitat econòmica, empreses petites i mitjanes, autònoms i grans empreses que participin en la gestió d'aquest servei a Alella.",
+  "paragrafs": {
+    "ca": "Finança places en un casal d'estiu per a infants i joves amb necessitats educatives especials. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "Financia plazas en un casal de verano para menores y jóvenes con necesidades educativas especiales. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pimes, autónomos y grandes empresas.",
+    "en": "Funds places at a summer centre for children and young people with special educational needs. It is aimed at individuals without economic activity, non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8dce43e7f1803f16",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

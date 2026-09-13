@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses bàsiques de la llar per a persones amb ingressos baixos. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. La gestiona l'Ajuntament de Viladecavalls mitjançant un procés competitiu on es valoren les sol·licituds rebudes.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Viladecavalls finança els gastos bàsics de la llar de persones físiques sense activitat econòmica que tinguin rendes baixes.",
+    "es": "El Ajuntamiento de Viladecavalls financia los gastos básicos del hogar de personas físicas sin actividad económica que tengan rentas bajas.",
+    "en": "Viladecavalls municipal council funds basic household expenses for individuals without economic activity and with low incomes."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "619e20297fb202fa",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

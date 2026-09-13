@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Palau-solità i Plegamans finança projectes d'associacionisme i innovació a través d'aquestes bases reguladores. S'adreça a entitats sense afany de lucre i sense activitat econòmica que vulguin desenvolupar iniciatives en aquests àmbits. La subvenció pretén recolzar l'activitat associativa local i impulsar noves formes d'organització comunitària.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palau-solità i Plegamans finança projectes d'associacionisme i innovació. S'adreça a entitats sense activitat econòmica ni afany de lucre.",
+    "es": "El Ayuntamiento de Palau-solità i Plegamans financia proyectos de asociacionismo e innovación. Se dirige a entidades sin actividad económica ni ánimo de lucro.",
+    "en": "Palau-solità i Plegamans Town Council funds associationism and innovation projects. It targets non-profit entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ed05abe2b85cb426",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

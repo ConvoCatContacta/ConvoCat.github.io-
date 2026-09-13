@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança mesures de suport per facilitar el retorn de catalans que van emigrar i els seus descendents. S'adreça a persones físiques sense activitat econòmica que vulguin tornar a viure a Catalunya. El programa modifica la normativa existent per adaptar-se a les necessitats d'aquest col·lectiu i oferir-los ajuts per reestablir-se al territori.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança mesures de suport per al retorn dels catalans emigrats i els seus descendents. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Esta convocatoria financia medidas de apoyo para el regreso de los catalanes emigrados y sus descendientes. Se dirige a personas físicas sin actividad económica.",
+    "en": "This grant finances support measures for Catalan emigrants and their descendants to return. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bba729ffdaf5c55b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

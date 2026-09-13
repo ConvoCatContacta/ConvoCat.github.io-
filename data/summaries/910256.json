@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions de suport a l'esport federat a la demarcació de Tarragona. S'adreça a entitats sense activitat econòmica que treballen en aquest àmbit esportiu. La Diputació de Tarragona convoca aquests recursos segons les seves bases generals de subvencions, que regulen els criteris i els procediments per accedir als fons.",
+  "paragrafs": {
+    "ca": "La Diputació de Tarragona finança el suport a l'esport federat i a través de subvencions adreçades a entitats sense activitat econòmica.",
+    "es": "La Diputación de Tarragona financia el apoyo al deporte federado y a través de subvenciones dirigidas a entidades sin actividad económica.",
+    "en": "The Diputació de Tarragona funds support for federated sport through grants aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c2e85d2394ffade8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

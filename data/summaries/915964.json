@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança actuacions que millorin les xarxes de distribució d'aigua a baixa pressió i la digitalització dels sistemes associats. S'adreça als ens locals, tant si són entitats sense activitat econòmica com grans empreses, per realitzar aquestes millores en les infraestructures de subministrament d'aigua.",
+  "paragrafs": {
+    "ca": "L'Agència Catalana de l'Aigua finança actuacions per millorar les xarxes de subministrament d'aigua en baixa i digitalitzar els sistemes. S'adreça a ens locals, entitats sense activitat econòmica i grans empreses.",
+    "es": "La Agencia Catalana del Agua financia actuaciones para mejorar las redes de suministro de agua en baja y digitalizar los sistemas. Va dirigida a entes locales, entidades sin actividad económica y grandes empresas.",
+    "en": "The Agència Catalana de l'Aigua funds actions to improve low-pressure water supply networks and digitalize systems. It is aimed at local authorities, non-profit entities and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7067711fbd2ec506",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

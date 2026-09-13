@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança la rehabilitació dels interiors d'habitatges a Barcelona que es posaran a disposició de la borsa de lloguer municipal o dels programes de cessió d'habitatges del mercat privat. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica que tinguin habitatges per rehabilitar en aquesta ciutat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Barcelona, a través del Consorcio de la Vivienda de Barcelona, finança la rehabilitació d'interiors d'habitatges per incorporar-los a la borsa de lloguer o als programes de cessió d'habitatges del mercat privat. S'adreça a persones físiques i entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Barcelona, a través del Consorcio de la Vivienda de Barcelona, financia la rehabilitación de interiores de viviendas para incorporarlas a la bolsa de alquiler o a los programas de cesión de viviendas del mercado privado. Va dirigido a personas físicas y entidades sin actividad económica.",
+    "en": "Barcelona City Council, through the Consorcio de la Vivienda de Barcelona, funds the rehabilitation of housing interiors for incorporation into the rental housing pool or private market housing transfer programmes. It targets individuals and non-profit organisations without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fa746c84881bc501",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

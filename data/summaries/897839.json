@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la incorporació del català, l'occità i la llengua de signes catalana en largometratges i sèries destinades a plataformes digitals. S'adreça a petites i mitjanes empreses, autònoms i grans empreses que desenvolupin projectes audiovisuals en aquests mitjans per a l'any 2026.",
+  "paragrafs": {
+    "ca": "Finança la incorporació del català, l'occità i la llengua de signes catalana en pel·lícules i sèries per a plataformes digitals. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "Financia la incorporación del catalán, el occitano y la lengua de signos catalana en largometrajes y series para plataformas digitales. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "This grant finances the inclusion of Catalan, Occitan and Catalan Sign Language in feature films and series for digital platforms. It is aimed at SMEs, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3d9ff1162f30de41",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció de l'Ajuntament de Mont-roig del Camp finança actuacions en l'àmbit de la salut. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. La convocatòria forma part de les línies de suport municipal per millorar la salut pública i el benestar de la comunitat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Mont-roig del Camp finança accions en l'àmbit de la salut. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Mont-roig del Camp financia acciones en el ámbito de la salud. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Mont-roig del Camp municipal council funds health-related activities. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "97afd18376278c72",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

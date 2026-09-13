@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut Català de Finances ofereix préstecs amb condicions avantajoses per a persones físiques i empreses que es dediquen al comerç al detall i serveis afins. S'adreça a negocis amb seu a Catalunya que necessiten finançament per a inversions o capital de funcionament. La línia, anomenada ICF Lidera Comerç, està dirigida a pimes i autònoms del sector.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances (ICF) ofereix préstecs amb condicions preferents per a pimes i autònoms del comerç al detall i serveis assimilats amb seu a Catalunya. Els préstecs finança tant inversions com necessitats de circulant.",
+    "es": "El Institut Català de Finances (ICF) ofrece préstamos con condiciones preferentes para pymes y autónomos del comercio minorista y servicios asimilados con sede en Cataluña. Los préstamos financian tanto inversiones como necesidades de circulante.",
+    "en": "The Institut Català de Finances (ICF) provides loans on preferential terms for SMEs and self-employed people in retail trade and related services based in Catalonia. The loans cover both investment needs and working capital requirements."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "91783732d0d9e884",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

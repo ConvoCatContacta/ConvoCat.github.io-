@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la dotació del Premi de Poesia Sant Cugat a la Memòria de Gabriel Ferrater, en la seva 25a edició. S'adreça a persones físiques sense activitat econòmica que vulguin participar en aquest concurs literari promogut per l'Ajuntament de Sant Cugat del Vallès.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Cugat del Vallès convoca la 25a edició del Premi de Poesia Sant Cugat a la Memòria de Gabriel Ferrater. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Sant Cugat del Vallès convoca la 25ª edición del Premio de Poesía Sant Cugat a la Memoria de Gabriel Ferrater. Se dirige a personas físicas sin actividad económica.",
+    "en": "Sant Cugat del Vallès City Council calls for the 25th edition of the Sant Cugat Poetry Prize in Memory of Gabriel Ferrater. It is aimed at self-employed individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5cf308d483d083c7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

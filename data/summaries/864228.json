@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la contractació d'espectacles professionals del catàleg Programa.cat mitjançant subvencions en espècie. S'adreça a entitats sense activitat econòmica que vulguin programar aquests espectacles. La convocatòria aplica una segona modificació de les bases específiques que regulen aquestes subvencions.",
+  "paragrafs": {
+    "ca": "Finança la contractació d'espectacles professionals del catàleg Programa.cat mitjançant subvencions en espècie. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia la contratación de espectáculos profesionales del catálogo Programa.cat mediante subvenciones en especie. Va dirigida a entidades sin actividad económica.",
+    "en": "Funds the hiring of professional performances listed in the Programa.cat catalogue through in-kind grants. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ac581a7b6cff5c12",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

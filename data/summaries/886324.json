@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró finança l'expedició de targetes moneder per comprar aliments de primera necessitat i productes d'higiene personal, domèstica i farmàcia. S'adreça a persones físiques sense activitat econòmica. Les targetes permeten accedir a aquests béns essencials mitjançant un sistema de moneder electrònic.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró finança targetes moneder per a l'adquisició d'aliments de primera necessitat i productes d'higiene personal, domèstica i farmàcia. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Castell d'Aro, Platja d'Aro i s'Agaró financia tarjetas monedero para la adquisición de alimentos de primera necesidad y productos de higiene personal, doméstica y farmacia. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The municipality of Castell d'Aro, Platja d'Aro and s'Agaró funds wallet cards for purchasing essential food and personal hygiene, household and pharmacy products. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "dc3d69fc4fcf37c3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

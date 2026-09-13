@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajudes escolars per a menors i joves de zero a divuit anys. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica de l'Ajuntament d'Orís. Els ajuts es regulen segons l'ordenança general de subvencions municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança ajudes escolars per a menors d'entre 0 i 18 anys. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Orís financia ayudas escolares para menores de entre 0 y 18 años. Va dirigido a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "The Orís Municipal Council provides school aid for minors aged 0 to 18. It is aimed at individuals without economic activity and organisations without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "22288ba5882b6a0a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

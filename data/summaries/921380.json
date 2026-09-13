@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'assessorament i el suport tècnic per desenvolupar polítiques municipals de protecció de la salut. S'adreça a entitats sense activitat econòmica que vulguin rebre aquest assessorament per a l'any 2026. La Diputació de Girona és l'organisme que convoca i gestiona aquestes subvencions.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança l'assessorament i el suport tècnic per a polítiques municipals de protecció de la salut. S'adreça a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia el asesoramiento y el apoyo técnico para políticas municipales de protección de la salud. Va dirigida a entidades sin actividad económica.",
+    "en": "This grant finances advisory services and technical support for municipal health protection policies. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "530e7b9057dfcf80",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

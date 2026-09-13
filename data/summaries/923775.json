@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'ajut al pagament del lloguer a Barcelona per als anys 2026 i 2027. S'adreça a persones que no desenvolupen cap activitat econòmica i que necessiten suport econòmic per fer front als costos de l'habitatge de lloguer a la ciutat. El Consorcio de la Vivienda de Barcelona és l'organisme que la gestiona.",
+  "paragrafs": {
+    "ca": "El Consorcio de la Vivienda de Barcelona finança prestacions per ajudar a pagar el lloguer a Barcelona durant els anys 2026 i 2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consorcio de la Vivienda de Barcelona financia prestaciones para ayudar a pagar el alquiler en Barcelona durante los años 2026 y 2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Consorcio de la Vivienda de Barcelona provides financial support to help pay rent in Barcelona during 2026 and 2027. It is aimed at self-employed individuals and other natural persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4db0202e73979e50",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

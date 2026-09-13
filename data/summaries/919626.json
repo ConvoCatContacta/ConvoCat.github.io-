@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança escoles d'estiu i accions formatives dirigides al professorat de primària, secundària i formació professional. S'adreça a associacions, fundacions, organitzacions professionals d'ensenyants i collegis professionals que no desenvolupin activitat econòmica. L'objectiu és dotar de recursos les entitats per oferir aquestes activitats de formació durant l'estiu del 2026.",
+  "paragrafs": {
+    "ca": "Finança escoles d'estiu per al professorat d'àmbit no universitari. S'adreça a associacions, fundacions, organitzacions professionals d'ensenyants i collegis professionals sense activitat econòmica.",
+    "es": "Financia escuelas de verano para el profesorado no universitario. Se dirige a asociaciones, fundaciones, organizaciones profesionales de docentes y colegios profesionales sin actividad económica.",
+    "en": "Funds summer schools for non-university teachers. It is aimed at associations, foundations, professional organizations of teachers and professional colleges with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8cbd7fb6bb9c8eca",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

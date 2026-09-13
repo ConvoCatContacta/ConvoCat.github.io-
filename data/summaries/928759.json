@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones que viuen a Vilanova i la Geltrú, cursen estudis postobligatoris fora del municipi i utilitzen transport públic per desplaçar-se al centre d'estudis. L'ajuntament finança aquestes despeses de desplaçament per a residents sense activitat econòmica que segueixen formació reglada en etapes posteriors a l'obligatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilanova i la Geltrú ofereix ajuts econòmics a persones residents al municipi que estudien postobligatori fora de Vilanova i la Geltrú i usen transport públic per anar als seus centres d'estudis. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Vilanova i la Geltrú financia ayudas económicas para personas residentes en el municipio que cursan estudios postobligatorios fuera de Vilanova i la Geltrú y utilizan transporte público para desplazarse a sus centros de estudio. Está dirigido a personas físicas sin actividad económica.",
+    "en": "Vilanova i la Geltrú's municipal government offers economic aid to residents of the municipality who pursue post-compulsory education outside Vilanova i la Geltrú and use public transport to travel to their study centres. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2e4af9a612aa8943",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

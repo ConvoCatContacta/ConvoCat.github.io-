@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els costos de transport i natació per a centres docents públics d'educació infantil de segon cicle, primària i secundària obligatòria de Vilanova i la Geltrú. S'adreça a entitats sense activitat econòmica que gestionen aquests centres educatius. La subvenció s'atorgua per concurrència competitiva, la qual cosa significa que les solicituds es valoren comparativament per seleccionar les de millor puntuació.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vilanova i la Geltrú subvenciona els costos de transport per a activitats de natació als centres docents públics d'educació infantil de segon cicle, primària i secundària obligatòria.",
+    "es": "El Ajuntamiento de Vilanova i la Geltrú financia los gastos de transporte para actividades de natación en los centros docentes públicos de educación infantil de segundo ciclo, primaria y educación secundaria obligatoria.",
+    "en": "Vilanova i la Geltrú Municipal Council funds transport costs for swimming activities at publicly funded schools offering early childhood education (second cycle), primary education and compulsory secondary education."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bda211a2b9432a53",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

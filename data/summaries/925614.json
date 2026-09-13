@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la mobilitat d'estudiants de postobligatòria, és a dir, de batxillerat, cicles formatius i estudis similars. S'adreça a persones físiques sense activitat econòmica, com ara estudiants que vulguin desplaçar-se per motius educatius. L'Ajuntament del Papiol és qui ofereix aquestes subvencions per fomentar l'accés a oportunitats de formació més enllà del lloc de residència.",
+  "paragrafs": {
+    "ca": "L'Ajuntament del Papiol finança la mobilitat d'estudiants de formació postobligatòria. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento del Papiol financia la movilidad de estudiantes de enseñanzas postobligatorias. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Ajuntament del Papiol funds mobility for postcompulsory education students. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1e2de9e8452c18d9",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

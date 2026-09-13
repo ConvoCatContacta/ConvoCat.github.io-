@@ -1,6 +1,10 @@
 {
-  "paragraf": "El Consorci d'Educació de Barcelona finança ajuts individuals per pagar el menjador escolar durant el curs 2026-2027. S'adreça a famílies sense ingressos del treball que tenguin fills escolaritzats en educació infantil (segon cicle), primària o secundària obligatòria en centres educatius de Barcelona.",
+  "paragrafs": {
+    "ca": "Ajuts individuals per cobrir despeses de menjador escolar durant el curs 2026-2027, dirigits a alumnat de segon cicle d'educació infantil, primària i secundària obligatòria escolaritzat a centres educatius de Barcelona.",
+    "es": "Ayudas individuales para cubrir gastos de comedor escolar durante el curso 2026-2027, dirigidas al alumnado de segundo ciclo de educación infantil, primaria y educación secundaria obligatoria escolarizado en centros educativos de Barcelona.",
+    "en": "Individual grants to cover school meal expenses during the 2026-2027 school year for students in the second cycle of early childhood education, primary education and compulsory secondary education enrolled at educational centres in Barcelona."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2296d71f59475cb6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

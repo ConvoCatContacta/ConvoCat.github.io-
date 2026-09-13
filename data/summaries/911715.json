@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança material d'estudis per a persones residents a Llambilles que no desenvolupin activitat econòmica. L'Ajuntament de Llambilles ofereix aquestes ajudes destinades a sufragar les despeses de material necessari per als estudis dels veïns del municipi que compleixin el perfil de beneficiari establert a les bases oficials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Llambilles finança material d'estudis. S'adreça a persones físiques sense activitat econòmica que són veïns de Llambilles.",
+    "es": "El Ayuntamiento de Llambilles financia material de estudios. Va dirigida a personas físicas sin actividad económica que sean vecinas de Llambilles.",
+    "en": "Llambilles Town Council provides funding for study materials. It is aimed at self-employed individuals and those without economic activity who are residents of Llambilles."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0a9242b95b610967",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

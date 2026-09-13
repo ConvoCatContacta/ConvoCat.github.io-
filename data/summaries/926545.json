@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vic finança subvencions municipals per a diverses raons d'interès públic adreçades a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms. Les ajudes es destinen a persones i unitats de convivència que compleixin els requisits que s'estableixen a les bases reguladores.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vic convoca subvencions municipals per a diverses raons d'interès públic. S'adrecen a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms que formin unitats de convivència.",
+    "es": "El Ajuntamiento de Vic convoca subvenciones municipales por diversas razones de interés público. Van dirigidas a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos que formen unidades de convivencia.",
+    "en": "Vic City Council is offering municipal grants for various reasons of public interest. They are aimed at self-employed individuals and entities without economic activity, small businesses, and self-employed workers forming living units."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f2ba5583dd83664b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

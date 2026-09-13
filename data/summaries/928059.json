@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de reindustrialització i manteniment de l'activitat industrial en empreses que es troben en situació de dificultats. S'adreça a petites i mitjanes empreses, autònoms i grans empreses. Els ajuts es convoquen de forma anticipada per tal de reforçar la capacitat productiva i mantenir l'activitat en el sector industrial de Catalunya.",
+  "paragrafs": {
+    "ca": "Aquestes subvencions financen projectes de reindustrialització i manteniment de l'activitat industrial en empreses que travessen dificultats. S'adrecen a pimes, autònoms i grans empreses.",
+    "es": "Estas subvenciones financian proyectos de reindustrialización y mantenimiento de la actividad industrial en empresas en situación de dificultad. Van dirigidas a pymes, autónomos y grandes empresas.",
+    "en": "These grants fund reindustrialisation and industrial activity maintenance projects for companies facing difficulties. They are aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2c92a92e366fb35c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

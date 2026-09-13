@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajudes dirigides a les persones que utilitzen el Servei d'Assistència Domiciliària ROASSA de l'Ajuntament d'Ascó. S'adreça a persones físiques que no tinguin activitat econòmica. Les subvencions estan destinades a contribuir en el cost del servei d'assistència a domicili que reben aquests usuaris.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança subvencions adreçades a persones físiques sense activitat econòmica que són usuàries del Servei d'Assistència Domiciliària ROASSA.",
+    "es": "El Ajuntamiento de Ascó financia subvenciones dirigidas a personas físicas sin actividad económica que son usuarias del Servicio de Asistencia Domiciliaria ROASSA.",
+    "en": "The municipality of Ascó provides grants for individuals without economic activity who use the ROASSA Home Care Service."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ec3af6eb3bf8f5f7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

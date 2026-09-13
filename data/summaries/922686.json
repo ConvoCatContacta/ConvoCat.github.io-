@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció finança la compra d'equips amb tecnologia RFID, que és un sistema de lectura automàtica per identificar i gestionar documents, per a biblioteques públiques. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses. La Diputació de Girona és qui convoca aquesta ajuda.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança l'adquisició d'equips amb tecnologia RFID per a la gestió de biblioteques públiques. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia la adquisición de equipos con tecnología RFID para la gestión de bibliotecas públicas. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Diputació de Girona funds the acquisition of RFID technology equipment for managing public libraries. It is aimed at self-employed individuals and legal entities without economic activity, as well as SMEs and large enterprises."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c903e3303d4b046d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

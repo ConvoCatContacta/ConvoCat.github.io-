@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Calafell finança mitjançant targetes precarregades l'adquisició de productes alimentaris, d'higiene personal i de la llar de primera necessitat. S'adreça a persones físiques sense activitat econòmica que es troben en situació de vulnerabilitat social, dins del marc de les prestacions socials de caràcter econòmic i els ajuts d'urgència social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Calafell finança targetes precarregades per adquirir productes alimentaris, d'higiene personal i de la llar de primera necessitat. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Calafell financia tarjetas precargadas para la compra de productos alimentarios, de higiene personal y del hogar de primera necesidad. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Calafell's municipal council funds prepaid cards to purchase essential food, personal hygiene and household products. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7097c373abc33415",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

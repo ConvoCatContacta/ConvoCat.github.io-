@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció finança activitats que desenvolupen valors pedagògics i educatius. S'adreça a persones físiques que no exerceixen activitat econòmica. La convoca l'Ajuntament d'Arenys de Munt mitjançant un procés de concurrència competitiva, és a dir, que compitiran diversos sol·licitants pels ajuts disponibles.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Arenys de Munt finança activitats que fomentin valors pedagògics i educatius. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Arenys de Munt financia actividades que fomenten valores pedagógicos y educativos. Va dirigida a personas físicas sin actividad económica.",
+    "en": "Arenys de Munt's municipality funds activities that promote educational and pedagogical values. It is aimed at self-employed individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "dbdac4710676b1e5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

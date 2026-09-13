@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança un concurs de pintura ràpida organitzat per l'Ajuntament de Vallgorguina. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Es regula conforme a l'ordenança general de concessió de subvencions municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vallgorguina finança un concurs de pintura ràpida adreçat a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Vallgorguina financia un concurso de pintura rápida dirigido a personas físicas sin actividad económica.",
+    "en": "Vallgorguina Town Council funds a speed painting competition for individuals without business activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d92bdec644e8c563",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

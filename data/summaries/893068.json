@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la promoció de festes de barri per a l'any 2026. S'adreça a entitats sense activitat econòmica que vulguin organitzar o impulsar celebracions veïnals al municipi de Palafrugell. Les subvencions es concedeixen mitjançant concurrència competitiva, és a dir, que les demandes es valoren i comparen entre elles segons les bases municipals que regulen les ajudes.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palafrugell finança accions per promoure les Festes de Barri el 2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Ajuntamiento de Palafrugell financia acciones para promocionar las Fiestas de Barrio en 2026. Va dirigido a entidades sin actividad económica.",
+    "en": "Palafrugell Town Council funds activities to promote neighbourhood festivals in 2026. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "89f09223fc3e4e25",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

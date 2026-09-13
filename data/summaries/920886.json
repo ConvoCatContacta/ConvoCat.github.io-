@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes que impulsen l'autoocupació de joves a través del Programa FSE+ (Fons Social Europeu Plus). S'adreça a petites i mitjanes empreses i autònoms que desenvolupin iniciatives per fomentar que gent jove es crei el seu propi negoci o s'autoengage professionalment. Els projectes seleccionats rebran subvencions per desenvolupar aquestes activitats d'emprenedoria juvenil.",
+  "paragrafs": {
+    "ca": "El Departament d'Empresa i Treball finança projectes d'autoocupació de joves a través del Programa FSE+. S'adreça a pimes i autònoms.",
+    "es": "El Departament d'Empresa i Treball financia proyectos de autoempleo de jóvenes en el marco del Programa FSE+. Va dirigido a pymes y autónomos.",
+    "en": "The Departament d'Empresa i Treball funds youth self-employment projects under the FSE+ Programme. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d806ffe4a90f1535",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

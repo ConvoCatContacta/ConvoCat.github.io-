@@ -1,6 +1,10 @@
 {
-  "paragraf": "La Diputació de Girona finança la Campanya de Teatre Amateur de l'any 2027 mitjançant una subvenció de costos compartits. S'adreça a entitats sense activitat econòmica que desenvolupin activitats de teatre amateur durant aquesta campanya. La convocatòria pot cobrir despeses vinculades a la producció i realització d'aquest tipus d'activitats culturals.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança la Campanya de Teatre Amateur de 2027. S'adreça a entitats sense activitat econòmica.",
+    "es": "La Diputación de Girona financia la Campaña de Teatro Amateur de 2027. Va dirigida a entidades sin actividad económica.",
+    "en": "The Diputació de Girona funds the 2027 Amateur Theatre Campaign. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "638e964b65bd8222",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

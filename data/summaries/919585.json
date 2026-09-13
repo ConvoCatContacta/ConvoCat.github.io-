@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria del Consell Comarcal de la Ribera d'Ebre finança l'assistència a les llars d'infants durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica que vulguin beneficiar-se d'ajuts econòmics individuals per als costos que suposa mantenir els fills en aquest tipus de centres durant el curs esmentat.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal de la Ribera d'Ebre convoca ajuts econòmics individuals per a persones físiques sense activitat econòmica que utilitzin una llar d'infants durant el curs 2026-2027.",
+    "es": "El Consell Comarcal de la Ribera d'Ebre convoca ayudas económicas individuales para personas físicas sin actividad económica que utilicen una guardería durante el curso 2026-2027.",
+    "en": "The Consell Comarcal de la Ribera d'Ebre is offering individual economic aid for self-employed people without economic activity whose children attend a nursery school during the 2026-2027 academic year."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "14046f9abeb71c4c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

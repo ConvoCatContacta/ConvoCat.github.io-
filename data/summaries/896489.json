@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança les despeses de comidor escolar per al curs 2026/2027. S'adreça a persones físiques que no tinguin activitat econòmica i que necessitin ajut per pagar el servei de comidor dels nens i nenes que hi assisteixin.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Bages finança ajudes individuals per a menjador escolar durant el curs 2026/2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal del Bages financia ayudas individuales para comedor escolar durante el curso 2026/2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal del Bages provides individual grants for school meals during the 2026/2027 academic year. It is aimed at self-employed individuals and unemployed people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9f527acc38b6f781",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

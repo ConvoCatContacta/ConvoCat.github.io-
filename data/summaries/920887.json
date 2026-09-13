@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats firals per enfortir la competitivitat del sector firal a Catalunya. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i autònoms que organitzen fires. El Departament d'Empresa i Treball convoca aquestes subvencions per impulsar les activitats ferials com a motor econòmic del territori.",
+  "paragrafs": {
+    "ca": "El Departament d'Empresa i Treball finança activitats firals per millorar la competitivitat del sector. S'adreça a entitats sense activitat econòmica, pimes i autònoms que organitzen aquestes activitats.",
+    "es": "El Departamento de Empresa y Trabajo financia actividades feriales para mejorar la competitividad del sector. Va dirigido a entidades sin actividad económica, pymes y autónomos que organizan estas actividades.",
+    "en": "The Department of Enterprise and Labour funds fairs and trade show activities to improve the competitiveness of the sector. It targets non-profit entities, small and medium-sized businesses, and self-employed professionals that organise these activities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4cedba4f0a54061f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

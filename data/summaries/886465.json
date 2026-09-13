@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Puig-reig finança ajuts de serveis socials per atendre persones durant l'any 2026. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Els ajuts cobreixen diferents tipus d'atenció social, segons es detalla a les bases reguladores de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Puig-reig finança ajuts de serveis socials per a l'atenció a les persones durant l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Puig-reig financia ayudas de servicios sociales para la atención a las personas durante el año 2026. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Puig-reig Town Council provides grants for social services aimed at helping people during 2026. The grants are available to individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "426a98273aa3cb97",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

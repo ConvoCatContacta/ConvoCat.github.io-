@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats culturals de caràcter professional que es realitzin en municipis de fins a 1.000 habitants. S'adreça a entitats sense activitat econòmica que vulguin organitzar programacions culturals. La Oficina de Suport a la Iniciativa Cultural és l'organisme que gestiona aquestes subvencions.",
+  "paragrafs": {
+    "ca": "L'Oficina de Suport a la Iniciativa Cultural finança la programació d'activitats culturals de caràcter professional en municipis de fins a 1.000 habitants. S'adreça a entitats sense activitat econòmica.",
+    "es": "La Oficina de Suport a la Iniciativa Cultural financia la programación de actividades culturales de carácter profesional en municipios de hasta 1.000 habitantes. Se dirige a entidades sin actividad económica.",
+    "en": "The Oficina de Suport a la Iniciativa Cultural funds professional cultural activities in municipalities with up to 1,000 inhabitants. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ef15ea3ad0d4d042",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

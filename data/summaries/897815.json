@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la instal·lació de negocis nous al centre històric de Cassà de la Selva. S'adreça a petites i mitjanes empreses i treballadors autònoms que vulguin obrir una activitat econòmica en aquesta zona. L'Ajuntament de Cassà de la Selva impulsa aquesta línia de subvencions per revitalitzar el nucli antic del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cassà de la Selva finança la implantació de noves activitats econòmiques al nucli antic. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Cassà de la Selva financia la implantación de nuevas actividades económicas en el casco antiguo. Está dirigida a pymes y autónomos.",
+    "en": "Cassà de la Selva's municipal council funds the establishment of new economic activities in the old town. It is aimed at small businesses and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "03ca383cb100938a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

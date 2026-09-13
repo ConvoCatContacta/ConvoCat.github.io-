@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Ascó finança projectes empresarials mitjançant aquesta convocatòria adreçada a petites i mitjanes empreses i autònoms. Es tracta d'una iniciativa local per impulsar l'activitat econòmica i els plans de negoci als quals s'adreça aquesta subvenció.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Ascó finança projectes d'empreses petites i mitjanes i autònoms a través de la convocatòria Impulsem els teus projectes a Ascó.",
+    "es": "El Ayuntamiento de Ascó financia proyectos de pequeñas y medianas empresas y autónomos a través de la convocatoria Impulsamos tus proyectos en Ascó.",
+    "en": "The Ascó Municipal Council finances projects carried out by small and medium-sized businesses and self-employed workers through the Impulsem els teus projectes a Ascó programme."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d7a3a8f3fff71070",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

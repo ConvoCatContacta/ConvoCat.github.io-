@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'impuls i reactivació socioeconòmica de Mataró dins la iniciativa «Aixequem Persianes». S'adreça a petites i mitjanes empreses i autònoms que vulguin tirar endavant activitats que dinamitzin l'economia local. L'Ajuntament de Mataró és qui convoca aquests ajuts per a l'any 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Mataró finança projectes d'impuls i reactivació socioeconòmica de la ciutat a través de la iniciativa «Aixequem Persianes». S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Mataró financia proyectos de impulso y reactivación socioeconómica de la ciudad a través de la iniciativa «Aixequem Persianes». Se dirige a pimes y autónomos.",
+    "en": "Mataró City Council funds projects for the economic and social revitalisation of the city through the «Aixequem Persianes» initiative. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fcadbe5b1f57ea06",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

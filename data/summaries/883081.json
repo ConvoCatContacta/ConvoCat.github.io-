@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions socials de caràcter econòmic relacionades amb la guarda provisional en família aliena. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que assumeixen la responsabilitat de tenir a cura de menors en context de família aliena.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança prestacions socials de caràcter econòmic relacionades amb la guarda provisional en família aliena. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departament de Drets Socials i Inclusió financia prestaciones sociales de carácter económico vinculadas a la guarda provisional en familia ajena. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Departament de Drets Socials i Inclusió funds economic social benefits related to temporary care in unrelated families. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5ce6a0237ce6c528",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

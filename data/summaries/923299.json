@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el servei de menjador escolar per al curs 2026/2027. S'adreça a persones físiques sense activitat econòmica que tinguin fills en etapa escolar. L'Ajuntament de Palau-solità i Plegamans ofereix aquestes ajudes seguint els criteris establerts a la seva ordenança general de subvencions.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palau-solità i Plegamans finança el servei de menjador escolar per al curs 2026/2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Palau-solità i Plegamans financia el servicio de comedor escolar para el curso 2026/2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de Palau-solità i Plegamans funds the school meal service for the 2026/2027 academic year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f807aad3aee8b5f4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

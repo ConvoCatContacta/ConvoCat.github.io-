@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de la Canonja finança part del pagament del lloguer per a persones joves que no tinguin activitat econòmica. S'adreça a personas físiques sense activitat econòmica que busquin suport per a despeses d'habitatge en règim de lloguer.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Canonja finança part del pagament del lloguer de vivenda per a persones joves sense activitat econòmica.",
+    "es": "El Ayuntamiento de la Canonja financia parte del pago del alquiler de vivienda para personas jóvenes sin actividad económica.",
+    "en": "The Ajuntament de la Canonja funds part of the rental payment for housing for young people without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fcb746762d7b88d4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

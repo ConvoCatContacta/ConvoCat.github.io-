@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de medi ambient i protecció dels animals. S'adreça a entitats sense activitat econòmica que presentin les seves propostes en règim de concurrència competitiva davant l'Ajuntament de Vallirana. La convocatòria és per a l'any 2026.",
+  "paragrafs": {
+    "ca": "Finança programes de medi ambient i protecció dels animals. S'adreça a entitats sense activitat econòmica.",
+    "es": "Financia programas de medio ambiente y protección de los animales. Va dirigida a entidades sin actividad económica.",
+    "en": "It funds programmes on environmental protection and animal welfare. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7749711df5399d52",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

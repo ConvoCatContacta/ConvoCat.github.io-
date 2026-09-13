@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança part del cost del servei de menjador i carmanyola de l'Espai de Cures IE Barnola. S'adreça a persones físiques sense activitat econòmica que vulguin accedir a aquestes ajudes municipals.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança ajudes per al servei de menjador i carmanyola de l'Espai de Cures IE Barnola. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Esta convocatoria financia ayudas para el servicio de comedor y carmañola del Espacio de Cuidados IE Barnola. Se dirige a personas físicas sin actividad económica.",
+    "en": "This grant programme funds assistance for the meal service and packed lunch service at IE Barnola Care Space. It is aimed at individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "f3b4d68dea7bb24b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

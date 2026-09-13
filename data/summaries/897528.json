@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Calafell finança prestacions socials de caràcter econòmic i ajuts d'urgència social per a l'any 2026. S'adreça a persones físiques que no desenvolupen cap activitat econòmica i que necessiten suport econòmic per fer front a situacions de dificultat social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Calafell finança prestacions socials de caràcter econòmic i ajuts d'urgència social per a l'any 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Calafell financia prestaciones sociales de carácter económico y ayudas de urgencia social para el año 2026. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Calafell City Council funds economic social benefits and emergency social aid for 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c08d5887a4f5f8d6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

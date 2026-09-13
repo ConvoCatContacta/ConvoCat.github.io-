@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes en l'àmbit del medi ambient presentats per entitats sense activitat econòmica que desenvolupin iniciatives en aquest sector. S'adreça a organitzacions, associacions i entes de la demarcació de Tarragona que no tinguin fins lucratius i que vulguin executar accions relacionades amb la protecció, conservació o millora de l'entorn natural.",
+  "paragrafs": {
+    "ca": "La Diputació de Tarragona convoca el XXII Premi Iniciativa Medi Ambient per a l'any 2026. S'adreça a entitats sense activitat econòmica.",
+    "es": "La Diputación de Tarragona convoca el XXII Premio Iniciativa Medio Ambiente para el año 2026. Se dirige a entidades sin actividad económica.",
+    "en": "Tarragona Provincial Council is calling for the XXII Environmental Initiative Award for 2026. It is aimed at non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9921c868f567c6a5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

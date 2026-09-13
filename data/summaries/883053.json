@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions socials de caràcter econòmic durant dotze mesos. S'adreça a persones físiques que no realitzen activitat econòmica i que han estat sota tutela de l'Administració. El Departament de Drets Socials i Inclusió impulsa aquesta ajuda per garantir el suport econòmic necessari en el procés de transició cap a l'autonomia personal i social.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança prestacions socials de caràcter econòmic durant dotze mesos. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departament de Drets Socials i Inclusió financia prestaciones sociales de carácter económico durante doce meses. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Departament de Drets Socials i Inclusió provides financial social benefits for twelve months. It targets individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9aca366b0a9f5466",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

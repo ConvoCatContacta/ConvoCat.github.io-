@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses de lloguer per a persones en risc d'exclusió social per qüestions residencials. S'adreça a persones físiques sense activitat econòmica que siguin residents a Castell d'Aro, Platja d'Aro i s'Agaró. L'ajuda pretén evitar que aquestes persones perdin l'habitatge per manca de recursos econòmics.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castell d'Aro, Platja d'Aro i s'Agaró finança les despeses de lloguer per a persones físiques sense activitat econòmica que es troben en risc d'exclusió social per motius residencials.",
+    "es": "El Ayuntamiento de Castell d'Aro, Platja d'Aro i s'Agaró financia los gastos de alquiler para personas físicas sin actividad económica que se encuentran en riesgo de exclusión social por motivos residenciales.",
+    "en": "The Municipality of Castell d'Aro, Platja d'Aro i s'Agaró funds rental expenses for self-employed individuals and people without economic activity who face risk of social exclusion due to housing issues."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0ba156a5e95cf3e8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats socioeducatives i de lleure per a la infància i l'adolescència. S'adreça a persones físiques sense activitat econòmica, entitats sense ànim de lucre i petites empreses o autònoms que vulguin organitzar aquest tipus de programes. L'Ajuntament de Sant Andreu de Llavaneres concedeix aquests ajuts dins les seves mesures de protecció social de menors.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança activitats socioeducatives i de lleure. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "Esta convocatoria financia actividades socioeducativas y de ocio. Va dirigida a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "This grant funds socio-educational and leisure activities. It is aimed at self-employed individuals without economic activity, non-profit organisations, small and medium-sized enterprises, and freelancers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "461930fa7b02ca56",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

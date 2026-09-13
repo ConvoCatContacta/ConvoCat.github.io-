@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de la Diputació de Tarragona reconeix i premia iniciatives d'emprenedoria entre persones que no desenvolupen cap activitat econòmica. Els premis s'emmarquen dins les bases generals de subvencions de la Diputació i dels seus organismes autònoms, que estableixen els criteris i les condicions generals per accedir a aquestes distincions.",
+  "paragrafs": {
+    "ca": "La Diputació de Tarragona convoca premis per a persones físiques sense activitat econòmica a través de la plataforma dipta.cat per als períodes 2026-2027.",
+    "es": "La Diputación de Tarragona convoca premios dirigidos a personas físicas sin actividad económica a través de la plataforma dipta.cat para los períodos 2026-2027.",
+    "en": "Tarragona Provincial Council calls for awards aimed at self-employed individuals without economic activity through the dipta.cat platform for the periods 2026-2027."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4304e31a849bb1ac",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

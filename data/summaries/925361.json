@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la retirada de nits d'avispa asiàtica en terrenys privats durant l'any 2026. S'adreça a persones físiques que no desenvolupen activitat econòmica i que disposen de terrenys particulars afectats per aquesta plaga. L'Ajuntament de Subirats subvenciona els treballs necessaris per eliminar aquests nits dels seus espais.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Subirats finança la retirada de nidos de vespa asiàtica en terrenys particulars. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Subirats financia la retirada de nidos de avispa asiática en terrenos particulares. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de Subirats finances the removal of Asian hornet nests on private land. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "932278dcf3a7b39d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

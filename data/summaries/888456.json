@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria del Consell Comarcal de la Terra Alta finança activitats socioculturals d'interès general i altres relacionades amb l'educació. S'adreça a persones físiques que no desenvolupen activitat econòmica i a entitats, també sense activitat econòmica, que vulguin organitzar aquest tipus d'activitats.",
+  "paragrafs": {
+    "ca": "Finança activitats socioculturals d'interès general i d'altres relacionades amb l'ensenyament. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica.",
+    "es": "Financia actividades socioculturales de interés general y otras relacionadas con la educación. Va dirigida a personas físicas sin actividad económica y entidades sin actividad económica.",
+    "en": "This funding supports sociocultural activities of general interest and other education-related initiatives. It is aimed at individuals without economic activity and non-profit organisations."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ac678875d73e69ff",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

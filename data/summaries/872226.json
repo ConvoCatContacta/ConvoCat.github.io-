@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança els costos de traducció al català o a l'occità d'obres literàries. S'adreça a editorials, tant si són entitats sense activitat econòmica com pimes o autònoms. L'objectiu és impulsar la traducció de literatura a aquestes llengües, facilitant que més obres arribin als lectors en català i occità.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança la traducció al català o a l'occità d'obres literàries. S'adreça a entitats sense activitat econòmica, pimes i autònoms del sector editorial.",
+    "es": "Esta convocatoria financia la traducción al catalán o al occitano de obras literarias. Va dirigida a entidades sin actividad económica, pymes y autónomos del sector editorial.",
+    "en": "This grant programme funds the translation into Catalan or Occitan of literary works. It is aimed at non-profit organisations, small and medium-sized enterprises, and self-employed workers in the publishing sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "ac17bb5f0aeeb117",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

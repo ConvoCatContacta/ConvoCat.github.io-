@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament d'Orís finança els costos per identificar i esterilitzar gossos i gats. S'adreça a particulars sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses que vulguin promoure aquestes actuacions de benestar animal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança la identificació i esterilització de perros i gats. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Ajuntamiento de Orís financia la identificación y esterilización de perros y gatos. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "Orís Town Council funds the identification and sterilisation of dogs and cats. It is aimed at individuals without economic activity, non-profit entities, SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "04e03cbcca7954a3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

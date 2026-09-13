@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta prestació finança la renda garantida de ciutadania, una ajuda econòmica per a persones en situació de vulnerabilitat. S'adreça a persones físiques sense activitat econòmica que compleixin els requisits establerts a les bases de la convocatòria. El Departament de Drets Socials i Inclusió gestiona aquesta ajuda per garantir els mitjans de vida bàsics de la població en risc d'exclusió social.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió finança prestacions de renda garantida ciutadania. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Departament de Drets Socials i Inclusió financia prestaciones de renta garantizada ciudadanía. Va dirigida a personas físicas sin actividad económica.",
+    "en": "The Departament de Drets Socials i Inclusió provides guaranteed citizen income benefits. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "3b3c4de37d526e9f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

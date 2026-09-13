@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança accions que milloren l'ocupació i la inserció laboral dins les empreses d'inserció. S'adreça a pimes i autònoms que vulguin desenvolupar projectes en aquest àmbit. Les bases que regulen aquesta línia 2 de subvencions estableixen els requisits i condicions específiques que han de complir els projectes presentats.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança accions per a la millora de l'ocupació i la inserció laboral. S'adreça a empreses d'inserció.",
+    "es": "Esta convocatoria financia acciones para la mejora del empleo y la inserción laboral. Se dirige a empresas de inserción.",
+    "en": "This call funds actions to improve employment and labour integration. It is aimed at insertion enterprises."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d1f27f50dd706526",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

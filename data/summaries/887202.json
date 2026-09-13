@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament del Papiol finança el suport i l'assistència professional per a terapies de salut. S'adreça a persones físiques que no tenen activitat econòmica. La dotació econòmica i altres detalls específics es regulen en les bases oficials de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament del Papiol finança suport i assistència professional per a teràpies de salut. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento del Papiol financia apoyo y asistencia profesional para terapias de salud. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Ajuntament del Papiol funds support and professional assistance for health therapies. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fccfa823fc7192b3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

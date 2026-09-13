@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança l'atenció social per a persones amb discapacitat a través del programa PUA. S'adreça a persones físiques que no desenvolupin activitat econòmica. El Departament de Drets Socials i Inclusió impulsa aquesta ajuda per garantir suport als qui ho necessiten.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança l'atenció social a persones amb discapacitat. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Esta convocatoria financia la atención social a personas con discapacidad. Se dirige a personas físicas sin actividad económica.",
+    "en": "This grant finances social care for people with disabilities. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4c9840028b36bfd1",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

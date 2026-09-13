@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes d'entitats sense ànim de lucre que treballen en matèria de joventut. S'adreça a organizacions que no desenvolupen activitat econòmica i que volen impulsar accions relacionades amb el sector juvenil. L'Ajuntament de Palau-solità i Plegamans posa aquests recursos a disposició de les entitats per desenvolupar iniciatives en aquest àmbit.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Palau-solità i Plegamans finança projectes d'entitats sense activitat econòmica que no tinguin afany de lucre en matèria de joventut.",
+    "es": "El Ayuntamiento de Palau-solità i Plegamans financia proyectos de entidades sin actividad económica que no tengan ánimo de lucro en materia de juventud.",
+    "en": "Palau-solità i Plegamans City Council funds projects by non-profit entities without economic activity in the youth field."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "00b154c71f445597",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

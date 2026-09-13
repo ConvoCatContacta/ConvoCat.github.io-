@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança programes de salut animal en diverses ramaderies: porcina, cunicultura, vaques, ovella, cabra, producció de mol·luscs, apiària i cavalls. S'adreça a empreses petites i mitjanes i a treballadors per compte propi del sector ramader i de la producció animal.",
+  "paragrafs": {
+    "ca": "Finança programes de sanitat animal en el sector porcí, la cunicultura, la producció apícola i els programes de tuberculosi i agalàxia de l'oví i cabrum. S'adreça a pimes i autònoms.",
+    "es": "Financia programas de sanidad animal en el sector porcino, cunícola, la producción apícola y los programas de tuberculosis y agalaxia del ovino y caprino. Va dirigida a pymes y autónomos.",
+    "en": "It funds animal health programmes in pig farming, rabbit farming, beekeeping and tuberculosis and agalaxia programmes for sheep and goats. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2821b0952fdd60c7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

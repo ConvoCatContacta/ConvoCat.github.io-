@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut Català de les Empreses Culturals finança la producció de nous espectacles de dansa, tant de sala com de carrer, de caràcter professional. L'ajut s'adreça a entitats sense activitat econòmica, petites i mitjanes empreses, autònoms i grans empreses. La subvenció està destinada al període 2026-2029 i es concedeix sense competència entre sol·licitants.",
+  "paragrafs": {
+    "ca": "L'Institut Català de les Empreses Culturals (ICEC) finança la producció de nous espectacles de dansa de sala i de carrer de caràcter professional entre 2026 i 2029. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de les Empreses Culturals (ICEC) financia la producción de nuevos espectáculos de danza de sala y de calle de carácter profesional entre 2026 y 2029. Va dirigido a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de les Empreses Culturals (ICEC) funds the production of new professional indoor and street dance performances from 2026 to 2029. It is open to non-profit entities, SMEs, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e970d88476e23ec5",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Cambrils finança ajuts per a persones que es troben en situació d'urgència. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Els ajuts es destinen a cobrir necessitats imperioses que puguin sorgir de manera sobtada i que requereixin una intervenció ràpida per part de l'administració local.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cambrils finança ajuts d'urgència adreçats a persones físiques que no desenvolten activitat econòmica.",
+    "es": "El Ayuntamiento de Cambrils financia ayudas de urgencia dirigidas a personas físicas sin actividad económica.",
+    "en": "Cambrils Town Council provides emergency aid to individuals who are not engaged in any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "cd2491a125f31e4c",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les despeses de menjador i escolarització infantil per a nens de 0 a 4 anys durant el curs 2026-2027, entre gener i juliol de 2027. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i treballadors autònoms de Santa Coloma de Gramenet que tinguin fills en aquesta franja d'edat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Coloma de Gramenet finança ajuts econòmics per a famílies que vulguin utilitzar el servei de menjador o escolarització infantil per a nens de 0 a 4 anys durant el curs 2026-2027, de gener a juliol. S'adreça a entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ayuntamiento de Santa Coloma de Gramenet convoca ayudas económicas para sufragar el coste del servicio de comedor y la escolarización infantil de menores de 0 a 4 años en el período de enero a julio del curso 2026-2027. Van dirigidas a entidades sin actividad económica, pymes y autónomos.",
+    "en": "Santa Coloma de Gramenet City Council provides economic aid to cover meals and early childhood education services for children aged 0 to 4 during January to July of the 2026-2027 academic year. The grants target non-profit entities, small and medium-sized businesses, and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "4d4b7f947c76dae9",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta ajuda municipal cobreix despeses relacionades amb el naixement d'un fill. S'adreça a persones físiques i entitats sense activitat econòmica que compleixen els requisits establerts a l'ordenança general de subvencions de l'Ajuntament d'Orís.",
+  "paragrafs": {
+    "ca": "L'Ajuntament d'Orís finança una ajuda social per al naixement d'un nen. S'adreça a persones físiques sense activitat econòmica i a entitats sense activitat econòmica.",
+    "es": "El Ayuntamiento de Orís financia una ayuda social por el nacimiento de un niño. Se dirige a personas físicas sin actividad económica y a entidades sin actividad económica.",
+    "en": "The Orís Municipal Council provides financial support for the birth of a child. It is aimed at individuals without economic activity and entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "87ec768c2a39e89e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

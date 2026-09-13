@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la compra de llibres i material escolar per als nens i nenes residents a Fogars de Montclús durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica que tinguin fills en edat escolar. L'ajuntament ofereix aquestes ajudes per facilitar l'accés als recursos educatius necessaris a les famílies del municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Fogars de Montclús ofereix ajudes per a l'adquisició de llibres i material escolar dels infants residents al municipi. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Fogars de Montclús convoca ayudas destinadas a sufragar el coste de libros y material escolar para los niños y niñas del municipio. Van dirigidas a personas físicas sin actividad económica.",
+    "en": "Fogars de Montclús council provides grants to cover the cost of school books and materials for children living in the municipality. The aid is open to individuals with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "031df74f3991ab48",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

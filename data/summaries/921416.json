@@ -1,6 +1,10 @@
 {
-  "paragraf": "ACCIÓ subvenciona els plans d'actuació que presenten entitats sense activitat econòmica que actuen com a agents de suport per ajudar les empreses en processos d'internacionalització. S'adreça a aquestes entitats, que treballen per facilitar que les companyies puguin expandir-se cap a mercats internacionals. La convocatòria finança les iniciatives i projectes que aquests agents dissenyen per oferir aquest acompanyament.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança plans d'actuació d'entitats que donen suport a la internacionalització de les empreses. S'adreça a entitats sense activitat econòmica.",
+    "es": "Esta convocatoria financia planes de actuación de entidades que apoyan la internacionalización de las empresas. Se dirige a entidades sin actividad económica.",
+    "en": "This grant finances action plans of entities that support business internationalisation. It is aimed at organisations with no economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "76986c180d991b9a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

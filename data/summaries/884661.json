@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança ajuts destinats a persones físiques que no desenvolupen cap activitat econòmica. S'adreça a residents de Santa Maria de Palautordera que es troben en situació de necessitat i busca cobrir despeses derivades de la falta d'ingressos. Els ajuts s'executaran conforme als pressupostos de 2025 que l'Ajuntament ha aprovat per a aquestes mesures de suport social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Santa Maria de Palautordera convoca ajudes socials dirigides a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Santa Maria de Palautordera convoca ayudas sociales destinadas a personas físicas sin actividad económica.",
+    "en": "The Municipality of Santa Maria de Palautordera is offering social aid for individuals who are not engaged in any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "45b5fe39abc77ea1",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

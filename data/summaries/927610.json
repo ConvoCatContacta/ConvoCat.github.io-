@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança activitats i projectes de les entitats esportives sense ànim de lucre. S'adreça a les organitzacions esportives de les Borges Blanques que no desenvolupin activitat econòmica. L'Ajuntament ofereix aquestes subvencions per potenciar el teixit esportiu municipal durant l'any 2026.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de les Borges Blanques finança activitats d'entitats esportives sense activitat econòmica per a l'anualitat 2026.",
+    "es": "El Ajuntamiento de les Borges Blanques financia actividades de entidades deportivas sin actividad económica para la anualidad 2026.",
+    "en": "The municipality of les Borges Blanques funds activities carried out by sports entities without economic activity for the year 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "39effb8d10e29431",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

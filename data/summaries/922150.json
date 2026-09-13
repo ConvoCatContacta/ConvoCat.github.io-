@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Institut d'Estudis de l'Autogovern finança projectes de recerca sobre l'organització territorial del poder. S'adreça a universitats i centres de recerca del sistema català, així com a persones físiques sense activitat econòmica i a entitats sense activitat econòmica. El Departament de la Presidència és qui impulsa aquestes subvencions.",
+  "paragrafs": {
+    "ca": "El Departament de la Presidència finança projectes de recerca sobre l'organització territorial del poder a través de l'Institut d'Estudis de l'Autogovern. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica vinculades a universitats i centres de recerca del sistema català.",
+    "es": "El Departament de la Presidència financia proyectos de investigación sobre la organización territorial del poder a través del Institut d'Estudis de l'Autogovern. Va dirigido a personas físicas sin actividad económica y entidades sin actividad económica vinculadas a universidades y centros de investigación del sistema catalán.",
+    "en": "The Departament de la Presidència funds research projects on territorial organization of power through the Institut d'Estudis de l'Autogovern. It targets individuals without economic activity and entities without economic activity linked to universities and research centres in the Catalan system."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e8fcbe5c083973f0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

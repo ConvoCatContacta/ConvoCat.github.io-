@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança places socials al centre de formació CFA Dolors Paul de Cunit per al curs 2026-2027. S'adreça a persones físiques que no desenvolupen cap activitat econòmica. Les places socials es posen a disposició de qui compleixi aquests requisits per accedir a la formació que ofereix el centre durant aquest any acadèmic.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cunit convoca places socials al Centre de Formació d'Adults Dolors Paul per al curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Cunit convoca plazas sociales en el Centro de Formación de Adultos Dolors Paul para el curso 2026-2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "Cunit's Town Council offers social places at the Dolors Paul Adult Training Centre for the 2026-2027 academic year. It is aimed at self-employed individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "2d77de6243b692e6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

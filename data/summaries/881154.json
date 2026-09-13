@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Dosrius finança ajuts econòmics d'urgència per a situacions de caràcter social. S'adreça a persones que no desenvolupen cap activitat econòmica i es troben en circumstàncies que requereixen una ajuda urgent. Els ajuts es concedeixin segons les condicions establertes a les bases reguladores de la convocatòria.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Dosrius ofereix ajuts econòmics d'urgència de caràcter social. S'adrecen a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Dosrius convoca ayudas económicas de urgencia de carácter social. Van dirigidas a personas físicas sin actividad económica.",
+    "en": "Dosrius municipal council offers emergency economic aid of a social nature. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c835c55ac8816468",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

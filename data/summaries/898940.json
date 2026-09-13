@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Navarcles finança els lloguer de locals comercials per a persones físiques que no desenvolupen cap activitat econòmica. Els ajuts es destinen a sufragar part dels costos de lloguer de comerç.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Navarcles finança part del lloguer de locals comercials. S'adreça a persones físiques que no exerceixen cap activitat econòmica.",
+    "es": "El Ayuntamiento de Navarcles financia parte del alquiler de locales comerciales. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Ajuntament de Navarcles funds part of the rent for commercial premises. It is aimed at individuals who are not engaged in any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "dcd0aa03f166bca8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

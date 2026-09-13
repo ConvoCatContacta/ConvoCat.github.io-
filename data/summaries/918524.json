@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els costos de transport per a persones que cursen estudis posteriors a l'educació obligatòria. S'adreça a persones físiques que no exerceixen cap activitat econòmica i que resideixen a Monistrol de Montserrat. La subvenció vol facilitar l'accés als estudis de postobligatòria, ja siguin batxillerat, cicles formatius o estudis superiors, cobrint les despeses de desplaçament.",
+  "paragrafs": {
+    "ca": "Finança els costos de transport per a estudiants de cicles formatius i batxillerat. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia los costes de transporte para estudiantes de ciclos formativos y bachillerato. Se dirige a personas físicas sin actividad económica.",
+    "en": "It funds transport costs for vocational training and upper secondary students. It is aimed at individuals not engaged in economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d19d217e5929b0e6",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

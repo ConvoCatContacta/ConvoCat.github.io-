@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança beques per a activitats extraescolars de caràcter esportiu, cultural i lúdic per a l'any acadèmic 2026/2027. S'adreça a persones físiques sense activitat econòmica. L'Ajuntament del Papiol és l'organisme que promou aquestes beques per facilitar l'accés a aquestes activitats.",
+  "paragrafs": {
+    "ca": "L'Ajuntament del Papiol finança beques per a activitats extraescolars de caràcter esportiu, cultural i lúdic durant el curs 2026/2027. S'adreça a persones físiques que no desenvolupin cap activitat econòmica.",
+    "es": "El Ayuntamiento del Papiol financia becas para actividades extraescolares de carácter deportivo, cultural y lúdico durante el curso 2026/2027. Va dirigido a personas físicas que no desarrollen ninguna actividad económica.",
+    "en": "The Ajuntament del Papiol funds grants for extracurricular activities of a sporting, cultural and leisure nature during the 2026/2027 academic year. It targets individuals who do not carry out any economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "9c187871af89472a",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

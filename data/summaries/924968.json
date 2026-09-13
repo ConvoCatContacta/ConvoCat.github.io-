@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'ICEC finança la producció de continguts audiovisuals de caràcter cultural en català o occità aranès, que seran emesos per televisió en versió original. S'adreça a entitats sense activitat econòmica, empreses petites i mitjanes, grans empreses i autònoms que vulguin desenvolupar aquest tipus de projectes audiovisuals.",
+  "paragrafs": {
+    "ca": "L'ICEC subvenciona la producció de continguts audiovisuals culturals en català o occità aranès destinats a emissió televisiva. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "El ICEC financia la producción de contenidos audiovisuales culturales en catalán u occitano aranés destinados a emisión televisiva. Se dirige a entidades sin actividad económica, pymes, autónomos y grandes empresas.",
+    "en": "The ICEC funds the production of cultural audiovisual content in Catalan or Aranese Occitan intended for television broadcast. It is aimed at non-profit entities, SMEs, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "e9c2ffc8730b9460",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

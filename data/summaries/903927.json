@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança la implantació de projectes innovadors i noves activitats estratègiques al municipi. S'adreça a petites i mitjanes empreses i treballadors autònoms que vulguin desenvolupar aquest tipus d'iniciatives al territori.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança la implantació de projectes innovadors i noves activitats estratègiques al municipi. S'adreça a pimes i autònoms.",
+    "es": "El Ayuntamiento de Vandellòs i l'Hospitalet de l'Infant financia la implantación de proyectos innovadores y nuevas actividades estratégicas en el municipio. Va dirigida a pymes y autónomos.",
+    "en": "Vandellòs i l'Hospitalet de l'Infant municipality funds the implementation of innovative projects and new strategic activities in the area. It is aimed at SMEs and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "06b73198c5b08cce",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

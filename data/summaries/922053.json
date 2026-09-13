@@ -1,6 +1,10 @@
 {
-  "paragraf": "No puc accedir a l'URL que m'indiques per consultar les bases del DOGC. Per poder escriure el paràgraf segons les regles establertes, necessito que m'hi copiis el text de l'objecte de la convocatòria directament. Un cop me'l proporciionis, podré redactar l'explicació.",
+  "paragrafs": {
+    "ca": "El CAC (Consell de l'Audiovisual de Catalunya) convoca els Premis eduCAC per reconèixer projectes de persones físiques sense activitat econòmica, pimes i autònoms.",
+    "es": "El CAC (Consejo del Audiovisual de Cataluña) convoca los Premios eduCAC para reconocer proyectos de personas físicas sin actividad económica, pymes y autónomos.",
+    "en": "The CAC (Consell de l'Audiovisual de Catalunya) launches the eduCAC Awards to recognise projects by self-employed individuals without economic activity, small businesses and freelancers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "0ebf88e379094184",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

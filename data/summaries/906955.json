@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança l'adquisició de llibres i material escolar obligatori, així com l'assistència a colònies i a escoles infantils o el primer ciclo d'educació infantil per al curs 2026/2027. S'adreça a persones físiques sense activitat econòmica, gestionada pel Consell Comarcal del Priorat.",
+  "paragrafs": {
+    "ca": "El Consell Comarcal del Priorat finança l'adquisició de llibres i material escolar obligatori, l'assistència a colònies i l'accés a escoles infantils o primer cicle d'educació infantil per al curs 2026/2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Consell Comarcal del Priorat financia la adquisición de libros y material escolar obligatorio, la asistencia a colonias y el acceso a escuelas infantiles o primer ciclo de educación infantil para el curso 2026/2027. Va dirigido a personas físicas sin actividad económica.",
+    "en": "The Consell Comarcal del Priorat provides funding for the purchase of compulsory school books and materials, attendance at summer camps and access to infant schools or early childhood education for the 2026/2027 school year. It is aimed at self-employed individuals and persons without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c0ab65f4d36fa9d1",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

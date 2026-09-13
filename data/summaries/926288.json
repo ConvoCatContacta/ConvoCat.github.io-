@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els abonaments d'accés a les piscines municipals de la comarca de l'Alt Penedès. S'adreça a persones físiques que no desenvolupin cap activitat econòmica. L'ajuntament de les Cabanyes ofereix aquesta ajuda per facilitar l'accés a les instal·lacions aquàtiques de la zona.",
+  "paragrafs": {
+    "ca": "Finança l'adquisició d'abonaments per accedir a les piscines municipals de la comarca de l'Alt Penedès. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia la adquisición de abonos para acceder a las piscinas municipales de la comarca del Alt Penedès. Se dirige a personas físicas sin actividad económica.",
+    "en": "It funds the purchase of passes to access municipal swimming pools in the Alt Penedès region. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "d53c7f4c5ac43023",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

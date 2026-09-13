@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de Puig-reig finança serveis socials destinats a l'atenció de persones. Els ajuts es lliuren en espècie, és a dir, en forma de serveis en lloc de diners. S'adreça a persones físiques sense activitat econòmica que necessitin aquests suports socials.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Puig-reig finança serveis socials per atendre persones. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Puig-reig financia servicios sociales para atender a personas. Se dirige a personas físicas sin actividad económica.",
+    "en": "Puig-reig Municipal Council funds social services to support people. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "83cb7e302fd29b01",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

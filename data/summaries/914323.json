@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de videojocs a través d'aportacions reintegrables i subvencions. S'adreça a pimes, autònoms i grans empreses que vulguin desenvolupar iniciatives en aquest sector. L'Institut Català de les Empreses Culturals (ICEC) gestiona els ajuts en règim de competència, és a dir, valorant els projectes presentats per seleccionar els més mereixedors.",
+  "paragrafs": {
+    "ca": "L'INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC) finança projectes de videojocs mitjançant aportacions reintegrables i subvencions. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC) financia proyectos de videojuegos a través de aportaciones reintegrables y subvenciones. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "The INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC) funds video game projects through repayable contributions and grants. It is aimed at SMEs, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a1c6c3bd452ba104",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

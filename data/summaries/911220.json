@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Sant Pere de Ribes finança les despeses de menjador als serveis diürns que atenen persones amb discapacitat durant el curs 2026-2027. S'adreça a persones físiques sense activitat econòmica que utilitzin aquests serveis.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança les despeses de menjador dels serveis diürns per a persones amb discapacitats. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Esta convocatoria financia los gastos de comedor de los servicios diurnos para personas con discapacidad. Va dirigida a personas físicas sin actividad económica.",
+    "en": "This grant covers canteen expenses at day care services for people with disabilities. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "21c80df572c89de3",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

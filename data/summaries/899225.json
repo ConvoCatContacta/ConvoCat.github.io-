@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de l'Ajuntament de la Pobla de Mafumet finança l'arribada de fill/a a través del naixement o l'adopció. S'adreça a persones físiques que no tinguin activitat econòmica. La subvenció, anomenada Xec nadó, reconeix econòmicament les famílies de la localitat que amplien la unitat familiar per aquestes dues vies.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Pobla de Mafumet finança una subvenció per a persones físiques sense activitat econòmica que tinguin fills o filles per naixement o adopció.",
+    "es": "El Ayuntamiento de la Pobla de Mafumet otorga una subvención dirigida a personas físicas sin actividad económica que tengan hijos o hijas por nacimiento o adopción.",
+    "en": "The Pobla de Mafumet municipal council provides a subsidy for self-employed individuals and people without economic activity who have children through birth or adoption."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "16ad9ebe66b4be24",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

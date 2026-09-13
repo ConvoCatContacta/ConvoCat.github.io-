@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el pagament del lloguer per a joves sense activitat econòmica que viuen a Alella. S'adreça a persones físiques que reuneixin els requisits establerts a les bases de la convocatòria.",
+  "paragrafs": {
+    "ca": "Aquesta convocatòria finança part del lloguer de l'habitatge principal per a persones físiques sense activitat econòmica. S'adreça a joves que viuen al municipi d'Alella.",
+    "es": "Esta convocatoria financia parte del alquiler de la vivienda principal para personas físicas sin actividad económica. Se dirige a jóvenes que viven en el municipio de Alella.",
+    "en": "This call funds a portion of the main housing rent for individuals without economic activity. It is aimed at young people living in the municipality of Alella."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8c5d148bc76ba561",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

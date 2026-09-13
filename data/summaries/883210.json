@@ -1,6 +1,10 @@
 {
-  "paragraf": "La prestació econòmica vinculada al servei finança l'atenció a persones en situació de dependència per promoure la seva autonomia personal. S'adreça a persones físiques sense activitat econòmica que necessitin aquest tipus de suport. La convoca el Departament de Drets Socials i Inclusió.",
+  "paragrafs": {
+    "ca": "Aquesta prestació econòmica del Departament de Drets Socials i Inclusió s'adreça a persones físiques sense activitat econòmica. Finança serveis vinculats a la promoció de l'autonomia personal i l'atenció a persones en situació de dependència.",
+    "es": "Esta prestación económica del Departament de Drets Socials i Inclusió está dirigida a personas físicas sin actividad económica. Financia servicios relacionados con la promoción de la autonomía personal y la atención a personas en situación de dependencia.",
+    "en": "This economic benefit from the Departament de Drets Socials i Inclusió is aimed at individuals without economic activity. It funds services for promoting personal autonomy and support for people in situations of dependency."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "63261538b5ba787f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

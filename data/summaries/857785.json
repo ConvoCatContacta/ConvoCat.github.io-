@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes relacionats amb la conservació i gestió del patrimoni natural a la demarcació de Girona. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, autònoms, pimes i grans empreses que vulguin desenvolupar iniciatives en aquest àmbit.",
+  "paragrafs": {
+    "ca": "La Diputació de Girona finança projectes relacionats amb el patrimoni natural. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes, autònoms i grans empreses.",
+    "es": "La Diputación de Girona financia proyectos relacionados con el patrimonio natural. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pimes, autónomos y grandes empresas.",
+    "en": "The Diputació de Girona funds projects related to natural heritage. It is aimed at individuals without economic activity, non-profit entities, SMEs, self-employed professionals and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "fd5a28903615d620",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

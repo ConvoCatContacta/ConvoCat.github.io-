@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança projectes de recuperació i comercialització de productes agraris, ramaders i forestals. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i autònoms. La convoca l'Ajuntament de Vandellòs i l'Hospitalet de l'Infant mitjançant un procés de concurrència competitiva.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Vandellòs i l'Hospitalet de l'Infant finança projectes de recuperació i comercialització de productes agraris, ramaders i forestals. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, pimes i autònoms.",
+    "es": "El Ayuntamiento de Vandellòs i l'Hospitalet de l'Infant financia proyectos de recuperación y comercialización de productos agrarios, ganaderos y forestales. Va dirigido a personas físicas sin actividad económica, entidades sin actividad económica, pymes y autónomos.",
+    "en": "Vandellòs i l'Hospitalet de l'Infant municipal authority funds projects for recovering and marketing agricultural, livestock and forestry products. It is open to individuals without economic activity, non-profit entities, SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "192f1bd6d6907aa8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

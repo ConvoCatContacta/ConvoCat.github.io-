@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança prestacions econòmiques de caràcter social per a persones sense activitat econòmica durant l'any 2026. S'adreça a persones físiques que no disposen de recursos suficients i que es troben en situació de necessitat. L'Ajuntament de Sant Joan de Vilatorrada és qui gestiona aquestes ajudes segons el reglament de prestacions de caràcter social.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sant Joan de Vilatorrada finança prestacions econòmiques de caràcter social dirigides a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Sant Joan de Vilatorrada financia prestaciones económicas de carácter social dirigidas a personas físicas sin actividad económica.",
+    "en": "Sant Joan de Vilatorrada Town Council provides economic social assistance to individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "aaa6d56d9b0fc86b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

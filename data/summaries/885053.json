@@ -1,6 +1,10 @@
 {
-  "paragraf": "S'adreça a persones sense activitat econòmica que es troben en situació d'urgència social. L'ajuntament de Navarcles finança aquests ajuts de caràcter econòmic per donar suport a qui es veu en dificultats sobrevingudes. Es tracta d'una línia d'ajuts puntuals destinada a cobrir necessitats socials que requereixen una resposta ràpida.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Navarcles finança ajuts econòmics d'urgència social. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de Navarcles financia ayudas económicas de urgencia social. Van dirigidas a personas físicas sin actividad económica.",
+    "en": "Navarcles Town Council provides economic aid for social emergencies. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "5b1e52a25123a31e",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

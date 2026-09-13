@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els fons operatius dels programes operatius de les organitzacions de productores de fruites i hortalisses per a l'any 2027. S'adreça a pimes, autònoms i grans empreses que formen part d'aquestes organitzacions. Els ajuts es concedeixen dins del marc d'un pla més ampli de suport a la producció agrícola.",
+  "paragrafs": {
+    "ca": "El Departament d'Agricultura, Ramaderia, Pesca i Alimentació finança els fons operatius dels programes operatius de les organitzacions de productores de fruites i hortalisses. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Departamento de Agricultura, Ganadería, Pesca y Alimentación financia los fondos operativos de los programas operativos de las organizaciones de productores de frutas y hortalizas. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "The Department of Agriculture, Livestock, Fisheries and Food finances the operational funds of the operational programmes of fruit and vegetable producer organisations. It is aimed at SMEs, self-employed workers and large companies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "a3aad8d0e55783d2",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

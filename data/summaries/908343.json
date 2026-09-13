@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança el transport escolar no obligatori del curs 2025-2026 i els costos de matriculació, llibres de text i material escolar del curs 2026-2027. S'adreça a persones físiques sense activitat econòmica. L'Ajuntament de Sant Mateu de Bages impulsa aquestes ajudes per facilitar l'accés a l'educació dels infants de les famílies del municipi.",
+  "paragrafs": {
+    "ca": "Finança el transport escolar no obligatori del curs 2024-2025 i la matriculació, els llibres i el material escolar del curs 2026-2027. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "Financia el transporte escolar no obligatorio del curso 2025-2026 y la matrícula, los libros y el material escolar del curso 2026-2027. Se dirige a personas físicas sin actividad económica.",
+    "en": "It funds non-compulsory school transport for the 2025-2026 academic year and school enrolment, textbooks and school materials for the 2026-2027 academic year. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8ca59e2413c64b27",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

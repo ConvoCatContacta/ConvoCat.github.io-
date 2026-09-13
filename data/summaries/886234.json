@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança les estudis de cicles formatius a l'Escola de Mitjans Audiovisuals i Disseny (EMAD) durant els cursos 2025-26 i 2026-27. S'adreça a persones físiques sense activitat econòmica. L'Ajuntament de la Garriga ofereix aquestes subvencions per fer més accessible la formació en art i disseny a estudiants que no desenvolupen activitat econòmica.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Garriga finança beques per a estudiants dels cicles formatius de la Escola Municipal d'Art i Disseny (EMAD) dels cursos 2025-26 i 2026-27. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ayuntamiento de la Garriga financia becas para estudiantes de los ciclos formativos de la Escuela Municipal de Arte y Diseño (EMAD) de los cursos 2025-26 y 2026-27. Se dirige a personas físicas sin actividad económica.",
+    "en": "The Town Council of la Garriga funds grants for students of vocational programmes at the Escola Municipal d'Art i Disseny (EMAD) in the academic years 2025-26 and 2026-27. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6931f66aca46c84f",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança la contractació laboral que duguin a terme empreses de Sallent i entitats sense fins de lucre. S'adreça a pimes, autònoms, persones físiques sense activitat econòmica i entitats sense activitat econòmica que vulguin rebre ajuda per crear llocs de treball al municipi.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Sallent finança la contractació laboral. S'adreça a persones físiques sense activitat econòmica, entitats sense activitat econòmica, petites i mitjanes empreses i autònoms.",
+    "es": "El Ajuntamiento de Sallent financia la contratación laboral. Se dirige a personas físicas sin actividad económica, entidades sin actividad económica, pequeñas y medianas empresas y autónomos.",
+    "en": "Sallent's local authority funds job creation through employment contracts. It is aimed at self-employed workers and micro-entrepreneurs without economic activity, non-profit entities without economic activity, small and medium-sized enterprises, and self-employed professionals."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7a406a70973d382d",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

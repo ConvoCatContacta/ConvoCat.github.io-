@@ -1,6 +1,10 @@
 {
-  "paragraf": "La convocatòria finança serveis d'acompanyament i assessorament per gestionar casos de violència masclista i violència per raó d'orientació sexual, identitat de gènere o expressió de gènere en el sector cultural. S'adreça a entitats sense activitat econòmica, petites i mitjanes empreses i grans empreses que vulguin oferir aquests serveis de suport a les víctimes.",
+  "paragrafs": {
+    "ca": "L'Oficina de Suport a la Iniciativa Cultural finança serveis d'acompanyament i assessorament en la gestió de casos de violències masclistes i per raó d'orientació sexual, identitat de gènere i expressió de gènere. S'adreça a entitats sense activitat econòmica, pimes, autònoms i grans empreses del sector cultural.",
+    "es": "La Oficina de Suport a la Iniciativa Cultural financia servicios de acompañamiento y asesoramiento en la gestión de casos de violencias machistas y por razón de orientación sexual, identidad de género y expresión de género. Va dirigida a entidades sin actividad económica, pymes, autónomos y grandes empresas del sector cultural.",
+    "en": "The Oficina de Suport a la Iniciativa Cultural funds support and advisory services for managing cases of gender-based violence and violence based on sexual orientation, gender identity and gender expression. It targets non-profit entities, SMEs, self-employed workers and large companies in the cultural sector."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "131a32e6f59ea43b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta línia de préstecs de l'Institut Català de Finances (ICF) finança projectes d'internacionalització d'empreses. S'adreça a petites i mitjanes empreses, autònoms i grans empreses que volen expandir-se a mercats internacionals. Els préstecs tenen condicions preferents, és a dir, més favorables que les del mercat convencional.",
+  "paragrafs": {
+    "ca": "L'Institut Català de Finances ofereix préstecs bonificats per a empreses amb projectes d'internacionalització. S'adreça a pimes, autònoms i grans empreses.",
+    "es": "El Institut Català de Finances pone a disposición préstamos bonificados destinados a empresas con proyectos de internacionalización. Se dirige a pymes, autónomos y grandes empresas.",
+    "en": "The Institut Català de Finances offers subsidized loans for companies with internationalization projects. It is aimed at SMEs, self-employed workers and large enterprises."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "94a38b6d24ba88f4",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

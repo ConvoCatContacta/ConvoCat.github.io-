@@ -1,6 +1,10 @@
 {
-  "paragraf": "Finança una prestació econòmica destinada a la protecció de les persones que han perdut la parella. S'adreça a persones físiques sense activitat econòmica que es troben en aquesta situació. El Departament de Drets Socials i Inclusió convoca aquestes ajudes d'assistència per garantir el suport econòmic als cònjuges supervivents que ho necessitin.",
+  "paragrafs": {
+    "ca": "El Departament de Drets Socials i Inclusió convoca una prestació econòmica per a persones físiques sense activitat econòmica que siguin cònjuges supervivients.",
+    "es": "El Departamento de Derechos Sociales e Inclusión convoca una prestación económica dirigida a personas físicas sin actividad económica que sean cónyuges supervivientes.",
+    "en": "The Department of Social Rights and Inclusion offers financial assistance to individuals without economic activity who are surviving spouses."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "bc5c9f5887ba5daf",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

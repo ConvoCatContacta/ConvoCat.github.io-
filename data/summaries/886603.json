@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de la Diputació de Tarragona s'adreça a entitats sense activitat econòmica. Finança accions que s'alineïn amb les bases generals de subvencions de la Diputació i dels seus organismes autònoms. La convocatòria E-catàleg ofereix ajut econòmic a través d'un sistema de catàleg que recull els projectes i les actuacions que la Diputació està disposada a cofinançar segons les seves prioritats estratègiques.",
+  "paragrafs": {
+    "ca": "La Diputació de Tarragona finança aquesta convocatòria per a entitats sense activitat econòmica, segons les bases generals de subvencions que regulen els ajuts de la Diputació i els seus organismes autònoms.",
+    "es": "La Diputación de Tarragona financia esta convocatoria para entidades sin actividad económica, conforme a las bases generales de subvenciones que rigen los fondos de la Diputación y sus organismos autónomos.",
+    "en": "The Diputació de Tarragona funds this call for grants for non-profit entities, in accordance with the general bases that govern subsidies from the Diputació and its autonomous bodies."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "c90aafff30d68ac8",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança préstecs per a comunitats de propietaris que es troben als barris gestionats per l'Agència de l'Habitatge de Catalunya. S'adreça a entitats sense activitat econòmica. L'accés als ajuts es fa sense competència entre sol·licitants.",
+  "paragrafs": {
+    "ca": "L'Agència de l'Habitatge de Catalunya ofereix préstecs a comunitats de propietaris dels barris que gestiona. S'adreça a entitats sense activitat econòmica.",
+    "es": "La Agència de l'Habitatge de Catalunya concede préstamos a comunidades de propietarios de los barrios que gestiona. Va dirigida a entidades sin actividad económica.",
+    "en": "The Agència de l'Habitatge de Catalunya provides loans to property owners' associations in the neighborhoods it manages. It is aimed at entities without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "1693545ecd518ea0",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

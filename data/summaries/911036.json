@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança despeses de conservació i subministraments de l'habitatge per a persones propietàries. S'adreça a persones físiques sense activitat econòmica i entitats sense activitat econòmica de la Garriga que necessitin ajuda per mantenir la seva casa en bon estat.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de la Garriga finança gastos de conservació i subministraments de l'habitatge per a persones físiques i entitats sense activitat econòmica que en siguin propietàries.",
+    "es": "El Ajuntamiento de la Garriga financia gastos de conservación y suministros de la vivienda para personas físicas y entidades sin actividad económica que sean propietarias de la misma.",
+    "en": "The Ajuntament de la Garriga funds housing maintenance and supply costs for individuals and entities without economic activity who own their homes."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "98e0c3e683f66a4b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria finança els programes d'esport escolar que desenvolupen els consells esportius de Catalunya durant dos cursos escolars seguidos. S'adreça a entitats sense activitat econòmica, com ara federacions i associacions esportives, que vulguin rebre subvencions pluriennals per desenvolupar aquestes activitats als centres educatius.",
+  "paragrafs": {
+    "ca": "El Consell Català de l'Esport finança els programes d'esport escolar de la Generalitat de Catalunya durant els cursos 2025-2026 i 2026-2027. S'adreça a entitats sense activitat econòmica.",
+    "es": "El Consejo Catalán del Deporte financia los programas de deporte escolar de la Generalitat de Catalunya para los cursos 2025-2026 y 2026-2027. Va dirigido a entidades sin actividad económica.",
+    "en": "The Consell Català de l'Esport funds school sports programmes of the Generalitat de Catalunya for the academic years 2025-2026 and 2026-2027. It is aimed at non-profit entities."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "6852675dbc9269e1",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta subvenció de l'Ajuntament de Cantallops finança despeses de transport adaptat per a persones físiques que no desenvolupen cap activitat econòmica. S'adreça a residents del municipi que necessitin aquesta modalitat de transport per als seus desplaçaments. La convocatòria es regeix per la normativa general de subvencions municipal.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Cantallops subvenciona el transport adaptat per a persones físiques sense activitat econòmica durante 2026.",
+    "es": "El Ayuntamiento de Cantallops financia el transporte adaptado para personas físicas sin actividad económica durante 2026.",
+    "en": "Cantallops municipality provides subsidies for adapted transport for individuals without economic activity in 2026."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "8820676ea2e7210b",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

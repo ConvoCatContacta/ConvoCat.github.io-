@@ -1,6 +1,10 @@
 {
-  "paragraf": "L'Ajuntament de Castellbisbal convoca premis per als millors expedients acadèmics en batxillerat i cicles formatius de grau mitjà i superior de l'any 2026. S'adreça a estudiants que hayan completat aquests estudis. Els premis reconeixen l'excel·lència acadèmica durant aquests cicles formatius.",
+  "paragrafs": {
+    "ca": "L'Ajuntament de Castellbisbal convoca premis per als millors expedients de batxillerat i cicles formatius de grau mitjà i superior de 2026. S'adreça a persones físiques sense activitat econòmica.",
+    "es": "El Ajuntamiento de Castellbisbal convoca premios para los mejores expedientes de bachillerato y ciclos formativos de grado medio y superior de 2026. Se dirige a personas físicas sin actividad económica.",
+    "en": "Castellbisbal Town Council is awarding prizes for the best academic records in secondary education and vocational training courses of medium and higher level in 2026. It is aimed at individuals without economic activity."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "39eda4768fda60f7",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }

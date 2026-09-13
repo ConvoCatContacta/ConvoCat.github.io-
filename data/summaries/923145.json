@@ -1,6 +1,10 @@
 {
-  "paragraf": "Aquesta convocatòria de la Diputació de Tarragona finança activitats que desenvolupin la ciència i la tecnologia. S'adreça a petites i mitjanes empreses i a treballadors autònoms de la demarcació. Els ajuts es regeixen per les normes generals que aplica la Diputació per a les seves subvencions i els organismes que en depenen.",
+  "paragrafs": {
+    "ca": "La Diputació de Tarragona finança activitats científiques i tecnològiques. S'adreça a pimes i autònoms.",
+    "es": "La Diputación de Tarragona financia actividades científicas y tecnológicas. Va dirigida a pymes y autónomos.",
+    "en": "The Diputació de Tarragona funds scientific and technological activities. It is aimed at SMEs and self-employed workers."
+  },
   "model": "claude-haiku-4-5",
   "hash_font": "7a0440a0f17c5570",
-  "generat": "2026-09-12"
+  "generat": "2026-09-13"
 }
